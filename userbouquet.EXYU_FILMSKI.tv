@@ -1,0 +1,139 @@
+#NAME EXYU FILMSKI
+#SERVICE 4097:0:1:9DE:578:578:BE2:0:0:0:http%3a//9sp0ho7o7.11121367.xyz%3a8080/KAyD4bUjG8/2NMl3L9k3M/3042?play_token=HmtylS33XO&mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=3042&chCm=http%3a//localhost/ch/3042_&end=:HR: KLASIK TV
+#DESCRIPTION HR: KLASIK TV
+#SERVICE 4097:0:1:9DE:579:579:4FB5A:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=326490&chCm=http%3a//localhost/ch/326490_&end=:HR: KLASIK TV (B)
+#DESCRIPTION HR: KLASIK TV (B)
+#SERVICE 4097:0:1:9DE:592:592:52C51:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=339025&chCm=http%3a//localhost/ch/339025_&end=:HR: AMC
+#DESCRIPTION HR: AMC
+#SERVICE 4097:0:1:9DE:5A9:5A9:52C50:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=339024&chCm=http%3a//localhost/ch/339024_&end=:HR: AXN ADRIA
+#DESCRIPTION HR: AXN ADRIA
+#SERVICE 4097:0:1:9DE:5AA:5AA:52C4E:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=339022&chCm=http%3a//localhost/ch/339022_&end=:HR: AXN SPIN
+#DESCRIPTION HR: AXN SPIN
+#SERVICE 4097:0:1:9DE:5AB:5AB:BE0:0:0:0:http%3a//olko22lmp.11121367.xyz%3a8080/KAyD4bUjG8/pY5quDraWQ/3040?play_token=5Yk1a65w0W&mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=3040&chCm=http%3a//localhost/ch/3040_&end=:HR: HBO HD
+#DESCRIPTION HR: HBO HD
+#SERVICE 4097:0:1:9DE:5AC:5AC:4FD10:0:0:0:http%3a//9sp0ho7o7.11121367.xyz%3a8080/KAyD4bUjG8/2NMl3L9k3M/326928?play_token=VlozkmR8Sm&mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=326928&chCm=http%3a//localhost/ch/326928_&end=:HR: HBO 2 HD
+#DESCRIPTION HR: HBO 2 HD
+#SERVICE 4097:0:1:9DE:5AD:5AD:2B1BC:0:0:0:http%3a//9sp0ho7o7.11121367.xyz%3a8080/KAyD4bUjG8/2NMl3L9k3M/176572?play_token=Nky1kmMoRQ&mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=176572&chCm=http%3a//localhost/ch/176572_&end=:HR: HBO 3 HD
+#DESCRIPTION HR: HBO 3 HD
+#SERVICE 4097:0:1:9DE:5AE:5AE:4FD04:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=326916&chCm=http%3a//localhost/ch/326916_&end=:HR: FOX CRIME
+#DESCRIPTION HR: FOX CRIME
+#SERVICE 4097:0:1:9DE:5AF:5AF:4FD03:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=326915&chCm=http%3a//localhost/ch/326915_&end=:HR: FOX LIFE
+#DESCRIPTION HR: FOX LIFE
+#SERVICE 4097:0:1:9DE:5B0:5B0:4FD02:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=326914&chCm=http%3a//localhost/ch/326914_&end=:HR: FOX MOVIES
+#DESCRIPTION HR: FOX MOVIES
+#SERVICE 4097:0:1:9DE:5B1:5B1:43620:0:0:0:http%3a//9sp0ho7o7.11121367.xyz%3a8080/KAyD4bUjG8/2NMl3L9k3M/276000?play_token=ISQtDsWodI&mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=276000&chCm=http%3a//localhost/ch/276000_&end=:HR: TV 1000
+#DESCRIPTION HR: TV 1000
+#SERVICE 4097:0:1:9DE:5B2:5B2:66DB0:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=421296&chCm=http%3a//localhost/ch/421296_&end=:HR: NOVA FAMILY
+#DESCRIPTION HR: NOVA FAMILY
+#SERVICE 4097:0:1:9DE:5B3:5B3:67FD5:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=425941&chCm=http%3a//localhost/ch/425941_&end=:HR: NOVA CINEMA
+#DESCRIPTION HR: NOVA CINEMA
+#SERVICE 4097:0:1:9DE:5B5:5B5:67FD3:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=425939&chCm=http%3a//localhost/ch/425939_&end=:HR: FILM KLUB EXTRA
+#DESCRIPTION HR: FILM KLUB EXTRA
+#SERVICE 4097:0:1:9DE:5B6:5B6:67FD2:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=425938&chCm=http%3a//localhost/ch/425938_&end=:HR: EPIC DRAMA
+#DESCRIPTION HR: EPIC DRAMA
+#SERVICE 4097:0:1:9DE:5B7:5B7:4FD18:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=326936&chCm=http%3a//localhost/ch/326936_&end=:HR: CINEMAX
+#DESCRIPTION HR: CINEMAX
+#SERVICE 4097:0:1:9DE:5B8:5B8:4FD17:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=326935&chCm=http%3a//localhost/ch/326935_&end=:HR: CINEMAX 2
+#DESCRIPTION HR: CINEMAX 2
+#SERVICE 4097:0:1:9DE:5B9:5B9:4FD14:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=326932&chCm=http%3a//localhost/ch/326932_&end=:HR: CINESTAR TV
+#DESCRIPTION HR: CINESTAR TV
+#SERVICE 4097:0:1:9DE:5BA:5BA:4FD13:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=326931&chCm=http%3a//localhost/ch/326931_&end=:HR: CINESTAR TV ACTION
+#DESCRIPTION HR: CINESTAR TV ACTION
+#SERVICE 4097:0:1:9DE:5BB:5BB:4FD16:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=326934&chCm=http%3a//localhost/ch/326934_&end=:HR: CINESTAR PREMIERE 1
+#DESCRIPTION HR: CINESTAR PREMIERE 1
+#SERVICE 4097:0:1:9DE:5BC:5BC:4FD15:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=326933&chCm=http%3a//localhost/ch/326933_&end=:HR: CINESTAR PREMIERE 2
+#DESCRIPTION HR: CINESTAR PREMIERE 2
+#SERVICE 4097:0:1:9DE:5BD:5BD:4FD12:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=326930&chCm=http%3a//localhost/ch/326930_&end=:HR: CINESTAR PREMIERE 1 HD
+#DESCRIPTION HR: CINESTAR PREMIERE 1 HD
+#SERVICE 4097:0:1:9DE:5BE:5BE:46D25:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=290085&chCm=http%3a//localhost/ch/290085_&end=:HR: CROMAX SELECT 2 HD
+#DESCRIPTION HR: CROMAX SELECT 2 HD
+#SERVICE 4097:0:1:9DE:5BF:5BF:6442B:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=410667&chCm=http%3a//localhost/ch/410667_&end=:HR: CROMAX SELECT 8 HD
+#DESCRIPTION HR: CROMAX SELECT 8 HD
+#SERVICE 4097:0:1:9DE:5C0:5C0:52C5D:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=339037&chCm=http%3a//localhost/ch/339037_&end=:HR: CINESTAR FANTASY
+#DESCRIPTION HR: CINESTAR FANTASY
+#SERVICE 4097:0:1:9DE:608:608:496CC:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=300748&chCm=http%3a//localhost/ch/300748_&end=:RS: AMC HD
+#DESCRIPTION RS: AMC HD
+#SERVICE 4097:0:1:9DE:635:635:4E8B6:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=321718&chCm=http%3a//localhost/ch/321718_&end=:RS: KLASIK TV
+#DESCRIPTION RS: KLASIK TV
+#SERVICE 4097:0:1:9DE:638:638:48EAF:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=298671&chCm=http%3a//localhost/ch/298671_&end=:RS: SUPER STAR TV
+#DESCRIPTION RS: SUPER STAR TV
+#SERVICE 4097:0:1:9DE:639:639:65B7B:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=416635&chCm=http%3a//localhost/ch/416635_&end=:RS: SUPER STAR 2 TV
+#DESCRIPTION RS: SUPER STAR 2 TV
+#SERVICE 4097:0:1:9DE:64F:64F:2AFC4:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=176068&chCm=http%3a//localhost/ch/176068_&end=:RS: TV1000
+#DESCRIPTION RS: TV1000
+#SERVICE 4097:0:1:9DE:650:650:2AFCA:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=176074&chCm=http%3a//localhost/ch/176074_&end=:RS: HBO ADRIA HD
+#DESCRIPTION RS: HBO ADRIA HD
+#SERVICE 4097:0:1:9DE:651:651:5C395:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=377749&chCm=http%3a//localhost/ch/377749_&end=:RS: HBO 1 HD
+#DESCRIPTION RS: HBO 1 HD
+#SERVICE 4097:0:1:9DE:652:652:2AFCB:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=176075&chCm=http%3a//localhost/ch/176075_&end=:RS: HBO 2 HD
+#DESCRIPTION RS: HBO 2 HD
+#SERVICE 4097:0:1:9DE:653:653:4E8C2:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=321730&chCm=http%3a//localhost/ch/321730_&end=:RS: HBO 3 HD
+#DESCRIPTION RS: HBO 3 HD
+#SERVICE 4097:0:1:9DE:654:654:4E8B7:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=321719&chCm=http%3a//localhost/ch/321719_&end=:RS: CINEMANIA
+#DESCRIPTION RS: CINEMANIA
+#SERVICE 4097:0:1:9DE:655:655:BB3:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=2995&chCm=http%3a//localhost/ch/2995_&end=:RS: CINEMAX 1
+#DESCRIPTION RS: CINEMAX 1
+#SERVICE 4097:0:1:9DE:656:656:BB4:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=2996&chCm=http%3a//localhost/ch/2996_&end=:RS: CINEMAX 2
+#DESCRIPTION RS: CINEMAX 2
+#SERVICE 4097:0:1:9DE:657:657:4E8B1:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=321713&chCm=http%3a//localhost/ch/321713_&end=:RS: CINESTAR HD
+#DESCRIPTION RS: CINESTAR HD
+#SERVICE 4097:0:1:9DE:658:658:4E8BE:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=321726&chCm=http%3a//localhost/ch/321726_&end=:RS: CINESTAR 2 HD
+#DESCRIPTION RS: CINESTAR 2 HD
+#SERVICE 4097:0:1:9DE:659:659:BB7:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=2999&chCm=http%3a//localhost/ch/2999_&end=:RS: CINESTAR TV ACTION
+#DESCRIPTION RS: CINESTAR TV ACTION
+#SERVICE 4097:0:1:9DE:65A:65A:4E8C1:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=321729&chCm=http%3a//localhost/ch/321729_&end=:RS: CINESTAR FANTASY
+#DESCRIPTION RS: CINESTAR FANTASY
+#SERVICE 4097:0:1:9DE:65B:65B:BB5:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=2997&chCm=http%3a//localhost/ch/2997_&end=:RS: CINESTAR TV PREMIERE 1
+#DESCRIPTION RS: CINESTAR TV PREMIERE 1
+#SERVICE 4097:0:1:9DE:65C:65C:4E8C0:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=321728&chCm=http%3a//localhost/ch/321728_&end=:RS: CINESTAR PREMIERE 2
+#DESCRIPTION RS: CINESTAR PREMIERE 2
+#SERVICE 4097:0:1:9DE:65D:65D:63ECF:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=409295&chCm=http%3a//localhost/ch/409295_&end=:RS: EPIC DRAMA HD
+#DESCRIPTION RS: EPIC DRAMA HD
+#SERVICE 4097:0:1:9DE:65F:65F:46D29:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=290089&chCm=http%3a//localhost/ch/290089_&end=:RS: FILM KLUB
+#DESCRIPTION RS: FILM KLUB
+#SERVICE 4097:0:1:9DE:661:661:46D2A:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=290090&chCm=http%3a//localhost/ch/290090_&end=:RS: FILMBOX PREMIUM
+#DESCRIPTION RS: FILMBOX PREMIUM
+#SERVICE 4097:0:1:9DE:662:662:46D2B:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=290091&chCm=http%3a//localhost/ch/290091_&end=:RS: FILMBOXPLUS
+#DESCRIPTION RS: FILMBOXPLUS
+#SERVICE 4097:0:1:9DE:663:663:2AFC9:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=176073&chCm=http%3a//localhost/ch/176073_&end=:RS: FOX CRIME
+#DESCRIPTION RS: FOX CRIME
+#SERVICE 4097:0:1:9DE:664:664:4361F:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=275999&chCm=http%3a//localhost/ch/275999_&end=:RS: FOX HD
+#DESCRIPTION RS: FOX HD
+#SERVICE 4097:0:1:9DE:665:665:2AFC8:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=176072&chCm=http%3a//localhost/ch/176072_&end=:RS: FOX LIFE
+#DESCRIPTION RS: FOX LIFE
+#SERVICE 4097:0:1:9DE:666:666:2AFC7:0:0:0:http%3a//olko22lmp.11121367.xyz%3a8080/KAyD4bUjG8/pY5quDraWQ/176071?play_token=XcoLfB0G8m&mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=176071&chCm=http%3a//localhost/ch/176071_&end=:RS: FOX MOVIES
+#DESCRIPTION RS: FOX MOVIES
+#SERVICE 4097:0:1:9DE:667:667:802C0:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=524992&chCm=http%3a//localhost/ch/524992_&end=:RS: RS: STAR MOVIES
+#DESCRIPTION RS: RS: STAR MOVIES
+#SERVICE 4097:0:1:9DE:668:668:802BF:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=524991&chCm=http%3a//localhost/ch/524991_&end=:RS: STAR LIFE
+#DESCRIPTION RS: STAR LIFE
+#SERVICE 4097:0:1:9DE:669:669:802BD:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=524989&chCm=http%3a//localhost/ch/524989_&end=:RS: STAR CHANNEL
+#DESCRIPTION RS: STAR CHANNEL
+#SERVICE 4097:0:1:9DE:692:692:496DF:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=300767&chCm=http%3a//localhost/ch/300767_&end=:RS: DIVA
+#DESCRIPTION RS: DIVA
+#SERVICE 4097:0:1:9DE:693:693:496CE:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=300750&chCm=http%3a//localhost/ch/300750_&end=:RS: AXN SPIN
+#DESCRIPTION RS: AXN SPIN
+#SERVICE 4097:0:1:9DE:694:694:496CD:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=300749&chCm=http%3a//localhost/ch/300749_&end=:RS: AXN ADRIA
+#DESCRIPTION RS: AXN ADRIA
+#SERVICE 4097:0:1:9DE:6A2:6A2:7F25B:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=520795&chCm=http%3a//localhost/ch/520795_&end=:RS: TIME OUT
+#DESCRIPTION RS: TIME OUT
+#SERVICE 4097:0:1:9DE:6A8:6A8:7F450:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=521296&chCm=http%3a//localhost/ch/521296_&end=:RS: NOVA CINEMA HD
+#DESCRIPTION RS: NOVA CINEMA HD
+#SERVICE 4097:0:1:9DE:6A9:6A9:7F44D:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=521293&chCm=http%3a//localhost/ch/521293_&end=:RS: NOVA PLUS FAMILY HD
+#DESCRIPTION RS: NOVA PLUS FAMILY HD
+#SERVICE 4097:0:1:9DE:6AA:6AA:7F44C:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=521292&chCm=http%3a//localhost/ch/521292_&end=:RS: NOVA PREMIUM TV HD
+#DESCRIPTION RS: NOVA PREMIUM TV HD
+#SERVICE 4097:0:1:9DE:6B0:6B0:7F444:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=521284&chCm=http%3a//localhost/ch/521284_&end=:RS: HBO MAX HD
+#DESCRIPTION RS: HBO MAX HD
+#SERVICE 4097:0:1:9DE:6FA:6FA:802E1:0:0:0:http%3a//olko22lmp.11121367.xyz%3a8080/KAyD4bUjG8/pY5quDraWQ/525025?play_token=oBVjo8OKkj&mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=525025&chCm=http%3a//localhost/ch/525025_&end=:RS: MAXCRO SELECT 1 HD
+#DESCRIPTION RS: MAXCRO SELECT 1 HD
+#SERVICE 4097:0:1:9DE:6FB:6FB:802E0:0:0:0:http%3a//olko22lmp.11121367.xyz%3a8080/KAyD4bUjG8/pY5quDraWQ/525024?play_token=CzfMCnZTdg&mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=525024&chCm=http%3a//localhost/ch/525024_&end=:RS: MAXCRO SELECT 2 HD
+#DESCRIPTION RS: MAXCRO SELECT 2 HD
+#SERVICE 4097:0:1:9DE:6FC:6FC:802DF:0:0:0:http%3a//olko22lmp.11121367.xyz%3a8080/KAyD4bUjG8/pY5quDraWQ/525023?play_token=pHZHgBXPAc&mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=525023&chCm=http%3a//localhost/ch/525023_&end=:RS: MAXCRO SELECT 3 HD
+#DESCRIPTION RS: MAXCRO SELECT 3 HD
+#SERVICE 4097:0:1:9DE:6FD:6FD:802DE:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=525022&chCm=http%3a//localhost/ch/525022_&end=:RS: MAXCRO SELECT 4 HD
+#DESCRIPTION RS: MAXCRO SELECT 4 HD
+#SERVICE 4097:0:1:9DE:6FE:6FE:802DD:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=525021&chCm=http%3a//localhost/ch/525021_&end=:RS: MAXCRO SELECT 5 HD
+#DESCRIPTION RS: MAXCRO SELECT 5 HD
+#SERVICE 4097:0:1:9DE:6FF:6FF:802DC:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=2526&sId=525020&chCm=http%3a//localhost/ch/525020_&end=:RS: MAXCRO SELECT 6 HD
+#DESCRIPTION RS: MAXCRO SELECT 6 HD
