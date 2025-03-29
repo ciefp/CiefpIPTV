@@ -1,0 +1,1005 @@
+#NAME IPTV Mix Bouquet exyu4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1310
+#DESCRIPTION RTS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4591
+#DESCRIPTION RTS 1 Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1309
+#DESCRIPTION RTS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4592
+#DESCRIPTION RTS 2 Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1308
+#DESCRIPTION RTS 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6078
+#DESCRIPTION RTS DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4608
+#DESCRIPTION RTS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6183
+#DESCRIPTION RTS KOLO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34150
+#DESCRIPTION RTS MUZIKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34164
+#DESCRIPTION RTS POLETARAC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5813
+#DESCRIPTION RTS SVET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5814
+#DESCRIPTION RTS TREZOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5815
+#DESCRIPTION RTS ZIVOT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1312
+#DESCRIPTION Nova S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15017
+#DESCRIPTION Nova S Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6410
+#DESCRIPTION SuperStar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/114361
+#DESCRIPTION Superstar TV backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/56669
+#DESCRIPTION SuperStar TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1307
+#DESCRIPTION RTV Vojvodina1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13659
+#DESCRIPTION RTV Vojvodina 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1306
+#DESCRIPTION B92
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1305
+#DESCRIPTION Studio B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1303
+#DESCRIPTION Prva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4593
+#DESCRIPTION Prva Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5696
+#DESCRIPTION Prva Files
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4556
+#DESCRIPTION Prva Kick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34190
+#DESCRIPTION Prva life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1300
+#DESCRIPTION Prva Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1302
+#DESCRIPTION Prva Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1301
+#DESCRIPTION Prva World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1299
+#DESCRIPTION Happy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4594
+#DESCRIPTION Happy TV Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1298
+#DESCRIPTION Happy Parovi uzivo 24h
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/56673
+#DESCRIPTION Blic TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/33008
+#DESCRIPTION Kurir TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4539
+#DESCRIPTION N1 Sr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15018
+#DESCRIPTION N1 Sr Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5812
+#DESCRIPTION Zadruga Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6174
+#DESCRIPTION Zadruga Live 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6171
+#DESCRIPTION Zadruga Live 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6172
+#DESCRIPTION Zadruga Live 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6173
+#DESCRIPTION Zadruga Live 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1292
+#DESCRIPTION KCN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1291
+#DESCRIPTION KCN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1290
+#DESCRIPTION KCN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/78098
+#DESCRIPTION TV ISTOK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/78099
+#DESCRIPTION TV ISTOK 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13825
+#DESCRIPTION Palma Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53657
+#DESCRIPTION TV Hram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1297
+#DESCRIPTION RTV Novi Pazar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/50709
+#DESCRIPTION Belle Amie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6875
+#DESCRIPTION TV Bor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/33023
+#DESCRIPTION Agro TV (TEST)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/2456
+#DESCRIPTION Sandzak TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4578
+#DESCRIPTION HRT 1 Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1261
+#DESCRIPTION HRT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1260
+#DESCRIPTION HRT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4579
+#DESCRIPTION HRT 2 Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1259
+#DESCRIPTION HRT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5724
+#DESCRIPTION HRT 3 Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1258
+#DESCRIPTION HRT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5725
+#DESCRIPTION HRT 4 Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1257
+#DESCRIPTION HRT Int.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1256
+#DESCRIPTION Nova Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4580
+#DESCRIPTION Nova Tv Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4865
+#DESCRIPTION Nova Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/33006
+#DESCRIPTION Nova Family ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1255
+#DESCRIPTION Doma Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4584
+#DESCRIPTION Doma Tv Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4866
+#DESCRIPTION Doma Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4581
+#DESCRIPTION RTL HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53655
+#DESCRIPTION RTL Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1252
+#DESCRIPTION RTL 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4585
+#DESCRIPTION RTL 2 Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/7679
+#DESCRIPTION RTL Adria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1251
+#DESCRIPTION RTL Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/33016
+#DESCRIPTION RTL Croatia World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1250
+#DESCRIPTION RTL Living
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1249
+#DESCRIPTION RTL Passion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4538
+#DESCRIPTION N1 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1245
+#DESCRIPTION Z1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3635
+#DESCRIPTION Laudato TV (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1248
+#DESCRIPTION Osjecka TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1247
+#DESCRIPTION Slavonska TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1246
+#DESCRIPTION Vinkovacka TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6868
+#DESCRIPTION Tv Jadran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6870
+#DESCRIPTION Poljoprivredna TV (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6873
+#DESCRIPTION Jabuka TV (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34159
+#DESCRIPTION Trend TV (TEST)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34160
+#DESCRIPTION Zdrava TV (TEST)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34161
+#DESCRIPTION VTV Varazdin (TEST)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1244
+#DESCRIPTION Banovina TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6872
+#DESCRIPTION Libertas TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1339
+#DESCRIPTION BHT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4586
+#DESCRIPTION BHT 1 Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4816
+#DESCRIPTION BHT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1338
+#DESCRIPTION Federalna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4587
+#DESCRIPTION Federalna TV Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5726
+#DESCRIPTION RTV HB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1362
+#DESCRIPTION Nova BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5636
+#DESCRIPTION Nova Bh Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1337
+#DESCRIPTION TV Sarajevo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1318
+#DESCRIPTION Alfa TV Sarajevo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1336
+#DESCRIPTION Al Jazeera Balkans
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1335
+#DESCRIPTION ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1334
+#DESCRIPTION Face TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4588
+#DESCRIPTION Face TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1333
+#DESCRIPTION TK Tuzla
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4589
+#DESCRIPTION Hayat FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1332
+#DESCRIPTION Hayat TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1331
+#DESCRIPTION Hayat Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1330
+#DESCRIPTION N1 BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1329
+#DESCRIPTION OBN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4590
+#DESCRIPTION OBN Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1328
+#DESCRIPTION Valentino TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1327
+#DESCRIPTION MTV Igman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34152
+#DESCRIPTION Elta TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1326
+#DESCRIPTION BN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34148
+#DESCRIPTION BN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1325
+#DESCRIPTION RTV Zenica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1324
+#DESCRIPTION Posavina Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1323
+#DESCRIPTION Duga Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1322
+#DESCRIPTION O kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1320
+#DESCRIPTION RTV USK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13691
+#DESCRIPTION RTV Cazin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1316
+#DESCRIPTION Glas Drine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1317
+#DESCRIPTION RTRS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5446
+#DESCRIPTION RTRS PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/50712
+#DESCRIPTION Tatabrada TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/50711
+#DESCRIPTION Neon Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4720
+#DESCRIPTION TV KAKANJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6877
+#DESCRIPTION City TV (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6880
+#DESCRIPTION Hema TV (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6878
+#DESCRIPTION K3 Prnjavor (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/118712
+#DESCRIPTION Super TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15027
+#DESCRIPTION Moja TV Premier liga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34306
+#DESCRIPTION RTV Bugojno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6411
+#DESCRIPTION RTV Podrinje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3244
+#DESCRIPTION Televizija 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4831
+#DESCRIPTION RTCG 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4535
+#DESCRIPTION RTCG 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1296
+#DESCRIPTION RTCG Sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1288
+#DESCRIPTION TV Vijesti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1358
+#DESCRIPTION Nova M CG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/7334
+#DESCRIPTION PRVA CG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/7336
+#DESCRIPTION Pink M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1272
+#DESCRIPTION SLO 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1271
+#DESCRIPTION SLO 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3660
+#DESCRIPTION SLO 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1270
+#DESCRIPTION POP TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3643
+#DESCRIPTION POP Brio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1269
+#DESCRIPTION POP Kino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3642
+#DESCRIPTION POP Oto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3719
+#DESCRIPTION Planet TV SLO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/14310
+#DESCRIPTION Planet Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/14517
+#DESCRIPTION Slovenija | HBO 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1286
+#DESCRIPTION MRT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1285
+#DESCRIPTION MRT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1284
+#DESCRIPTION MRT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1282
+#DESCRIPTION Sitel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1283
+#DESCRIPTION Kanal 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13803
+#DESCRIPTION HBO (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13804
+#DESCRIPTION HBO 2 (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1280
+#DESCRIPTION Telma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1279
+#DESCRIPTION Alsat M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1278
+#DESCRIPTION Alfa TV MK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1277
+#DESCRIPTION 24 Vesti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1276
+#DESCRIPTION B1 Sutel TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53665
+#DESCRIPTION SKY folk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5305
+#DESCRIPTION Pink Media BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1363
+#DESCRIPTION Pink
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4595
+#DESCRIPTION Pink Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1360
+#DESCRIPTION RED TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/118710
+#DESCRIPTION Narodna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1359
+#DESCRIPTION Vesti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1361
+#DESCRIPTION Pink Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1356
+#DESCRIPTION Pink Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1344
+#DESCRIPTION Pink Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1353
+#DESCRIPTION Pink Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1350
+#DESCRIPTION Pink Crime & Mystery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1355
+#DESCRIPTION Pink Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6934
+#DESCRIPTION Pink Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6933
+#DESCRIPTION Pink Fashion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1352
+#DESCRIPTION Pink Horror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1351
+#DESCRIPTION Pink Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1354
+#DESCRIPTION Pink Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1342
+#DESCRIPTION Pink Romance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1341
+#DESCRIPTION Pink Reality
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1347
+#DESCRIPTION Pink Sci Fi & Fantasy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1345
+#DESCRIPTION Pink Serije
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6930
+#DESCRIPTION Pink Show
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1357
+#DESCRIPTION Pink Soap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1346
+#DESCRIPTION Pink Thriller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1348
+#DESCRIPTION Pink Western
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1349
+#DESCRIPTION Pink World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5386
+#DESCRIPTION Pink World Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1397
+#DESCRIPTION Pink Pedia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1343
+#DESCRIPTION Pink Zabava
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3652
+#DESCRIPTION Pink Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6932
+#DESCRIPTION Pink Style
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3654
+#DESCRIPTION Pink HAHA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3653
+#DESCRIPTION Pink LOL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1385
+#DESCRIPTION HBO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1384
+#DESCRIPTION HBO 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1383
+#DESCRIPTION HBO 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5387
+#DESCRIPTION DIVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1382
+#DESCRIPTION CineStar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1381
+#DESCRIPTION CineStar Premiere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1380
+#DESCRIPTION CineStar Premiere 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1379
+#DESCRIPTION CineStar Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1378
+#DESCRIPTION Cinestar Fantasy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53582
+#DESCRIPTION Cinestar Tv Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1377
+#DESCRIPTION Cinemax 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1376
+#DESCRIPTION Cinemax 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5214
+#DESCRIPTION Cinemania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1375
+#DESCRIPTION M1 Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34166
+#DESCRIPTION M1 Gold (TEST)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34183
+#DESCRIPTION M1 Family (TEST)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1374
+#DESCRIPTION Kino TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1371
+#DESCRIPTION Klasik TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6928
+#DESCRIPTION Epic Drama (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6929
+#DESCRIPTION Pickbox Tv (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1373
+#DESCRIPTION FilmBox Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34134
+#DESCRIPTION Filmbox stars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3655
+#DESCRIPTION Film Klub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1369
+#DESCRIPTION AXN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5445
+#DESCRIPTION AXN Spin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4827
+#DESCRIPTION AMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15789
+#DESCRIPTION MAXCRO SELECT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15790
+#DESCRIPTION MAXCRO SELECT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15791
+#DESCRIPTION MAXCRO SELECT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15792
+#DESCRIPTION MAXCRO SELECT 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15793
+#DESCRIPTION MAXCRO SELECT 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15794
+#DESCRIPTION MAXCRO SELECT 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1368
+#DESCRIPTION Star
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1365
+#DESCRIPTION Star Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1366
+#DESCRIPTION Star Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1367
+#DESCRIPTION Star Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1370
+#DESCRIPTION TV 1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1340
+#DESCRIPTION Pink Kuvar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1404
+#DESCRIPTION National Geographic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1395
+#DESCRIPTION NatGeo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1403
+#DESCRIPTION Discovery Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34142
+#DESCRIPTION DTX (TEST)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1402
+#DESCRIPTION History Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1401
+#DESCRIPTION History Channel 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1400
+#DESCRIPTION Viasat Explore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1396
+#DESCRIPTION Viasat Nature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1399
+#DESCRIPTION Viasat History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1394
+#DESCRIPTION Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1386
+#DESCRIPTION Lov i Ribolov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34139
+#DESCRIPTION Balkan trip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1398
+#DESCRIPTION Travel Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3639
+#DESCRIPTION BBC Earth (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1393
+#DESCRIPTION Crime Investigation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1392
+#DESCRIPTION Investigation Discovery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1391
+#DESCRIPTION ID Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6915
+#DESCRIPTION Food network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4540
+#DESCRIPTION DocuBox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5599
+#DESCRIPTION Doku TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1388
+#DESCRIPTION Comedy Central Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1390
+#DESCRIPTION E!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1389
+#DESCRIPTION TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34176
+#DESCRIPTION Discovery Science
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34151
+#DESCRIPTION HGTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34138
+#DESCRIPTION CBS Reality (TEST)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34141
+#DESCRIPTION Da Vinci Learning
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1387
+#DESCRIPTION 24 Kitchen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1428
+#DESCRIPTION MTV Adria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1422
+#DESCRIPTION MTV Base
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1425
+#DESCRIPTION MTV Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1426
+#DESCRIPTION MTV Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1427
+#DESCRIPTION MTV Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1424
+#DESCRIPTION MTV Rocks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1421
+#DESCRIPTION VH1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34153
+#DESCRIPTION OTV etno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1409
+#DESCRIPTION Pink Folk 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1408
+#DESCRIPTION Pink Folk 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6935
+#DESCRIPTION Pink Hits 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6936
+#DESCRIPTION Pink Hits 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4830
+#DESCRIPTION Pink Koncert
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1410
+#DESCRIPTION Pink Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13924
+#DESCRIPTION Pink Music 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1411
+#DESCRIPTION Pink n Roll
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1420
+#DESCRIPTION CMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15737
+#DESCRIPTION DMC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1413
+#DESCRIPTION Hayat Folk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1414
+#DESCRIPTION Hayat Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1417
+#DESCRIPTION G Narodna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1416
+#DESCRIPTION G2 Narodna Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1418
+#DESCRIPTION BN Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1415
+#DESCRIPTION DM Sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/2536
+#DESCRIPTION IDJ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34181
+#DESCRIPTION Imperia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34182
+#DESCRIPTION BMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/33010
+#DESCRIPTION Toxic TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1405
+#DESCRIPTION Sevdah TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1407
+#DESCRIPTION Balkanika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53666
+#DESCRIPTION City RTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1406
+#DESCRIPTION Izvorna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1419
+#DESCRIPTION Jugoton TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5434
+#DESCRIPTION TV Sehara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1445
+#DESCRIPTION RTL Kockica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1444
+#DESCRIPTION Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1443
+#DESCRIPTION Nick Jr Hr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15038
+#DESCRIPTION Nick Jr Sr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1441
+#DESCRIPTION Minimax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1442
+#DESCRIPTION Mini Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1440
+#DESCRIPTION Hayatovci
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1439
+#DESCRIPTION Pink Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1438
+#DESCRIPTION Pink Super Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5212
+#DESCRIPTION Pikaboo Hr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1436
+#DESCRIPTION Disney Channel UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6922
+#DESCRIPTION Tom and Jerry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1435
+#DESCRIPTION Disney Junior UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1433
+#DESCRIPTION Cartoon Network UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13839
+#DESCRIPTION Boomerang (DE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13840
+#DESCRIPTION CARTOON NETWORK (DE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4841
+#DESCRIPTION Disney Channel De
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6925
+#DESCRIPTION Disney Cinemagic DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6923
+#DESCRIPTION Disney Junior DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6924
+#DESCRIPTION Disney XD DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1432
+#DESCRIPTION Kika DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1430
+#DESCRIPTION Nickelodeon DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34187
+#DESCRIPTION NickToons DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6927
+#DESCRIPTION Tnt Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1429
+#DESCRIPTION Baby TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4731
+#DESCRIPTION SK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5774
+#DESCRIPTION SK 1 HR FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1529
+#DESCRIPTION SK 1  ( HR )
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5775
+#DESCRIPTION SK 2 HR FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1528
+#DESCRIPTION SK 2 ( HR )
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5776
+#DESCRIPTION SK 3 HR FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1527
+#DESCRIPTION SK 3 ( HR )
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13812
+#DESCRIPTION SK 4 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13813
+#DESCRIPTION SK 5 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13814
+#DESCRIPTION SK 6 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13815
+#DESCRIPTION SK 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13817
+#DESCRIPTION SK 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13818
+#DESCRIPTION SK 9 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1526
+#DESCRIPTION SK 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1525
+#DESCRIPTION SK 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1524
+#DESCRIPTION SK 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1523
+#DESCRIPTION SK 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1522
+#DESCRIPTION SK 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1521
+#DESCRIPTION SK 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13823
+#DESCRIPTION SK Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53547
+#DESCRIPTION MAX Sport 1 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53550
+#DESCRIPTION MAX SPORT 1  Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53548
+#DESCRIPTION MAX Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53551
+#DESCRIPTION MAX SPORT 2 Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53701
+#DESCRIPTION Arena E Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34155
+#DESCRIPTION Arena Fight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/54037
+#DESCRIPTION Arena Sport 1x2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1520
+#DESCRIPTION Arena Sport 1 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1519
+#DESCRIPTION Arena Sport 2 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1518
+#DESCRIPTION Arena Sport 3 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1517
+#DESCRIPTION Arena Sport 4 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1516
+#DESCRIPTION Arena Sport 5 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1510
+#DESCRIPTION Arena Sport 6 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15733
+#DESCRIPTION Arena Sport 7 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15734
+#DESCRIPTION Arena Sport 8 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15735
+#DESCRIPTION Arena Sport 9 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/15736
+#DESCRIPTION Arena Sport 10 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/7688
+#DESCRIPTION Arena sport 1 BiH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/114431
+#DESCRIPTION Arena Sport 2 BiH (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/114432
+#DESCRIPTION Arena Sport 3 BiH (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/114433
+#DESCRIPTION Arena Sport Premium 1 BiH (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/114434
+#DESCRIPTION Arena Sport Premium 2 BiH (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/114435
+#DESCRIPTION Arena Sport Premium 3 BiH (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34303
+#DESCRIPTION Arena Sport Premium 1 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34304
+#DESCRIPTION Arena Sport Premium 2 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34305
+#DESCRIPTION Arena Sport Premium 3 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1515
+#DESCRIPTION Arena Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1514
+#DESCRIPTION Arena Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1513
+#DESCRIPTION Arena Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1512
+#DESCRIPTION Arena Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1511
+#DESCRIPTION Arena Sport 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/56670
+#DESCRIPTION Arena Sport 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/56671
+#DESCRIPTION Arena Sport 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/56672
+#DESCRIPTION Arena Sport 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/118586
+#DESCRIPTION Arena Sport 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/118585
+#DESCRIPTION Arena Sport 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34147
+#DESCRIPTION Nova TV sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6080
+#DESCRIPTION Zvezda TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6937
+#DESCRIPTION SOS Sr (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1508
+#DESCRIPTION Eurosport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1507
+#DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13847
+#DESCRIPTION Eurosport 1 HD (UK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5302
+#DESCRIPTION EUROSPORT 1 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5301
+#DESCRIPTION EUROSPORT 2 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13687
+#DESCRIPTION Eurosport 1 NL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1506
+#DESCRIPTION Eurosport 1 DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/10175
+#DESCRIPTION Eurosport 1 DE backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5822
+#DESCRIPTION Eurosport 2 DE Hevc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1505
+#DESCRIPTION Eurosport 2 DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/10174
+#DESCRIPTION Eurosport 2 DE backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5210
+#DESCRIPTION DAZN SPORT 1 BAR  DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/10176
+#DESCRIPTION DAZN SPORT 1 BAR DE backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5816
+#DESCRIPTION DAZN Bar 1 HD DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5211
+#DESCRIPTION DAZN SPORT2 BAR DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/10177
+#DESCRIPTION DAZN SPORT 2 BAR DE backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5817
+#DESCRIPTION DAZN Bar 2 HD DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1491
+#DESCRIPTION BSport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1490
+#DESCRIPTION BSport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1489
+#DESCRIPTION BSport 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1488
+#DESCRIPTION BSports ESPN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6170
+#DESCRIPTION BLiga DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1485
+#DESCRIPTION BLiga DE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/10172
+#DESCRIPTION Bliga DE backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1484
+#DESCRIPTION BLiga 2 (Matchday only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1483
+#DESCRIPTION BLiga 3 (Matchday only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1482
+#DESCRIPTION BLiga 4 (Matchday only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1481
+#DESCRIPTION BLiga5 Test (Matchday only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53652
+#DESCRIPTION Skx Sport Premier League
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34185
+#DESCRIPTION Skx Sport F1 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1476
+#DESCRIPTION Skx Sport F1 IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5825
+#DESCRIPTION Skx Sport 1  HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1487
+#DESCRIPTION Skx Sport 1 DE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/10173
+#DESCRIPTION Skx Sport 1 DE backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5826
+#DESCRIPTION Skx Sport 2 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1486
+#DESCRIPTION Skx Sport 2 DE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/10184
+#DESCRIPTION Skx Sport 2 backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/33017
+#DESCRIPTION Skx Sports 3 (Matchday only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/33018
+#DESCRIPTION Skx Sport 4 (Matchday only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/33019
+#DESCRIPTION Skx Sport 5 (Matchday only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/33020
+#DESCRIPTION Skx Sport 6 TEST (Matchday only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/33021
+#DESCRIPTION Skx Sport 7 (Matchday only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1457
+#DESCRIPTION Skx Sport Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53768
+#DESCRIPTION Skx Sport Austria 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53769
+#DESCRIPTION Skx Sport Austria 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53770
+#DESCRIPTION Skx Sport Austria 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4849
+#DESCRIPTION Sport1+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5306
+#DESCRIPTION Sport 1 HD DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1499
+#DESCRIPTION Skx Sport F1 UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1498
+#DESCRIPTION Skx Sport Action HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1497
+#DESCRIPTION Skx Sport Arena HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1493
+#DESCRIPTION Skx Sport Main Event HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1492
+#DESCRIPTION Skx Sport Mix HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4622
+#DESCRIPTION Skx Sport News De
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1495
+#DESCRIPTION Skx Sports Fotball HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1494
+#DESCRIPTION Skx sports Golff HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34188
+#DESCRIPTION SportDigital
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1449
+#DESCRIPTION Auto Motor Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1446
+#DESCRIPTION Barca TV (Spa)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1475
+#DESCRIPTION Bein Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1474
+#DESCRIPTION Bein Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1473
+#DESCRIPTION Bein Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1472
+#DESCRIPTION Bein Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1471
+#DESCRIPTION Bein Sports 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1470
+#DESCRIPTION Bein Sports 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1469
+#DESCRIPTION Bein Sports 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1468
+#DESCRIPTION Bein Sports 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1467
+#DESCRIPTION Bein Sports 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4859
+#DESCRIPTION Bein Sports 1 Fr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4860
+#DESCRIPTION Bein Sports 2 Fr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4861
+#DESCRIPTION Bein Sports 3 Fr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/14080
+#DESCRIPTION Bein Sports 1 HD TR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/14081
+#DESCRIPTION Bein Sports 2 HD TR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/14082
+#DESCRIPTION Bein Sports 3 HD TR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/14083
+#DESCRIPTION Bein Sports 4 HD TR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13685
+#DESCRIPTION Ziggo Sports Docu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6941
+#DESCRIPTION Ziggo Sport Select (Test)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4851
+#DESCRIPTION Eleven Sport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4852
+#DESCRIPTION Eleven Sport 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4853
+#DESCRIPTION Eleven Sport 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4854
+#DESCRIPTION Eleven Sport 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1466
+#DESCRIPTION FOX Sports 1 (Nl)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1465
+#DESCRIPTION FOX Sports 2 (Nl)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1464
+#DESCRIPTION FOX Sports 3 (Nl)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1463
+#DESCRIPTION FOX Sports 4 (Nl)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1462
+#DESCRIPTION Digi Sport 1 (Ro)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1461
+#DESCRIPTION Digi Sport 2 (Ro)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13844
+#DESCRIPTION Digi Sport 3 (Ro)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/13845
+#DESCRIPTION Digi Sport 4 (Ro)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1456
+#DESCRIPTION TSN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1455
+#DESCRIPTION TSN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1454
+#DESCRIPTION TSN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1453
+#DESCRIPTION TSN 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1452
+#DESCRIPTION TSN 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/4814
+#DESCRIPTION NFL Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1451
+#DESCRIPTION NBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53725
+#DESCRIPTION Boxing Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1496
+#DESCRIPTION Cricket HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1448
+#DESCRIPTION Fight Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/53730
+#DESCRIPTION Impact Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34173
+#DESCRIPTION Motorvision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6943
+#DESCRIPTION ORF Sport +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1447
+#DESCRIPTION Real Madrid TV (Spa)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1450
+#DESCRIPTION Sportska TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3691
+#DESCRIPTION RMC Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3692
+#DESCRIPTION RMC Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3693
+#DESCRIPTION RMC Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/3694
+#DESCRIPTION RMC Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1673
+#DESCRIPTION SuperSport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1672
+#DESCRIPTION SuperSport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1671
+#DESCRIPTION SuperSport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/1670
+#DESCRIPTION SuperSport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/14103
+#DESCRIPTION Tring Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/34132
+#DESCRIPTION UFC Fight Pass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/6413
+#DESCRIPTION Viasat Motor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//asterix-iptv.club%3a25461/200NanoCell/aTu96HKB7FJS/5549
+#DESCRIPTION Viasat Sport Premium
