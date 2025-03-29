@@ -1,14 +1,14 @@
 #NAME IPTV Mix Romania
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/37487:⭐⭐⭐ Welcome OpenTv Romania⭐⭐⭐
-#DESCRIPTION ⭐⭐⭐ Welcome OpenTv Romania⭐⭐⭐
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/51856:⭐⭐⭐MIREASA⭐⭐⭐
-#DESCRIPTION ⭐⭐⭐MIREASA⭐⭐⭐
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/51857:⭐⭐⭐Mireasa Plus⭐⭐⭐
-#DESCRIPTION ⭐⭐⭐Mireasa Plus⭐⭐⭐
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/71330:⭐⭐⭐ OpenTV Colinde ⭐⭐⭐
-#DESCRIPTION ⭐⭐⭐ OpenTV Colinde ⭐⭐⭐
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/74436:⭐⭐⭐ OpenTV Filme de Craciun ⭐⭐⭐
-#DESCRIPTION ⭐⭐⭐ OpenTV Filme de Craciun ⭐⭐⭐
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/37487:=== Welcome OpenTv Romania===
+#DESCRIPTION === Welcome OpenTv Romania===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/51856:===MIREASA===
+#DESCRIPTION ===MIREASA===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/51857:===Mireasa Plus===
+#DESCRIPTION ===Mireasa Plus===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/71330:=== OpenTV Colinde ===
+#DESCRIPTION === OpenTV Colinde ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/74436:=== OpenTV Filme de Craciun ===
+#DESCRIPTION === OpenTV Filme de Craciun ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/74507:Nostalgia Tv
 #DESCRIPTION Nostalgia Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/70429:Antena 1 SD
@@ -101,8 +101,8 @@
 #DESCRIPTION Antena Comedy Play
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/54246:Antena Monden
 #DESCRIPTION Antena Monden
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9194:⚡⚡⚡ CANALE STIRI ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE STIRI ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9194:=== CANALE STIRI ===
+#DESCRIPTION === CANALE STIRI ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9130:Digi 24
 #DESCRIPTION Digi 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/8980:Digi 24 HD
@@ -161,8 +161,8 @@
 #DESCRIPTION PrimaNews
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/26657:Metropola Tv
 #DESCRIPTION Metropola Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9195:⚡⚡⚡ CANALE SPORT ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE SPORT ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9195:=== CANALE SPORT ===
+#DESCRIPTION === CANALE SPORT ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/59935:TVR Sport FHD
 #DESCRIPTION TVR Sport FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9096:Digi Sport 1 HD
@@ -251,8 +251,8 @@
 #DESCRIPTION Motor Vision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/37926:Extreme Sports Channel
 #DESCRIPTION Extreme Sports Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9199:⚡⚡⚡ CANALE FILME GENERALE ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE FILME GENERALE ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9199:=== CANALE FILME GENERALE ===
+#DESCRIPTION === CANALE FILME GENERALE ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/70445:Film Mania FHD
 #DESCRIPTION Film Mania FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/70412:SkyShowtime 1 FHD
@@ -371,8 +371,8 @@
 #DESCRIPTION E! Enterteinment
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9016:E! Entertainment FHD
 #DESCRIPTION E! Entertainment FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9200:⚡⚡⚡ CANALE DOCUMENTARE ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE DOCUMENTARE ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9200:=== CANALE DOCUMENTARE ===
+#DESCRIPTION === CANALE DOCUMENTARE ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/70414:Prima Food & Travel FHD
 #DESCRIPTION Prima Food & Travel FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/58648:Prima History
@@ -477,8 +477,8 @@
 #DESCRIPTION Paprika Tv HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9128:Food Network
 #DESCRIPTION Food Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9196:⚡⚡⚡ CANALE OpenTv ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE OpenTv ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9196:=== CANALE OpenTv ===
+#DESCRIPTION === CANALE OpenTv ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/54109:OpenTv Premiere 2023
 #DESCRIPTION OpenTv Premiere 2023
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/58760:OpenTv Premiere New 2024
@@ -537,8 +537,8 @@
 #DESCRIPTION OpenTv Tulsa King Sezon 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/22270:OpenTv 4K
 #DESCRIPTION OpenTv 4K
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/25111:⚡⚡⚡ EXCLUSIVITATE CLIENTI OpenTv ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ EXCLUSIVITATE CLIENTI OpenTv ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/25111:=== EXCLUSIVITATE CLIENTI OpenTv ===
+#DESCRIPTION === EXCLUSIVITATE CLIENTI OpenTv ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/70608:Plex TV Actiune New
 #DESCRIPTION Plex TV Actiune New
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/70606:Plex TV Actiune
@@ -601,8 +601,8 @@
 #DESCRIPTION NickTv Romales
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/30453:NickTv Pescaresti
 #DESCRIPTION NickTv Pescaresti
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/18240:⚡⚡⚡ CANALE COLABORARE AnumeTv ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE AnumeTv ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/18240:=== CANALE COLABORARE AnumeTv ===
+#DESCRIPTION === CANALE COLABORARE AnumeTv ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/37537:AnumeTv Premiere
 #DESCRIPTION AnumeTv Premiere
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/14451:AnumeTv Super Eroi
@@ -629,8 +629,8 @@
 #DESCRIPTION Xtream Romania Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/58668:Xtream Romania Horror
 #DESCRIPTION Xtream Romania Horror
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/25114:⚡⚡⚡ CANALE COLABORARE PatriaTv ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE PatriaTv ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/25114:=== CANALE COLABORARE PatriaTv ===
+#DESCRIPTION === CANALE COLABORARE PatriaTv ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/58504:Patria Tv Colinde
 #DESCRIPTION Patria Tv Colinde
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/19034:PatriaTv 2022
@@ -649,8 +649,8 @@
 #DESCRIPTION PatriaTv 2021
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/19032:PatriaTv Manele
 #DESCRIPTION PatriaTv Manele
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/30392:PatriaTv Cinema HD1
-#DESCRIPTION PatriaTv Cinema HD1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/30392:PatriaTv Cinema HD1
+#DESCRIPTION PatriaTv Cinema HD1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/30393:PatriaTv Ro Hits
 #DESCRIPTION PatriaTv Ro Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/19031:PatriaTv Petrecere
@@ -659,8 +659,8 @@
 #DESCRIPTION PatriaTv Animatie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/30394:PatriaTv Cinemax HD
 #DESCRIPTION PatriaTv Cinemax HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/58763:⚡⚡⚡ CANALE COLABORARE Hnet Studio⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE Hnet Studio⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/58763:=== CANALE COLABORARE Hnet Studio===
+#DESCRIPTION === CANALE COLABORARE Hnet Studio===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/70622:HNet Actiune
 #DESCRIPTION HNet Actiune
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/70623:HNet Comedie
@@ -673,8 +673,8 @@
 #DESCRIPTION HNet SCI-FI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/70627:HNet Trilogy
 #DESCRIPTION HNet Trilogy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/10662:⚡⚡⚡ CANALE COLABORARE LUCTV ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE LUCTV ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/10662:=== CANALE COLABORARE LUCTV ===
+#DESCRIPTION === CANALE COLABORARE LUCTV ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/10644:LucTv Stand Up Comedy
 #DESCRIPTION LucTv Stand Up Comedy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/14525:LucTv 2020
@@ -723,8 +723,8 @@
 #DESCRIPTION LucTv Documentare
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/17914:LucTv Top Hits Romania
 #DESCRIPTION LucTv Top Hits Romania
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/25129:⚡⚡⚡ CANALE COLABORARE ZonaTV ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE ZonaTV ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/25129:=== CANALE COLABORARE ZonaTV ===
+#DESCRIPTION === CANALE COLABORARE ZonaTV ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/25119:ZoNa TV Vin Diesel Pack
 #DESCRIPTION ZoNa TV Vin Diesel Pack
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/25120:ZoNa TV Keanu Reeves
@@ -741,8 +741,8 @@
 #DESCRIPTION ZoNa TV Angelina Jolie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/25128:ZoNa TV Tom Cruise
 #DESCRIPTION ZoNa TV Tom Cruise
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/17932:⚡⚡⚡ CANALE COLABORARE ZokkoTV ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE ZokkoTV ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/17932:=== CANALE COLABORARE ZokkoTV ===
+#DESCRIPTION === CANALE COLABORARE ZokkoTV ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/18253:ZokkoTv 4K
 #DESCRIPTION ZokkoTv 4K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/18254:ZokkoTv Movies 4K
@@ -791,12 +791,12 @@
 #DESCRIPTION ZokkoTv Science Fiction
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/17951:ZokkoTv Thriller Two
 #DESCRIPTION ZokkoTv Thriller Two
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/17954:⚡⚡⚡ CANALE COLABORARE Mega ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE Mega ⚡⚡⚡
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/18997:⚡⚡⚡ CANALE COLABORARE Prime ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE Prime ⚡⚡⚡
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/58725:⚡⚡⚡ CANALE COLABORARE ProXTech ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE ProXTech ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/17954:=== CANALE COLABORARE Mega ===
+#DESCRIPTION === CANALE COLABORARE Mega ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/18997:=== CANALE COLABORARE Prime ===
+#DESCRIPTION === CANALE COLABORARE Prime ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/58725:=== CANALE COLABORARE ProXTech ===
+#DESCRIPTION === CANALE COLABORARE ProXTech ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/58692:PROXTECH  2023 FILM
 #DESCRIPTION PROXTECH  2023 FILM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/58691:PROXTECH TRUE 4K CINEMA
@@ -829,8 +829,8 @@
 #DESCRIPTION PROXTECH - BUGS BANNY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/58720:PROXTECH - MASHA
 #DESCRIPTION PROXTECH - MASHA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9201:⚡⚡⚡ CANALE DESENE ANIMATE ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE DESENE ANIMATE ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9201:=== CANALE DESENE ANIMATE ===
+#DESCRIPTION === CANALE DESENE ANIMATE ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9161:Boomerang
 #DESCRIPTION Boomerang
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/37917:Boomerang HD
@@ -865,8 +865,8 @@
 #DESCRIPTION DuckTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9169:JimJam
 #DESCRIPTION JimJam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9202:⚡⚡⚡ CANALE MUZICA ⚡⚡⚡​
-#DESCRIPTION ⚡⚡⚡ CANALE MUZICA ⚡⚡⚡​
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9202:=== CANALE MUZICA ===
+#DESCRIPTION === CANALE MUZICA ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9139:U TV
 #DESCRIPTION U TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/31414:U TV HD
@@ -963,8 +963,8 @@
 #DESCRIPTION NorocTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9155:PopasTV
 #DESCRIPTION PopasTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9256:⚡⚡⚡ CANALE MOLDOVA ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE MOLDOVA ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9256:=== CANALE MOLDOVA ===
+#DESCRIPTION === CANALE MOLDOVA ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/70455:MD 360 Tune Box MD
 #DESCRIPTION MD 360 Tune Box MD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/70456:MD 7TV ʜᴅ
@@ -1041,8 +1041,8 @@
 #DESCRIPTION MD Jurnal TV ʜᴅ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9238:MD Jurnal TV HD
 #DESCRIPTION MD Jurnal TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9203:⚡⚡⚡ CANALE REGIONALE ⚡⚡⚡
-#DESCRIPTION ⚡⚡⚡ CANALE REGIONALE ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/9203:=== CANALE REGIONALE ===
+#DESCRIPTION === CANALE REGIONALE ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/1539:Iasi Tv
 #DESCRIPTION Iasi Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//futai.hopaurleta.net%3a8080/AN2211658/jZm6xw2zV9jVqgUPa8zFzMPbYYa5TK/1532:Tele M Iasi

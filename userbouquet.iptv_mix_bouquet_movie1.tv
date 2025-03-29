@@ -1,0 +1,333 @@
+#NAME IPTV Mix Bouquet movie1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22878:CINEMAX 5 STARMAX UHD
+#DESCRIPTION CINEMAX 5 STARMAX UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22879:Cinemax East UHD
+#DESCRIPTION Cinemax East UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22880:Cinemax West UHD
+#DESCRIPTION Cinemax West UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22881:CINEMAX ACTIONMAX UHD
+#DESCRIPTION CINEMAX ACTIONMAX UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22882:CINEMAX MORE MAX UHD
+#DESCRIPTION CINEMAX MORE MAX UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22883:CINEMAX MOVIE MAX UHD
+#DESCRIPTION CINEMAX MOVIE MAX UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22884:CINEMAX OUTER MAX UHD
+#DESCRIPTION CINEMAX OUTER MAX UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22885:CINEMAX THRILLER MAX UHD
+#DESCRIPTION CINEMAX THRILLER MAX UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22886:Epix UHD
+#DESCRIPTION Epix UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22887:EPIX2 UHD
+#DESCRIPTION EPIX2 UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22888:EPIX Drive-In UHD
+#DESCRIPTION EPIX Drive-In UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22889:Epix Hits UHD
+#DESCRIPTION Epix Hits UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22890:Hallmark Channel East. UHD
+#DESCRIPTION Hallmark Channel East. UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22891:Hallmark Channel EAST LHD
+#DESCRIPTION Hallmark Channel EAST LHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22892:Hallmark Drama .UHD
+#DESCRIPTION Hallmark Drama .UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22893:Hallmark Movies & Mysteries East UHD
+#DESCRIPTION Hallmark Movies & Mysteries East UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22894:HBO East UHD
+#DESCRIPTION HBO East UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22895:HBO West UHD
+#DESCRIPTION HBO West UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22896:HBO 2 East UHD
+#DESCRIPTION HBO 2 East UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22897:HBO Comedy UHD
+#DESCRIPTION HBO Comedy UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22898:HBO Family UHD
+#DESCRIPTION HBO Family UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22899:HBO Pacific UHD
+#DESCRIPTION HBO Pacific UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22900:HBO Signature UHD
+#DESCRIPTION HBO Signature UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22901:HBO Zone UHD
+#DESCRIPTION HBO Zone UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22903:INDIEPLEX UHD
+#DESCRIPTION INDIEPLEX UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22904:Lifetime Movie Network East UHD
+#DESCRIPTION Lifetime Movie Network East UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22905:MOVIEPLEX  HD
+#DESCRIPTION MOVIEPLEX  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22906:Paramount East UHD
+#DESCRIPTION Paramount East UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22908:Showtime East UHD
+#DESCRIPTION Showtime East UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22909:Showtime West UHD
+#DESCRIPTION Showtime West UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22910:Showtime 2 UHD
+#DESCRIPTION Showtime 2 UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22911:SHOxBET UHD
+#DESCRIPTION SHOxBET UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22912:Showtime Extreme UHD
+#DESCRIPTION Showtime Extreme UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22913:Showtime Family Zone UHD
+#DESCRIPTION Showtime Family Zone UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22914:Showtime Next UHD
+#DESCRIPTION Showtime Next UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22915:Showtime Showcase UHD
+#DESCRIPTION Showtime Showcase UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22916:Showtime Women UHD
+#DESCRIPTION Showtime Women UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22917:Sony Movie Channel UHD
+#DESCRIPTION Sony Movie Channel UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22918:StarZ East UHD
+#DESCRIPTION StarZ East UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22919:Starz West UHD
+#DESCRIPTION Starz West UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22920:Starz Cinema UHD
+#DESCRIPTION Starz Cinema UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22921:Starz Comedy UHD
+#DESCRIPTION Starz Comedy UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22922:Starz Edge UHD
+#DESCRIPTION Starz Edge UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22923:Starz in Black UHD
+#DESCRIPTION Starz in Black UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22924:Starz Kids & Family UHD
+#DESCRIPTION Starz Kids & Family UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22925:Starz Encore East UHD
+#DESCRIPTION Starz Encore East UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22926:Starz Encore West UHD
+#DESCRIPTION Starz Encore West UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22927:Starz Encore Action UHD
+#DESCRIPTION Starz Encore Action UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22928:Starz Encore Black UHD
+#DESCRIPTION Starz Encore Black UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22929:Starz Encore Classic UHD
+#DESCRIPTION Starz Encore Classic UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22930:Starz Encore Family UHD
+#DESCRIPTION Starz Encore Family UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22931:Starz Encore Suspense UHD
+#DESCRIPTION Starz Encore Suspense UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22932:Starz Encore Westerns UHD
+#DESCRIPTION Starz Encore Westerns UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22933:Turner Classic Movies UHD
+#DESCRIPTION Turner Classic Movies UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22946:Syfy UHD
+#DESCRIPTION Syfy UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22947:Syfy East UHD
+#DESCRIPTION Syfy East UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/22948:Syfy West UHD
+#DESCRIPTION Syfy West UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47746:RetroPlex East UHD
+#DESCRIPTION RetroPlex East UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47747:RetroPlex West UHD
+#DESCRIPTION RetroPlex West UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/61185:CINEMAX ACTIONMAX WEST UHD
+#DESCRIPTION CINEMAX ACTIONMAX WEST UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/61186:CINEMAX MOREMAX WEST UHD
+#DESCRIPTION CINEMAX MOREMAX WEST UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/61187:CINEMAX THRILLERMAX WEST UHD
+#DESCRIPTION CINEMAX THRILLERMAX WEST UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/77462:Sky Cinema Action
+#DESCRIPTION Sky Cinema Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/77463:Sky Cinema Comedy
+#DESCRIPTION Sky Cinema Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/77464:Sky Cinema Hits
+#DESCRIPTION Sky Cinema Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/77465:Sky Cinema Drama
+#DESCRIPTION Sky Cinema Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/77466:Sky Cinema Family
+#DESCRIPTION Sky Cinema Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/77467:Sky Cinema Greats
+#DESCRIPTION Sky Cinema Greats
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/77468:Sky Cinema Premier
+#DESCRIPTION Sky Cinema Premier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/77469:Sky Cinema Horror & Scifi
+#DESCRIPTION Sky Cinema Horror & Scifi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/77470:Sky Cinema Select
+#DESCRIPTION Sky Cinema Select
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/77471:Sky Cinema Thriller
+#DESCRIPTION Sky Cinema Thriller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40480:24/7 Action Movie
+#DESCRIPTION 24/7 Action Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40482:24/7 Adventure Movie
+#DESCRIPTION 24/7 Adventure Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40483:24/7 Animation Movie
+#DESCRIPTION 24/7 Animation Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40484:24/7 Comedy Movie
+#DESCRIPTION 24/7 Comedy Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40485:24/7 Comedy Movie 2
+#DESCRIPTION 24/7 Comedy Movie 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40486:24/7 Crime Movie
+#DESCRIPTION 24/7 Crime Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40487:24/7 Documentary Movie
+#DESCRIPTION 24/7 Documentary Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40488:24/7 Documentary Movie
+#DESCRIPTION 24/7 Documentary Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40489:24/7 Drama Movie
+#DESCRIPTION 24/7 Drama Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40490:compress&cs=strip" group-title="24/7 MOVIES"
+#DESCRIPTION compress&cs=strip" group-title="24/7 MOVIES"
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40491:24/7 Family Movie 2
+#DESCRIPTION 24/7 Family Movie 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40492:24/7 Horror Movie
+#DESCRIPTION 24/7 Horror Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40493:24/7 Horror Movie 2
+#DESCRIPTION 24/7 Horror Movie 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40494:24/7 Kungfu
+#DESCRIPTION 24/7 Kungfu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40495:24/7 Kungfu 1
+#DESCRIPTION 24/7 Kungfu 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40496:24/7 Kungfu 2
+#DESCRIPTION 24/7 Kungfu 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40497:24/7 Mob Movie
+#DESCRIPTION 24/7 Mob Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40498:24/7 Mob Movie 2
+#DESCRIPTION 24/7 Mob Movie 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40499:24/7 Mob Movie 3
+#DESCRIPTION 24/7 Mob Movie 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40500:24/7 Mob Movie 4
+#DESCRIPTION 24/7 Mob Movie 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40501:24/7 Mob Movie 5
+#DESCRIPTION 24/7 Mob Movie 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40502:24/7 Music Movie
+#DESCRIPTION 24/7 Music Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40503:24/7 Oscar Winning Movie 2020
+#DESCRIPTION 24/7 Oscar Winning Movie 2020
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40504:24/7 Romance Movie
+#DESCRIPTION 24/7 Romance Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40505:24/7 Science & Fiction Movie
+#DESCRIPTION 24/7 Science & Fiction Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40506:24/7 Star Wars Movie
+#DESCRIPTION 24/7 Star Wars Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/40507:24/7 Western Movie
+#DESCRIPTION 24/7 Western Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47635:24/7 Alien Movie 1
+#DESCRIPTION 24/7 Alien Movie 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47636:24/7 Alien Movie 2
+#DESCRIPTION 24/7 Alien Movie 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47637:24/7 Alien Movie 3
+#DESCRIPTION 24/7 Alien Movie 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47638:24/7 Alien Movie 4
+#DESCRIPTION 24/7 Alien Movie 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47639:24/7 Alien Movie 5
+#DESCRIPTION 24/7 Alien Movie 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47644:24/7 Movie-2020 01
+#DESCRIPTION 24/7 Movie-2020 01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47645:24/7 Movie-2020 02
+#DESCRIPTION 24/7 Movie-2020 02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47646:24/7 Movie-2020 03
+#DESCRIPTION 24/7 Movie-2020 03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47647:24/7 Movie-2020 04
+#DESCRIPTION 24/7 Movie-2020 04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47648:24/7 Movie-2020 05
+#DESCRIPTION 24/7 Movie-2020 05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47649:24/7 Movie-2020 06
+#DESCRIPTION 24/7 Movie-2020 06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47650:24/7 Movie-2020 07
+#DESCRIPTION 24/7 Movie-2020 07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47651:24/7 Movie-2020 08
+#DESCRIPTION 24/7 Movie-2020 08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47652:24/7 Movie-2020 09
+#DESCRIPTION 24/7 Movie-2020 09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/47653:24/7 Movie-2020 10
+#DESCRIPTION 24/7 Movie-2020 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/78116:24/7 Best Christmas Movies
+#DESCRIPTION 24/7 Best Christmas Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/78117:24/7 Best Christmas Movies 2
+#DESCRIPTION 24/7 Best Christmas Movies 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/78118:24/7 Best Christmas Movies 3
+#DESCRIPTION 24/7 Best Christmas Movies 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/78119:24/7 Best Christmas  Movies 4
+#DESCRIPTION 24/7 Best Christmas  Movies 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/78120:24/7 Best Christmas  Movies 5
+#DESCRIPTION 24/7 Best Christmas  Movies 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/78121:24/7 Best Christmas Movies 6
+#DESCRIPTION 24/7 Best Christmas Movies 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/78122:24/7 Best Christmas Movies 7
+#DESCRIPTION 24/7 Best Christmas Movies 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/78123:24/7 Best Christmas Movies 8
+#DESCRIPTION 24/7 Best Christmas Movies 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13719:USA MC Video  Music Choice Max
+#DESCRIPTION USA MC Video  Music Choice Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13720:USA MC Video  Musica Urbana
+#DESCRIPTION USA MC Video  Musica Urbana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13721:USA MC Video  Music Choice Play
+#DESCRIPTION USA MC Video  Music Choice Play
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13722:USA Music Choice Video  Holiday Hits
+#DESCRIPTION USA Music Choice Video  Holiday Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13723:USA Music Choice Video  Holiday Yule Logs
+#DESCRIPTION USA Music Choice Video  Holiday Yule Logs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13724:USA Music Choice Video  Tailgate Party
+#DESCRIPTION USA Music Choice Video  Tailgate Party
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13725:USA Music Choice Video  Hit List
+#DESCRIPTION USA Music Choice Video  Hit List
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13726:USA Music Choice Video  Hip-Hop and R&B
+#DESCRIPTION USA Music Choice Video  Hip-Hop and R&B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13727:USA Music Choice Video  Teen Beats
+#DESCRIPTION USA Music Choice Video  Teen Beats
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13728:USA Music Choice Video  Today's Country: CMA Awards
+#DESCRIPTION USA Music Choice Video  Today's Country: CMA Awards
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13729:USA Music Choice Video  Pop Hits
+#DESCRIPTION USA Music Choice Video  Pop Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13730:USA Music Choice Video  Pop & Country
+#DESCRIPTION USA Music Choice Video  Pop & Country
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13731:USA Music Choice Video  90's
+#DESCRIPTION USA Music Choice Video  90's
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13732:USA Music Choice Video  R&B
+#DESCRIPTION USA Music Choice Video  R&B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13733:USA Music Choice Video  Rock
+#DESCRIPTION USA Music Choice Video  Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13734:USA Music Choice Video  R&B Soul
+#DESCRIPTION USA Music Choice Video  R&B Soul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13735:USA Music Choice Video  Dance/ EDM
+#DESCRIPTION USA Music Choice Video  Dance/ EDM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13736:USA Music Choice Video  Y2K
+#DESCRIPTION USA Music Choice Video  Y2K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13737:USA Music Choice Video  Brits + Hits
+#DESCRIPTION USA Music Choice Video  Brits + Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13738:USA Music Choice Video  Pop Latino
+#DESCRIPTION USA Music Choice Video  Pop Latino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13739:USA Music Choice Video  Rap
+#DESCRIPTION USA Music Choice Video  Rap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13740:USA Music Choice Video  Throwback Jamz
+#DESCRIPTION USA Music Choice Video  Throwback Jamz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13741:USA Music Choice Video  Rap 2K
+#DESCRIPTION USA Music Choice Video  Rap 2K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13742:USA Music Choice Video  Tropicales
+#DESCRIPTION USA Music Choice Video  Tropicales
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13743:USA Music Choice Video  Mexicana
+#DESCRIPTION USA Music Choice Video  Mexicana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13744:USA Music Choice Video  Metal
+#DESCRIPTION USA Music Choice Video  Metal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13745:USA Music Choice Video  Alternative
+#DESCRIPTION USA Music Choice Video  Alternative
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13746:USA Music Choice Video  Indie
+#DESCRIPTION USA Music Choice Video  Indie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13747:USA Music Choice Video  Kidz Only!
+#DESCRIPTION USA Music Choice Video  Kidz Only!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13748:USA Music Choice Video  Kidz Bop
+#DESCRIPTION USA Music Choice Video  Kidz Bop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13749:USA Music Choice Video  Toddler Tunes
+#DESCRIPTION USA Music Choice Video  Toddler Tunes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13750:USA MTV 2
+#DESCRIPTION USA MTV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13751:USA MTV Classic
+#DESCRIPTION USA MTV Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13752:USA MTV Live
+#DESCRIPTION USA MTV Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13753:USA MTV U
+#DESCRIPTION USA MTV U
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13754:UK MTV
+#DESCRIPTION UK MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13755:UK MTV Base
+#DESCRIPTION UK MTV Base
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13756:UK MTV Classic
+#DESCRIPTION UK MTV Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13757:UK MTV Dance
+#DESCRIPTION UK MTV Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13758:UK MTV HD
+#DESCRIPTION UK MTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13759:UK MTV Hits
+#DESCRIPTION UK MTV Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13760:UK MTV Music
+#DESCRIPTION UK MTV Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13761:UK MTV OMG
+#DESCRIPTION UK MTV OMG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/341576/874182/13762:UK MTV Rocks
+#DESCRIPTION UK MTV Rocks

@@ -1,7 +1,7 @@
 #NAME IPTV Mix Bouquet exyu3
 #SERVICE 4097:0:1:66:5ED:5ED:B90:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=102&sId=2960&chCm=http%3a//localhost/ch/2960_&end=:RS: RTS HD
 #DESCRIPTION RS: RTS HD
-#SERVICE 4097:0:1:66:5EE:5EE:5C382:0:0:0:http%3a//b2sohdoex.11121367.xyz%3a8080/KAyD4bUjG8/j7dfOPCrQD/377730?play_token=QLKqTaWXxC&mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=102&sId=377730&chCm=http%3a//localhost/ch/377730_&end=:RS%3a RTS FHD
+#SERVICE 4097:0:1:66:5EE:5EE:5C382:0:0:0:http%3a//b2sohdoex.11121367.xyz%3a8080/KAyD4bUjG8/j7dfOPCrQD/377730?play_token=e3DN7GyGX0&mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=102&sId=377730&chCm=http%3a//localhost/ch/377730_&end=:RS: RTS FHD
 #DESCRIPTION RS: RTS FHD
 #SERVICE 4097:0:1:66:5EF:5EF:B91:0:0:0:http%3a//ip.king-cobra.eu%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL2lwLmtpbmctY29icmEuZXU6ODA4MA==&chCode=MDA6MUE6Nzk6N0I6NTY6M0E=&epNum=&epId=&cId=102&sId=2961&chCm=http%3a//localhost/ch/2961_&end=:RS: RTS FHD*
 #DESCRIPTION RS: RTS FHD*
