@@ -1,0 +1,1003 @@
+#NAME IPTV Mix Ultra 01.04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/76742.ts
+#DESCRIPTION Ramadan 2025 رمضان
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/39500.ts
+#DESCRIPTION ULTRA NATURE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40773.ts
+#DESCRIPTION ULTRA DOCUMENTARY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/27122.ts
+#DESCRIPTION ULTRA SUMMER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/27082.ts
+#DESCRIPTION ULTRA NIGHT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/36749.ts
+#DESCRIPTION ULTRA PASSION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/26807.ts
+#DESCRIPTION ULTRA MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/44598.ts
+#DESCRIPTION ULTRA MARVEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/39904.ts
+#DESCRIPTION ULTRA KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/51944.ts
+#DESCRIPTION ULTRA CLASSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/51943.ts
+#DESCRIPTION ULTRA STAND-UP COMEDY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/42008.ts
+#DESCRIPTION ULTRA SERIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/28164.ts
+#DESCRIPTION ULTRA RELAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/32078.ts
+#DESCRIPTION ألترا أفلام
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37426.ts
+#DESCRIPTION ألترا دراما
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/44599.ts
+#DESCRIPTION ألترا كوميدي
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/32077.ts
+#DESCRIPTION ألترا مسرحيات
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/83921.ts
+#DESCRIPTION ULTRA ZAMAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/43213.ts
+#DESCRIPTION ميكس
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37250.ts
+#DESCRIPTION عمرو دياب
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/44692.ts
+#DESCRIPTION زياد برجي
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37265.ts
+#DESCRIPTION وائل كفوري
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37260.ts
+#DESCRIPTION كاظم الساهر
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37247.ts
+#DESCRIPTION جورج وسوف
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37251.ts
+#DESCRIPTION فضل شاكر
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/43212.ts
+#DESCRIPTION تامر حسني
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/71993.ts
+#DESCRIPTION يارا
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37252.ts
+#DESCRIPTION أليسا
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37261.ts
+#DESCRIPTION شيرين
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37266.ts
+#DESCRIPTION نانسي عجرم
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37249.ts
+#DESCRIPTION ماجدة الرومي
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37268.ts
+#DESCRIPTION هجيني
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/46723.ts
+#DESCRIPTION Adiga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61623.ts
+#DESCRIPTION ULTRA MUSIC BOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/69893.ts
+#DESCRIPTION ULTRA VIBES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/70159.ts
+#DESCRIPTION ULTRA HIPHOP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/70554.ts
+#DESCRIPTION فتيات القوة
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/82722.ts
+#DESCRIPTION النمر الوردي
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/39338.ts
+#DESCRIPTION عدنان ولينا
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/28155.ts
+#DESCRIPTION Tom & Jerry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/28156.ts
+#DESCRIPTION Shun The Sheep
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/32787.ts
+#DESCRIPTION ماشا والدب
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/28159.ts
+#DESCRIPTION Boooba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/28151.ts
+#DESCRIPTION Mr Bean
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/28153.ts
+#DESCRIPTION Rat-A-Tat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/32788.ts
+#DESCRIPTION Pencilmate
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/28154.ts
+#DESCRIPTION Zig & Sharko
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/28152.ts
+#DESCRIPTION Oscar's Oasis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/28158.ts
+#DESCRIPTION فوزي موزي
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/28157.ts
+#DESCRIPTION زينغو و رينغو
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64210.ts
+#DESCRIPTION BLU TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64333.ts
+#DESCRIPTION BLU TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64334.ts
+#DESCRIPTION BLU TV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64335.ts
+#DESCRIPTION BLU TV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64342.ts
+#DESCRIPTION BLU TV 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64343.ts
+#DESCRIPTION BLU TV 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64344.ts
+#DESCRIPTION BLU TV 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64345.ts
+#DESCRIPTION BLU TV 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/63225.ts
+#DESCRIPTION NETFLIX KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/63222.ts
+#DESCRIPTION NETFLIX ACTION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/63223.ts
+#DESCRIPTION NETFLIX COMEDY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/63224.ts
+#DESCRIPTION NETFLIX HORROR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/63493.ts
+#DESCRIPTION NETFLIX SERIES 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/63838.ts
+#DESCRIPTION NETFLIX SERIES 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/63839.ts
+#DESCRIPTION NETFLIX SERIES 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99936.ts
+#DESCRIPTION [شاهد] أفلام
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99939.ts
+#DESCRIPTION [شاهد] Movies Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99940.ts
+#DESCRIPTION [شاهد] Movies Thriller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99942.ts
+#DESCRIPTION [شاهد] مسرح مصر
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99941.ts
+#DESCRIPTION [شاهد] باب الحارة
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99943.ts
+#DESCRIPTION [شاهد] مرايا
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99948.ts
+#DESCRIPTION [شاهد] ناصر القصبي
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99949.ts
+#DESCRIPTION [شاهد] طــــــــــاش
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/109504.ts
+#DESCRIPTION [شاهد] الكبير أوي
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99938.ts
+#DESCRIPTION [شاهد] طرب
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99937.ts
+#DESCRIPTION [شاهد] ماجد المهندس
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99944.ts
+#DESCRIPTION [شاهد] اللعبة
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99950.ts
+#DESCRIPTION [شاهد] سلفــــــــي
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99951.ts
+#DESCRIPTION [شاهد] العاصــــوف
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/109505.ts
+#DESCRIPTION [شاهد] سكة سفر
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/109503.ts
+#DESCRIPTION [شاهد] الميراث
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99945.ts
+#DESCRIPTION [شاهد] Arab Got Talent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99946.ts
+#DESCRIPTION [شاهد] Food Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99947.ts
+#DESCRIPTION [شاهد] Nature Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64197.ts
+#DESCRIPTION [شاهد] National Geographic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64198.ts
+#DESCRIPTION [شاهد] National Geographic WILD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/109502.ts
+#DESCRIPTION [شاهد] Disney JR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/109501.ts
+#DESCRIPTION [شاهد] Disney Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/109500.ts
+#DESCRIPTION [شاهد] Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64191.ts
+#DESCRIPTION [شاهد] STC Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64192.ts
+#DESCRIPTION [شاهد] STC Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64193.ts
+#DESCRIPTION [شاهد] STC Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64194.ts
+#DESCRIPTION [شاهد] STAR Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64195.ts
+#DESCRIPTION [شاهد] STAR Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/64196.ts
+#DESCRIPTION [شاهد] STAR World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9263.ts
+#DESCRIPTION BEIN 1 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9262.ts
+#DESCRIPTION BEIN 2 576P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9261.ts
+#DESCRIPTION BEIN 3 576P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9260.ts
+#DESCRIPTION BEIN 4 576P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9259.ts
+#DESCRIPTION BEIN 5 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9258.ts
+#DESCRIPTION BEIN 6 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9257.ts
+#DESCRIPTION BEIN 7 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9256.ts
+#DESCRIPTION BEIN 8 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/31925.ts
+#DESCRIPTION BEIN 9 576P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9271.ts
+#DESCRIPTION Bein 1 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9270.ts
+#DESCRIPTION Bein 2 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9269.ts
+#DESCRIPTION Bein 3 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9268.ts
+#DESCRIPTION Bein 4 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9267.ts
+#DESCRIPTION Bein 5 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9266.ts
+#DESCRIPTION Bein 6 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9265.ts
+#DESCRIPTION Bein 7 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9264.ts
+#DESCRIPTION Bein 8 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1707.ts
+#DESCRIPTION Bein 9 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/39509.ts
+#DESCRIPTION Bein NBA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2160.ts
+#DESCRIPTION Bein 1 EN 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2161.ts
+#DESCRIPTION Bein 2 EN 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/44299.ts
+#DESCRIPTION BEIN 1 EN 576P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/44300.ts
+#DESCRIPTION BEIN 2 EN 576P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2673.ts
+#DESCRIPTION Bein 1 EXTRA 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/22439.ts
+#DESCRIPTION Bein 2 EXTRA 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/44297.ts
+#DESCRIPTION BEIN 1 AFC 576P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/44298.ts
+#DESCRIPTION BEIN 2 AFC 576P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3111.ts
+#DESCRIPTION BeinHD: Bein News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3112.ts
+#DESCRIPTION BeinHD: Bein Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/33885.ts
+#DESCRIPTION BeIN 1 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/33886.ts
+#DESCRIPTION BeIN 2 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/33887.ts
+#DESCRIPTION BeIN 3 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/33888.ts
+#DESCRIPTION BeIN 4 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/33889.ts
+#DESCRIPTION BeIN 5 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/33890.ts
+#DESCRIPTION BeIN 6 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/33891.ts
+#DESCRIPTION BeIN 7 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/33892.ts
+#DESCRIPTION BeIN 8 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/33893.ts
+#DESCRIPTION BeIN 9 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61581.ts
+#DESCRIPTION SSC 1 720
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61582.ts
+#DESCRIPTION SSC 2 720
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61583.ts
+#DESCRIPTION SSC 3 720
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61584.ts
+#DESCRIPTION SSC 4 720
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61585.ts
+#DESCRIPTION SSC 5 720
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61586.ts
+#DESCRIPTION SSC 6 720
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61587.ts
+#DESCRIPTION SSC 7 720
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61574.ts
+#DESCRIPTION SSC 1 1080
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61575.ts
+#DESCRIPTION SSC 2 1080
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61576.ts
+#DESCRIPTION SSC 3 1080
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61577.ts
+#DESCRIPTION SSC 4 1080
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61578.ts
+#DESCRIPTION SSC 5 1080
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61579.ts
+#DESCRIPTION SSC 6 1080
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61580.ts
+#DESCRIPTION SSC 7 1080
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/60520.ts
+#DESCRIPTION Pal:Al Fajer1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/60521.ts
+#DESCRIPTION Pal:Al Fajer2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/60522.ts
+#DESCRIPTION Pal:Al Fajer3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/60523.ts
+#DESCRIPTION Pal:Al Fajer4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/60524.ts
+#DESCRIPTION Pal:Al Fajer5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/49114.ts
+#DESCRIPTION StarzPlay SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/49115.ts
+#DESCRIPTION StarzPlay SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/49116.ts
+#DESCRIPTION StarzPlay SPORT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/63840.ts
+#DESCRIPTION SERIA A 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/36779.ts
+#DESCRIPTION SPORT: Al Kass 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/36780.ts
+#DESCRIPTION SPORT: Al Kass 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/36781.ts
+#DESCRIPTION SPORT: Al Kass 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/36782.ts
+#DESCRIPTION SPORT: Al Kass 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/36783.ts
+#DESCRIPTION SPORT: Al Kass 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3906.ts
+#DESCRIPTION Sport: AD1 Premium Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3905.ts
+#DESCRIPTION Sport: AD2 Premium Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/63841.ts
+#DESCRIPTION SERIA A 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/63842.ts
+#DESCRIPTION SERIA A 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/63843.ts
+#DESCRIPTION SERIA A 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/63844.ts
+#DESCRIPTION SERIA A 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9511.ts
+#DESCRIPTION Sport: Arena Sports 1 Croatia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9512.ts
+#DESCRIPTION Sport: Arena Sports 2 Croatia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9513.ts
+#DESCRIPTION Sport: Arena Sports 3 Croatia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9514.ts
+#DESCRIPTION Sport: Arena Sports 4 Croatia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9515.ts
+#DESCRIPTION Sport: Arena Sports 5 Croatia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99.ts
+#DESCRIPTION Sport: Arena Sports 6 Croatia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1508.ts
+#DESCRIPTION Sport: Klub Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1509.ts
+#DESCRIPTION Sport: Klub Sport 2 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2762.ts
+#DESCRIPTION Sport: Klub Sport 3  HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1534.ts
+#DESCRIPTION Sport: Arena Sport 3 Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1533.ts
+#DESCRIPTION Sport: Kujtesa Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1532.ts
+#DESCRIPTION Sport: Kujtesa Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1531.ts
+#DESCRIPTION Sport: Kujtesa Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1530.ts
+#DESCRIPTION Sport: Kujtesa Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/97.ts
+#DESCRIPTION Sport: Klub Sport 4 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/98.ts
+#DESCRIPTION Sport: Klub Sport 5 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1808.ts
+#DESCRIPTION Sport: Arena Sport 1 Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1809.ts
+#DESCRIPTION Sport: Arena Sport 2 Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34953.ts
+#DESCRIPTION Bein Fox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34955.ts
+#DESCRIPTION Bein TCM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34954.ts
+#DESCRIPTION Bein Star Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/92698.ts
+#DESCRIPTION Bein Star World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/8131.ts
+#DESCRIPTION Bein Star Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/8132.ts
+#DESCRIPTION Bein Fox Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/92697.ts
+#DESCRIPTION Bein Star Moives
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1471.ts
+#DESCRIPTION Bein Movies Premiere 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1472.ts
+#DESCRIPTION Bein Movies Action 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2677.ts
+#DESCRIPTION Bein Movies Drama 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2776.ts
+#DESCRIPTION Bein Movies Family 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9601.ts
+#DESCRIPTION Bein Drama 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/6108.ts
+#DESCRIPTION Bein Series 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/21346.ts
+#DESCRIPTION Bein Series 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34958.ts
+#DESCRIPTION Bein BaBy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34960.ts
+#DESCRIPTION Bein Jeem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3921.ts
+#DESCRIPTION Bein Baraem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/6955.ts
+#DESCRIPTION Bein Be Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/8127.ts
+#DESCRIPTION Bein Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/6959.ts
+#DESCRIPTION Bein Dream Works
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34957.ts
+#DESCRIPTION Bein Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23452.ts
+#DESCRIPTION Bein HG Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/8128.ts
+#DESCRIPTION Bein Fatafeat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/6960.ts
+#DESCRIPTION Bein Gourmet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34952.ts
+#DESCRIPTION Bein Food Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/21345.ts
+#DESCRIPTION Bein Travel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34951.ts
+#DESCRIPTION Bein BBC Earth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34959.ts
+#DESCRIPTION Bein Nat Geo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34962.ts
+#DESCRIPTION Bein Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34956.ts
+#DESCRIPTION Bein Discovery Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34961.ts
+#DESCRIPTION Bein National Geographic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3880.ts
+#DESCRIPTION Alfa Fan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3083.ts
+#DESCRIPTION Alfa Alsafwa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2812.ts
+#DESCRIPTION Alfa Alyawm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2813.ts
+#DESCRIPTION Alfa Cinema1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2814.ts
+#DESCRIPTION Alfa Cinema2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3872.ts
+#DESCRIPTION Alfa Muslslat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/36545.ts
+#DESCRIPTION Alfa Muslslat 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9439.ts
+#DESCRIPTION OSN Yahala HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9436.ts
+#DESCRIPTION OSN Yahala Aflam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9438.ts
+#DESCRIPTION OSN Yahala Bel Arabi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9445.ts
+#DESCRIPTION OSN Movies Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9447.ts
+#DESCRIPTION OSN Movies Horror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9425.ts
+#DESCRIPTION OSN Movies Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9427.ts
+#DESCRIPTION OSN Movies Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9451.ts
+#DESCRIPTION OSN Movies HollyWood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/92696.ts
+#DESCRIPTION OSN Fox News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/92695.ts
+#DESCRIPTION OSN MTV 00S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/92694.ts
+#DESCRIPTION OSN TFC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/92693.ts
+#DESCRIPTION OSN NEWS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3911.ts
+#DESCRIPTION OSN Now Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9428.ts
+#DESCRIPTION OSN Showcase
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9449.ts
+#DESCRIPTION OSN Pop up
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9440.ts
+#DESCRIPTION OSN One Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9443.ts
+#DESCRIPTION OSN Moonbug Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9417.ts
+#DESCRIPTION OSN Fatafeat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9391.ts
+#DESCRIPTION OSN Ginx eSports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9396.ts
+#DESCRIPTION OSN Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9398.ts
+#DESCRIPTION OSN Fashion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9395.ts
+#DESCRIPTION OSN Nick JR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9411.ts
+#DESCRIPTION OSN Nick Toons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9394.ts
+#DESCRIPTION OSN Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9412.ts
+#DESCRIPTION OSN Mezze
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9409.ts
+#DESCRIPTION OSN History 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9410.ts
+#DESCRIPTION OSN Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9407.ts
+#DESCRIPTION OSN Discovery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9406.ts
+#DESCRIPTION OSN Bloomberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9402.ts
+#DESCRIPTION OSN History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23473.ts
+#DESCRIPTION OSN Showcase Classics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9403.ts
+#DESCRIPTION OSN Travel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3922.ts
+#DESCRIPTION OSN E!ntertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9419.ts
+#DESCRIPTION OSN TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9376.ts
+#DESCRIPTION OSN Mtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/26027.ts
+#DESCRIPTION OSN Movies Premiere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/36787.ts
+#DESCRIPTION OSN Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9408.ts
+#DESCRIPTION OSN Discovery IDX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9441.ts
+#DESCRIPTION OSN Kid ZoneTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9442.ts
+#DESCRIPTION OSN Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3900.ts
+#DESCRIPTION GoBX: Mbc1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3899.ts
+#DESCRIPTION GoBX: Mbc2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3898.ts
+#DESCRIPTION GoBX: Mbc3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3897.ts
+#DESCRIPTION GoBX: Mbc4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/32022.ts
+#DESCRIPTION GoBX: Mbc 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3916.ts
+#DESCRIPTION GoBX: Mbc Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3915.ts
+#DESCRIPTION GoBX: Mbc Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/5684.ts
+#DESCRIPTION GoBX: MBC+Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3914.ts
+#DESCRIPTION GoBX: Mbc Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3879.ts
+#DESCRIPTION GoBX: Mbc+Variety
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/6946.ts
+#DESCRIPTION GoBX: Mbc Bollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/29089.ts
+#DESCRIPTION GoBX: Woman TDC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/26030.ts
+#DESCRIPTION GoBX: Diseny
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/26026.ts
+#DESCRIPTION GoBX: Diseny Jr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/10518.ts
+#DESCRIPTION GoBX: Wwe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/4376.ts
+#DESCRIPTION GoBX: Rotana Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/4375.ts
+#DESCRIPTION GoBX: Rotana Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/4373.ts
+#DESCRIPTION GoBX: Rotana Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/4372.ts
+#DESCRIPTION GoBX: Rotana Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/4374.ts
+#DESCRIPTION GoBX: Rotana Khalijia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/10210.ts
+#DESCRIPTION GoBX: Trace Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/26036.ts
+#DESCRIPTION GoBX: Laab Wa Jad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/26037.ts
+#DESCRIPTION GoBX: Gulli Arabie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/26029.ts
+#DESCRIPTION GoBX: Docu Box
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/10519.ts
+#DESCRIPTION GoBX: Fight Box
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/32019.ts
+#DESCRIPTION GoBX: GULI Bl Araby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/32015.ts
+#DESCRIPTION GoBX: Nature Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/289.ts
+#DESCRIPTION Ar MBC 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/290.ts
+#DESCRIPTION Ar MBC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/291.ts
+#DESCRIPTION Ar MBC 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/292.ts
+#DESCRIPTION Ar MBC 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37080.ts
+#DESCRIPTION Ar MBC 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/503.ts
+#DESCRIPTION Ar MBC Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40391.ts
+#DESCRIPTION Ar MBC Iraq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40592.ts
+#DESCRIPTION Ar MBC E life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/504.ts
+#DESCRIPTION Ar MBC Masr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40909.ts
+#DESCRIPTION Ar MBC Masr 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/507.ts
+#DESCRIPTION Ar MBC Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/505.ts
+#DESCRIPTION Ar MBC Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/98024.ts
+#DESCRIPTION Ar MBC Drama+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/506.ts
+#DESCRIPTION Ar MBC Bollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/98026.ts
+#DESCRIPTION Ar MBC FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/79.ts
+#DESCRIPTION Ar ART Aflam 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/80.ts
+#DESCRIPTION Ar ART Aflam  2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/81.ts
+#DESCRIPTION Ar ART Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/82.ts
+#DESCRIPTION Ar ART Hekayat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/764.ts
+#DESCRIPTION Ar ART Hekayat 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/77.ts
+#DESCRIPTION Ar lebanon otv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/76.ts
+#DESCRIPTION Ar lebanon nbn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/75.ts
+#DESCRIPTION Ar lebanon mtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/74.ts
+#DESCRIPTION Ar lebanon Lbc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/72.ts
+#DESCRIPTION Ar lebanon Hala London
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/61.ts
+#DESCRIPTION Ar lebanon almanar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/71.ts
+#DESCRIPTION Ar lebanon aljadeed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37079.ts
+#DESCRIPTION Ar lebanon Lbc Int
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37081.ts
+#DESCRIPTION Ar lebanon Teleliban
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/489.ts
+#DESCRIPTION Ar Rotana Clip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/492.ts
+#DESCRIPTION Ar Rotana Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/269.ts
+#DESCRIPTION Ar Rotana Khaliji
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/491.ts
+#DESCRIPTION Ar Rotana Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/98029.ts
+#DESCRIPTION Ar Rotana Aflam+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/66.ts
+#DESCRIPTION Ar Rotana Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/6128.ts
+#DESCRIPTION Ar Rotana Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/65.ts
+#DESCRIPTION Ar Rotana Cinema EGY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40866.ts
+#DESCRIPTION Ar Rotana Cinema KSA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1432.ts
+#DESCRIPTION Ar Syria Sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1441.ts
+#DESCRIPTION Ar Syria Nour ALSham
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1450.ts
+#DESCRIPTION Ar Syria Halab
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1434.ts
+#DESCRIPTION Ar Syria Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/15465.ts
+#DESCRIPTION Ar Syria Lana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34668.ts
+#DESCRIPTION Ar Syria Alalam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3333.ts
+#DESCRIPTION Ar Syria Education
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3371.ts
+#DESCRIPTION Ar Syria Sama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/24314.ts
+#DESCRIPTION Ar Syria Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23416.ts
+#DESCRIPTION Ar Syria Ekhbariya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37043.ts
+#DESCRIPTION Ar Syria Satellite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37062.ts
+#DESCRIPTION Ar Syria AlKhabar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1464.ts
+#DESCRIPTION Ar Jordan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3103.ts
+#DESCRIPTION Ar Jordan Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3104.ts
+#DESCRIPTION Ar Jordan Ro2ya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/24986.ts
+#DESCRIPTION Ar Jordan Almamlaka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/24985.ts
+#DESCRIPTION Ar Jordan Amman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37059.ts
+#DESCRIPTION Ar Jordan Sama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23448.ts
+#DESCRIPTION Ar Jordan One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23475.ts
+#DESCRIPTION Ar Jordan AlHaqeqa AlDawlya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1433.ts
+#DESCRIPTION Ar Jordan Amen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/97058.ts
+#DESCRIPTION AR 7lim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/99593.ts
+#DESCRIPTION AR AlHikmeh Schools
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34272.ts
+#DESCRIPTION Ar Yemen Aljomhoria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3265.ts
+#DESCRIPTION Ar Tunisie Attassi3a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40420.ts
+#DESCRIPTION Ar Al Araby 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/91965.ts
+#DESCRIPTION Ar Palestine Nablus live City Center
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/60525.ts
+#DESCRIPTION Ar Palestine RayaHD1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/60526.ts
+#DESCRIPTION Ar Palestine RayaHD2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/60527.ts
+#DESCRIPTION Ar Palestine RayaHD3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/60528.ts
+#DESCRIPTION Ar Palestine Raj3een
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/60529.ts
+#DESCRIPTION Ar Palestine Ajyal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/60530.ts
+#DESCRIPTION Ar Palestine Horyaa Riyadiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/6940.ts
+#DESCRIPTION Ar Palestine Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3097.ts
+#DESCRIPTION Ar Palestine Falastini
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3399.ts
+#DESCRIPTION Ar Palestine Today
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3094.ts
+#DESCRIPTION Ar Palestine Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/6120.ts
+#DESCRIPTION Ar Palestine Edu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9689.ts
+#DESCRIPTION Ar Palestine Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2789.ts
+#DESCRIPTION Ar Palestine Alfajr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3095.ts
+#DESCRIPTION Ar Palestine Musawa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3096.ts
+#DESCRIPTION Ar Palestine Alaqsa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3098.ts
+#DESCRIPTION Ar Palestine Ma3a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40401.ts
+#DESCRIPTION Ar Palestine Hebron.Sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40402.ts
+#DESCRIPTION Ar Palestine Alquds Today
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/91962.ts
+#DESCRIPTION Ar Palestine Shabab
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3793.ts
+#DESCRIPTION Ar Algeria Dzair 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/6123.ts
+#DESCRIPTION Ar Palestine Awdeh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/6124.ts
+#DESCRIPTION Ar Palestine Alhiwar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/6127.ts
+#DESCRIPTION Ar Palestine AlKofiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23424.ts
+#DESCRIPTION Ar Palestine Najah Nbc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37018.ts
+#DESCRIPTION Ar Palestine Al Seraj
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/769.ts
+#DESCRIPTION Ar Zee Alwan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/770.ts
+#DESCRIPTION Ar Zee Aflam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2196.ts
+#DESCRIPTION Ar B4u Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2197.ts
+#DESCRIPTION Ar B4u Aflam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/498.ts
+#DESCRIPTION Ar ALjazeera Documentary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2684.ts
+#DESCRIPTION Ar Palestine AlShaoub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3468.ts
+#DESCRIPTION Ar Music Mazzika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3607.ts
+#DESCRIPTION Ar Music NogoumFM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3843.ts
+#DESCRIPTION Ar CGTN Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3852.ts
+#DESCRIPTION Ar Aghani Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9370.ts
+#DESCRIPTION Ar i Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23421.ts
+#DESCRIPTION Ar Tunisia M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23484.ts
+#DESCRIPTION Ar Libya Lebda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/27801.ts
+#DESCRIPTION Ar Tunisie Carthage+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/24316.ts
+#DESCRIPTION Ar Libya Febrauary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3738.ts
+#DESCRIPTION Ar Libya Almasar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/22826.ts
+#DESCRIPTION Ar Algeria Eliktissadia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3087.ts
+#DESCRIPTION Ar Qatar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3393.ts
+#DESCRIPTION Ar Qatar AlRayyan AlQadeem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3788.ts
+#DESCRIPTION Ar Qatar AlRayyan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3106.ts
+#DESCRIPTION Ar Oman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3107.ts
+#DESCRIPTION Ar Oman Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3108.ts
+#DESCRIPTION Ar Oman Cultural
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3477.ts
+#DESCRIPTION Ar Oman Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3276.ts
+#DESCRIPTION Ar Yemen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3274.ts
+#DESCRIPTION Ar Yemen Today
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3275.ts
+#DESCRIPTION Ar Yemen Shabab
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23418.ts
+#DESCRIPTION Ar Yemen Alhawyah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34209.ts
+#DESCRIPTION Ar Yemen almasirah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34503.ts
+#DESCRIPTION Ar Yemen Almahriah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37040.ts
+#DESCRIPTION Ar Yemen Suhail
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37041.ts
+#DESCRIPTION Ar Yemen Aden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37048.ts
+#DESCRIPTION Ar Libya Sport2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37051.ts
+#DESCRIPTION Ar Yemen Hadramout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37075.ts
+#DESCRIPTION Ar Yemen Sheba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37076.ts
+#DESCRIPTION Ar Yemen Documentary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3802.ts
+#DESCRIPTION Ar Yemen Education
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3719.ts
+#DESCRIPTION Ar Yemen AlSaeedah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3679.ts
+#DESCRIPTION Ar Yemen Belqees
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/1455.ts
+#DESCRIPTION Ar Sudan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/6944.ts
+#DESCRIPTION Ar Moroco Medi1 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3340.ts
+#DESCRIPTION Ar Algeria 9 Elbarlamaniya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3434.ts
+#DESCRIPTION Ar Sudan Basic Edu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3844.ts
+#DESCRIPTION Ar Sudan BlueNile
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/9692.ts
+#DESCRIPTION Ar Sudan Ashorooq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3338.ts
+#DESCRIPTION Ar Libya Salam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3516.ts
+#DESCRIPTION Ar Algeria TV5 Monde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3519.ts
+#DESCRIPTION Ar Sudania 24 Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2132.ts
+#DESCRIPTION Ar Moroco 1 AlAoula
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2133.ts
+#DESCRIPTION Ar Moroco 2M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2135.ts
+#DESCRIPTION Ar Moroco 3 Arryadia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2137.ts
+#DESCRIPTION Ar Moroco 4 Athaqafia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2134.ts
+#DESCRIPTION Ar Moroco Almaghribia News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2136.ts
+#DESCRIPTION Ar Moroco 6 Assadissa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2377.ts
+#DESCRIPTION Ar Moroco 8 Tamazight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3463.ts
+#DESCRIPTION Ar Moroco Medi 1TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23474.ts
+#DESCRIPTION Ar Moroco M24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/24315.ts
+#DESCRIPTION Ar Moroco Tele
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/27800.ts
+#DESCRIPTION Ar Moroco Chada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37108.ts
+#DESCRIPTION Ar Algeria Elwatania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23419.ts
+#DESCRIPTION Ar Moroco alons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2182.ts
+#DESCRIPTION Ar Algeriaa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/4651.ts
+#DESCRIPTION Ar Algeria Zahra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2201.ts
+#DESCRIPTION Ar Algeria 8 Elzakira
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3313.ts
+#DESCRIPTION Ar Algeria 3 alekhbaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2202.ts
+#DESCRIPTION Ar Algeria Samira
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3737.ts
+#DESCRIPTION Ar Algeria 4 alamazighia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3736.ts
+#DESCRIPTION Ar Algeria 5 quran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/22452.ts
+#DESCRIPTION Ar Algeria Bahia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3610.ts
+#DESCRIPTION Ar Algeria Albilad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23422.ts
+#DESCRIPTION Ar Algeria 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3674.ts
+#DESCRIPTION Ar Algeria Salam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2199.ts
+#DESCRIPTION Ar Algeria Berbere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/2200.ts
+#DESCRIPTION Ar Algeria Ennahar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3483.ts
+#DESCRIPTION Ar Algeria Echorouk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/10278.ts
+#DESCRIPTION Ar Algeria El Heddaf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/22447.ts
+#DESCRIPTION Ar Moroco 1 Laayoune
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/22450.ts
+#DESCRIPTION Ar Algeria 6 Elshababia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/22451.ts
+#DESCRIPTION Ar Algeria Alanis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/24308.ts
+#DESCRIPTION Ar Algeria Elhayat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/24309.ts
+#DESCRIPTION Ar Algeria Elfadjr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/857.ts
+#DESCRIPTION Ar Tunisna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/850.ts
+#DESCRIPTION Ar Tunisie Watanya 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/851.ts
+#DESCRIPTION Ar Tunisie Watanya 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/852.ts
+#DESCRIPTION Ar Elhiwar ettounsi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/853.ts
+#DESCRIPTION Ar Tunisie Nessma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/854.ts
+#DESCRIPTION Ar Tunisie Hann3bal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/855.ts
+#DESCRIPTION Ar Tunisie Telvza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/856.ts
+#DESCRIPTION Ar Tunisie Alzitouna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3733.ts
+#DESCRIPTION Ar Tunisie Aljanoubia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3758.ts
+#DESCRIPTION Ar Tunisie Almustakila
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3813.ts
+#DESCRIPTION Ar Tunisie Alinsan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/25474.ts
+#DESCRIPTION Ar Tunisie attessia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23415.ts
+#DESCRIPTION Ar Libya Sport1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3485.ts
+#DESCRIPTION Ar Libya Panorama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3488.ts
+#DESCRIPTION Ar Libya Almustaqbal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3489.ts
+#DESCRIPTION Ar Libya Ifta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/3700.ts
+#DESCRIPTION Ar Libya Alnabaa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23411.ts
+#DESCRIPTION Ar Libya New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23412.ts
+#DESCRIPTION Ar Libya Alhadath
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/23413.ts
+#DESCRIPTION Ar Libya AlAhrar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/25428.ts
+#DESCRIPTION Ar Libya Tanasuh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/25453.ts
+#DESCRIPTION Ar AlMashhad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/25454.ts
+#DESCRIPTION Ar Libya Edu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34206.ts
+#DESCRIPTION Ar Libya Alwataniya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/34208.ts
+#DESCRIPTION Ar Libya wtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37071.ts
+#DESCRIPTION Ar Libya Alrasmia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/37035.ts
+#DESCRIPTION Ar Syria Souryana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40394.ts
+#DESCRIPTION Ar Algeria El Djazair N1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40395.ts
+#DESCRIPTION Ar Algeria Elfadjr 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40396.ts
+#DESCRIPTION Ar Algeria 7 Elmaarifa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40416.ts
+#DESCRIPTION Ar Oman Alistiqama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40418.ts
+#DESCRIPTION Ar Qatar Alaraby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40581.ts
+#DESCRIPTION Ar Qatar 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40585.ts
+#DESCRIPTION Ar Oman General
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40594.ts
+#DESCRIPTION Ar Lebanon Arabica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40595.ts
+#DESCRIPTION Ar Lebanon Aghani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40596.ts
+#DESCRIPTION Ar Lebanon One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40597.ts
+#DESCRIPTION Ar Music Wanasah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40600.ts
+#DESCRIPTION Ar Moroco Almagharibia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adminapk.in%3a80/live/Ghazal_212111/F5byAwHI/40776.ts
+#DESCRIPTION Ar China Arab TV
