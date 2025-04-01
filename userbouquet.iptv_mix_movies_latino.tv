@@ -1,4 +1,4 @@
-#NAME IPTV Mix MOVIES CH
+#NAME IPTV Mix MOVIES Latino 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvpremiund.ddns.me%3a2082/alexalexx/alex207/2642
 #DESCRIPTION HBO HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvpremiund.ddns.me%3a2082/alexalexx/alex207/2676
