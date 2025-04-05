@@ -1,0 +1,1969 @@
+#NAME IPTV Mix Sport 05.04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/178419
+#DESCRIPTION WEDNESDAY - 12TH - MARCH -  CHAMPIONS LEAGUE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/255309
+#DESCRIPTION 18:45 - Lille v Borussia Dortmund - EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/255310
+#DESCRIPTION 18:45 - Lille v Borussia Dortmund - EN - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/255311
+#DESCRIPTION 18:45 - Lille v Borussia Dortmund - IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/255312
+#DESCRIPTION 18:45 - Lille v Borussia Dortmund - IT - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/255313
+#DESCRIPTION 21:00 - Aston Villa v Club Brugge - EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/255314
+#DESCRIPTION 21:00 - Aston Villa v Club Brugge - IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/255315
+#DESCRIPTION 21:00 - Atlético Madrid v Real Madrid - EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/255316
+#DESCRIPTION 21:00 - Atlético Madrid v Real Madrid - EN - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/255317
+#DESCRIPTION 21:00 - Arsenal v PSV Eindhoven - EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/255318
+#DESCRIPTION 21:00 - Arsenal v PSV Eindhoven - EN - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/255319
+#DESCRIPTION 21:00 - Arsenal v PSV Eindhoven - IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/238055
+#DESCRIPTION IT: ZONA GOAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/168775
+#DESCRIPTION IT: CHAMPIONS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/168776
+#DESCRIPTION IT: CHAMPIONS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/168777
+#DESCRIPTION IT: CHAMPIONS 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/168778
+#DESCRIPTION IT: CHAMPIONS 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/168779
+#DESCRIPTION IT: CHAMPIONS 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/168780
+#DESCRIPTION IT: CHAMPIONS 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/168781
+#DESCRIPTION IT: CHAMPIONS 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/168782
+#DESCRIPTION IT: CHAMPIONS 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/176967
+#DESCRIPTION THURSDAY - 20TH - MARCH - EUROPA LEAGUE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254958
+#DESCRIPTION [DAZN 2 SPAIN] DAZN 1 SPAIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254957
+#DESCRIPTION [DAZN 2 SPAIN] DAZN 2 SPAIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254955
+#DESCRIPTION [DAZN 2 SPAIN] DAZN LA LIGA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254956
+#DESCRIPTION [DAZN 2 SPAIN] DAZN F1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254949
+#DESCRIPTION [DAZN 2 SPAIN] HYPERVISION 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254950
+#DESCRIPTION [DAZN 2 SPAIN] HYPERVISION 2 BIS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254948
+#DESCRIPTION [DAZN 2 SPAIN] Hypermotion 3 BIS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254953
+#DESCRIPTION [DAZN 2 SPAIN] FOX SPORTS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254952
+#DESCRIPTION [DAZN 2 SPAIN] FOX SPORTS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254951
+#DESCRIPTION [DAZN 2 SPAIN] FOX SPORTS 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254954
+#DESCRIPTION [DAZN 2 SPAIN] EFC PREMIUM FIGHTS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254947
+#DESCRIPTION [DAZN 2 SPAIN] FOX SPORTS PREMIUM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29301
+#DESCRIPTION DE: DAZN 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29302
+#DESCRIPTION DE: DAZN 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29303
+#DESCRIPTION DE: Sky Sport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29304
+#DESCRIPTION DE: Sky Sport 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29310
+#DESCRIPTION DE: SKY BUNDESLIGA 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29311
+#DESCRIPTION DE: SKY BUNDESLIGA 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29312
+#DESCRIPTION DE: SKY BUNDESLIGA 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29313
+#DESCRIPTION DE: SKY BUNDESLIGA 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29314
+#DESCRIPTION DE: SKY BUNDESLIGA 5 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29315
+#DESCRIPTION DE: SKY BUNDESLIGA 6 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29316
+#DESCRIPTION DE: SKY BUNDESLIGA 7 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29317
+#DESCRIPTION DE: SKY BUNDESLIGA 8 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29318
+#DESCRIPTION DE: SKY BUNDESLIGA 9 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29319
+#DESCRIPTION DE: SKY BUNDESLIGA 10 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141375
+#DESCRIPTION DE: Magenta Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141376
+#DESCRIPTION DE: Magenta Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141377
+#DESCRIPTION DE: Magenta Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141378
+#DESCRIPTION DE: Magenta Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141379
+#DESCRIPTION DE: Magenta Sport 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141380
+#DESCRIPTION DE: Magenta Sport 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141381
+#DESCRIPTION DE: Magenta Sport 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141382
+#DESCRIPTION DE: Magenta Sport 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141383
+#DESCRIPTION DE: Magenta Sport 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141384
+#DESCRIPTION DE: Magenta Sport 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141385
+#DESCRIPTION DE: Magenta Sport 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141386
+#DESCRIPTION DE: Magenta Sport 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141387
+#DESCRIPTION DE: Magenta Sport 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141388
+#DESCRIPTION DE: Magenta Sport 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141389
+#DESCRIPTION DE: Magenta Sport 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141390
+#DESCRIPTION DE: Magenta Sport 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141391
+#DESCRIPTION DE: Magenta Sport 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141392
+#DESCRIPTION DE: Magenta Sport 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141393
+#DESCRIPTION DE: Magenta Sport 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141394
+#DESCRIPTION DE: Magenta Sport 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29321
+#DESCRIPTION AMAZON PRIME EVENT 1 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29322
+#DESCRIPTION AMAZON PRIME EVENT 2 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29323
+#DESCRIPTION AMAZON PRIME EVENT 3 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29324
+#DESCRIPTION AMAZON PRIME EVENT 4 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/29325
+#DESCRIPTION AMAZONE PRIME EVENT 5 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/68544
+#DESCRIPTION AMAZONE PRIME EVENT 6 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/197464
+#DESCRIPTION LIGUE 1  01 (EN)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/197465
+#DESCRIPTION LIGUE 1 02 (EN)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/197466
+#DESCRIPTION LIGUE 1 03 (EN)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231411
+#DESCRIPTION EPL : Wolverhampton Wanderers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231412
+#DESCRIPTION EPL : West Ham
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231413
+#DESCRIPTION EPL : Tottenham
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231414
+#DESCRIPTION EPL : Nottingham Forest
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231415
+#DESCRIPTION EPL : Newcastle Utd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231416
+#DESCRIPTION EPL : Manchester Utd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231417
+#DESCRIPTION EPL : Manchester City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231418
+#DESCRIPTION EPL : Liverpool
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231419
+#DESCRIPTION EPL : Fulham
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231420
+#DESCRIPTION EPL : Everton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231421
+#DESCRIPTION EPL : Crystal Palace
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231422
+#DESCRIPTION EPL : Chelsea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231423
+#DESCRIPTION EPL : Brighton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231424
+#DESCRIPTION EPL : Brentford
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231425
+#DESCRIPTION EPL : AFC Bournemouth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231426
+#DESCRIPTION EPL : Aston Villa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231427
+#DESCRIPTION EPL : Arsenal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/257204
+#DESCRIPTION THURSDAY - 3RD - APRIL - PREMIER LEAGUE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/257553
+#DESCRIPTION 21:00 - Chelsea v Tottenham Hotspur - EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/257554
+#DESCRIPTION 21:00 - Chelsea v Tottenham Hotspur - EN - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/257555
+#DESCRIPTION 21:00 - Chelsea v Tottenham Hotspur - IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/257556
+#DESCRIPTION 21:00 - Chelsea v Tottenham Hotspur - IT - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161605
+#DESCRIPTION PREMIER 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163694
+#DESCRIPTION PREMIER 2 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/45236
+#DESCRIPTION PREMIER 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/45237
+#DESCRIPTION PREMIER 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/45238
+#DESCRIPTION PREMIER 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/45239
+#DESCRIPTION PREMIER 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/45240
+#DESCRIPTION PREMIER 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/154015
+#DESCRIPTION PREMIER 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/197461
+#DESCRIPTION EPL 4K UHD 01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/197462
+#DESCRIPTION EPL 4K UHD 02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254199
+#DESCRIPTION Scottish Prem : Rangers TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252883
+#DESCRIPTION CH: blue Zoom D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252884
+#DESCRIPTION CH: blue Zoom F
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252885
+#DESCRIPTION CH: blue SPORT D1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252886
+#DESCRIPTION CH: blue SPORT D2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252887
+#DESCRIPTION CH: blue SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252888
+#DESCRIPTION CH: blue SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252889
+#DESCRIPTION CH: blue SPORT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252890
+#DESCRIPTION CH: blue SPORT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252891
+#DESCRIPTION CH: blue SPORT 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252892
+#DESCRIPTION CH: blue SPORT 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252893
+#DESCRIPTION CH: blue SPORT 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252894
+#DESCRIPTION CH: blue SPORT 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252895
+#DESCRIPTION CH: blue SPORT 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252896
+#DESCRIPTION CH: blue SPORT 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252897
+#DESCRIPTION CH: blue SPORT 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252898
+#DESCRIPTION CH: blue SPORT 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252899
+#DESCRIPTION CH: blue SPORT 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252900
+#DESCRIPTION CH: blue SPORT 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252901
+#DESCRIPTION CH: blue SPORT 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252902
+#DESCRIPTION CH: blue SPORT 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252903
+#DESCRIPTION CH: blue SPORT 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/253053
+#DESCRIPTION blue SPORT 1 UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/253054
+#DESCRIPTION blue SPORT 2 UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/253055
+#DESCRIPTION blue SPORT 3 UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/198512
+#DESCRIPTION UK: F1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/198513
+#DESCRIPTION IT: F1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137931
+#DESCRIPTION F1 TRACKER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137932
+#DESCRIPTION F1 PIT LANE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137933
+#DESCRIPTION F1 DATA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/135296
+#DESCRIPTION F1 TVⓧ: 16 | Charles Leclerc | Ferrari
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137895
+#DESCRIPTION F1 SAI Sainz Ferrari
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/135290
+#DESCRIPTION F1 TVⓧ: 1 | Max Verstappen | Red Bull Racing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/135294
+#DESCRIPTION F1 TVⓧ: 11 | Sergio Perez | Red Bull Racing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/135292
+#DESCRIPTION F1 TVⓧ: 4 | Lando Norris | McLaren
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137897
+#DESCRIPTION F1 RIC Ricciardo McLaren
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/135295
+#DESCRIPTION F1 TVⓧ: 14 | Fernando Alonso | Aston Martin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/135297
+#DESCRIPTION F1 TVⓧ: 18 | Lance Stroll | Aston Martin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137898
+#DESCRIPTION F1 VET Vettel Aston Martin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/135291
+#DESCRIPTION F1 TVⓧ: 2 | Logan Sargeant | Williams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137902
+#DESCRIPTION F1 LAT Latifi Williams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137904
+#DESCRIPTION F1 ALB Albon Williams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/135293
+#DESCRIPTION F1 TVⓧ: 10 | Pierre Gasly | Alpine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137899
+#DESCRIPTION F1 OCO Ocon Alpine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137930
+#DESCRIPTION F1 ALO Alonso Alpine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/135298
+#DESCRIPTION F1 TVⓧ: 20 | Kevin Magnussen | Haas F1 Team
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137900
+#DESCRIPTION F1 MSC Schumacher Haas F1 Team
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137894
+#DESCRIPTION F1 TSU Tsunoda Alpha Tauri
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137896
+#DESCRIPTION F1 RUS Russell Mercedes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137903
+#DESCRIPTION F1 HAM Hamilton Mercedes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137901
+#DESCRIPTION F1 ZHO Zhou Alfa Romeo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137917
+#DESCRIPTION F1 BOT Bottas Alfa Romeo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/194551
+#DESCRIPTION FRIDAY - 27TH - SEPTEMBER - WOMANS SUPER LEAGUE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/158460
+#DESCRIPTION CHAMPIONSHIP LINK 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/158461
+#DESCRIPTION CHAMPIONSHIP LINK 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164854
+#DESCRIPTION CHAMP | Birmingham City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164855
+#DESCRIPTION CHAMP | Blackburn Rovers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164856
+#DESCRIPTION CHAMP | Bristol City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164857
+#DESCRIPTION CHAMP | Cardiff City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164858
+#DESCRIPTION CHAMP | Coventry City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164859
+#DESCRIPTION CHAMP | Huddersfield Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164860
+#DESCRIPTION CHAMP | Hull City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164861
+#DESCRIPTION CHAMP | Ipswich Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164862
+#DESCRIPTION CHAMP | Leeds United
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164863
+#DESCRIPTION CHAMP | Leicester City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164864
+#DESCRIPTION CHAMP | Middlesbrough
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164865
+#DESCRIPTION CHAMP | Milwall
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164866
+#DESCRIPTION CHAMP | Norwich City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164867
+#DESCRIPTION CHAMP | Plymouth Argyle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164868
+#DESCRIPTION CHAMP | Preston North End
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164869
+#DESCRIPTION CHAMP | Queens Park Rangers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164870
+#DESCRIPTION CHAMP | Rotherham United
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164871
+#DESCRIPTION CHAMP | Sheffield Wednesday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164872
+#DESCRIPTION CHAMP | Southampton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164873
+#DESCRIPTION CHAMP | Stoke City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164874
+#DESCRIPTION CHAMP | Sunderland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164875
+#DESCRIPTION CHAMP | Swansea City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164876
+#DESCRIPTION CHAMP | Watford
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164877
+#DESCRIPTION CHAMP | West Bromwich Albion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164878
+#DESCRIPTION L1 | Barnsley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164879
+#DESCRIPTION L1 | Blackpool
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164880
+#DESCRIPTION L1 | Bolton Wanderers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164881
+#DESCRIPTION L1 | Bristol Rovers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164882
+#DESCRIPTION L1 | Burton Albion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164883
+#DESCRIPTION L1 | Cambridge United
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164884
+#DESCRIPTION L1 | Carlisle United
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164885
+#DESCRIPTION L1 | Charlton Athletic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164886
+#DESCRIPTION L1 | Cheltenham Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164887
+#DESCRIPTION L1 | Derby County
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164888
+#DESCRIPTION L1 | Exeter City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164889
+#DESCRIPTION L1 | Fleetwood Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164890
+#DESCRIPTION L1 | Leyton Orient
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164891
+#DESCRIPTION L1 | Lincoln City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164892
+#DESCRIPTION L1 | Northampton Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164893
+#DESCRIPTION L1 | Oxford United
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164894
+#DESCRIPTION L1 | Peterborough United
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164895
+#DESCRIPTION L1 | Port Vale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164896
+#DESCRIPTION L1 | Portsmouth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164897
+#DESCRIPTION L1 | Reading
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164898
+#DESCRIPTION L1 | Shrewsbury Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164899
+#DESCRIPTION L1 | Stevenage
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164900
+#DESCRIPTION L1 | Wigan Athletic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164901
+#DESCRIPTION L1 | Wycombe Wanderers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164902
+#DESCRIPTION L2 | Accrington Stanley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164903
+#DESCRIPTION L2 | AFC Wimbledon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164904
+#DESCRIPTION L2 | Barrow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164905
+#DESCRIPTION L2 | Bradford City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164906
+#DESCRIPTION L2 | Colchester United
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164907
+#DESCRIPTION L2 | Crawley Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164908
+#DESCRIPTION L2 | Crewe Alexandra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164909
+#DESCRIPTION L2 | Doncaster Rovers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164910
+#DESCRIPTION L2 | Forest Green Rovers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164911
+#DESCRIPTION L2 | Gillingham
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164912
+#DESCRIPTION L2 | Grimsby Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164913
+#DESCRIPTION L2 | Harrogate Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164914
+#DESCRIPTION L2 | Mansfield Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164915
+#DESCRIPTION L2 | MK Dons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164916
+#DESCRIPTION L2 | Morecambe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164917
+#DESCRIPTION L2 | Newport County
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164918
+#DESCRIPTION L2 | Notts County
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164919
+#DESCRIPTION L2 | Salford City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164920
+#DESCRIPTION L2 | Stockport County
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164921
+#DESCRIPTION L2 | Sutton United
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164922
+#DESCRIPTION L2 | Swindon Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164923
+#DESCRIPTION L2 | Tranmere Rovers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164924
+#DESCRIPTION L2 | Walsall
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/164925
+#DESCRIPTION L2 | Wrexham AFC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165389
+#DESCRIPTION USA | MLS 01ⓧ: Atlanta United vs Cincinnati | Wed 30th Aug 7:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165390
+#DESCRIPTION USA | MLS 02ⓧ: Charlotte vs Orlando City SC | Wed 30th Aug 7:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165391
+#DESCRIPTION USA | MLS 03ⓧ: Inter Miami vs Nashville SC | Wed 30th Aug 7:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165392
+#DESCRIPTION USA | MLS 04ⓧ: New England vs New York RB | Wed 30th Aug 7:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165393
+#DESCRIPTION USA | MLS 05ⓧ: New York City vs CF Montréal | Wed 30th Aug 7:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165394
+#DESCRIPTION USA | MLS 06ⓧ: Toronto FC vs Philadelphia Union | Wed 30th Aug 7:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165395
+#DESCRIPTION USA | MLS 07ⓧ: Austin vs Seattle Sounders FC | Wed 30th Aug 8:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165396
+#DESCRIPTION USA | MLS 08ⓧ: Chicago Fire vs Vancouver Whitecaps | Wed 30th Aug 8:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165397
+#DESCRIPTION USA | MLS 09ⓧ: Houston Dynamo vs Columbus Crew | Wed 30th Aug 8:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165398
+#DESCRIPTION USA | MLS 10ⓧ: Minnesota United vs Colorado Rapids | Wed 30th Aug 8:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165399
+#DESCRIPTION USA | MLS 11ⓧ: St. Louis City vs Dallas | Wed 30th Aug 8:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165400
+#DESCRIPTION USA | MLS 12ⓧ: Portland Timbers vs Real Salt Lake | Wed 30th Aug 10:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165401
+#DESCRIPTION USA | MLS 13ⓧ: SJ Earthquakes vs LA Galaxy | Wed 30th Aug 10:30PM ET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165402
+#DESCRIPTION USA | MLS 14ⓧ: No Scheduled Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165403
+#DESCRIPTION MLS 01 | Charlotte vs. Orlando | August 30 6:25 pm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165404
+#DESCRIPTION MLS 02 | Miami vs. Nashville | August 30 6:25 pm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165405
+#DESCRIPTION MLS 03 | New England vs. New York | August 30 6:25 pm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165406
+#DESCRIPTION MLS 04 | New York City vs. Montréal | August 30 6:25 pm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165407
+#DESCRIPTION MLS 05 | Toronto vs. Philadelphia | August 30 6:25 pm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165408
+#DESCRIPTION MLS 06 | Austin vs. Seattle | August 30 8:10 pm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165409
+#DESCRIPTION MLS 07:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165410
+#DESCRIPTION MLS 08:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165411
+#DESCRIPTION MLS 09:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165412
+#DESCRIPTION MLS 10:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165413
+#DESCRIPTION MLS 11:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165414
+#DESCRIPTION MLS 12:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165415
+#DESCRIPTION MLS 13:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165416
+#DESCRIPTION MLS 14:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165417
+#DESCRIPTION MLS 15:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165418
+#DESCRIPTION MLS 16:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165419
+#DESCRIPTION MLS 17:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165420
+#DESCRIPTION MLS 18:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165421
+#DESCRIPTION MLS 19:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165422
+#DESCRIPTION MLS 20:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/173521
+#DESCRIPTION THURSDAY - 26TH - OCTOBER - CONFERENCE LEAGUE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179759
+#DESCRIPTION ##### PL REPLAYS #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179760
+#DESCRIPTION UK - PL REPLAY INFO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179761
+#DESCRIPTION UK - PL HIGHLIGHTS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179762
+#DESCRIPTION UK - PL REPLAY 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179763
+#DESCRIPTION UK - PL REPLAY 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179764
+#DESCRIPTION UK - PL REPLAY 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179765
+#DESCRIPTION UK - PL REPLAY 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179766
+#DESCRIPTION UK - PL REPLAY 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179767
+#DESCRIPTION UK - PL REPLAY 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179768
+#DESCRIPTION UK - PL REPLAY 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179769
+#DESCRIPTION UK - PL REPLAY 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179770
+#DESCRIPTION UK - PL REPLAY 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179771
+#DESCRIPTION UK - PL REPLAY 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179772
+#DESCRIPTION ##### EFL IFOLLOW REPLAY #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179773
+#DESCRIPTION UK - EFL-CH REPLAY INFO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179774
+#DESCRIPTION UK - EFL-CH HIGHLIGHTS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179775
+#DESCRIPTION UK - EFL-CH REPLAY 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179776
+#DESCRIPTION UK - EFL-CH REPLAY 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179777
+#DESCRIPTION UK - EFL-CH REPLAY 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179778
+#DESCRIPTION UK - EFL-CH REPLAY 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179779
+#DESCRIPTION UK - EFL-CH REPLAY 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179780
+#DESCRIPTION UK - EFL-CH REPLAY 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179781
+#DESCRIPTION UK - EFL-CH REPLAY 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179782
+#DESCRIPTION UK - EFL-CH REPLAY 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179783
+#DESCRIPTION UK - EFL-CH REPLAY 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179784
+#DESCRIPTION UK - EFL-CH REPLAY 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179785
+#DESCRIPTION UK - EFL-CH REPLAY 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179786
+#DESCRIPTION UK - EFL-CH REPLAY 12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179787
+#DESCRIPTION ##### EFL-L1 REPLAYS #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179788
+#DESCRIPTION UK - EFL-L1 REPLAY INFO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179789
+#DESCRIPTION UK - EFL-L1 REPLAY 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179790
+#DESCRIPTION UK - EFL-L1 REPLAY 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179791
+#DESCRIPTION UK - EFL-L1 REPLAY 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179792
+#DESCRIPTION UK - EFL-L1 REPLAY 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179793
+#DESCRIPTION UK - EFL-L1 REPLAY 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179794
+#DESCRIPTION UK - EFL-L1 REPLAY 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179795
+#DESCRIPTION UK - EFL-L1 REPLAY 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179796
+#DESCRIPTION UK - EFL-L1 REPLAY 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179797
+#DESCRIPTION UK - EFL-L1 REPLAY 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179798
+#DESCRIPTION UK - EFL-L1 REPLAY 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179799
+#DESCRIPTION UK - EFL-L1 REPLAY 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179800
+#DESCRIPTION UK - EFL-L1 REPLAY 12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179801
+#DESCRIPTION ##### EFL-L2 REPLAYS #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179802
+#DESCRIPTION UK - EFL-L2 REPLAY INFO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179803
+#DESCRIPTION UK - EFL-L2 REPLAY 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179804
+#DESCRIPTION UK - EFL-L2 REPLAY 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179805
+#DESCRIPTION UK - EFL-L2 REPLAY 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179806
+#DESCRIPTION UK - EFL-L2 REPLAY 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179807
+#DESCRIPTION UK - EFL-L2 REPLAY 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179808
+#DESCRIPTION UK - EFL-L2 REPLAY 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179809
+#DESCRIPTION UK - EFL-L2 REPLAY 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179810
+#DESCRIPTION UK - EFL-L2 REPLAY 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179811
+#DESCRIPTION UK - EFL-L2 REPLAY 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179812
+#DESCRIPTION UK - EFL-L2 REPLAY 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179813
+#DESCRIPTION UK - EFL-L2 REPLAY 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179814
+#DESCRIPTION UK - EFL-L2 REPLAY 12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/256447
+#DESCRIPTION UEFA NATIONS LEAGUE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/257216
+#DESCRIPTION FRIDAY - 4TH - APRIL - LA LIGA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/257682
+#DESCRIPTION 21:00 - Rayo Vallecano v Espanyol - EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/257683
+#DESCRIPTION 21:00 - Rayo Vallecano v Espanyol - ES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163575
+#DESCRIPTION LA LIGA 11 EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163576
+#DESCRIPTION LA LIGA 22 EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/27285
+#DESCRIPTION LA LIGA 1 ES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/27286
+#DESCRIPTION LA LIGA 2 ES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/27287
+#DESCRIPTION LA LIGA 3 ES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/27281
+#DESCRIPTION LA LIGA 1 EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/27282
+#DESCRIPTION LA LIGA 2 EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/27283
+#DESCRIPTION LA LIGA 3 EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/27284
+#DESCRIPTION LA LIGA 4 EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231432
+#DESCRIPTION FA Player 01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231433
+#DESCRIPTION FA Player 02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/231434
+#DESCRIPTION FA Player 03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/229613
+#DESCRIPTION USA | UFC Fight Pass 24/7ⓧ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/245520
+#DESCRIPTION DAZN ITALIA -  Oleksandr Usyk vs. Tyson Fury 2 - IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/177226
+#DESCRIPTION PPV 01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/177225
+#DESCRIPTION PPV 02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/177223
+#DESCRIPTION PPV 03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/177224
+#DESCRIPTION PPV 04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/178877
+#DESCRIPTION PPV 05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/178878
+#DESCRIPTION PPV 06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/178879
+#DESCRIPTION PPV 07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/178880
+#DESCRIPTION PPV 08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/178881
+#DESCRIPTION PPV 09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/250030
+#DESCRIPTION LIVE EVENT 01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/250033
+#DESCRIPTION LIVE EVENT 02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/250034
+#DESCRIPTION LIVE EVENT 03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/250022
+#DESCRIPTION WWE LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/257367
+#DESCRIPTION FRIDAY - 4TH - APRIL - SERIE A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/257684
+#DESCRIPTION 20:45 - Genoa v Udinese - EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/257685
+#DESCRIPTION 20:45 - Genoa v Udinese - IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/257686
+#DESCRIPTION 20:45 - Genoa v Udinese - IT - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/168102
+#DESCRIPTION IT: SERIE A1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/168103
+#DESCRIPTION IT: SERIE A2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/169006
+#DESCRIPTION IT: SERIE A3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/169007
+#DESCRIPTION IT: SERIE A4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/169008
+#DESCRIPTION IT: SERIE A5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/169009
+#DESCRIPTION IT: SERIE A6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/169010
+#DESCRIPTION IT: SERIE A7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/169011
+#DESCRIPTION IT: SERIE A8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/169012
+#DESCRIPTION IT: SERIE A9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/169013
+#DESCRIPTION IT: SERIE A10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163584
+#DESCRIPTION EN: SERIE A1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163585
+#DESCRIPTION EN: SERIE A2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163591
+#DESCRIPTION EN: SERIE A3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163592
+#DESCRIPTION EN: SERIE A4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163593
+#DESCRIPTION EN: SERIE A5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/45259
+#DESCRIPTION IT: SKY SPORTS BAR DUE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/45257
+#DESCRIPTION IT: SKY SPORTS BAR UNO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/188945
+#DESCRIPTION SERIE A TIM FEMMINILE 1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/188954
+#DESCRIPTION SERIE A TIM FEMMINILE 5 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/188952
+#DESCRIPTION SERIE A TIM FEMMINILE 4 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/188949
+#DESCRIPTION SERIE A TIM FEMMINILE 3 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/188947
+#DESCRIPTION SERIE A TIM FEMMINILE 2 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165159
+#DESCRIPTION [2023] DAZN DIRETTA GOL SERIE B HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165160
+#DESCRIPTION [2023] DAZN DIRETTA GOL SERIE B SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165162
+#DESCRIPTION [2023-ITA] DAZN WEB 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165163
+#DESCRIPTION [2023-ITA] DAZN WEB 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165164
+#DESCRIPTION [2023-ITA] DAZN WEB 2 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165165
+#DESCRIPTION [2023-ITA] DAZN WEB 3 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165166
+#DESCRIPTION [2023-ITA] DAZN WEB 4 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165167
+#DESCRIPTION [2023-ITA] DAZN WEB 5 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165168
+#DESCRIPTION [2023-ITA] DAZN WEB 6 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165169
+#DESCRIPTION [2023-ITA] DAZN WEB 7 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165170
+#DESCRIPTION [2023-ITA] DAZN WEB 8 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165171
+#DESCRIPTION [2023-ITA] DAZN WEB 9 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165172
+#DESCRIPTION [2023-ITA] DAZN WEB 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165173
+#DESCRIPTION [2023-ITA] DAZN WEB 10 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165174
+#DESCRIPTION [2023-ITA] DAZN WEB 11 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165175
+#DESCRIPTION [2023-ITA] DAZN WEB 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165176
+#DESCRIPTION [2023-ITA] DAZN WEB 11 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165177
+#DESCRIPTION [2023-ITA] DAZN WEB 12 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165178
+#DESCRIPTION [2023-ITA] DAZN WEB 12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165179
+#DESCRIPTION [2023-ITA] DAZN WEB 12 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165180
+#DESCRIPTION [2023-ITA] DAZN WEB 13 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165181
+#DESCRIPTION [2023-ITA] DAZN WEB 13 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165182
+#DESCRIPTION [2023-ITA] DAZN WEB 13 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165183
+#DESCRIPTION [2023-ITA] DAZN WEB 14 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165184
+#DESCRIPTION [2023-ITA] DAZN WEB 14 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165185
+#DESCRIPTION [2023-ITA] DAZN WEB 14 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165186
+#DESCRIPTION [2023-ITA] DAZN WEB 15 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165187
+#DESCRIPTION [2023-ITA] DAZN WEB 15 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165188
+#DESCRIPTION [2023-ITA] DAZN WEB 15 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165139
+#DESCRIPTION [FLUX-ITA] DAZN WEB 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165141
+#DESCRIPTION [FLUX-ITA] DAZN WEB 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165142
+#DESCRIPTION [FLUX-ITA] DAZN WEB 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165143
+#DESCRIPTION [FLUX-ITA] DAZN WEB 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165144
+#DESCRIPTION [FLUX-ITA] DAZN WEB 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165145
+#DESCRIPTION [FLUX-ITA] DAZN WEB 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165146
+#DESCRIPTION [FLUX-ITA] DAZN WEB 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165147
+#DESCRIPTION [FLUX-ITA] DAZN WEB 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165148
+#DESCRIPTION [FLUX-ITA] DAZN WEB 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165140
+#DESCRIPTION [FLUX-ITA] DAZN WEB 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165136
+#DESCRIPTION [FLUX-ITA] DAZN WEB 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165137
+#DESCRIPTION [FLUX-PLUS] DAZN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165153
+#DESCRIPTION [2023] DAZN DIRETTA GOL SERIE A SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165154
+#DESCRIPTION [2023-ITA] DAZN DIRETTA GOL EUROPA LEAGUE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165155
+#DESCRIPTION [2023-ITA] DAZN DIRETTA GOL EUROPA LEAGUE SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165156
+#DESCRIPTION [2023-ITA] DAZN DIRETTA GOL SERIE A FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165157
+#DESCRIPTION [2023-ITA] DAZN DIRETTA GOL SERIE B FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165158
+#DESCRIPTION [2023-ITA] DAZN DIRETTA GOL EUROPA LEAGUE FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165161
+#DESCRIPTION [2023-ITA] DAZN REDBULL FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165149
+#DESCRIPTION [FLUX-ITA] DAZN BAR FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165150
+#DESCRIPTION [FLUX-ITA] DAZN BAR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165151
+#DESCRIPTION [FLUX-ITA] DAZN BAR SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165152
+#DESCRIPTION [2023] DAZN DIRETTA GOL SERIE A HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/206887
+#DESCRIPTION ----SNOOKER----
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179710
+#DESCRIPTION SNOOKER ROOM 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179711
+#DESCRIPTION SNOOKER ROOM 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179823
+#DESCRIPTION SNOOKER ROOM 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179824
+#DESCRIPTION SNOOKER ROOM 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/183118
+#DESCRIPTION SNOOKER ROOM 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/183119
+#DESCRIPTION SNOOKER ROOM 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/206888
+#DESCRIPTION ----BILLIARD----
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179827
+#DESCRIPTION ULTIMATE POOL 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179826
+#DESCRIPTION ULTIMATE POOL 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179825
+#DESCRIPTION ULTIMATE POOL 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/206889
+#DESCRIPTION ----DARTS----
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/251504
+#DESCRIPTION IT: PDC DARTS DAZN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/69793
+#DESCRIPTION UK: PDC DARTS TV 1 (Live Events Only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/127279
+#DESCRIPTION UK: PDC DARTS TV 2 (Live Events Only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/251503
+#DESCRIPTION UK: PDC DARTS TV 3 (Live Events Only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252145
+#DESCRIPTION ES: DAZN LA LIGA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252222
+#DESCRIPTION ES: LA LIGA TV BAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252223
+#DESCRIPTION ES: LA LIGA TV BAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252226
+#DESCRIPTION ES: LALIGA Inside
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252227
+#DESCRIPTION ES: LALIGA Inside
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252228
+#DESCRIPTION ES: LALIGABAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252229
+#DESCRIPTION ES: LaLigaT V
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252230
+#DESCRIPTION ES: LIGA BAR 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252246
+#DESCRIPTION ES: M+ DEPORTES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252247
+#DESCRIPTION ES: M+ DEPORTES 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252248
+#DESCRIPTION ES: M+ DEPORTES 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252249
+#DESCRIPTION ES: M+ DEPORTES 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252250
+#DESCRIPTION ES: M+ DEPORTES 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252257
+#DESCRIPTION ES: M+ LA LIGA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252258
+#DESCRIPTION ES: M+ LA LIGA (ORANGE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252259
+#DESCRIPTION ES: M+ LA LIGA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252260
+#DESCRIPTION ES: M+ LA LIGA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252261
+#DESCRIPTION ES: M+ LA LIGA 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252262
+#DESCRIPTION ES: M+ LA LIGA 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252263
+#DESCRIPTION ES: M+ LA LIGA 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252264
+#DESCRIPTION ES: M+ LA LIGA UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252266
+#DESCRIPTION ES: M+ LIGA DE CAMPEONES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252267
+#DESCRIPTION ES: M+ LIGA DE CAMPEONES (ORANGE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252268
+#DESCRIPTION ES: M+ LIGA DE CAMPEONES 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252269
+#DESCRIPTION ES: M+ LIGA DE CAMPEONES 2 (ORANGE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252270
+#DESCRIPTION ES: M+ LIGA DE CAMPEONES 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252271
+#DESCRIPTION ES: M+ LIGA DE CAMPEONES 3 (ORANGE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252272
+#DESCRIPTION ES: M+ LIGA DE CAMPEONES 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/252273
+#DESCRIPTION ES: M+ LIGA DE CAMPEONES 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85837
+#DESCRIPTION ES: CANAL+ LA LIGA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181966
+#DESCRIPTION ES: MOVISTAR LaLiga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181967
+#DESCRIPTION ES: MOVISTAR LaLiga 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181968
+#DESCRIPTION ES: MOVISTAR LaLiga 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181969
+#DESCRIPTION ES: MOVISTAR LaLiga 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181970
+#DESCRIPTION ES: MOVISTAR LaLiga 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181971
+#DESCRIPTION ES: MOVISTAR LaLiga 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181972
+#DESCRIPTION ES: MOVISTAR LaLiga 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181973
+#DESCRIPTION ES: MOVISTAR LIGA DE CAMPEONES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181974
+#DESCRIPTION ES: MOVISTAR LIGA DE CAMPEONES 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181975
+#DESCRIPTION ES: Movistar Liga De Campeones 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181976
+#DESCRIPTION ES: Movistar Liga De Campeones 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181977
+#DESCRIPTION ES: Movistar Liga De Campeones 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181978
+#DESCRIPTION ES: Movistar Liga De Campeones 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181979
+#DESCRIPTION ES: Movistar Liga De Campeones 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181980
+#DESCRIPTION ES: Movistar Liga De Campeones 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85821
+#DESCRIPTION ES: M+ LALIGA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85822
+#DESCRIPTION ES: M+ LALIGA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85823
+#DESCRIPTION ES: M+ LALIGA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85824
+#DESCRIPTION ES: M+ LALIGA 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85826
+#DESCRIPTION ES: DAZN 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85827
+#DESCRIPTION ES: DAZN 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85828
+#DESCRIPTION ES: DAZN 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85829
+#DESCRIPTION ES: DAZN 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85830
+#DESCRIPTION ES: DAZN F1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85831
+#DESCRIPTION ES: M+ LIGA DE CAMPEONES 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85832
+#DESCRIPTION ES: MOVISTAR DEPORTES 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85833
+#DESCRIPTION ES: MOVISTAR DEPORTES 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/85879
+#DESCRIPTION ES: MOVISTAR LCAMPEON 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/180424
+#DESCRIPTION ES: ESPN DEPORTE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181883
+#DESCRIPTION ES: DAZN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181884
+#DESCRIPTION ES: DAZN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181885
+#DESCRIPTION ES: DAZN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181886
+#DESCRIPTION ES: DAZN 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181887
+#DESCRIPTION ES: DAZN F1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181888
+#DESCRIPTION ES: DAZN LaLiga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181889
+#DESCRIPTION ES: DAZN LaLiga 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181904
+#DESCRIPTION ES: ESPN Deportes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181944
+#DESCRIPTION ES: M+ Ellas #V
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181959
+#DESCRIPTION ES: Movistar Deportes 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181960
+#DESCRIPTION ES: Movistar Deportes 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181965
+#DESCRIPTION ES: MOVISTAR La Resistencia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/181988
+#DESCRIPTION ES: Multideporte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/182029
+#DESCRIPTION ES: Teledeporte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186123
+#DESCRIPTION Spain- Dazn 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186124
+#DESCRIPTION Spain- Dazn 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186125
+#DESCRIPTION Spain- Dazn 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186126
+#DESCRIPTION Spain- Dazn 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186127
+#DESCRIPTION Spain- Movistar DEPORTE 1 (SOLO EVENTOS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186128
+#DESCRIPTION Spain- Movistar DEPORTE 2 (SOLO EVENTOS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186129
+#DESCRIPTION Spain- Movistar DEPORTE 3 (SOLO EVENTOS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186130
+#DESCRIPTION Spain- Movistar DEPORTE 4 (SOLO EVENTOS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186131
+#DESCRIPTION Spain- Movistar DEPORTE 5 (SOLO EVENTOS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186132
+#DESCRIPTION Spain- Movistar DEPORTE 6 (SOLO EVENTOS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186133
+#DESCRIPTION Spain- Movistar DEPORTE 7 (SOLO EVENTOS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186134
+#DESCRIPTION Spain- Movistar Deportes  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186149
+#DESCRIPTION Spain- MOVISTAR La Liga TV Bar HD / DirecTv Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186148
+#DESCRIPTION Spain- MOVISTAR LA LIGA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186138
+#DESCRIPTION Spain- MOVISTAR LA LIGA 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186140
+#DESCRIPTION Spain- MOVISTAR LA LIGA 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186141
+#DESCRIPTION Spain- MOVISTAR LA LIGA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186142
+#DESCRIPTION Spain- MOVISTAR LA LIGA 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186143
+#DESCRIPTION Spain- MOVISTAR LA LIGA 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186144
+#DESCRIPTION Spain- MOVISTAR LA LIGA 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186145
+#DESCRIPTION Spain- MOVISTAR LA LIGA 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186146
+#DESCRIPTION Spain- MOVISTAR LA LIGA 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186147
+#DESCRIPTION Spain- MOVISTAR LA LIGA 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186139
+#DESCRIPTION Spain- MOVISTAR LA LIGA 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186150
+#DESCRIPTION Spain- MOVISTAR LIGA CAMPEONES 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186151
+#DESCRIPTION Spain- MOVISTAR LIGA CAMPEONES 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186152
+#DESCRIPTION Spain- MOVISTAR LIGA CAMPEONES 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186153
+#DESCRIPTION Spain- MOVISTAR LIGA CAMPEONES 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186154
+#DESCRIPTION Spain- MOVISTAR LIGA CAMPEONES 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186155
+#DESCRIPTION Spain- MOVISTAR LIGA CAMPEONES 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186156
+#DESCRIPTION Spain- MOVISTAR LIGA CAMPEONES 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186157
+#DESCRIPTION Spain- MOVISTAR LIGA CAMPEONES 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186158
+#DESCRIPTION Spain- MOVISTAR LIGA CAMPEONES HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186159
+#DESCRIPTION Spain- MOVISTAR LIGA DE CAMPEONES 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237346
+#DESCRIPTION ZA: SuperSport Premier League
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237347
+#DESCRIPTION ZA: SuperSport PSL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237332
+#DESCRIPTION ZA: SuperSport Football
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237335
+#DESCRIPTION ZA: SuperSport LaLiga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237329
+#DESCRIPTION ZA: SuperSport Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237330
+#DESCRIPTION ZA: SuperSport Blitz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237331
+#DESCRIPTION ZA: SuperSport Cricket
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237333
+#DESCRIPTION ZA: SuperSport Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237334
+#DESCRIPTION ZA: SuperSport Grandstand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237336
+#DESCRIPTION ZA: SuperSport Maximo 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237337
+#DESCRIPTION ZA: SuperSport Motorsport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237345
+#DESCRIPTION ZA: SuperSport Play
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237348
+#DESCRIPTION ZA: SuperSport Rugby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237349
+#DESCRIPTION ZA: SuperSport Tennis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237350
+#DESCRIPTION ZA: SuperSport Variety 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237351
+#DESCRIPTION ZA: SuperSport Variety 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239214
+#DESCRIPTION ZA: SUPERSPORT Variety 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237352
+#DESCRIPTION ZA: SuperSport Variety 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237338
+#DESCRIPTION ZA: SuperSport OTT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237339
+#DESCRIPTION ZA: SuperSport OTT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237340
+#DESCRIPTION ZA: SuperSport OTT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237341
+#DESCRIPTION ZA: SuperSport OTT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237342
+#DESCRIPTION ZA: SuperSport OTT 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237343
+#DESCRIPTION ZA: SuperSport OTT 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237344
+#DESCRIPTION ZA: SuperSport OTT 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237245
+#DESCRIPTION ZA: Canal+ Foot
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237246
+#DESCRIPTION ZA: Canal+ Formule 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237248
+#DESCRIPTION ZA: CANAL+ Premier League
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237249
+#DESCRIPTION ZA: CANAL+ Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237250
+#DESCRIPTION ZA: CANAL+ Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237251
+#DESCRIPTION ZA: CANAL+ Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237252
+#DESCRIPTION ZA: CANAL+ Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237253
+#DESCRIPTION ZA: Canal+ Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237254
+#DESCRIPTION ZA: CANAL+ Sport 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/237255
+#DESCRIPTION ZA: CANAL+ Sport 360
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5660
+#DESCRIPTION IT: DAZN VETRINA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163640
+#DESCRIPTION [FLUX-ITA] VETRINA DAZN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163667
+#DESCRIPTION [2023-ITA] DAZN WEB 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163668
+#DESCRIPTION [2023-ITA] DAZN WEB 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163669
+#DESCRIPTION [2023-ITA] DAZN WEB 2 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163670
+#DESCRIPTION [2023-ITA] DAZN WEB 3 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163671
+#DESCRIPTION [2023-ITA] DAZN WEB 4 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163672
+#DESCRIPTION [2023-ITA] DAZN WEB 5 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163673
+#DESCRIPTION [2023-ITA] DAZN WEB 6 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163674
+#DESCRIPTION [2023-ITA] DAZN WEB 7 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163675
+#DESCRIPTION [2023-ITA] DAZN WEB 8 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163676
+#DESCRIPTION [2023-ITA] DAZN WEB 9 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163677
+#DESCRIPTION [2023-ITA] DAZN WEB 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163678
+#DESCRIPTION [2023-ITA] DAZN WEB 10 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163679
+#DESCRIPTION [2023-ITA] DAZN WEB 11 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163680
+#DESCRIPTION [2023-ITA] DAZN WEB 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163681
+#DESCRIPTION [2023-ITA] DAZN WEB 11 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163682
+#DESCRIPTION [2023-ITA] DAZN WEB 12 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163683
+#DESCRIPTION [2023-ITA] DAZN WEB 12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163684
+#DESCRIPTION [2023-ITA] DAZN WEB 12 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163685
+#DESCRIPTION [2023-ITA] DAZN WEB 13 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163686
+#DESCRIPTION [2023-ITA] DAZN WEB 13 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163687
+#DESCRIPTION [2023-ITA] DAZN WEB 13 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163688
+#DESCRIPTION [2023-ITA] DAZN WEB 14 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163689
+#DESCRIPTION [2023-ITA] DAZN WEB 14 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163690
+#DESCRIPTION [2023-ITA] DAZN WEB 14 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163691
+#DESCRIPTION [2023-ITA] DAZN WEB 15 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163692
+#DESCRIPTION [2023-ITA] DAZN WEB 15 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163693
+#DESCRIPTION [2023-ITA] DAZN WEB 15 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5661
+#DESCRIPTION IT: DAZN WEB 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5662
+#DESCRIPTION IT: DAZN WEB 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5663
+#DESCRIPTION IT: DAZN WEB 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5664
+#DESCRIPTION IT: DAZN WEB 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5665
+#DESCRIPTION IT: DAZN WEB 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5666
+#DESCRIPTION IT: DAZN WEB 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5667
+#DESCRIPTION IT: DAZN WEB 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5668
+#DESCRIPTION IT: DAZN WEB 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5669
+#DESCRIPTION IT: DAZN WEB 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/54045
+#DESCRIPTION IT:  ZONA DAZN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163641
+#DESCRIPTION [FLUX-ITA] DAZN WEB 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163642
+#DESCRIPTION [FLUX-PLUS] DAZN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163643
+#DESCRIPTION [FLUX DE] DAZN BAR 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163644
+#DESCRIPTION [FLUX-ITA] DAZN WEB 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163646
+#DESCRIPTION [FLUX-ITA] DAZN WEB 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163647
+#DESCRIPTION [FLUX-ITA] DAZN WEB 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163648
+#DESCRIPTION [FLUX-ITA] DAZN WEB 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163649
+#DESCRIPTION [FLUX-ITA] DAZN WEB 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163650
+#DESCRIPTION [FLUX-ITA] DAZN WEB 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163651
+#DESCRIPTION [FLUX-ITA] DAZN WEB 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163652
+#DESCRIPTION [FLUX-ITA] DAZN WEB 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163653
+#DESCRIPTION [FLUX-ITA] DAZN WEB 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163645
+#DESCRIPTION [FLUX-ITA] DAZN WEB 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163654
+#DESCRIPTION [FLUX-ITA] DAZN BAR FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163655
+#DESCRIPTION [FLUX-ITA] DAZN BAR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163656
+#DESCRIPTION [FLUX-ITA] DAZN BAR SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163657
+#DESCRIPTION [2023] DAZN DIRETTA GOL SERIE A HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163658
+#DESCRIPTION [2023] DAZN DIRETTA GOL SERIE A SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163659
+#DESCRIPTION [2023-ITA] DAZN DIRETTA GOL EUROPA LEAGUE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163660
+#DESCRIPTION [2023-ITA] DAZN DIRETTA GOL EUROPA LEAGUE SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163661
+#DESCRIPTION [2023-ITA] DAZN DIRETTA GOL SERIE A FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163662
+#DESCRIPTION [2023-ITA] DAZN DIRETTA GOL SERIE B FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163663
+#DESCRIPTION [2023-ITA] DAZN DIRETTA GOL EUROPA LEAGUE FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163664
+#DESCRIPTION [2023] DAZN DIRETTA GOL SERIE B HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163665
+#DESCRIPTION [2023] DAZN DIRETTA GOL SERIE B SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163666
+#DESCRIPTION [2023-ITA] DAZN REDBULL FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/105119
+#DESCRIPTION CA: DAZN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/105120
+#DESCRIPTION CA: DAZN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/105121
+#DESCRIPTION CA: DAZN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/123815
+#DESCRIPTION CA: DAZN 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/123816
+#DESCRIPTION CA: DAZN 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/243259
+#DESCRIPTION DAZN UK - Event 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/243260
+#DESCRIPTION DAZN UK - Event 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/243261
+#DESCRIPTION DAZN ES - Event 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1952
+#DESCRIPTION IT: SKY SPORTS BAR UNO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1953
+#DESCRIPTION IT: SKY SPORTS BAR UNO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1954
+#DESCRIPTION IT: SKY SPORTS BAR DUE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1955
+#DESCRIPTION IT: SKY SPORTS BAR DUE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1956
+#DESCRIPTION IT: SKY SPORTS BAR PRIMEVIDEO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1957
+#DESCRIPTION IT: SKY SPORTS BAR PRIMEVIDEO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1950
+#DESCRIPTION IT: SKY SPORTS 24 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1951
+#DESCRIPTION IT: SKY SPORTS 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1958
+#DESCRIPTION IT: SKY SPORTS GOLF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/60770
+#DESCRIPTION IT: SKY SPORTS GOLF FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1959
+#DESCRIPTION IT: SKY SPORTS UNO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1960
+#DESCRIPTION IT: SKY SPORTS UNO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/176941
+#DESCRIPTION IT: SKY SPORTS UNO UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1961
+#DESCRIPTION IT: SKY SPORTS MAX FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1962
+#DESCRIPTION IT: SKY SPORTS MAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/176942
+#DESCRIPTION IT: SKY SPORTS MAX UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1963
+#DESCRIPTION IT: SKY SPORTS ARENA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1964
+#DESCRIPTION IT: SKY SPORTS ARENA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1965
+#DESCRIPTION IT: SKY SPORTS TENNIS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1966
+#DESCRIPTION IT: SKY SPORTS TENNIS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1967
+#DESCRIPTION IT: SKY SPORTS F1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1968
+#DESCRIPTION IT: SKY SPORTS F1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/195899
+#DESCRIPTION IT: SKY SPORTS ACI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1969
+#DESCRIPTION IT: SKY SPORTS NBA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1970
+#DESCRIPTION IT: SKY SPORTS NBA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1971
+#DESCRIPTION IT: SKY SPORTS MOTOGP FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1973
+#DESCRIPTION IT: SKY SPORTS MOTOGP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/254278
+#DESCRIPTION IT: TOP CALCIO 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1972
+#DESCRIPTION IT: BIKE CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1974
+#DESCRIPTION IT: RAI SPORTS  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1975
+#DESCRIPTION IT: SPORT ITALIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1976
+#DESCRIPTION IT: SPORTS ITALIA 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1977
+#DESCRIPTION IT: MOTO TREND FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1978
+#DESCRIPTION IT: SPORTS ITALIA MOTORI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1979
+#DESCRIPTION IT: SPORTS ITALIA CALCIO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1980
+#DESCRIPTION IT: JUVENTUS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1981
+#DESCRIPTION IT: MILAN CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163786
+#DESCRIPTION IT: MILAN TV B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/126889
+#DESCRIPTION IT: INTER CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1982
+#DESCRIPTION IT: INTER CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1983
+#DESCRIPTION IT: ROMA CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1984
+#DESCRIPTION IT: LAZIO CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1985
+#DESCRIPTION IT: TORINO CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1986
+#DESCRIPTION IT: WWE LIVE EVENTS ONLY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1987
+#DESCRIPTION IT: SUPER TENNIS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1988
+#DESCRIPTION IT: SKY SPORTS SERIE A  FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1989
+#DESCRIPTION IT: SKY SPORTS SERIE A HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165599
+#DESCRIPTION IT: SOLO CALCIO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/189256
+#DESCRIPTION IT: SKY SPORTS CALCIO UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1990
+#DESCRIPTION IT: SKY CALCIO 1 FHD 251
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1991
+#DESCRIPTION IT: SKY CALCIO 1 HD 251
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1992
+#DESCRIPTION IT: SKY CALCIO 2 FHD 252
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1993
+#DESCRIPTION IT: SKY CALCIO 2 HD 252
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1994
+#DESCRIPTION IT: SKY CALCIO 3 FHD 253
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1995
+#DESCRIPTION IT: SKY CALCIO 3 HD 253
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1996
+#DESCRIPTION IT: SKY CALCIO 254 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1997
+#DESCRIPTION IT: SKY CALCIO 254 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1998
+#DESCRIPTION IT: SKY CALCIO 255 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1999
+#DESCRIPTION IT: SKY CALCIO 255 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/2000
+#DESCRIPTION IT: SKY CALCIO 256 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/2005
+#DESCRIPTION IT: SKY CALCIO 256 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/123398
+#DESCRIPTION IT: SKY CALCIO 7 FHD 257
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/123399
+#DESCRIPTION IT: SKY CALCIO 7 HD 257
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/2001
+#DESCRIPTION IT: PRIME 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/2002
+#DESCRIPTION IT: PRIME 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/2003
+#DESCRIPTION IT: PRIME 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/2004
+#DESCRIPTION IT: PRIME 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/2006
+#DESCRIPTION IT: PRIME 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/2007
+#DESCRIPTION IT: PRIME 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/2008
+#DESCRIPTION IT: FISHING TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/2011
+#DESCRIPTION IT: EUROSPORTS PLAYER LIVE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/2012
+#DESCRIPTION IT: EUROSPORT PLAYER LIVE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/189257
+#DESCRIPTION IT: SKY SPORTS CALCIO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239193
+#DESCRIPTION Blue Sport 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239194
+#DESCRIPTION Blue Sport 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239195
+#DESCRIPTION Blue Sport D1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239196
+#DESCRIPTION Blue Sport D2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239197
+#DESCRIPTION Blue Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239198
+#DESCRIPTION Blue Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239199
+#DESCRIPTION Blue Sport 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239200
+#DESCRIPTION Blue Sport 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239201
+#DESCRIPTION Blue Sport 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239202
+#DESCRIPTION Blue Sport 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239203
+#DESCRIPTION Blue Sport 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239204
+#DESCRIPTION Blue Sport 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239205
+#DESCRIPTION Blue Sport 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239206
+#DESCRIPTION Blue Sport 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239207
+#DESCRIPTION Blue Sport 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239208
+#DESCRIPTION Blue Sport 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239209
+#DESCRIPTION BlueSport Zoom DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239210
+#DESCRIPTION Blue Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239211
+#DESCRIPTION Blue Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239212
+#DESCRIPTION Blue Sport F
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/239213
+#DESCRIPTION Blue Sport 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1806
+#DESCRIPTION UK: SKY SPORTS NEWS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1807
+#DESCRIPTION UK: SKY SPORTS NEWS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1808
+#DESCRIPTION UK: SKY SPORTS MAIN EVEN FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1809
+#DESCRIPTION UK: SKY SPORTS MAIN EVENT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1815
+#DESCRIPTION UK: SKY SPORTS PREMIER LEAGUE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186468
+#DESCRIPTION UK: SKY SPORTS MAIN EVENT 50FPS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186467
+#DESCRIPTION UK: SKY SPORTS MAIN EVENT HVEC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1814
+#DESCRIPTION UK: SKY SPORTS PREMIER LEAGUE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186470
+#DESCRIPTION UK: SKY SPORTS PREMIER LEAGUE HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1817
+#DESCRIPTION UK: SKY SPORTS FOOTBALL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1816
+#DESCRIPTION UK: SKY SPORTS FOOTBALL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186469
+#DESCRIPTION UK: SKY SPORTS FOOTBALL 50FPS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186462
+#DESCRIPTION UK: SKY SPORTS FOOTBALL HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/203330
+#DESCRIPTION UK: SKY SPORTS TENNIS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1810
+#DESCRIPTION UK: SKY SPORTS NFL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1811
+#DESCRIPTION UK: SKY SPORTS NFL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1812
+#DESCRIPTION UK: SKY SPORTS ARENA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1813
+#DESCRIPTION UK: SKY SPORTS ARENA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1818
+#DESCRIPTION UK: SKY SPORTS GOLF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1819
+#DESCRIPTION UK: SKY SPORTS GOLF FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1820
+#DESCRIPTION UK: SKY SPORTS CRICKET FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1821
+#DESCRIPTION UK: SKY SPORTS CRICKET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1822
+#DESCRIPTION UK: SKY F1 UK FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1824
+#DESCRIPTION UK: SKY SPORTS F1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/137437
+#DESCRIPTION UK: SKY F1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/163577
+#DESCRIPTION UK: TNT Sports Ultimate 4K UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/177145
+#DESCRIPTION UK: TNT SPORTS 1 FHD 50FPS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161577
+#DESCRIPTION TNT Sports 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/242930
+#DESCRIPTION UK: TNT SPORTS 1 FHD HVEC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161578
+#DESCRIPTION TNT Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161579
+#DESCRIPTION TNT Sports 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161580
+#DESCRIPTION TNT Sports 2 50 FPS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161581
+#DESCRIPTION TNT Sports 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/242931
+#DESCRIPTION UK: TNT SPORTS 2 FHD HVEC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161582
+#DESCRIPTION TNT Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161583
+#DESCRIPTION TNT Sports 2 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161584
+#DESCRIPTION TNT Sports 3 50 FPS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161585
+#DESCRIPTION TNT Sports 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/242932
+#DESCRIPTION UK: TNT SPORTS 3 FHD HVEC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161586
+#DESCRIPTION TNT Sports 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161587
+#DESCRIPTION TNT Sports 3 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161588
+#DESCRIPTION TNT Sports 4 50 FPS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161589
+#DESCRIPTION TNT Sports 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/242933
+#DESCRIPTION UK: TNT SPORTS 4 HVEC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161590
+#DESCRIPTION TNT Sports 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161591
+#DESCRIPTION TNT Sports 4 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161592
+#DESCRIPTION TNT Sports 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161593
+#DESCRIPTION TNT Sports 5 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161594
+#DESCRIPTION TNT Sports 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161595
+#DESCRIPTION TNT Sports 6 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161596
+#DESCRIPTION TNT Sports 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161597
+#DESCRIPTION TNT Sports 7 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161598
+#DESCRIPTION TNT Sports 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161599
+#DESCRIPTION TNT Sports 8 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161600
+#DESCRIPTION TNT Sports 9 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161601
+#DESCRIPTION TNT Sports 10 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161602
+#DESCRIPTION TNT Sports Box Office FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161603
+#DESCRIPTION TNT Sports Box Office HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/161604
+#DESCRIPTION TNT Sports Box Office SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1844
+#DESCRIPTION UK: LIVERPOOL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1845
+#DESCRIPTION UK: LIVERPOOL TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1846
+#DESCRIPTION UK: MAN UTD TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1847
+#DESCRIPTION UK: MAN UTD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1848
+#DESCRIPTION UK: PREMIER SPORTS 2 FHD 50FPS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1849
+#DESCRIPTION UK: PREMIER SPORTS 1 FHD 50FPS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/138893
+#DESCRIPTION UK: RED BULL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/1854
+#DESCRIPTION UK: FREE SPORTS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/69735
+#DESCRIPTION UK - Sports Mix (B)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/69766
+#DESCRIPTION UK: VIAPLAY SSPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/69768
+#DESCRIPTION UK: VIAPLAY 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/69770
+#DESCRIPTION UK - VIAPLAY XTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/69800
+#DESCRIPTION UK: BBC RED BUTTON 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/69801
+#DESCRIPTION UK: BBC RED BUTTON 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/69734
+#DESCRIPTION UK: SPORTS MIX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/127280
+#DESCRIPTION UK: DAZN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/127281
+#DESCRIPTION UK: DAZN EVENT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/127282
+#DESCRIPTION UK: DAZN EVENT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/127283
+#DESCRIPTION UK: DAZN EVENT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/127284
+#DESCRIPTION UK: DANZ EVENT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/127285
+#DESCRIPTION UK: DAZN EVENT 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/127286
+#DESCRIPTION UK: DAZN EVENT 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/127287
+#DESCRIPTION UK: DAZN EVENT 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165601
+#DESCRIPTION UK: SKY BOX OFFICE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/201768
+#DESCRIPTION SKY SPORTS RED BUTTON 01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/201769
+#DESCRIPTION SKY SPORTS RED BUTTON 02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/201770
+#DESCRIPTION SKY SPORTS RED BUTTON 03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/201771
+#DESCRIPTION SKY SPORTS RED BUTTON 04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/201772
+#DESCRIPTION SKY SPORTS RED BUTTON 05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244856
+#DESCRIPTION IT DAZN | Radio TV Serie A con RDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244857
+#DESCRIPTION IT DAZN | DAZN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244858
+#DESCRIPTION IT DAZN | Eurosport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244859
+#DESCRIPTION IT DAZN | Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244860
+#DESCRIPTION IT DAZN | Milan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244861
+#DESCRIPTION IT DAZN | Inter TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244862
+#DESCRIPTION IT DAZN | PLL Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244863
+#DESCRIPTION IT DAZN | PowerSports World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244864
+#DESCRIPTION IT DAZN | NFL Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244865
+#DESCRIPTION IT DAZN | SportStak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244866
+#DESCRIPTION IT DAZN | Billiard TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244867
+#DESCRIPTION IT DAZN | ACL Cornhole TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244868
+#DESCRIPTION IT DAZN | Motorvision TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244869
+#DESCRIPTION IT DAZN | Boxing TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244870
+#DESCRIPTION IT DAZN | Matchroom Boxing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244871
+#DESCRIPTION IT DAZN | PDC Darts
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244872
+#DESCRIPTION IT DAZN | Padel TIME TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244873
+#DESCRIPTION IT DAZN | PGA TOUR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244874
+#DESCRIPTION IT DAZN | Unbeaten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244875
+#DESCRIPTION IT DAZN | Red Bull TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244876
+#DESCRIPTION IT DAZN EVENT HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244877
+#DESCRIPTION IT DAZN EVENT HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244878
+#DESCRIPTION IT DAZN EVENT HD 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244879
+#DESCRIPTION IT DAZN EVENT HD 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244880
+#DESCRIPTION IT DAZN EVENT HD 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244881
+#DESCRIPTION IT DAZN EVENT HD 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244882
+#DESCRIPTION IT DAZN EVENT HD 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244883
+#DESCRIPTION IT DAZN EVENT HD 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244884
+#DESCRIPTION IT DAZN EVENT HD 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244885
+#DESCRIPTION IT DAZN EVENT HD 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244886
+#DESCRIPTION IT DAZN EVENT HD 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244887
+#DESCRIPTION IT DAZN EVENT HD 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244888
+#DESCRIPTION IT DAZN EVENT HD 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244889
+#DESCRIPTION IT DAZN EVENT HD 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244890
+#DESCRIPTION IT DAZN EVENT HD 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244891
+#DESCRIPTION IT DAZN EVENT HD 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244892
+#DESCRIPTION IT DAZN EVENT HD 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244893
+#DESCRIPTION IT DAZN EVENT HD 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244894
+#DESCRIPTION IT DAZN EVENT HD 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/244895
+#DESCRIPTION IT DAZN EVENT HD 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7157
+#DESCRIPTION AU: OPTUS SPORTS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/141374
+#DESCRIPTION AU: OPTUS SPORTS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7159
+#DESCRIPTION AU: OPTUS SPORTS 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7160
+#DESCRIPTION AU: OPTUS SPORTS 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7161
+#DESCRIPTION AU: OPTUS SPORTS 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7162
+#DESCRIPTION AU: OPTUS SPORTS 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7163
+#DESCRIPTION AU: OPTUS SPORTS 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7164
+#DESCRIPTION AU: OPTUS SPORTS 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/243810
+#DESCRIPTION AU: OPTUS SPORTS 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/238810
+#DESCRIPTION CA: TSN 1 CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/238811
+#DESCRIPTION CA: TSN 2 CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/238812
+#DESCRIPTION CA: TSN 3 CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/238813
+#DESCRIPTION CA: TSN 4 CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/238814
+#DESCRIPTION CA: TSN 5 CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/238815
+#DESCRIPTION CA: TSN 6 CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/238891
+#DESCRIPTION CA: TSN 7 CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/238892
+#DESCRIPTION CA: TSN 8 CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/251309
+#DESCRIPTION CABLENET SPORTS 1 HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/251310
+#DESCRIPTION CABLENET SPORTS 2 HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/199237
+#DESCRIPTION ASTRO SUPERSPORTS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/199238
+#DESCRIPTION ASTRO SUPERSPORTS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/199239
+#DESCRIPTION ASTRO SUPERSPORTS 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/199240
+#DESCRIPTION ASTRO SUPERSPORTS 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/199241
+#DESCRIPTION ASTRO SUPERSPORTS 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5594
+#DESCRIPTION USA: TSN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5595
+#DESCRIPTION USA: TSN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5596
+#DESCRIPTION USA: TSN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5597
+#DESCRIPTION USA: TSN 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/5598
+#DESCRIPTION USA: TSN 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/165875
+#DESCRIPTION ZA: SUPER SPORTS OTT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/169002
+#DESCRIPTION ZA: SUPER SPORTS OTT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/169003
+#DESCRIPTION ZA: SUPER SPORTS OTT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/169004
+#DESCRIPTION ZA: SUPER SPORTS OTT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/169005
+#DESCRIPTION ZA: SUPER SPORTS OTT 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179268
+#DESCRIPTION DK: Discovery+ 01ⓧ (Event Only)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/179269
+#DESCRIPTION CA: DAZN 02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185163
+#DESCRIPTION USA: NHL 01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185164
+#DESCRIPTION USA: NHL 02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185165
+#DESCRIPTION USA: NHL 03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185166
+#DESCRIPTION USA: NHL 04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185167
+#DESCRIPTION USA: NHL 05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185168
+#DESCRIPTION USA: NHL 06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185169
+#DESCRIPTION USA: NHL 07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185170
+#DESCRIPTION USA: NHL 08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185171
+#DESCRIPTION USA: NHL 09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185172
+#DESCRIPTION USA: NHL 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7181
+#DESCRIPTION OO: SPARK EVENT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7182
+#DESCRIPTION OO: SPARK EVENT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7183
+#DESCRIPTION OO: SPARK EVENT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7184
+#DESCRIPTION OO: SPARK EVENT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7185
+#DESCRIPTION OO: SPARK EVENT 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7186
+#DESCRIPTION OO: SPARK EVENT 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7188
+#DESCRIPTION CAR: RUSH SPORTS 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7189
+#DESCRIPTION CAR: RUSH SPORTS 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7190
+#DESCRIPTION CAR: RUSH SPORTS 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7191
+#DESCRIPTION CAR: RUSH SPORTS 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7192
+#DESCRIPTION CAR: RUSH SPORTS 5 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7193
+#DESCRIPTION CAR: RUSH SPORTS 6 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/7194
+#DESCRIPTION CAR: RUSH SPORTS 7 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185770
+#DESCRIPTION USA: MLB 00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185771
+#DESCRIPTION USA: MLB 01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185772
+#DESCRIPTION USA: MLB 02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185773
+#DESCRIPTION USA: MLB 03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/185775
+#DESCRIPTION USA: MLB 04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186121
+#DESCRIPTION VPlay UK | Event 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186120
+#DESCRIPTION VPlay UK | Event 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186119
+#DESCRIPTION VPlay UK | Event 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186118
+#DESCRIPTION VPlay UK | Event 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186117
+#DESCRIPTION VPlay UK | Event 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186116
+#DESCRIPTION VPlay UK | Event 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186115
+#DESCRIPTION VPlay UK | Event 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186114
+#DESCRIPTION VPlay UK | Event 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186113
+#DESCRIPTION VPlay UK | Event 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186112
+#DESCRIPTION VPlay UK | Event 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186111
+#DESCRIPTION VPlay UK | Event 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186110
+#DESCRIPTION VPlay UK | Event 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186109
+#DESCRIPTION VPlay UK | Event 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186108
+#DESCRIPTION VPlay UK | Event 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/186107
+#DESCRIPTION VPlay UK | Event 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187550
+#DESCRIPTION SWE - DISCOVERY+ 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187551
+#DESCRIPTION SWE - DISCOVERY+ 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187552
+#DESCRIPTION SWE - DISCOVERY+ 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187553
+#DESCRIPTION SWE - DISCOVERY+ 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187554
+#DESCRIPTION SWE - DISCOVERY+ 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187555
+#DESCRIPTION SWE - DISCOVERY+ 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187556
+#DESCRIPTION SWE - DISCOVERY+ 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187557
+#DESCRIPTION SWE - DISCOVERY+ 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187558
+#DESCRIPTION SWE - DISCOVERY+ 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187559
+#DESCRIPTION SWE - DISCOVERY+ 5 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187560
+#DESCRIPTION SWE - DISCOVERY+ 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187561
+#DESCRIPTION SWE - DISCOVERY+ 6 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187562
+#DESCRIPTION SWE - DISCOVERY+ 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187563
+#DESCRIPTION SWE - DISCOVERY+ 7 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187564
+#DESCRIPTION SWE - DISCOVERY+ 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xc.tvset.top%3a80/filletti/swatar134567filetti/187565
+#DESCRIPTION SWE - DISCOVERY+ 8 FHD
