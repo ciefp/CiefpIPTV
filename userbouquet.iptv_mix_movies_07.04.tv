@@ -1,0 +1,933 @@
+#NAME IPTV Mix Movies 07.04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/18924.mkv:###### VOD English ######
+#DESCRIPTION ###### VOD English ######
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61255.mp4:EN:Glass  2019
+#DESCRIPTION EN:Glass  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61256.mp4:EN:Greyhound Attack  2019
+#DESCRIPTION EN:Greyhound Attack  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61257.mp4:EN:Guava Island  2019
+#DESCRIPTION EN:Guava Island  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61258.mp4:EN:Happy Death Day 2U  2019
+#DESCRIPTION EN:Happy Death Day 2U  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61259.mp4:EN:Havana Darkness  2019
+#DESCRIPTION EN:Havana Darkness  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61260.mp4:EN:How to Train Your Dragon: The Hidden World  2019
+#DESCRIPTION EN:How to Train Your Dragon: The Hidden World  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61261.mp4:EN:I Hate Kids  2019
+#DESCRIPTION EN:I Hate Kids  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61262.mp4:EN:IO  2019
+#DESCRIPTION EN:IO  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61263.mp4:EN:Iron Sky The Coming Race  2019
+#DESCRIPTION EN:Iron Sky The Coming Race  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61264.mp4:EN:Isn't It Romantic  2019
+#DESCRIPTION EN:Isn't It Romantic  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61265.mp4:EN:Jumbo  2020
+#DESCRIPTION EN:Jumbo  2020
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61266.mp4:EN:Junglee  2019
+#DESCRIPTION EN:Junglee  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61267.mp4:EN:Justice League vs. the Fatal Five  2019
+#DESCRIPTION EN:Justice League vs. the Fatal Five  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61268.mp4:EN:Kevin Hart's Guide to Black History  2019
+#DESCRIPTION EN:Kevin Hart's Guide to Black History  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61269.mp4:EN:Kiss Kiss  2019
+#DESCRIPTION EN:Kiss Kiss  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61270.mp4:EN:Manikarnika: The Queen of Jhansi  2019
+#DESCRIPTION EN:Manikarnika: The Queen of Jhansi  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61271.mp4:EN:Miss Bala  2019
+#DESCRIPTION EN:Miss Bala  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61272.mp4:EN:Monkey King: The Volcano  2019
+#DESCRIPTION EN:Monkey King: The Volcano  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61273.mp4:EN:Murder InLaw  2019
+#DESCRIPTION EN:Murder InLaw  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61274.mp4:EN:Mommy's Little Princess  2019
+#DESCRIPTION EN:Mommy's Little Princess  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61245.mp4:Back Fork (2019)
+#DESCRIPTION Back Fork (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61246.mp4:Bolden (2019)
+#DESCRIPTION Bolden (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61247.mp4:Crypto (2019)
+#DESCRIPTION Crypto (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61248.mp4:Dormant (2019)
+#DESCRIPTION Dormant (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61249.mp4:Drunk Parents (2019)
+#DESCRIPTION Drunk Parents (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61250.mp4:Escape Room (2019)
+#DESCRIPTION Escape Room (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61251.mp4:EN:Fighting with My Family  2019
+#DESCRIPTION EN:Fighting with My Family  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61252.mp4:EN:Flashout  2019
+#DESCRIPTION EN:Flashout  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61253.mp4:EN:Fyre Fraud  2019
+#DESCRIPTION EN:Fyre Fraud  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61254.mp4:EN:Fyre  2019
+#DESCRIPTION EN:Fyre  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61374.mp4:EN:An Affair to Die For  2019
+#DESCRIPTION EN:An Affair to Die For  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61375.mp4:EN:Atone  2019
+#DESCRIPTION EN:Atone  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61376.mp4:EN:Boo  2005
+#DESCRIPTION EN:Boo  2005
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61377.mp4:EN:Banal  2019
+#DESCRIPTION EN:Banal  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61378.mp4:I Love You  2019" tvglogo="http://vo01.mohdtv.com:8880/images/44f5fec19915ebc70ff1a43c769aa122.jpg" grouptitle="English"EN:Berlin I Love You  2019
+#DESCRIPTION I Love You  2019" tvglogo="http://vo01.mohdtv.com:8880/images/44f5fec19915ebc70ff1a43c769aa122.jpg" grouptitle="English"EN:Berlin I Love You  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61379.mp4:EN:Blood Bound  2019
+#DESCRIPTION EN:Blood Bound  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61380.mp4:EN:Brexit
+#DESCRIPTION EN:Brexit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61381.mp4:EN:Captain Marvel  2019
+#DESCRIPTION EN:Captain Marvel  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61384.mp4:EN:Crossbreed  2019
+#DESCRIPTION EN:Crossbreed  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61385.mp4:EN:Crucible of the Vampire  2019
+#DESCRIPTION EN:Crucible of the Vampire  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61386.mp4:EN:Nancy Drew and the Hidden Staircase  2019
+#DESCRIPTION EN:Nancy Drew and the Hidden Staircase  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61387.mp4:EN:Native Son  2019
+#DESCRIPTION EN:Native Son  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61388.mp4:EN:Nereus
+#DESCRIPTION EN:Nereus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61389.mp4:EN:Never Grow Old  2019
+#DESCRIPTION EN:Never Grow Old  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61390.mp4:EN:Night
+#DESCRIPTION EN:Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61391.mp4:EN:Once Upon a Time in London  2019
+#DESCRIPTION EN:Once Upon a Time in London  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61392.mp4:EN:Paris Is Us  2019
+#DESCRIPTION EN:Paris Is Us  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61393.mp4:EN:Pothole Wars  2019
+#DESCRIPTION EN:Pothole Wars  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61394.mp4:EN:Real Cases of Shadow People: The Sarah McCormick Story  2019
+#DESCRIPTION EN:Real Cases of Shadow People: The Sarah McCormick Story  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61396.mp4:EN:Rent.Live
+#DESCRIPTION EN:Rent.Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61397.mp4:Rupert & Rupert  2019" tvglogo="http://vo01.mohdtv.com:8880/images/7f381f363a1b9c56f74a8d3303e22282.jpg" grouptitle="English"EN:Rupert Rupert & Rupert  2019
+#DESCRIPTION Rupert & Rupert  2019" tvglogo="http://vo01.mohdtv.com:8880/images/7f381f363a1b9c56f74a8d3303e22282.jpg" grouptitle="English"EN:Rupert Rupert & Rupert  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61398.mp4:EN:SGT. Will Gardner  2019
+#DESCRIPTION EN:SGT. Will Gardner  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61399.mp4:EN:ScoobyDoo! and the Curse of the 13th Ghost  2019
+#DESCRIPTION EN:ScoobyDoo! and the Curse of the 13th Ghost  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61400.mp4:EN:Serenity  2019
+#DESCRIPTION EN:Serenity  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61401.mp4:EN:Slasher Party  2019
+#DESCRIPTION EN:Slasher Party  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61402.mp4:EN:Someone Great  2019
+#DESCRIPTION EN:Someone Great  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61403.mp4:EN:Soul Hunters  2019
+#DESCRIPTION EN:Soul Hunters  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61404.mp4:EN:Split Lip  2019
+#DESCRIPTION EN:Split Lip  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61405.mp4:China!  2019" tvglogo="http://vo01.mohdtv.com:8880/images/374c32cba2b3bc26659ddb6ad459da75.jpg" grouptitle="English"EN:Stay Awesome China!  2019
+#DESCRIPTION China!  2019" tvglogo="http://vo01.mohdtv.com:8880/images/374c32cba2b3bc26659ddb6ad459da75.jpg" grouptitle="English"EN:Stay Awesome China!  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61406.mp4:EN:Storm Boy  2019
+#DESCRIPTION EN:Storm Boy  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61407.mp4:EN:Stray  2018
+#DESCRIPTION EN:Stray  2018
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61408.mp4:EN:Stressed  2019
+#DESCRIPTION EN:Stressed  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61409.mp4:EN:The Brawler  2019
+#DESCRIPTION EN:The Brawler  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61410.mp4:EN:The Challenger Disaster  2019
+#DESCRIPTION EN:The Challenger Disaster  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61411.mp4:EN:The Christ Slayer  2019
+#DESCRIPTION EN:The Christ Slayer  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61412.mp4:EN:The.Dark.Kingdom
+#DESCRIPTION EN:The.Dark.Kingdom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61413.mp4:EN:The Directive  2019
+#DESCRIPTION EN:The Directive  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61414.mp4:EN:The Divorce Party  2019
+#DESCRIPTION EN:The Divorce Party  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61415.mp4:EN:The Dragon Unleashed  2019
+#DESCRIPTION EN:The Dragon Unleashed  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61418.mp4:EN:The Hole in the Ground  2019
+#DESCRIPTION EN:The Hole in the Ground  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61419.mp4:EN:The Inventor: Out for Blood in Silicon Valley  2019
+#DESCRIPTION EN:The Inventor: Out for Blood in Silicon Valley  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61420.mp4:EN:The Kid Who Would Be King  2019
+#DESCRIPTION EN:The Kid Who Would Be King  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61421.mp4:EN:The Last Boy Scout  1991
+#DESCRIPTION EN:The Last Boy Scout  1991
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61422.mp4:EN:The Legend of Secret Pass  2019
+#DESCRIPTION EN:The Legend of Secret Pass  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61423.mp4:EN:The Lego Movie 2: The Second Part  2019
+#DESCRIPTION EN:The Lego Movie 2: The Second Part  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61424.mp4:EN:The Many Lives of Nick Buoniconti  2019
+#DESCRIPTION EN:The Many Lives of Nick Buoniconti  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61425.mp4:EN:The Perfect Date  2019
+#DESCRIPTION EN:The Perfect Date  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61426.mp4:EN:The Prodigy  2019
+#DESCRIPTION EN:The Prodigy  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61427.mp4:EN:The Professor and the Madman  2019
+#DESCRIPTION EN:The Professor and the Madman  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61428.mp4:EN:The Russian Bride  2019
+#DESCRIPTION EN:The Russian Bride  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61429.mp4:EN:The Silence  2019
+#DESCRIPTION EN:The Silence  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61430.mp4:EN:The Spy Who Fell to Earth  2019
+#DESCRIPTION EN:The Spy Who Fell to Earth  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61431.mp4:EN:The Upside  2019
+#DESCRIPTION EN:The Upside  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61432.mp4:EN:The Viking War  2019
+#DESCRIPTION EN:The Viking War  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61433.mp4:EN:The Wandering Earth  2019
+#DESCRIPTION EN:The Wandering Earth  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61434.mp4:EN:Tle.Frontier
+#DESCRIPTION EN:Tle.Frontier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61435.mp4:EN:Tle.Threat
+#DESCRIPTION EN:Tle.Threat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61436.mp4:EN:Trading Paint  2019
+#DESCRIPTION EN:Trading Paint  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61437.mp4:EN:Uri: The Surgical Strike  2019
+#DESCRIPTION EN:Uri: The Surgical Strike  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61439.mp4:EN:Victoria Gotti: My Father's Daughter  2019
+#DESCRIPTION EN:Victoria Gotti: My Father's Daughter  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61440.mp4:EN:Viking Blood  2019
+#DESCRIPTION EN:Viking Blood  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61441.mp4:EN:Violentiaip
+#DESCRIPTION EN:Violentiaip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61442.mp4:EN:We Die Young  2019
+#DESCRIPTION EN:We Die Young  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61443.mp4:EN:Welcome to Acapulco  2019
+#DESCRIPTION EN:Welcome to Acapulco  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61444.mp4:EN:What Lies Ahead  2019
+#DESCRIPTION EN:What Lies Ahead  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61445.mp4:EN:What Men Want  2019
+#DESCRIPTION EN:What Men Want  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/61446.mp4:EN:Wonder Park  2019
+#DESCRIPTION EN:Wonder Park  2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39354.mkv:EN:10x10
+#DESCRIPTION EN:10x10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39355.mkv:EN:Strong
+#DESCRIPTION EN:Strong
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39356.avi:EN:Demons
+#DESCRIPTION EN:Demons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39357.mkv:EN:Origin Unknown
+#DESCRIPTION EN:Origin Unknown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39358.mkv:EN:20th Century Women
+#DESCRIPTION EN:20th Century Women
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39359.mkv:EN:211
+#DESCRIPTION EN:211
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39360.mp4:EN:31
+#DESCRIPTION EN:31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39361.mkv:EN: to Live
+#DESCRIPTION EN: to Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39362.mkv:EN:Balloons
+#DESCRIPTION EN:Balloons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39363.mkv:EN:Days in Entebbe
+#DESCRIPTION EN:Days in Entebbe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39364.mkv:EN:Guardians of the Tomb
+#DESCRIPTION EN:Guardians of the Tomb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39365.mkv:EN:A Conspiracy of Faith
+#DESCRIPTION EN:A Conspiracy of Faith
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39366.mkv:EN:A Cure For Wellness
+#DESCRIPTION EN:A Cure For Wellness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39367.mkv:A Dog's Purpose (2017)
+#DESCRIPTION A Dog's Purpose (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39368.mkv:EN:A Futile and Stupid Gesture
+#DESCRIPTION EN:A Futile and Stupid Gesture
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39369.mkv:EN:A Monster Calls
+#DESCRIPTION EN:A Monster Calls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39370.mkv:EN:A Perfect Day
+#DESCRIPTION EN:A Perfect Day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39371.mkv:EN:A Quiet Place
+#DESCRIPTION EN:A Quiet Place
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39372.mkv:EN:A Wrinkle In Time
+#DESCRIPTION EN:A Wrinkle In Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39373.mp4:Abattoir (2016)
+#DESCRIPTION Abattoir (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39374.mkv:Abduction (2011)
+#DESCRIPTION Abduction (2011)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39375.mkv:Generations (2016)
+#DESCRIPTION Generations (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39376.mkv:Accident Man (2018)
+#DESCRIPTION Accident Man (2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39377.mkv:Acrimony (2018)
+#DESCRIPTION Acrimony (2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39378.mkv:Acts of Violence (2018)
+#DESCRIPTION Acts of Violence (2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39379.mkv:Aftermath (2017)
+#DESCRIPTION Aftermath (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39380.mkv:EN:Alienate
+#DESCRIPTION EN:Alienate
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39381.mkv:EN:All Star Musicals
+#DESCRIPTION EN:All Star Musicals
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39382.mkv:All the Way (2016)
+#DESCRIPTION All the Way (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39383.mkv:Allied (2016)
+#DESCRIPTION Allied (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39384.mkv:Almost Christmas (2016)
+#DESCRIPTION Almost Christmas (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39385.mkv:Aloha (2015)
+#DESCRIPTION Aloha (2015)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39386.mkv:Amateur (2018)
+#DESCRIPTION Amateur (2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39387.mp4:American Honey (2016)
+#DESCRIPTION American Honey (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39388.mkv:American Mummy (2014)
+#DESCRIPTION American Mummy (2014)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39389.mkv:The Angry Birds Movie (2016)
+#DESCRIPTION The Angry Birds Movie (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39390.mkv:Annihilation
+#DESCRIPTION Annihilation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39391.mkv:Anomalisa (2015)
+#DESCRIPTION Anomalisa (2015)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39392.mkv:Anon (2018)
+#DESCRIPTION Anon (2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39393.mkv:AntMan (2015)
+#DESCRIPTION AntMan (2015)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39394.mp4:Anthropoid (2016)
+#DESCRIPTION Anthropoid (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39395.mp4:Army of One (2016)
+#DESCRIPTION Army of One (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39397.mkv:Assassin's Creed (2016)
+#DESCRIPTION Assassin's Creed (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39398.mkv:Avengers: Age of Ultron (2015)
+#DESCRIPTION Avengers: Age of Ultron (2015)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39399.mkv:EN:Backstabbing for Beginners
+#DESCRIPTION EN:Backstabbing for Beginners
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39400.mkv:EN:Bad Kids of Crestview Academy
+#DESCRIPTION EN:Bad Kids of Crestview Academy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39401.mp4:EN:Bad Moms
+#DESCRIPTION EN:Bad Moms
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39402.mkv:EN:Bajrangi Bhaijaan
+#DESCRIPTION EN:Bajrangi Bhaijaan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39403.mkv:EN:Barbershop The Next Cut
+#DESCRIPTION EN:Barbershop The Next Cut
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39404.mp4:EN:Barbie Video Game Hero.mkv  Kids
+#DESCRIPTION EN:Barbie Video Game Hero.mkv  Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39405.mp4:EN:Batman Ninja
+#DESCRIPTION EN:Batman Ninja
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39406.mkv:EN:Batman v Superman Dawn of Justice
+#DESCRIPTION EN:Batman v Superman Dawn of Justice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39407.mkv:EN:Beast of Burden
+#DESCRIPTION EN:Beast of Burden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39408.mkv:EN:Beauty And The Beast
+#DESCRIPTION EN:Beauty And The Beast
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39409.mkv:EN:Becoming Bond
+#DESCRIPTION EN:Becoming Bond
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39410.mp4:EN:Before I Fall.mkv 1080p
+#DESCRIPTION EN:Before I Fall.mkv 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39411.mkv:EN:Before I Wake
+#DESCRIPTION EN:Before I Wake
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39412.mkv:EN:Ben Hur
+#DESCRIPTION EN:Ben Hur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39413.mkv:EN:Benji
+#DESCRIPTION EN:Benji
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39414.mkv:EN:Bent
+#DESCRIPTION EN:Bent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39415.avi:EN:Bethany.mkv
+#DESCRIPTION EN:Bethany.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39416.mkv:EN:Big Legend
+#DESCRIPTION EN:Big Legend
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39417.mkv:EN:Billy Lynns Long Halftime Walk
+#DESCRIPTION EN:Billy Lynns Long Halftime Walk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39420.mkv:EN:Black Water
+#DESCRIPTION EN:Black Water
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39421.mkv:EN:BladerGang Forever
+#DESCRIPTION EN:BladerGang Forever
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39422.mkv:EN:Blockers
+#DESCRIPTION EN:Blockers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39423.mkv:EN:Blood Father
+#DESCRIPTION EN:Blood Father
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39424.avi:Sand & Gold.mkv" tvglogo="http://mu03.wanicelife.com:8880/images/i0umXiCkwcIwswsTBOsmxlkOpm0_small.jpg" grouptitle="English"EN:Blood Sand & Gold.mkv
+#DESCRIPTION Sand & Gold.mkv" tvglogo="http://mu03.wanicelife.com:8880/images/i0umXiCkwcIwswsTBOsmxlkOpm0_small.jpg" grouptitle="English"EN:Blood Sand & Gold.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39425.mkv:EN:Blow Logan
+#DESCRIPTION EN:Blow Logan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39426.mkv:EN:Blow Petes Dragon
+#DESCRIPTION EN:Blow Petes Dragon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39427.mkv:EN:Blow The Comedian
+#DESCRIPTION EN:Blow The Comedian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39428.mkv:EN:Bombay Velvet
+#DESCRIPTION EN:Bombay Velvet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39429.mkv:EN:Bonded By Blood 2
+#DESCRIPTION EN:Bonded By Blood 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39430.mkv:EN:Braven
+#DESCRIPTION EN:Braven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39431.mkv:EN:Brexit The Uncivil War
+#DESCRIPTION EN:Brexit The Uncivil War
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39432.mkv:EN:Bridge of Spies
+#DESCRIPTION EN:Bridge of Spies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39433.mp4:EN:Bridget Jones's Baby
+#DESCRIPTION EN:Bridget Jones's Baby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39434.mkv:EN:Buddha in a Traffic Jam
+#DESCRIPTION EN:Buddha in a Traffic Jam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39435.mkv:EN:Burn Motherfucker Burn
+#DESCRIPTION EN:Burn Motherfucker Burn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39436.mkv:EN:Cabin Fever
+#DESCRIPTION EN:Cabin Fever
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39437.mkv:EN:Calibre
+#DESCRIPTION EN:Calibre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39438.mkv:EN:Call of the Wolf
+#DESCRIPTION EN:Call of the Wolf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39439.mkv:EN:Candy Jar
+#DESCRIPTION EN:Candy Jar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39441.avi:EN:Car Dogs.mkv
+#DESCRIPTION EN:Car Dogs.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39442.mkv:EN:Carnage Park
+#DESCRIPTION EN:Carnage Park
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39443.mkv:EN:Casual Encounters
+#DESCRIPTION EN:Casual Encounters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39444.mkv:EN:Central Intelligence
+#DESCRIPTION EN:Central Intelligence
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39445.mkv:EN:Chappie
+#DESCRIPTION EN:Chappie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39446.mkv:EN:Char Man
+#DESCRIPTION EN:Char Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39447.mkv:EN:Child 44
+#DESCRIPTION EN:Child 44
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39448.mkv:EN:Child Of Satan
+#DESCRIPTION EN:Child Of Satan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39449.mkv:EN:Children of the Corn Runaway
+#DESCRIPTION EN:Children of the Corn Runaway
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39450.mkv:EN:Cinderella
+#DESCRIPTION EN:Cinderella
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39451.mkv:EN:City Of Sin
+#DESCRIPTION EN:City Of Sin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39452.avi:EN:Clinical.mkv
+#DESCRIPTION EN:Clinical.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39453.mkv:EN:Close
+#DESCRIPTION EN:Close
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39454.mkv:EN:Cloverfield Lane 10
+#DESCRIPTION EN:Cloverfield Lane 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39455.mkv:EN:Code Of Honor
+#DESCRIPTION EN:Code Of Honor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39456.mkv:EN:Come Sunday
+#DESCRIPTION EN:Come Sunday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39457.mkv:EN:Conspiracy Encounters
+#DESCRIPTION EN:Conspiracy Encounters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39458.mkv:EN:Corbin Nash
+#DESCRIPTION EN:Corbin Nash
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39459.mkv:EN:Courted
+#DESCRIPTION EN:Courted
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39460.mkv:EN:Criminal
+#DESCRIPTION EN:Criminal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39461.mkv:EN:Crimson Peak
+#DESCRIPTION EN:Crimson Peak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39462.mp4:EN:Cross Wars.mkv
+#DESCRIPTION EN:Cross Wars.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39464.mkv:EN:Curse of the Witchs Doll
+#DESCRIPTION EN:Curse of the Witchs Doll
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39465.mkv:EN:Dads Army
+#DESCRIPTION EN:Dads Army
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39466.mkv:EN:Danny Collins
+#DESCRIPTION EN:Danny Collins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39467.mkv:EN:Dark Places
+#DESCRIPTION EN:Dark Places
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39468.mkv:EN:Dark River
+#DESCRIPTION EN:Dark River
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39469.mkv:EN:Day Of The Dead Bloodline
+#DESCRIPTION EN:Day Of The Dead Bloodline
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39470.mkv:EN:Days of Power
+#DESCRIPTION EN:Days of Power
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39471.mkv:EN:Dead Story
+#DESCRIPTION EN:Dead Story
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39473.mkv:EN:Dear Dictator
+#DESCRIPTION EN:Dear Dictator
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39474.mkv:EN:Death Race Beyond Anarchy
+#DESCRIPTION EN:Death Race Beyond Anarchy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39475.mkv:EN:Death Wish
+#DESCRIPTION EN:Death Wish
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39476.mkv:EN:Deepwater Horizon
+#DESCRIPTION EN:Deepwater Horizon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39477.mkv:EN:Delirium
+#DESCRIPTION EN:Delirium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39478.mkv:EN:Den of Thieves
+#DESCRIPTION EN:Den of Thieves
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39479.mkv:EN:Denial
+#DESCRIPTION EN:Denial
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39352.mkv:EN:Detective Byomkesh Bakshy
+#DESCRIPTION EN:Detective Byomkesh Bakshy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39353.avi:Devil in the Dark (2017)
+#DESCRIPTION Devil in the Dark (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39480.mkv:EN:Dheepan
+#DESCRIPTION EN:Dheepan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39481.mkv:EN:Diablo
+#DESCRIPTION EN:Diablo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39482.mkv:EN:Dirty Grandpa
+#DESCRIPTION EN:Dirty Grandpa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39483.mkv:EN:Distorted
+#DESCRIPTION EN:Distorted
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39484.mkv:EN:Doctor Strange
+#DESCRIPTION EN:Doctor Strange
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39485.mkv:EN:Dolphin Kick
+#DESCRIPTION EN:Dolphin Kick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39486.mp4:EN:Don't Think Twice
+#DESCRIPTION EN:Don't Think Twice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39487.mkv:EN:Dude
+#DESCRIPTION EN:Dude
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39488.mkv:EN:Eat Local
+#DESCRIPTION EN:Eat Local
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39489.mkv:EN:Eddie the Eagle
+#DESCRIPTION EN:Eddie the Eagle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39490.mkv:EN:Edgar Allan Poes Lighthouse Keeper
+#DESCRIPTION EN:Edgar Allan Poes Lighthouse Keeper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39491.mp4:EN:Eliminators
+#DESCRIPTION EN:Eliminators
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39492.mkv:EN:End of a Gun
+#DESCRIPTION EN:End of a Gun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39493.mkv:EN:Entourage
+#DESCRIPTION EN:Entourage
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39494.mkv:EN:Escape Plan Hades
+#DESCRIPTION EN:Escape Plan Hades
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39495.mkv:EN:Euphoria
+#DESCRIPTION EN:Euphoria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39496.mkv:EN:Every Day
+#DESCRIPTION EN:Every Day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39497.mkv:EN:Everybody Wants Some
+#DESCRIPTION EN:Everybody Wants Some
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39498.mkv:EN:Ex Machina
+#DESCRIPTION EN:Ex Machina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39499.mkv:EN:Extinction
+#DESCRIPTION EN:Extinction
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39500.mkv:EN:Fahrenheit 451
+#DESCRIPTION EN:Fahrenheit 451
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39501.mkv:EN:Fallen
+#DESCRIPTION EN:Fallen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39502.mkv:EN:Family Blood
+#DESCRIPTION EN:Family Blood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39504.mkv:EN:Fences
+#DESCRIPTION EN:Fences
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39505.mkv:EN:Feral
+#DESCRIPTION EN:Feral
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39506.mkv:EN:Fifty Shades Darker
+#DESCRIPTION EN:Fifty Shades Darker
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39507.mkv:EN:Fifty Shades Freed
+#DESCRIPTION EN:Fifty Shades Freed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39508.mkv:EN:Fifty Shades of Black
+#DESCRIPTION EN:Fifty Shades of Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39509.mkv:EN:Fifty Shades of Grey
+#DESCRIPTION EN:Fifty Shades of Grey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39510.mkv:EN:Finding Dory
+#DESCRIPTION EN:Finding Dory
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39511.mkv:EN:First Match
+#DESCRIPTION EN:First Match
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39512.mkv:EN:Focus
+#DESCRIPTION EN:Focus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39513.mkv:EN:Forever My Girl
+#DESCRIPTION EN:Forever My Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39514.mkv:EN:Fraud How They Steal Your Bank Account
+#DESCRIPTION EN:Fraud How They Steal Your Bank Account
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39515.mkv:EN:Free State of Jones
+#DESCRIPTION EN:Free State of Jones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39516.mkv:EN:Freeheld
+#DESCRIPTION EN:Freeheld
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39517.mkv:EN:Freetown
+#DESCRIPTION EN:Freetown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39518.mkv:EN:Friend Request
+#DESCRIPTION EN:Friend Request
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39519.mkv:EN:Future World
+#DESCRIPTION EN:Future World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39520.mkv:EN:Gabbar is Back
+#DESCRIPTION EN:Gabbar is Back
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39521.mkv:EN:Game Night
+#DESCRIPTION EN:Game Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39522.mkv:EN:Game Over Man
+#DESCRIPTION EN:Game Over Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39523.mkv:EN:Get A Job
+#DESCRIPTION EN:Get A Job
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39524.mkv:EN:Get Hard
+#DESCRIPTION EN:Get Hard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39525.mkv:EN:Get Out
+#DESCRIPTION EN:Get Out
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39526.mkv:EN:Get the Girl
+#DESCRIPTION EN:Get the Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39527.mkv:EN:Ghostland
+#DESCRIPTION EN:Ghostland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39528.mkv:EN:Go North
+#DESCRIPTION EN:Go North
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39529.mkv:EN:Gods of Egypt
+#DESCRIPTION EN:Gods of Egypt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39530.mkv:EN:Gold
+#DESCRIPTION EN:Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39531.mkv:EN:Golden Exits
+#DESCRIPTION EN:Golden Exits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39532.mkv:EN:Gotti
+#DESCRIPTION EN:Gotti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39533.mkv:EN:Greater
+#DESCRIPTION EN:Greater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39534.mkv:EN:Gringo
+#DESCRIPTION EN:Gringo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39536.avi:EN:Hacksaw Ridge
+#DESCRIPTION EN:Hacksaw Ridge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39537.mkv:EN:Happy Anniversary
+#DESCRIPTION EN:Happy Anniversary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39538.mkv:EN:Headgame
+#DESCRIPTION EN:Headgame
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39539.mp4:EN:Hellraiser Judgment
+#DESCRIPTION EN:Hellraiser Judgment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39535.mkv:EN:HGTV Dream Home
+#DESCRIPTION EN:HGTV Dream Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39540.mkv:EN:Hickey
+#DESCRIPTION EN:Hickey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39541.mkv:EN:Hidden Figures
+#DESCRIPTION EN:Hidden Figures
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39542.mkv:EN:High Flying Bird
+#DESCRIPTION EN:High Flying Bird
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39543.mkv:EN:Higher Power
+#DESCRIPTION EN:Higher Power
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39544.mkv:EN:Hitman Agent 47
+#DESCRIPTION EN:Hitman Agent 47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39545.mkv:EN:Holding the Man
+#DESCRIPTION EN:Holding the Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39546.mkv:EN:Hotel Transylvania 2
+#DESCRIPTION EN:Hotel Transylvania 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39547.mkv:EN:Hunza  Ski and Culture in Pakistan
+#DESCRIPTION EN:Hunza  Ski and Culture in Pakistan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39548.mkv:EN:I Am Bolt
+#DESCRIPTION EN:I Am Bolt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39549.mkv:EN:I Am Not Ashamed
+#DESCRIPTION EN:I Am Not Ashamed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39550.mkv:EN:I Believe In Miracles
+#DESCRIPTION EN:I Believe In Miracles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39551.mkv:EN:I Can Only Imagine
+#DESCRIPTION EN:I Can Only Imagine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39552.mkv:EN:I Dont Feel at Home in This World Anymore
+#DESCRIPTION EN:I Dont Feel at Home in This World Anymore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39553.mkv:EN:I Feel Pretty
+#DESCRIPTION EN:I Feel Pretty
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39554.mkv:EN:Ibiza
+#DESCRIPTION EN:Ibiza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39555.mp4:EN:Ice Age Collision Course
+#DESCRIPTION EN:Ice Age Collision Course
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39556.mkv:EN:Ideal Home
+#DESCRIPTION EN:Ideal Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39557.mkv:EN:In Darkness
+#DESCRIPTION EN:In Darkness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39558.mkv:EN:Independence Day Resurgence
+#DESCRIPTION EN:Independence Day Resurgence
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39559.mkv:EN:Indiscretion
+#DESCRIPTION EN:Indiscretion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39560.mkv:EN:Inferno
+#DESCRIPTION EN:Inferno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39561.mkv:EN:Inside Out
+#DESCRIPTION EN:Inside Out
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39562.mkv:EN:Insidious Chapter 3
+#DESCRIPTION EN:Insidious Chapter 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39563.mp4:EN:Insidious The Last Key
+#DESCRIPTION EN:Insidious The Last Key
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39564.mkv:EN:Insurgent
+#DESCRIPTION EN:Insurgent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39565.mkv:EN:Interstellar Wars
+#DESCRIPTION EN:Interstellar Wars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39566.mkv:EN:Irrational Man
+#DESCRIPTION EN:Irrational Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39567.mkv:EN:Irreplaceable You
+#DESCRIPTION EN:Irreplaceable You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39568.mkv:EN:Isle of Dogs
+#DESCRIPTION EN:Isle of Dogs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39569.mkv:EN:Jack Reacher Never Go Back
+#DESCRIPTION EN:Jack Reacher Never Go Back
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39570.mkv:EN:Jackie
+#DESCRIPTION EN:Jackie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39571.mkv:EN:Jane Got a  Gun
+#DESCRIPTION EN:Jane Got a  Gun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39572.mkv:EN:Jason Bourne
+#DESCRIPTION EN:Jason Bourne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39573.mkv:EN:John Wick Chapter 2
+#DESCRIPTION EN:John Wick Chapter 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39574.mkv:EN:Jokers Wild
+#DESCRIPTION EN:Jokers Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39575.mkv:EN:Jurassic World
+#DESCRIPTION EN:Jurassic World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39576.mkv:EN:Keanu
+#DESCRIPTION EN:Keanu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39577.mkv:EN:Kevin Hart What Now
+#DESCRIPTION EN:Kevin Hart What Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39578.mkv:EN:Kickboxer Retaliation
+#DESCRIPTION EN:Kickboxer Retaliation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39579.mkv:EN:Kill Command
+#DESCRIPTION EN:Kill Command
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39580.mkv:EN:King Arthur  Legend of the Sword
+#DESCRIPTION EN:King Arthur  Legend of the Sword
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39581.mkv:EN:Kodachrome
+#DESCRIPTION EN:Kodachrome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39582.mkv:EN:Krampus
+#DESCRIPTION EN:Krampus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39583.mkv:EN:Kubo And The Two Strings
+#DESCRIPTION EN:Kubo And The Two Strings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39584.mkv:EN:Kung Fu Panda 3
+#DESCRIPTION EN:Kung Fu Panda 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39585.mp4:EN:Kungfu Yoga.mkv Cn Sub
+#DESCRIPTION EN:Kungfu Yoga.mkv Cn Sub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39586.mkv:EN:La La Land
+#DESCRIPTION EN:La La Land
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39587.mkv:EN:Lake Eerie
+#DESCRIPTION EN:Lake Eerie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39588.mkv:EN:Last Knights
+#DESCRIPTION EN:Last Knights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39590.mkv:EN:Late Summer
+#DESCRIPTION EN:Late Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39591.mp4:EN:Lea To The Rescue
+#DESCRIPTION EN:Lea To The Rescue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39592.mkv:EN:Legend
+#DESCRIPTION EN:Legend
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39593.mkv:EN:Lego DC Comics Super Heroes The Flash
+#DESCRIPTION EN:Lego DC Comics Super Heroes The Flash
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39594.mp4:EN:Level Up
+#DESCRIPTION EN:Level Up
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39595.mkv:EN:Life on the Line
+#DESCRIPTION EN:Life on the Line
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39596.mkv:EN:Lights Out
+#DESCRIPTION EN:Lights Out
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39597.mkv:EN:Little Bitches
+#DESCRIPTION EN:Little Bitches
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39598.mkv:EN:London Has Fallen
+#DESCRIPTION EN:London Has Fallen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39599.mkv:EN:Looking Glass
+#DESCRIPTION EN:Looking Glass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39600.avi:EN:Lost in Florence.mkv
+#DESCRIPTION EN:Lost in Florence.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39603.mkv:EN:Love and Friendship
+#DESCRIPTION EN:Love and Friendship
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39601.mkv:EN:Love Per Square Foot
+#DESCRIPTION EN:Love Per Square Foot
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39602.mkv:EN:Love Simon
+#DESCRIPTION EN:Love Simon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39605.mkv:EN:Macbeth
+#DESCRIPTION EN:Macbeth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39606.mkv:EN:Mad Max: Fury Road
+#DESCRIPTION EN:Mad Max: Fury Road
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39607.mkv:EN:Maggie
+#DESCRIPTION EN:Maggie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39608.mkv:EN:Magic Mike XXL
+#DESCRIPTION EN:Magic Mike XXL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39609.mkv:EN:Maigret Sets A Trap
+#DESCRIPTION EN:Maigret Sets A Trap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39610.mkv:EN:Manchester by the Sea
+#DESCRIPTION EN:Manchester by the Sea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39611.mkv:EN:Marauders
+#DESCRIPTION EN:Marauders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39612.mkv:EN:Master Z Ip Man Legacy
+#DESCRIPTION EN:Master Z Ip Man Legacy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39614.mkv:EN:Max
+#DESCRIPTION EN:Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39613.mkv:EN:Max Steel
+#DESCRIPTION EN:Max Steel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39615.mkv:EN:Maze Runner The Death Cure
+#DESCRIPTION EN:Maze Runner The Death Cure
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39616.mkv:EN:Me Before You
+#DESCRIPTION EN:Me Before You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39617.mkv:EN:Meet.the Blacks
+#DESCRIPTION EN:Meet.the Blacks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39618.mkv:EN:Midnight Special
+#DESCRIPTION EN:Midnight Special
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39619.mkv:EN:Midnight Sun
+#DESCRIPTION EN:Midnight Sun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39620.mp4:EN:Mike And Dave Need Wedding Dates
+#DESCRIPTION EN:Mike And Dave Need Wedding Dates
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39621.mkv:EN:Miracles from Heaven
+#DESCRIPTION EN:Miracles from Heaven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39622.mkv:EN:Miss Peregrines Home for Peculiar Children
+#DESCRIPTION EN:Miss Peregrines Home for Peculiar Children
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39623.mkv:EN:Mission Impossible  Rogue Nation
+#DESCRIPTION EN:Mission Impossible  Rogue Nation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39624.mkv:EN:Moana
+#DESCRIPTION EN:Moana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39625.mkv:EN:Mom And Dad
+#DESCRIPTION EN:Mom And Dad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39626.mp4:EN:Money
+#DESCRIPTION EN:Money
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39627.mkv:EN:Moonlight
+#DESCRIPTION EN:Moonlight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39628.mkv:EN:Moonwalkers
+#DESCRIPTION EN:Moonwalkers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39630.mkv:EN:Morgan
+#DESCRIPTION EN:Morgan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39631.mp4:EN:Morris From America
+#DESCRIPTION EN:Morris From America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39632.mkv:EN:Mortdecai
+#DESCRIPTION EN:Mortdecai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39633.mkv:EN:Mother May I Sleep with Danger
+#DESCRIPTION EN:Mother May I Sleep with Danger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39634.mp4:EN:Mr  Church
+#DESCRIPTION EN:Mr  Church
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39604.mkv:EN:MTV Movie Awards
+#DESCRIPTION EN:MTV Movie Awards
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39635.mkv:EN:Mute
+#DESCRIPTION EN:Mute
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39636.mkv:EN:My Big Fat Greek Wedding 2
+#DESCRIPTION EN:My Big Fat Greek Wedding 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39637.mkv:EN:My Daughters Ransom
+#DESCRIPTION EN:My Daughters Ransom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39638.mkv:EN:Neighbors Sorority Rising
+#DESCRIPTION EN:Neighbors Sorority Rising
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39640.mp4:EN:Nerve
+#DESCRIPTION EN:Nerve
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39641.mkv:EN:Never Back Down No Surrender
+#DESCRIPTION EN:Never Back Down No Surrender
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39642.mkv:EN:One and Two
+#DESCRIPTION EN:One and Two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39643.mkv:EN:Open Season Scared Silly
+#DESCRIPTION EN:Open Season Scared Silly
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39644.mp4:EN:Ordinary World
+#DESCRIPTION EN:Ordinary World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39645.mkv:EN:Our Kind of Traitor
+#DESCRIPTION EN:Our Kind of Traitor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39646.mkv:EN:Out of the Darkness
+#DESCRIPTION EN:Out of the Darkness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39647.mkv:EN:Outlaws and Angels
+#DESCRIPTION EN:Outlaws and Angels
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39649.mkv:EN:Paddleton
+#DESCRIPTION EN:Paddleton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39651.mkv:EN:Passengers
+#DESCRIPTION EN:Passengers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39652.mkv:EN:Paterno
+#DESCRIPTION EN:Paterno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39653.mkv:EN:Paul Blart Mall Cop 2
+#DESCRIPTION EN:Paul Blart Mall Cop 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39654.mkv:EN:Peter Rabbit
+#DESCRIPTION EN:Peter Rabbit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39655.mkv:EN:Piku
+#DESCRIPTION EN:Piku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39656.mkv:EN:Pirates of the CaribbeanDead Men Tell No Tales
+#DESCRIPTION EN:Pirates of the CaribbeanDead Men Tell No Tales
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39657.mkv:EN:Pitchfork
+#DESCRIPTION EN:Pitchfork
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39658.mkv:EN:Plan 9
+#DESCRIPTION EN:Plan 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39659.mkv:EN:Popstar Never Stop Never Stopping
+#DESCRIPTION EN:Popstar Never Stop Never Stopping
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39660.mkv:EN:Pound of Flesh
+#DESCRIPTION EN:Pound of Flesh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39661.mkv:EN:Priceless
+#DESCRIPTION EN:Priceless
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39662.mkv:EN:Pride And Prejudice And Zombies
+#DESCRIPTION EN:Pride And Prejudice And Zombies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39663.mkv:EN:Primal Rage
+#DESCRIPTION EN:Primal Rage
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39664.mkv:EN:Proud Mary
+#DESCRIPTION EN:Proud Mary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39665.mkv:EN:Psychokinesis
+#DESCRIPTION EN:Psychokinesis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39666.mkv:EN:Queen of Earth
+#DESCRIPTION EN:Queen of Earth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39669.mkv:EN:Rampage
+#DESCRIPTION EN:Rampage
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39670.mkv:EN:Ready Player One
+#DESCRIPTION EN:Ready Player One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39671.mkv:EN:Red Sparrow
+#DESCRIPTION EN:Red Sparrow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39672.mkv:EN:Reign of the Supermen
+#DESCRIPTION EN:Reign of the Supermen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39674.mp4:EN:Risen
+#DESCRIPTION EN:Risen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39675.mkv:EN:Rock Dog
+#DESCRIPTION EN:Rock Dog
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39677.mkv:EN:Root Cause
+#DESCRIPTION EN:Root Cause
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39678.mkv:EN:Run All Night
+#DESCRIPTION EN:Run All Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39679.mkv:EN:Running Wild
+#DESCRIPTION EN:Running Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39681.mkv:EN:Sacrifice
+#DESCRIPTION EN:Sacrifice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39682.mkv:EN:Samson
+#DESCRIPTION EN:Samson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39683.mkv:EN:San Andreas
+#DESCRIPTION EN:San Andreas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39684.avi:EN:Sandy Wexler.mkv
+#DESCRIPTION EN:Sandy Wexler.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39686.mkv:EN:Scorched Earth
+#DESCRIPTION EN:Scorched Earth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39688.mkv:EN:Set it Up
+#DESCRIPTION EN:Set it Up
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39689.mkv:EN:Sherlock Gnomes
+#DESCRIPTION EN:Sherlock Gnomes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39690.mkv:EN:Spinning Man
+#DESCRIPTION EN:Spinning Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39691.mkv:EN:Spivak
+#DESCRIPTION EN:Spivak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39692.mkv:EN:Stab in the Dark
+#DESCRIPTION EN:Stab in the Dark
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39693.mkv:EN:Stabbed Britains Knife Crime Crisis
+#DESCRIPTION EN:Stabbed Britains Knife Crime Crisis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39694.mkv:EN:Step Sisters
+#DESCRIPTION EN:Step Sisters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39695.mp4:Submergence (2017)
+#DESCRIPTION Submergence (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39696.mp4:EN:Suicide Squad Hell to Pay
+#DESCRIPTION EN:Suicide Squad Hell to Pay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39697.mkv:EN:Super Troopers 2
+#DESCRIPTION EN:Super Troopers 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39698.mkv:EN:Take Your Pills
+#DESCRIPTION EN:Take Your Pills
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39699.mkv:EN:Tau
+#DESCRIPTION EN:Tau
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39700.mkv:EN:Terminal
+#DESCRIPTION EN:Terminal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39701.mkv:EN:The to Paris
+#DESCRIPTION EN:The to Paris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39702.mkv:EN:The Ashram
+#DESCRIPTION EN:The Ashram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39703.mkv:EN:The Boy Who Harnessed the Wind
+#DESCRIPTION EN:The Boy Who Harnessed the Wind
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39704.mkv:EN:The Catcher Was a Spy
+#DESCRIPTION EN:The Catcher Was a Spy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39705.mkv:EN:The Cloverfield Paradox
+#DESCRIPTION EN:The Cloverfield Paradox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39706.mkv:EN:The Commuter
+#DESCRIPTION EN:The Commuter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39707.mkv:EN:The Con Is On
+#DESCRIPTION EN:The Con Is On
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39708.mkv:EN:The Death of Superman
+#DESCRIPTION EN:The Death of Superman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39709.mkv:EN:The Debt Collector
+#DESCRIPTION EN:The Debt Collector
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39710.mkv:EN:The Domestics
+#DESCRIPTION EN:The Domestics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39711.mkv:EN:The Gateway
+#DESCRIPTION EN:The Gateway
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39712.mkv:EN:The Hard Way
+#DESCRIPTION EN:The Hard Way
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39713.mkv:EN:The Haunting of Borley Rectory
+#DESCRIPTION EN:The Haunting of Borley Rectory
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39714.mkv:EN:The Highwaymen
+#DESCRIPTION EN:The Highwaymen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39715.mkv:EN:The Kissing Booth
+#DESCRIPTION EN:The Kissing Booth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39716.mkv:EN:The Last Witness
+#DESCRIPTION EN:The Last Witness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39717.mp4:EN:The Mercy
+#DESCRIPTION EN:The Mercy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39718.mkv:EN:The Monkey King 3
+#DESCRIPTION EN:The Monkey King 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39719.mkv:EN:The Nature of Things Laughing and Crying
+#DESCRIPTION EN:The Nature of Things Laughing and Crying
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39720.mkv:EN:The Neighbor
+#DESCRIPTION EN:The Neighbor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39721.mkv:EN:The Open House
+#DESCRIPTION EN:The Open House
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39722.mkv:EN:The Outsider
+#DESCRIPTION EN:The Outsider
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39723.mkv:EN:The Strangers Prey at Night
+#DESCRIPTION EN:The Strangers Prey at Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39724.mkv:EN:The Tale
+#DESCRIPTION EN:The Tale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39725.mkv:EN:The Titan
+#DESCRIPTION EN:The Titan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39726.mkv:EN:The Week Of
+#DESCRIPTION EN:The Week Of
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39727.mkv:EN:They Remain
+#DESCRIPTION EN:They Remain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39728.mkv:EN:Tomb Invader
+#DESCRIPTION EN:Tomb Invader
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39731.mkv:EN:Traffik
+#DESCRIPTION EN:Traffik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39732.mkv:EN:Tremors A Cold Day in Hell
+#DESCRIPTION EN:Tremors A Cold Day in Hell
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39733.mkv:EN:Trible Threat
+#DESCRIPTION EN:Trible Threat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39734.mkv:EN:Truth or Dare
+#DESCRIPTION EN:Truth or Dare
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39735.mkv:EN:Unsane
+#DESCRIPTION EN:Unsane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39736.mkv:EN:Velvet Buzzsaw
+#DESCRIPTION EN:Velvet Buzzsaw
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39737.mkv:EN:Welcome the Stranger
+#DESCRIPTION EN:Welcome the Stranger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39738.mkv:EN:When We First Met
+#DESCRIPTION EN:When We First Met
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39739.mkv:EN:Wildling
+#DESCRIPTION EN:Wildling
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muka03.wanicelife.com%3a8880/movie/12mkk110010/21141812/39740.mkv:EN:Winchester
+#DESCRIPTION EN:Winchester
