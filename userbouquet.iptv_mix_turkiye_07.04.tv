@@ -1,0 +1,2139 @@
+#NAME IPTV Mix Turkiye 07.04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=1949&extension=ts
+#DESCRIPTION ++++TURKIYE++++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=746&extension=ts
+#DESCRIPTION TR: Trt 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=2&extension=ts
+#DESCRIPTION TR: Trt 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=66&extension=ts
+#DESCRIPTION TR: Trt 1 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=44610&extension=ts
+#DESCRIPTION TR: Trt 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=54&extension=ts
+#DESCRIPTION TR: Atv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=68&extension=ts
+#DESCRIPTION TR: Atv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=45239&extension=ts
+#DESCRIPTION TR: Atv SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=77&extension=ts
+#DESCRIPTION TR: Atv Avrupa HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=62&extension=ts
+#DESCRIPTION TR: Kanal D HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=67&extension=ts
+#DESCRIPTION TR: Kanal D HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=45240&extension=ts
+#DESCRIPTION TR: Kanal D SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50&extension=ts
+#DESCRIPTION TR: Euro D HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=61&extension=ts
+#DESCRIPTION TR: Star Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=69&extension=ts
+#DESCRIPTION TR: Star Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=45241&extension=ts
+#DESCRIPTION TR: Star Tv SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=78&extension=ts
+#DESCRIPTION TR: Euro Star HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=60&extension=ts
+#DESCRIPTION TR: Show Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=70&extension=ts
+#DESCRIPTION TR: Show Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=45242&extension=ts
+#DESCRIPTION TR: Show Tv SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=10985&extension=ts
+#DESCRIPTION TR: Show Türk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=55&extension=ts
+#DESCRIPTION TR: Now Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=71&extension=ts
+#DESCRIPTION TR: Now Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=45244&extension=ts
+#DESCRIPTION TR: Now Tv SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=58&extension=ts
+#DESCRIPTION TR: Tv8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=72&extension=ts
+#DESCRIPTION TR: Tv8 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=45243&extension=ts
+#DESCRIPTION TR: Tv8 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=79&extension=ts
+#DESCRIPTION TR: Tv8 İnt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49&extension=ts
+#DESCRIPTION TR: Tv8.5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=73&extension=ts
+#DESCRIPTION TR: Tv8.5 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53&extension=ts
+#DESCRIPTION TR: A2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=64&extension=ts
+#DESCRIPTION TR: A2 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=56&extension=ts
+#DESCRIPTION TR: Beyaz Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=74&extension=ts
+#DESCRIPTION TR: Beyaz Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=57&extension=ts
+#DESCRIPTION TR: Kanal 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=75&extension=ts
+#DESCRIPTION TR: Kanal 7 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=14931&extension=ts
+#DESCRIPTION TR: Kanal 7 Avrupa HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46338&extension=ts
+#DESCRIPTION TR: Halk Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46339&extension=ts
+#DESCRIPTION TR: Halk Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=273&extension=ts
+#DESCRIPTION TR: 360 Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=290&extension=ts
+#DESCRIPTION TR: 360 Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=63&extension=ts
+#DESCRIPTION TR: Teve2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=65&extension=ts
+#DESCRIPTION TR: Teve2 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=1940&extension=ts
+#DESCRIPTION TR: Trt Türk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=45252&extension=ts
+#DESCRIPTION TR: Trt 3 Spor - Tbmm Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53020&extension=ts
+#DESCRIPTION TR: İbb TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=2215&extension=ts
+#DESCRIPTION TR: Can Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12850&extension=ts
+#DESCRIPTION TR: Cem Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=59&extension=ts
+#DESCRIPTION TR: Yol Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=9178&extension=ts
+#DESCRIPTION TR: Uçankuş HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=1938&extension=ts
+#DESCRIPTION TR: Eva TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=38973&extension=ts
+#DESCRIPTION TR: Anadolu Dernek Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16431&extension=ts
+#DESCRIPTION TR: Ekin Türk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4978&extension=ts
+#DESCRIPTION TR: Bengütürk Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=44828&extension=ts
+#DESCRIPTION TR: Tv Em
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=8691&extension=ts
+#DESCRIPTION TR: Aksu Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=34738&extension=ts
+#DESCRIPTION TR: Tv Den
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3738&extension=ts
+#DESCRIPTION TR: Yıldız En Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=22530&extension=ts
+#DESCRIPTION TR: Sat7 Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=8692&extension=ts
+#DESCRIPTION TR: Kent Türk Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=13794&extension=ts
+#DESCRIPTION TR: Kanal 32 Isparta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=6035&extension=ts
+#DESCRIPTION TR: Kon Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=51&extension=ts
+#DESCRIPTION TR: Tv 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=76&extension=ts
+#DESCRIPTION TR: Show Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=135&extension=ts
+#DESCRIPTION TR: Kanal Avrupa Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=81&extension=ts
+#DESCRIPTION TR: Kanal B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93555&extension=ts
+#DESCRIPTION TR: Tek Rumeli Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93556&extension=ts
+#DESCRIPTION TR: Koza Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3736&extension=ts
+#DESCRIPTION TR: Rumeli Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=116&extension=ts
+#DESCRIPTION TR: Tempo Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3737&extension=ts
+#DESCRIPTION TR: Mavi Karadeniz Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=117&extension=ts
+#DESCRIPTION TR: Es Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3751&extension=ts
+#DESCRIPTION TR: Kayseri Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=23994&extension=ts
+#DESCRIPTION TR: TV264
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=45382&extension=ts
+#DESCRIPTION TR: Kocaeli Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=45381&extension=ts
+#DESCRIPTION TR: Tv 41 Kocaeli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=29103&extension=ts
+#DESCRIPTION TR: Kanal 42 Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=123&extension=ts
+#DESCRIPTION TR: Line Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=126&extension=ts
+#DESCRIPTION TR: Çay Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3752&extension=ts
+#DESCRIPTION TR: Kanal 3 Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=45251&extension=ts
+#DESCRIPTION TR: Deha Denizli Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=136&extension=ts
+#DESCRIPTION TR: Kanal 33 Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=137&extension=ts
+#DESCRIPTION TR: Pamukkale Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12800&extension=ts
+#DESCRIPTION TR: Altas Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46407&extension=ts
+#DESCRIPTION TR: Tv 52 Ordu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12810&extension=ts
+#DESCRIPTION TR: Kanal 68 Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12801&extension=ts
+#DESCRIPTION TR: Kanal V
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12805&extension=ts
+#DESCRIPTION TR: Kanal Fırat Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12817&extension=ts
+#DESCRIPTION TR: Tv 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12829&extension=ts
+#DESCRIPTION TR: Er Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12831&extension=ts
+#DESCRIPTION TR: Eskişehir 26 Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12834&extension=ts
+#DESCRIPTION TR: Gaziantep Olay Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12837&extension=ts
+#DESCRIPTION TR: Kanal 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12839&extension=ts
+#DESCRIPTION TR: Kanal 58 Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12840&extension=ts
+#DESCRIPTION TR: Kardelen Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12841&extension=ts
+#DESCRIPTION TR: Tv1 Kayseri TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12843&extension=ts
+#DESCRIPTION TR: Kanal 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12844&extension=ts
+#DESCRIPTION TR: Kanal V
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12845&extension=ts
+#DESCRIPTION TR: Kent Türk Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12848&extension=ts
+#DESCRIPTION TR: Vuslat Malatya Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12854&extension=ts
+#DESCRIPTION TR: Ton Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3747&extension=ts
+#DESCRIPTION TR: Brt 1 HD Kıbrıs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3745&extension=ts
+#DESCRIPTION TR: Brt 2 HD Kıbrıs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=306&extension=ts
+#DESCRIPTION TR: Brt 3 HD Kıbrıs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3742&extension=ts
+#DESCRIPTION TR: Kıbrıs Genç Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3740&extension=ts
+#DESCRIPTION TR: Kıbrıs Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3743&extension=ts
+#DESCRIPTION TR: Ada Tv Kıbrıs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3744&extension=ts
+#DESCRIPTION TR: Kanal T Kıbrıs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3746&extension=ts
+#DESCRIPTION TR: Sım Tv Kıbrıs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=302&extension=ts
+#DESCRIPTION ++++TR HABER++++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=279&extension=ts
+#DESCRIPTION TR: Trt Haber HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=296&extension=ts
+#DESCRIPTION TR: Trt Haber HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=287&extension=ts
+#DESCRIPTION TR: Ntv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=297&extension=ts
+#DESCRIPTION TR: Ntv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=285&extension=ts
+#DESCRIPTION TR: Cnn Türk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=299&extension=ts
+#DESCRIPTION TR: Cnn Türk HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=286&extension=ts
+#DESCRIPTION TR: Haber Türk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=300&extension=ts
+#DESCRIPTION TR: Haber Türk HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=283&extension=ts
+#DESCRIPTION TR: A Haber HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=298&extension=ts
+#DESCRIPTION TR: A Haber HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=274&extension=ts
+#DESCRIPTION TR: Tv 100 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=10874&extension=ts
+#DESCRIPTION TR: Tv 100  HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=284&extension=ts
+#DESCRIPTION TR: Haber Global HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=294&extension=ts
+#DESCRIPTION TR: Haber Global HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=1134&extension=ts
+#DESCRIPTION TR: Halk Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=277&extension=ts
+#DESCRIPTION TR: Halk Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=47328&extension=ts
+#DESCRIPTION TR: Sözcü Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=47340&extension=ts
+#DESCRIPTION TR: Sözcü Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=130&extension=ts
+#DESCRIPTION TR: Ulusal Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46257&extension=ts
+#DESCRIPTION TR: Ulusal Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=90&extension=ts
+#DESCRIPTION TR: Tele 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12846&extension=ts
+#DESCRIPTION TR: Tele 1 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=278&extension=ts
+#DESCRIPTION TR: Krt Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46259&extension=ts
+#DESCRIPTION TR: Krt Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=26826&extension=ts
+#DESCRIPTION TR: Flash Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46260&extension=ts
+#DESCRIPTION TR: Flash Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=288&extension=ts
+#DESCRIPTION TR: Tgrt Haber HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=10876&extension=ts
+#DESCRIPTION TR: Tgrt Haber HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=289&extension=ts
+#DESCRIPTION TR: Kanal 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12835&extension=ts
+#DESCRIPTION TR: Kanal 24 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=275&extension=ts
+#DESCRIPTION TR: TvNet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12847&extension=ts
+#DESCRIPTION TR: TvNet HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=276&extension=ts
+#DESCRIPTION TR: Ülke Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=293&extension=ts
+#DESCRIPTION TR: Ülke TV HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3754&extension=ts
+#DESCRIPTION TR: Akit Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12819&extension=ts
+#DESCRIPTION TR: Akit Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93743&extension=ts
+#DESCRIPTION TR: Ekol Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12808&extension=ts
+#DESCRIPTION TR: Ekol Tv HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93024&extension=ts
+#DESCRIPTION TR: Cnbc-e HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=52873&extension=ts
+#DESCRIPTION TR: Lider Haber HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=280&extension=ts
+#DESCRIPTION TR: EkoTürk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12860&extension=ts
+#DESCRIPTION TR: EkoTürk HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=127&extension=ts
+#DESCRIPTION TR: Türk Haber Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=272&extension=ts
+#DESCRIPTION TR: Uzay Haber Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=47379&extension=ts
+#DESCRIPTION TR: Bloomberght HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=47380&extension=ts
+#DESCRIPTION TR: Bloomberght HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12821&extension=ts
+#DESCRIPTION TR: A Para HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=282&extension=ts
+#DESCRIPTION TR: A Para HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=292&extension=ts
+#DESCRIPTION TR: A News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12827&extension=ts
+#DESCRIPTION TR: A News HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12818&extension=ts
+#DESCRIPTION TR: Trt World HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=304&extension=ts
+#DESCRIPTION ++++TR BELGESEL++++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=256&extension=ts
+#DESCRIPTION TR: Trt Belgesel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28400&extension=ts
+#DESCRIPTION TR: Trt Belgesel HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12892&extension=ts
+#DESCRIPTION TR: Trt Avaz HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=44609&extension=ts
+#DESCRIPTION TR: Tarih Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=266&extension=ts
+#DESCRIPTION TR: Dmax HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=268&extension=ts
+#DESCRIPTION TR: Dmax HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=265&extension=ts
+#DESCRIPTION TR: Bein İz HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53284&extension=ts
+#DESCRIPTION TR: Docubox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=260&extension=ts
+#DESCRIPTION TR: Discovery Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28392&extension=ts
+#DESCRIPTION TR: Discovery Channel HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28394&extension=ts
+#DESCRIPTION TR: Discovery ID HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=258&extension=ts
+#DESCRIPTION TR: National Georaphic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28398&extension=ts
+#DESCRIPTION TR: National Georaphic HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=257&extension=ts
+#DESCRIPTION TR: Nat Geo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28399&extension=ts
+#DESCRIPTION TR: Nat Geo Wild HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=264&extension=ts
+#DESCRIPTION TR: History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41644&extension=ts
+#DESCRIPTION TR: History HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=14949&extension=ts
+#DESCRIPTION TR: Viasat History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28395&extension=ts
+#DESCRIPTION TR: Viasat History HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=15106&extension=ts
+#DESCRIPTION TR: Viasat Explore HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=32418&extension=ts
+#DESCRIPTION TR: Viasat Explore HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=32419&extension=ts
+#DESCRIPTION TR: Viasat Nature HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=263&extension=ts
+#DESCRIPTION TR: Bbc Earth HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=15189&extension=ts
+#DESCRIPTION TR: Love Nature HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25035&extension=ts
+#DESCRIPTION TR: Chasse Peche HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25036&extension=ts
+#DESCRIPTION TR: Animaux HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28396&extension=ts
+#DESCRIPTION TR: Docubox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=3759&extension=ts
+#DESCRIPTION TR: Tgrt Belgesel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=15118&extension=ts
+#DESCRIPTION TR: Çiftçi Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=9546&extension=ts
+#DESCRIPTION TR: Köy Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=255&extension=ts
+#DESCRIPTION TR: Yaban Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=267&extension=ts
+#DESCRIPTION TR: Bein Gurme HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=23725&extension=ts
+#DESCRIPTION TR: Habitat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28841&extension=ts
+#DESCRIPTION ++++TR YASAM++++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=52&extension=ts
+#DESCRIPTION TR: Trt 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=254&extension=ts
+#DESCRIPTION TR: TLC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12825&extension=ts
+#DESCRIPTION TR: TLC HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53729&extension=ts
+#DESCRIPTION TR: Bein H&E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28831&extension=ts
+#DESCRIPTION TR: Tv4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28832&extension=ts
+#DESCRIPTION TR: Uçankuş Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28833&extension=ts
+#DESCRIPTION TR: Mezzo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28834&extension=ts
+#DESCRIPTION TR: Fashion Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28837&extension=ts
+#DESCRIPTION TR: Bizim Ev Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28838&extension=ts
+#DESCRIPTION TR: E! Entertainment HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=36381&extension=ts
+#DESCRIPTION ++++7/24 DIZILER++++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49222&extension=ts
+#DESCRIPTION TR: Acı Hayat 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49236&extension=ts
+#DESCRIPTION TR: Akasya Durağı 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49259&extension=ts
+#DESCRIPTION TR: Ankara'nın Dikmen'i 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49264&extension=ts
+#DESCRIPTION TR: Arka Sokaklar 1 - 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49265&extension=ts
+#DESCRIPTION TR: Arka Sokaklar 2 - 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49266&extension=ts
+#DESCRIPTION TR: Arka Sokaklar 3 - 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49267&extension=ts
+#DESCRIPTION TR: Arka Sokaklar 4 - 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49268&extension=ts
+#DESCRIPTION TR: Arka Sokaklar 5 - 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49269&extension=ts
+#DESCRIPTION TR: Arka Sokaklar 6 - 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49200&extension=ts
+#DESCRIPTION TR: Arkadaşım Hoşgeldin 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49226&extension=ts
+#DESCRIPTION TR: Asmalı Konak - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49208&extension=ts
+#DESCRIPTION TR: Avrupa Yakası 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49227&extension=ts
+#DESCRIPTION TR: Aynalı Tahir 1 - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49228&extension=ts
+#DESCRIPTION TR: Aynalı Tahir 2 - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49197&extension=ts
+#DESCRIPTION TR: Aşk-ı Memnu 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49243&extension=ts
+#DESCRIPTION TR: Aşkım Aşkım 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49217&extension=ts
+#DESCRIPTION TR: Behzat Ç. 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49252&extension=ts
+#DESCRIPTION TR: Ben Bu Cihana Sığmazam 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49218&extension=ts
+#DESCRIPTION TR: Binbir Gece 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49213&extension=ts
+#DESCRIPTION TR: Bizimkiler 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49195&extension=ts
+#DESCRIPTION TR: Deli Yürek 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49198&extension=ts
+#DESCRIPTION TR: Diriliş Ertuğrul 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49225&extension=ts
+#DESCRIPTION TR: Ekmek Teknesi 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49276&extension=ts
+#DESCRIPTION TR: En Hamarat Benim 1 - 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49277&extension=ts
+#DESCRIPTION TR: En Hamarat Benim 2 - 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49207&extension=ts
+#DESCRIPTION TR: Exxen Katarsis 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49189&extension=ts
+#DESCRIPTION TR: Ezel - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49253&extension=ts
+#DESCRIPTION TR: Eşkiya Dünyaya Hükümdar Olmaz 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49254&extension=ts
+#DESCRIPTION TR: Eşkiya Dünyaya Hükümdar Olmaz 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49223&extension=ts
+#DESCRIPTION TR: Fatmagülün Suçu Ne 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49257&extension=ts
+#DESCRIPTION TR: Galip Derviş 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49244&extension=ts
+#DESCRIPTION TR: Gülbeyaz 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49185&extension=ts
+#DESCRIPTION TR: Güldür Güldür 2019 Skeçler-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49186&extension=ts
+#DESCRIPTION TR: Güldür Güldür 2019 Skeçler-2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49247&extension=ts
+#DESCRIPTION TR: Güldür Güldür 2020 Skeçler-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49248&extension=ts
+#DESCRIPTION TR: Güldür Güldür 2020 Skeçler-2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49245&extension=ts
+#DESCRIPTION TR: Güldür Güldür 2021 Skeçler-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49246&extension=ts
+#DESCRIPTION TR: Güldür Güldür 2021 Skeçler-2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49251&extension=ts
+#DESCRIPTION TR: Güneşin Kızları 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49235&extension=ts
+#DESCRIPTION TR: Güzel Köylü 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49205&extension=ts
+#DESCRIPTION TR: Gibi 1 - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49206&extension=ts
+#DESCRIPTION TR: Gibi Karışık - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49196&extension=ts
+#DESCRIPTION TR: Hekimoğlu 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49187&extension=ts
+#DESCRIPTION TR: House of Dragon 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49209&extension=ts
+#DESCRIPTION TR: Hz. Yusuf 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49239&extension=ts
+#DESCRIPTION TR: Kanıt 7/24 Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49238&extension=ts
+#DESCRIPTION TR: Kanıt 7/24 Yeni
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49242&extension=ts
+#DESCRIPTION TR: Kara Sevda 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49190&extension=ts
+#DESCRIPTION TR: Karadayı 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49194&extension=ts
+#DESCRIPTION TR: Kardeş Payı 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49263&extension=ts
+#DESCRIPTION TR: Katarsis X-TRA 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49273&extension=ts
+#DESCRIPTION TR: Kısmetse Olur: Aşkın Gücü 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49201&extension=ts
+#DESCRIPTION TR: Konuşanlar Sezon 1 - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49202&extension=ts
+#DESCRIPTION TR: Konuşanlar Sezon 2 - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49203&extension=ts
+#DESCRIPTION TR: Konuşanlar Sezon 3 - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49204&extension=ts
+#DESCRIPTION TR: Konuşanlar | Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49188&extension=ts
+#DESCRIPTION TR: Kurtlar Vadisi 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49214&extension=ts
+#DESCRIPTION TR: Kurtlar Vadisi Pusu 1 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49270&extension=ts
+#DESCRIPTION TR: Kurtlar Vadisi Pusu 2 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49199&extension=ts
+#DESCRIPTION TR: Kuzey Güney 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49191&extension=ts
+#DESCRIPTION TR: Leyla ile Mecnun 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49216&extension=ts
+#DESCRIPTION TR: Muhteşem Yüzyıl 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49275&extension=ts
+#DESCRIPTION TR: Müge Anlı ile Tatlı Sert 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49220&extension=ts
+#DESCRIPTION TR: Olacak O Kadar 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49221&extension=ts
+#DESCRIPTION TR: Olacak O Kadar Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49210&extension=ts
+#DESCRIPTION TR: Sen Anlat Karadeniz 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49258&extension=ts
+#DESCRIPTION TR: Sıfır Bir 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49192&extension=ts
+#DESCRIPTION TR: Suskunlar 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49229&extension=ts
+#DESCRIPTION TR: Süper Baba 1 - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49230&extension=ts
+#DESCRIPTION TR: Süper Baba 2 - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49261&extension=ts
+#DESCRIPTION TR: Tolg Show Filtresiz 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49260&extension=ts
+#DESCRIPTION TR: Türk Malı 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49249&extension=ts
+#DESCRIPTION TR: Ulan İstanbul 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49234&extension=ts
+#DESCRIPTION TR: Yabancı Damat 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49256&extension=ts
+#DESCRIPTION TR: Yahşi Cazibe 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49219&extension=ts
+#DESCRIPTION TR: Yalan Dünya 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49237&extension=ts
+#DESCRIPTION TR: Yalancı Yarim 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49240&extension=ts
+#DESCRIPTION TR: Yaprak Dökümü 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49271&extension=ts
+#DESCRIPTION TR: Yargı 1 - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49272&extension=ts
+#DESCRIPTION TR: Yargı 2 - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49231&extension=ts
+#DESCRIPTION TR: Yeditepe Istanbul 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49232&extension=ts
+#DESCRIPTION TR: Çocuklar Duymasın 1 - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49233&extension=ts
+#DESCRIPTION TR: Çocuklar Duymasın 2 - Premium 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49224&extension=ts
+#DESCRIPTION TR: Çok Güzel Hareketler-2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49193&extension=ts
+#DESCRIPTION TR: Çukur 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49211&extension=ts
+#DESCRIPTION TR: Öyle Bir Geçer Zaman Ki 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49212&extension=ts
+#DESCRIPTION TR: Öyle Bir Geçer Zaman Ki 2 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49250&extension=ts
+#DESCRIPTION TR: Üç Kuruş 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49215&extension=ts
+#DESCRIPTION TR: İkinci Bahar 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49241&extension=ts
+#DESCRIPTION TR: İstanbullu Gelin 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49262&extension=ts
+#DESCRIPTION TR: Şahsiyet 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53475&extension=ts
+#DESCRIPTION TR: Byzbox Aci Hayat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53495&extension=ts
+#DESCRIPTION TR: Byzbox Adile Nasit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53487&extension=ts
+#DESCRIPTION TR: Byzbox Ariza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53485&extension=ts
+#DESCRIPTION TR: Byzbox Asmali Konak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53481&extension=ts
+#DESCRIPTION TR: Byzbox Avrupa Yakasi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53480&extension=ts
+#DESCRIPTION TR: Byzbox Calikusu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53489&extension=ts
+#DESCRIPTION TR: Byzbox Cennet Mahallesi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53491&extension=ts
+#DESCRIPTION TR: Byzbox Cicek Taksi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53488&extension=ts
+#DESCRIPTION TR: Byzbox Cocuklar Duymasin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53496&extension=ts
+#DESCRIPTION TR: Byzbox Cuneyt Arkin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53474&extension=ts
+#DESCRIPTION TR: Byzbox Deli Yurek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53473&extension=ts
+#DESCRIPTION TR: Byzbox Ezel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53477&extension=ts
+#DESCRIPTION TR: Byzbox Kurtlar Vadisi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53478&extension=ts
+#DESCRIPTION TR: Byzbox Kurtlar Vadisi Pusu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53493&extension=ts
+#DESCRIPTION TR: Byzbox Kuzey Guney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53483&extension=ts
+#DESCRIPTION TR: Byzbox Muhtesem Yuzyil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53484&extension=ts
+#DESCRIPTION TR: Byzbox Poyraz Karayel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53479&extension=ts
+#DESCRIPTION TR: Byzbox Ruhsar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53476&extension=ts
+#DESCRIPTION TR: Byzbox Suskunlar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53482&extension=ts
+#DESCRIPTION TR: Byzbox Turk Mali
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53494&extension=ts
+#DESCRIPTION TR: Byzbox Ulan Istanbul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53490&extension=ts
+#DESCRIPTION TR: Byzbox Yabanci Damat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53486&extension=ts
+#DESCRIPTION TR: Byzbox Yaprak Dokumu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53492&extension=ts
+#DESCRIPTION TR: Byzbox Yilan Hikayesi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49376&extension=ts
+#DESCRIPTION TR: Diziax 007 James Bond 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49355&extension=ts
+#DESCRIPTION TR: Diziax 13. Cuma 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49361&extension=ts
+#DESCRIPTION TR: Diziax Alacakaranlık Efsanesi 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49377&extension=ts
+#DESCRIPTION TR: Diziax Alien vs Predator 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49381&extension=ts
+#DESCRIPTION TR: Diziax Aşkı Memnu 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49382&extension=ts
+#DESCRIPTION TR: Diziax Batman Tv 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49366&extension=ts
+#DESCRIPTION TR: Diziax Blindspot 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49365&extension=ts
+#DESCRIPTION TR: Diziax Bruce Lee 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49384&extension=ts
+#DESCRIPTION TR: Diziax Game of Thrones 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49364&extension=ts
+#DESCRIPTION TR: Diziax Harry Potter 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49385&extension=ts
+#DESCRIPTION TR: Diziax Hobbit Tv 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49388&extension=ts
+#DESCRIPTION TR: Diziax Karanlıklar Ülkesi 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49389&extension=ts
+#DESCRIPTION TR: Diziax Karayip Korsanları 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49390&extension=ts
+#DESCRIPTION TR: Diziax Maskeli Beşler 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49391&extension=ts
+#DESCRIPTION TR: Diziax Maymunlar Cehennemi 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49392&extension=ts
+#DESCRIPTION TR: Diziax Mumya 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49393&extension=ts
+#DESCRIPTION TR: Diziax Polis Akademisi 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49394&extension=ts
+#DESCRIPTION TR: Diziax Rambo 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49362&extension=ts
+#DESCRIPTION TR: Diziax Recep İvedik 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49363&extension=ts
+#DESCRIPTION TR: Diziax Rocky Balboa 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49356&extension=ts
+#DESCRIPTION TR: Diziax Son Durak 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49397&extension=ts
+#DESCRIPTION TR: Diziax Star Trek 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49359&extension=ts
+#DESCRIPTION TR: Diziax Superman 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49398&extension=ts
+#DESCRIPTION TR: Diziax Terminator Tv 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49399&extension=ts
+#DESCRIPTION TR: Diziax Testere Saw 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49354&extension=ts
+#DESCRIPTION TR: Diziax The Bourne 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49400&extension=ts
+#DESCRIPTION TR: Diziax The Matrix 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49402&extension=ts
+#DESCRIPTION TR: Diziax Transformers 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49369&extension=ts
+#DESCRIPTION TR: Diziax Van Damme 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49403&extension=ts
+#DESCRIPTION TR: Diziax X-Men Tv 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49358&extension=ts
+#DESCRIPTION TR: Diziax Zor Olum 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49360&extension=ts
+#DESCRIPTION TR: Diziax Ölümcül Deney 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49404&extension=ts
+#DESCRIPTION TR: Diziax Örümcek Adam 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=305&extension=ts
+#DESCRIPTION ++++TR SINEMA++++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53090&extension=ts
+#DESCRIPTION TR: Blu Tv Play 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53091&extension=ts
+#DESCRIPTION TR: Blu Tv Play 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=48988&extension=ts
+#DESCRIPTION TR: Max 4K UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4988&extension=ts
+#DESCRIPTION TR: Max Türk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4980&extension=ts
+#DESCRIPTION TR: Max Aksiyon HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=37010&extension=ts
+#DESCRIPTION TR: Max Aksiyon 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=37011&extension=ts
+#DESCRIPTION TR: Max 007 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=37012&extension=ts
+#DESCRIPTION TR: Max Orjinal HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4986&extension=ts
+#DESCRIPTION TR: Max Premier HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4989&extension=ts
+#DESCRIPTION TR: Max Vizyon 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4990&extension=ts
+#DESCRIPTION TR: Max Vizyon 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4991&extension=ts
+#DESCRIPTION TR: Max Vizyon 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16452&extension=ts
+#DESCRIPTION TR: Max Vizyon 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4993&extension=ts
+#DESCRIPTION TR: Max Western HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4987&extension=ts
+#DESCRIPTION TR: Max Star Wars HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4984&extension=ts
+#DESCRIPTION TR: Max Gold HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16449&extension=ts
+#DESCRIPTION TR: Max Kino Collection HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4981&extension=ts
+#DESCRIPTION TR: Max Animasyon 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4982&extension=ts
+#DESCRIPTION TR: Max Animasyon 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=92957&extension=ts
+#DESCRIPTION TR: Bein Movies Turk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53725&extension=ts
+#DESCRIPTION TR: Bein Movies Premiere HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53726&extension=ts
+#DESCRIPTION TR: Bein Movies Stars HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53727&extension=ts
+#DESCRIPTION TR: Bein Series 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53728&extension=ts
+#DESCRIPTION TR: Bein Series 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=186&extension=ts
+#DESCRIPTION TR: Moviesmart Türk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=188&extension=ts
+#DESCRIPTION TR: Moviesmart Classic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=195&extension=ts
+#DESCRIPTION TR: Dizi Smart Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=51045&extension=ts
+#DESCRIPTION TR: Epic Drama HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=181&extension=ts
+#DESCRIPTION TR: Fx HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12988&extension=ts
+#DESCRIPTION TR: Fx HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=21280&extension=ts
+#DESCRIPTION TR: Sinema Tv 1001 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=21281&extension=ts
+#DESCRIPTION TR: Sinema Tv 1002 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=21273&extension=ts
+#DESCRIPTION TR: Sinema Tv 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=21275&extension=ts
+#DESCRIPTION TR: Sinema Tv Aile 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=21274&extension=ts
+#DESCRIPTION TR: Sinema Tv Aile HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=21277&extension=ts
+#DESCRIPTION TR: Sinema Tv Aksiyon 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=21276&extension=ts
+#DESCRIPTION TR: Sinema Tv Aksiyon HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=21272&extension=ts
+#DESCRIPTION TR: Sinema Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=21279&extension=ts
+#DESCRIPTION TR: Sinema Tv Komedi 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=21278&extension=ts
+#DESCRIPTION TR: Sinema Tv Komedi HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53503&extension=ts
+#DESCRIPTION TR: Byzbox Aksiyon 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53504&extension=ts
+#DESCRIPTION TR: Byzbox Aksiyon 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53514&extension=ts
+#DESCRIPTION TR: Byzbox Bilim Kurgu 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53515&extension=ts
+#DESCRIPTION TR: Byzbox Bilim Kurgu 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53516&extension=ts
+#DESCRIPTION TR: Byzbox Bilim Kurgu 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53517&extension=ts
+#DESCRIPTION TR: Byzbox Bollywood 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53518&extension=ts
+#DESCRIPTION TR: Byzbox Bollywood 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53519&extension=ts
+#DESCRIPTION TR: Byzbox Bollywood 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53520&extension=ts
+#DESCRIPTION TR: Byzbox Bollywood 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53521&extension=ts
+#DESCRIPTION TR: Byzbox Bollywood 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53506&extension=ts
+#DESCRIPTION TR: Byzbox Drama 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53507&extension=ts
+#DESCRIPTION TR: Byzbox Drama 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53508&extension=ts
+#DESCRIPTION TR: Byzbox Drama 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53530&extension=ts
+#DESCRIPTION TR: Byzbox Gerilim 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53531&extension=ts
+#DESCRIPTION TR: Byzbox Gerilim 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53532&extension=ts
+#DESCRIPTION TR: Byzbox Gerilim 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53533&extension=ts
+#DESCRIPTION TR: Byzbox Gerilim 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53512&extension=ts
+#DESCRIPTION TR: Byzbox Komedi 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53513&extension=ts
+#DESCRIPTION TR: Byzbox Komedi 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53498&extension=ts
+#DESCRIPTION TR: Byzbox Korku 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53499&extension=ts
+#DESCRIPTION TR: Byzbox Korku 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53500&extension=ts
+#DESCRIPTION TR: Byzbox Korku 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53501&extension=ts
+#DESCRIPTION TR: Byzbox Korku 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53502&extension=ts
+#DESCRIPTION TR: Byzbox Korku 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53525&extension=ts
+#DESCRIPTION TR: Byzbox Romantik 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53526&extension=ts
+#DESCRIPTION TR: Byzbox Romantik 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53527&extension=ts
+#DESCRIPTION TR: Byzbox Romantik 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53528&extension=ts
+#DESCRIPTION TR: Byzbox Romantik 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53529&extension=ts
+#DESCRIPTION TR: Byzbox Romantik 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53522&extension=ts
+#DESCRIPTION TR: Byzbox Savas 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53523&extension=ts
+#DESCRIPTION TR: Byzbox Savas 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53524&extension=ts
+#DESCRIPTION TR: Byzbox Savas 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53509&extension=ts
+#DESCRIPTION TR: Byzbox Yerli 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53510&extension=ts
+#DESCRIPTION TR: Byzbox Yerli 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53511&extension=ts
+#DESCRIPTION TR: Byzbox Yerli 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53497&extension=ts
+#DESCRIPTION TR: Byzbox Yesilcam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=85141&extension=ts
+#DESCRIPTION TR: FerBox IMDb 100
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=85139&extension=ts
+#DESCRIPTION TR: KingBox Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=85140&extension=ts
+#DESCRIPTION TR: KingBox Action 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=85132&extension=ts
+#DESCRIPTION TR: KingBox Boxset
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=85137&extension=ts
+#DESCRIPTION TR: KingBox Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=85138&extension=ts
+#DESCRIPTION TR: KingBox Gold 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=85135&extension=ts
+#DESCRIPTION TR: KingBox Prime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=85136&extension=ts
+#DESCRIPTION TR: KingBox Prime 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=85133&extension=ts
+#DESCRIPTION TR: KingBox Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=85134&extension=ts
+#DESCRIPTION TR: KingBox Turk 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=85131&extension=ts
+#DESCRIPTION TR: KingBox Recep Ivedik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50795&extension=ts
+#DESCRIPTION TR: Usk Vizyon Cinema Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50796&extension=ts
+#DESCRIPTION TR: Usk Vizyon Cinema Dublaj
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50797&extension=ts
+#DESCRIPTION TR: Usk Vizyon Cinema Animasyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50794&extension=ts
+#DESCRIPTION TR: Usk Vizyon Cinema Altyazı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50761&extension=ts
+#DESCRIPTION TR: Proturk Intro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50762&extension=ts
+#DESCRIPTION TR: Proturk Loca 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50763&extension=ts
+#DESCRIPTION TR: Proturk Loca 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50777&extension=ts
+#DESCRIPTION TR: Proturk 4k Ultra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50765&extension=ts
+#DESCRIPTION TR: Proturk Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50764&extension=ts
+#DESCRIPTION TR: Proturk Bilim Kurgu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50771&extension=ts
+#DESCRIPTION TR: Proturk Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50768&extension=ts
+#DESCRIPTION TR: Proturk Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50769&extension=ts
+#DESCRIPTION TR: Proturk Fantastic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50766&extension=ts
+#DESCRIPTION TR: Proturk Gerilim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50779&extension=ts
+#DESCRIPTION TR: Proturk Kemal Sunal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50767&extension=ts
+#DESCRIPTION TR: Proturk Korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50770&extension=ts
+#DESCRIPTION TR: Proturk Macera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50776&extension=ts
+#DESCRIPTION TR: Proturk Netflix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50778&extension=ts
+#DESCRIPTION TR: Proturk Orjinal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50774&extension=ts
+#DESCRIPTION TR: Proturk Uzakdoğu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50772&extension=ts
+#DESCRIPTION TR: Proturk Vizyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50775&extension=ts
+#DESCRIPTION TR: Proturk Western
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50773&extension=ts
+#DESCRIPTION TR: Proturk Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50780&extension=ts
+#DESCRIPTION TR: Proturk Yeşilçam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50798&extension=ts
+#DESCRIPTION TR: Arena Box Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50810&extension=ts
+#DESCRIPTION TR: Arena Box Animasyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50811&extension=ts
+#DESCRIPTION TR: Arena Box Belgesel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50801&extension=ts
+#DESCRIPTION TR: Arena Box Bilim Kurgu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50805&extension=ts
+#DESCRIPTION TR: Arena Box Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50806&extension=ts
+#DESCRIPTION TR: Arena Box Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50799&extension=ts
+#DESCRIPTION TR: Arena Box Fantastic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50800&extension=ts
+#DESCRIPTION TR: Arena Box Gerilim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50808&extension=ts
+#DESCRIPTION TR: Arena Box Kemal Sunal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50804&extension=ts
+#DESCRIPTION TR: Arena Box Korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50803&extension=ts
+#DESCRIPTION TR: Arena Box Macera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50802&extension=ts
+#DESCRIPTION TR: Arena Box Vizyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50807&extension=ts
+#DESCRIPTION TR: Arena Box Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50809&extension=ts
+#DESCRIPTION TR: Arena Box Yeşilçam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50876&extension=ts
+#DESCRIPTION TR: Dream Box Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50877&extension=ts
+#DESCRIPTION TR: Dream Box Bilim Kurgu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50879&extension=ts
+#DESCRIPTION TR: Dream Box Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50881&extension=ts
+#DESCRIPTION TR: Dream Box Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50878&extension=ts
+#DESCRIPTION TR: Dream Box Fantastic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50883&extension=ts
+#DESCRIPTION TR: Dream Box Gerilim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50887&extension=ts
+#DESCRIPTION TR: Dream Box Kemal Sunal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50880&extension=ts
+#DESCRIPTION TR: Dream Box Korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50882&extension=ts
+#DESCRIPTION TR: Dream Box Macera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50889&extension=ts
+#DESCRIPTION TR: Dream Box Netflix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50885&extension=ts
+#DESCRIPTION TR: Dream Box Romantic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50884&extension=ts
+#DESCRIPTION TR: Dream Box Savaş
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50886&extension=ts
+#DESCRIPTION TR: Dream Box Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50888&extension=ts
+#DESCRIPTION TR: Dream Box Yeşilçam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50922&extension=ts
+#DESCRIPTION TR: Film Box Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50926&extension=ts
+#DESCRIPTION TR: Film Box Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50927&extension=ts
+#DESCRIPTION TR: Film Box Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50924&extension=ts
+#DESCRIPTION TR: Film Box Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50923&extension=ts
+#DESCRIPTION TR: Film Box Fantastic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50925&extension=ts
+#DESCRIPTION TR: Film Box Horror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50930&extension=ts
+#DESCRIPTION TR: Film Box Kemal Sunal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50928&extension=ts
+#DESCRIPTION TR: Film Box Sci-fi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50929&extension=ts
+#DESCRIPTION TR: Film Box Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50931&extension=ts
+#DESCRIPTION TR: Film Box Yeşilçam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50812&extension=ts
+#DESCRIPTION TR: Fix Cinema Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50813&extension=ts
+#DESCRIPTION TR: Fix Cinema Bilimkurgu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50814&extension=ts
+#DESCRIPTION TR: Fix Cinema Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50815&extension=ts
+#DESCRIPTION TR: Fix Cinema Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50816&extension=ts
+#DESCRIPTION TR: Fix Cinema Fantastic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50817&extension=ts
+#DESCRIPTION TR: Fix Cinema Korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50818&extension=ts
+#DESCRIPTION TR: Fix Cinema Macera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50819&extension=ts
+#DESCRIPTION TR: Fix Cinema Netflix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50820&extension=ts
+#DESCRIPTION TR: Fix Cinema Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50821&extension=ts
+#DESCRIPTION TR: Fix Cinema Yesilcam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50907&extension=ts
+#DESCRIPTION TR: Global Box Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50910&extension=ts
+#DESCRIPTION TR: Global Box Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50916&extension=ts
+#DESCRIPTION TR: Global Box Disney +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50911&extension=ts
+#DESCRIPTION TR: Global Box Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50909&extension=ts
+#DESCRIPTION TR: Global Box Fantastic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50913&extension=ts
+#DESCRIPTION TR: Global Box Kemal Sunal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50908&extension=ts
+#DESCRIPTION TR: Global Box Korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50912&extension=ts
+#DESCRIPTION TR: Global Box Vizyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50914&extension=ts
+#DESCRIPTION TR: Global Box Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50915&extension=ts
+#DESCRIPTION TR: Global Box Yeşilçam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50917&extension=ts
+#DESCRIPTION TR: Horror Box 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50918&extension=ts
+#DESCRIPTION TR: Horror Box 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50919&extension=ts
+#DESCRIPTION TR: Horror Box 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50920&extension=ts
+#DESCRIPTION TR: Horror Box 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50921&extension=ts
+#DESCRIPTION TR: Horror Box 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50822&extension=ts
+#DESCRIPTION TR: King Box Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50823&extension=ts
+#DESCRIPTION TR: King Box Bilim Kurgu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50826&extension=ts
+#DESCRIPTION TR: King Box Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50827&extension=ts
+#DESCRIPTION TR: King Box Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50824&extension=ts
+#DESCRIPTION TR: King Box Fantastic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50829&extension=ts
+#DESCRIPTION TR: King Box Kemal Sunal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50825&extension=ts
+#DESCRIPTION TR: King Box Macera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50828&extension=ts
+#DESCRIPTION TR: King Box Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50830&extension=ts
+#DESCRIPTION TR: King Box Yeşilçam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50840&extension=ts
+#DESCRIPTION TR: Mega Box Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50854&extension=ts
+#DESCRIPTION TR: Mega Box Animsyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50842&extension=ts
+#DESCRIPTION TR: Mega Box Bilim Kurgu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50845&extension=ts
+#DESCRIPTION TR: Mega Box Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50846&extension=ts
+#DESCRIPTION TR: Mega Box Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50841&extension=ts
+#DESCRIPTION TR: Mega Box Fantastic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50850&extension=ts
+#DESCRIPTION TR: Mega Box Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50855&extension=ts
+#DESCRIPTION TR: Mega Box Klip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50844&extension=ts
+#DESCRIPTION TR: Mega Box Korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50843&extension=ts
+#DESCRIPTION TR: Mega Box Macera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50852&extension=ts
+#DESCRIPTION TR: Mega Box Marvel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50851&extension=ts
+#DESCRIPTION TR: Mega Box Netflix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50848&extension=ts
+#DESCRIPTION TR: Mega Box Vizyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50847&extension=ts
+#DESCRIPTION TR: Mega Box Western
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50849&extension=ts
+#DESCRIPTION TR: Mega Box Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50853&extension=ts
+#DESCRIPTION TR: Mega Box Yeşilçam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50856&extension=ts
+#DESCRIPTION TR: Mega Box Ülke Seyahat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50831&extension=ts
+#DESCRIPTION TR: Neocine Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50832&extension=ts
+#DESCRIPTION TR: Neocine Fantastic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50836&extension=ts
+#DESCRIPTION TR: Neocine Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50833&extension=ts
+#DESCRIPTION TR: Neocine Korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50837&extension=ts
+#DESCRIPTION TR: Neocine Netflix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50839&extension=ts
+#DESCRIPTION TR: Neocine Special
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50834&extension=ts
+#DESCRIPTION TR: Neocine Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50835&extension=ts
+#DESCRIPTION TR: Neocine Western
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50838&extension=ts
+#DESCRIPTION TR: Neocine Yesilcam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50932&extension=ts
+#DESCRIPTION TR: Nova Cinema 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50933&extension=ts
+#DESCRIPTION TR: Nova Cinema 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50934&extension=ts
+#DESCRIPTION TR: Nova Cinema 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50935&extension=ts
+#DESCRIPTION TR: Nova Cinema 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50936&extension=ts
+#DESCRIPTION TR: Nova Cinema 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50937&extension=ts
+#DESCRIPTION TR: Nova Cinema 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50857&extension=ts
+#DESCRIPTION TR: Real Box Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50870&extension=ts
+#DESCRIPTION TR: Real Box Animasyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50858&extension=ts
+#DESCRIPTION TR: Real Box Bilim Kurgu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50873&extension=ts
+#DESCRIPTION TR: Real Box Booba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50863&extension=ts
+#DESCRIPTION TR: Real Box Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50864&extension=ts
+#DESCRIPTION TR: Real Box Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50860&extension=ts
+#DESCRIPTION TR: Real Box Fantastic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50861&extension=ts
+#DESCRIPTION TR: Real Box Gerilim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50869&extension=ts
+#DESCRIPTION TR: Real Box Hint
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50862&extension=ts
+#DESCRIPTION TR: Real Box Korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50875&extension=ts
+#DESCRIPTION TR: Real Box Kral Sakir
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50874&extension=ts
+#DESCRIPTION TR: Real Box Kukuli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50859&extension=ts
+#DESCRIPTION TR: Real Box Macera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50871&extension=ts
+#DESCRIPTION TR: Real Box Niloya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50872&extension=ts
+#DESCRIPTION TR: Real Box Pepee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50865&extension=ts
+#DESCRIPTION TR: Real Box Vizyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50866&extension=ts
+#DESCRIPTION TR: Real Box Western
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50867&extension=ts
+#DESCRIPTION TR: Real Box Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50868&extension=ts
+#DESCRIPTION TR: Real Box Yeşilçam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50890&extension=ts
+#DESCRIPTION TR: Smart Box Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50906&extension=ts
+#DESCRIPTION TR: Smart Box Belgesel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50891&extension=ts
+#DESCRIPTION TR: Smart Box Bilim Kurgu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50900&extension=ts
+#DESCRIPTION TR: Smart Box Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50897&extension=ts
+#DESCRIPTION TR: Smart Box Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50893&extension=ts
+#DESCRIPTION TR: Smart Box Fantastic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50894&extension=ts
+#DESCRIPTION TR: Smart Box Gerilim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50903&extension=ts
+#DESCRIPTION TR: Smart Box Kemal Sunal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50895&extension=ts
+#DESCRIPTION TR: Smart Box Korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50892&extension=ts
+#DESCRIPTION TR: Smart Box Macera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50904&extension=ts
+#DESCRIPTION TR: Smart Box Netflix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50905&extension=ts
+#DESCRIPTION TR: Smart Box Orjinal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50899&extension=ts
+#DESCRIPTION TR: Smart Box Romantik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50898&extension=ts
+#DESCRIPTION TR: Smart Box Savaş
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50896&extension=ts
+#DESCRIPTION TR: Smart Box Western
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50901&extension=ts
+#DESCRIPTION TR: Smart Box Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50902&extension=ts
+#DESCRIPTION TR: Smart Box Yeşilçam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49283&extension=ts
+#DESCRIPTION TR: Lionbox Cem Yılmaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49284&extension=ts
+#DESCRIPTION TR: Lionbox Chucky
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49285&extension=ts
+#DESCRIPTION TR: Lionbox Cüneyt Arkın 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49286&extension=ts
+#DESCRIPTION TR: Lionbox Cüneyt Arkın 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49287&extension=ts
+#DESCRIPTION TR: Lionbox Dublaj 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49289&extension=ts
+#DESCRIPTION TR: Lionbox Dublaj 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49290&extension=ts
+#DESCRIPTION TR: Lionbox Dublaj 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49291&extension=ts
+#DESCRIPTION TR: Lionbox Dublaj 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49292&extension=ts
+#DESCRIPTION TR: Lionbox Dublaj 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49293&extension=ts
+#DESCRIPTION TR: Lionbox Dublaj 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49294&extension=ts
+#DESCRIPTION TR: Lionbox Dublaj 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49295&extension=ts
+#DESCRIPTION TR: Lionbox Dublaj 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49296&extension=ts
+#DESCRIPTION TR: Lionbox Dublaj 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49288&extension=ts
+#DESCRIPTION TR: Lionbox Dublaj 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49297&extension=ts
+#DESCRIPTION TR: Lionbox Evliya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49298&extension=ts
+#DESCRIPTION TR: Lionbox Fast & Furious
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49299&extension=ts
+#DESCRIPTION TR: Lionbox Ferdi Tayfur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49300&extension=ts
+#DESCRIPTION TR: Lionbox Final Destination
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49301&extension=ts
+#DESCRIPTION TR: Lionbox Hababam Sınıfı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49302&extension=ts
+#DESCRIPTION TR: Lionbox Harry Potter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49303&extension=ts
+#DESCRIPTION TR: Lionbox Horror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49305&extension=ts
+#DESCRIPTION TR: Lionbox Hz. Omer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49304&extension=ts
+#DESCRIPTION TR: Lionbox Hz. Yusuf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49307&extension=ts
+#DESCRIPTION TR: Lionbox Jackie Chan 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49308&extension=ts
+#DESCRIPTION TR: Lionbox Jackie Chan 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49309&extension=ts
+#DESCRIPTION TR: Lionbox John Wick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49310&extension=ts
+#DESCRIPTION TR: Lionbox Jonny Depp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49311&extension=ts
+#DESCRIPTION TR: Lionbox Kadir İnanır
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49312&extension=ts
+#DESCRIPTION TR: Lionbox Kemal Sunal 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49313&extension=ts
+#DESCRIPTION TR: Lionbox Kemal Sunal 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49314&extension=ts
+#DESCRIPTION TR: Lionbox Kemal Sunal 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49315&extension=ts
+#DESCRIPTION TR: Lionbox Marvel 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49316&extension=ts
+#DESCRIPTION TR: Lionbox Marvel 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49317&extension=ts
+#DESCRIPTION TR: Lionbox Mumya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49318&extension=ts
+#DESCRIPTION TR: Lionbox Predator
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49319&extension=ts
+#DESCRIPTION TR: Lionbox Sener Sen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49320&extension=ts
+#DESCRIPTION TR: Lionbox Superman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49321&extension=ts
+#DESCRIPTION TR: Lionbox The Hangover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49322&extension=ts
+#DESCRIPTION TR: Lionbox Türkan Şoray
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49323&extension=ts
+#DESCRIPTION TR: Lionbox Van Damme
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49324&extension=ts
+#DESCRIPTION TR: Lionbox X-Men
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49325&extension=ts
+#DESCRIPTION TR: Lionbox Yerli 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49326&extension=ts
+#DESCRIPTION TR: Lionbox Yerli 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49327&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49338&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49340&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49341&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49342&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49343&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49344&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49345&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49346&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49328&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49329&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49330&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49331&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49332&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49333&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49334&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49335&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49336&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49337&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49339&extension=ts
+#DESCRIPTION TR: Lionbox Yerli Sinema 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49347&extension=ts
+#DESCRIPTION TR: Lionbox Yesilcam 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49348&extension=ts
+#DESCRIPTION TR: Lionbox Yesilcam 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49349&extension=ts
+#DESCRIPTION TR: Lionbox Yılmaz Güney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49350&extension=ts
+#DESCRIPTION TR: Lionbox Yunus Emre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49351&extension=ts
+#DESCRIPTION TR: Lionbox Yüzüklerin Efendisi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49281&extension=ts
+#DESCRIPTION TR: Lionbox Çağrı 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49282&extension=ts
+#DESCRIPTION TR: Lionbox Çağrı 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49306&extension=ts
+#DESCRIPTION TR: Lionbox İbrahim Tatlıses
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49352&extension=ts
+#DESCRIPTION TR: Lionbox Tarkan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41107&extension=ts
+#DESCRIPTION TR: Gold Cinema Aksiyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41108&extension=ts
+#DESCRIPTION TR: Gold Cinema Animasyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41109&extension=ts
+#DESCRIPTION TR: Gold Cinema Bilim Kurgu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41110&extension=ts
+#DESCRIPTION TR: Gold Cinema Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41111&extension=ts
+#DESCRIPTION TR: Gold Cinema Macera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41112&extension=ts
+#DESCRIPTION TR: Gold Cinema Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41174&extension=ts
+#DESCRIPTION TR: Best Aksiyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41175&extension=ts
+#DESCRIPTION TR: Best Animasyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41176&extension=ts
+#DESCRIPTION TR: Best Bilim Kurgu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41177&extension=ts
+#DESCRIPTION TR: Best Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41178&extension=ts
+#DESCRIPTION TR: Best Imdb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41179&extension=ts
+#DESCRIPTION TR: Best Komedi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41180&extension=ts
+#DESCRIPTION TR: Best Korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41181&extension=ts
+#DESCRIPTION TR: Best Loca 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41182&extension=ts
+#DESCRIPTION TR: Best Loca 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41183&extension=ts
+#DESCRIPTION TR: Best Loca 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41184&extension=ts
+#DESCRIPTION TR: Best Salon 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41185&extension=ts
+#DESCRIPTION TR: Best Salon 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41186&extension=ts
+#DESCRIPTION TR: Best Salon 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41187&extension=ts
+#DESCRIPTION TR: Best Savas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41188&extension=ts
+#DESCRIPTION TR: Best Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41189&extension=ts
+#DESCRIPTION TR: Best Yesilcam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41132&extension=ts
+#DESCRIPTION TR: Dinamik Aksiyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41133&extension=ts
+#DESCRIPTION TR: Dinamik Animasyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41134&extension=ts
+#DESCRIPTION TR: Dinamik Bilim Kurgu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41135&extension=ts
+#DESCRIPTION TR: Dinamik Box-Set
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41136&extension=ts
+#DESCRIPTION TR: Dinamik Dini
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41137&extension=ts
+#DESCRIPTION TR: Dinamik Dram
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41138&extension=ts
+#DESCRIPTION TR: Dinamik Hababam Sınıfı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41139&extension=ts
+#DESCRIPTION TR: Dinamik Hint
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41140&extension=ts
+#DESCRIPTION TR: Dinamik Imdb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41141&extension=ts
+#DESCRIPTION TR: Dinamik Kemal Sunal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41142&extension=ts
+#DESCRIPTION TR: Dinamik Komedi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41143&extension=ts
+#DESCRIPTION TR: Dinamik Korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41144&extension=ts
+#DESCRIPTION TR: Dinamik Loca 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41145&extension=ts
+#DESCRIPTION TR: Dinamik Loca 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41146&extension=ts
+#DESCRIPTION TR: Dinamik Loca 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41147&extension=ts
+#DESCRIPTION TR: Dinamik Marvel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41148&extension=ts
+#DESCRIPTION TR: Dinamik Salon 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41149&extension=ts
+#DESCRIPTION TR: Dinamik Salon 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41150&extension=ts
+#DESCRIPTION TR: Dinamik Salon 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41151&extension=ts
+#DESCRIPTION TR: Dinamik Salon 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41152&extension=ts
+#DESCRIPTION TR: Dinamik Salon 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41153&extension=ts
+#DESCRIPTION TR: Dinamik Salon 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41154&extension=ts
+#DESCRIPTION TR: Dinamik Salon 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41155&extension=ts
+#DESCRIPTION TR: Dinamik Salon 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41156&extension=ts
+#DESCRIPTION TR: Dinamik Salon 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41157&extension=ts
+#DESCRIPTION TR: Dinamik Salon 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41158&extension=ts
+#DESCRIPTION TR: Dinamik Savas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41159&extension=ts
+#DESCRIPTION TR: Dinamik Sener Sen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41160&extension=ts
+#DESCRIPTION TR: Dinamik Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41161&extension=ts
+#DESCRIPTION TR: Dinamik Uzakdogu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41162&extension=ts
+#DESCRIPTION TR: Dinamik Vizyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41163&extension=ts
+#DESCRIPTION TR: Dinamik Western
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41164&extension=ts
+#DESCRIPTION TR: Dinamik Yesilcam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41165&extension=ts
+#DESCRIPTION TR: Ultra HD Aksiyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41166&extension=ts
+#DESCRIPTION TR: Ultra HD Animasyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41167&extension=ts
+#DESCRIPTION TR: Ultra HD Bilim Kurgu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41168&extension=ts
+#DESCRIPTION TR: Ultra HD Imdb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41169&extension=ts
+#DESCRIPTION TR: Ultra HD Kemal Sunal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41170&extension=ts
+#DESCRIPTION TR: Ultra HD Komedi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41171&extension=ts
+#DESCRIPTION TR: Ultra HD Korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41172&extension=ts
+#DESCRIPTION TR: Ultra HD Savas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41173&extension=ts
+#DESCRIPTION TR: Ultra HD Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41113&extension=ts
+#DESCRIPTION TR: Dia Yesilcam 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41114&extension=ts
+#DESCRIPTION TR: Dia Yesilcam 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41115&extension=ts
+#DESCRIPTION TR: Dia Yesilcam 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41116&extension=ts
+#DESCRIPTION TR: Dia Yesilcam 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41117&extension=ts
+#DESCRIPTION TR: Dia Yesilcam 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41118&extension=ts
+#DESCRIPTION TR: Dia Yesilcam 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41119&extension=ts
+#DESCRIPTION TR: Dia Yesilcam 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41120&extension=ts
+#DESCRIPTION TR: Dia Yesilcam 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41121&extension=ts
+#DESCRIPTION TR: Dia Yesilcam 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41122&extension=ts
+#DESCRIPTION TR: Dia Yesilcam 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41123&extension=ts
+#DESCRIPTION TR: Dia Cocuk 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41124&extension=ts
+#DESCRIPTION TR: Dia Cocuk 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41125&extension=ts
+#DESCRIPTION TR: Dia Cocuk 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41126&extension=ts
+#DESCRIPTION TR: Dia Cocuk 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41127&extension=ts
+#DESCRIPTION TR: Dia Cocuk 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41128&extension=ts
+#DESCRIPTION TR: Dia Cocuk 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41129&extension=ts
+#DESCRIPTION TR: Dia Cocuk 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41130&extension=ts
+#DESCRIPTION TR: Dia Cocuk 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41131&extension=ts
+#DESCRIPTION TR: Dia Cocuk 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=8696&extension=ts
+#DESCRIPTION TR: Yeşilcam 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=8697&extension=ts
+#DESCRIPTION TR: Yeşilcam 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=8698&extension=ts
+#DESCRIPTION TR: Yeşilcam 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=8693&extension=ts
+#DESCRIPTION TR: Kemal Sunal Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=8694&extension=ts
+#DESCRIPTION TR: Kemal Sunal 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=8695&extension=ts
+#DESCRIPTION TR: Kemal Sunal 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=591&extension=ts
+#DESCRIPTION ++++TR Çocuk++++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=160&extension=ts
+#DESCRIPTION TR: Trt Çocuk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=173&extension=ts
+#DESCRIPTION TR: Çocuk Smart HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=172&extension=ts
+#DESCRIPTION TR: Minika Çocuk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=171&extension=ts
+#DESCRIPTION TR: Minica Go HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=161&extension=ts
+#DESCRIPTION TR: Nickelodeon HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=162&extension=ts
+#DESCRIPTION TR: Nick Jr HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=164&extension=ts
+#DESCRIPTION TR: Disney Jr HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=157&extension=ts
+#DESCRIPTION TR: Cartoon Network HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=170&extension=ts
+#DESCRIPTION TR: Cartoon Network HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=167&extension=ts
+#DESCRIPTION TR: Da Vinci Kids HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=168&extension=ts
+#DESCRIPTION TR: Baby Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=169&extension=ts
+#DESCRIPTION TR: Boomerang HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53093&extension=ts
+#DESCRIPTION TR: Moonbug Kids Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=9373&extension=ts
+#DESCRIPTION TR: Duck Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=166&extension=ts
+#DESCRIPTION TR: Cbeebies Bbc Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24817&extension=ts
+#DESCRIPTION TR: Kukuli Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=35265&extension=ts
+#DESCRIPTION TR: Niloya Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=35266&extension=ts
+#DESCRIPTION TR: Maşa İle Koca Ayı Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24818&extension=ts
+#DESCRIPTION TR: Adisebaba Masallar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24819&extension=ts
+#DESCRIPTION TR: Ht Premium Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24820&extension=ts
+#DESCRIPTION TR: Peppa Pig Türkçe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24821&extension=ts
+#DESCRIPTION TR: Ten Ten Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24822&extension=ts
+#DESCRIPTION TR: Keloğlan 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24823&extension=ts
+#DESCRIPTION TR: Şirinler Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24824&extension=ts
+#DESCRIPTION TR: Limon İle Zeytin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24825&extension=ts
+#DESCRIPTION TR: Dia Booba Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24826&extension=ts
+#DESCRIPTION TR: Dia Peppa Pig
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24828&extension=ts
+#DESCRIPTION TR: Dia Barbie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24829&extension=ts
+#DESCRIPTION TR: Dia Kral Şakir
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24830&extension=ts
+#DESCRIPTION TR: Dia Pepe Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24831&extension=ts
+#DESCRIPTION TR: Dia Konuşan Tom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24832&extension=ts
+#DESCRIPTION TR: Dia Tom ve Jerry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24833&extension=ts
+#DESCRIPTION TR: Dia Hapsuu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24834&extension=ts
+#DESCRIPTION TR: Dia Ege İle Gaga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24835&extension=ts
+#DESCRIPTION TR: Dia Şirinler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24836&extension=ts
+#DESCRIPTION TR: Dia Elifin Düşler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24837&extension=ts
+#DESCRIPTION TR: Dia Masal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24838&extension=ts
+#DESCRIPTION TR: Dia Kuzucuk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24839&extension=ts
+#DESCRIPTION TR: Dia Keloğlan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24840&extension=ts
+#DESCRIPTION TR: Dia Kare
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24841&extension=ts
+#DESCRIPTION TR: Dia Doru
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=47037&extension=ts
+#DESCRIPTION TR: Real Box Animasyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=47041&extension=ts
+#DESCRIPTION TR: Real Box Kukuli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=47038&extension=ts
+#DESCRIPTION TR: Real Box Niloya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=47039&extension=ts
+#DESCRIPTION TR: Real Box Pepee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=47040&extension=ts
+#DESCRIPTION TR: Real Box Rafadan Tayfa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=47042&extension=ts
+#DESCRIPTION TR: Real Box İtfaiyeci Sam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24843&extension=ts
+#DESCRIPTION TR: Canım Kardeşim Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=303&extension=ts
+#DESCRIPTION ++++TR DINI++++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=233&extension=ts
+#DESCRIPTION TR: Diyanet Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=242&extension=ts
+#DESCRIPTION TR: Semerkand Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=32416&extension=ts
+#DESCRIPTION TR: Vav TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=241&extension=ts
+#DESCRIPTION TR: Lalegül Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=236&extension=ts
+#DESCRIPTION TR: Rehber Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=40873&extension=ts
+#DESCRIPTION TR: Yesilyol Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=237&extension=ts
+#DESCRIPTION TR: Dost Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=235&extension=ts
+#DESCRIPTION TR: Meltem Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=239&extension=ts
+#DESCRIPTION TR: Kudus Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=120&extension=ts
+#DESCRIPTION TR: Edessa Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=22505&extension=ts
+#DESCRIPTION TR: Camia Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12851&extension=ts
+#DESCRIPTION TR: Medine Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=6036&extension=ts
+#DESCRIPTION TR: Kabe Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=139&extension=ts
+#DESCRIPTION TR: On4 Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=592&extension=ts
+#DESCRIPTION ++++TR MUZIK++++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=244&extension=ts
+#DESCRIPTION TR: Power Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=245&extension=ts
+#DESCRIPTION TR: PowerTürk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=249&extension=ts
+#DESCRIPTION TR: NR1 Türk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=1944&extension=ts
+#DESCRIPTION TR: Tatlıses Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=1941&extension=ts
+#DESCRIPTION TR: Kral Pop HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=246&extension=ts
+#DESCRIPTION TR: Kral Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=253&extension=ts
+#DESCRIPTION TR: Trt Müzik HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=250&extension=ts
+#DESCRIPTION TR: NR1 Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=34082&extension=ts
+#DESCRIPTION TR: NR1 Aşk Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=34083&extension=ts
+#DESCRIPTION TR: NR1 Damar Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=34084&extension=ts
+#DESCRIPTION TR: NR1 Dance Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=49840&extension=ts
+#DESCRIPTION TR: Power Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=9374&extension=ts
+#DESCRIPTION TR: Mtv Live HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=48149&extension=ts
+#DESCRIPTION TR: Sam Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53621&extension=ts
+#DESCRIPTION TR: Alem Fm HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53632&extension=ts
+#DESCRIPTION TR: Baba Radyo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53625&extension=ts
+#DESCRIPTION TR: Best Fm HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53634&extension=ts
+#DESCRIPTION TR: Joy Fm HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53623&extension=ts
+#DESCRIPTION TR: Joyturk Fm HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53624&extension=ts
+#DESCRIPTION TR: Kafa Radyo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53630&extension=ts
+#DESCRIPTION TR: Kral Fm HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53626&extension=ts
+#DESCRIPTION TR: Kral Pop HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53628&extension=ts
+#DESCRIPTION TR: Radyo 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53631&extension=ts
+#DESCRIPTION TR: Radyo Viva HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53629&extension=ts
+#DESCRIPTION TR: Show Radyo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53627&extension=ts
+#DESCRIPTION TR: Slow Turk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53622&extension=ts
+#DESCRIPTION TR: Super Fm HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53606&extension=ts
+#DESCRIPTION TR: 80's Hits HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53605&extension=ts
+#DESCRIPTION TR: 90's Hits HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53616&extension=ts
+#DESCRIPTION TR: Blues HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53600&extension=ts
+#DESCRIPTION TR: Concerts HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53612&extension=ts
+#DESCRIPTION TR: Dreamy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53614&extension=ts
+#DESCRIPTION TR: Easy Listening HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53613&extension=ts
+#DESCRIPTION TR: Energetic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53607&extension=ts
+#DESCRIPTION TR: Happy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53619&extension=ts
+#DESCRIPTION TR: Hip Hop HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53601&extension=ts
+#DESCRIPTION TR: Hottest Hits HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53608&extension=ts
+#DESCRIPTION TR: In Love HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53603&extension=ts
+#DESCRIPTION TR: International HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53618&extension=ts
+#DESCRIPTION TR: Latin HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53602&extension=ts
+#DESCRIPTION TR: Love Songs HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53633&extension=ts
+#DESCRIPTION TR: Masal Radyo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53610&extension=ts
+#DESCRIPTION TR: Melancholic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53611&extension=ts
+#DESCRIPTION TR: Morning Coffee HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53604&extension=ts
+#DESCRIPTION TR: Oldies But Goldies HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53609&extension=ts
+#DESCRIPTION TR: Party HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53617&extension=ts
+#DESCRIPTION TR: Reggae HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53615&extension=ts
+#DESCRIPTION TR: Relaxation HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53620&extension=ts
+#DESCRIPTION TR: Rock HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50750&extension=ts
+#DESCRIPTION TR: Proturk 45 Lik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50751&extension=ts
+#DESCRIPTION TR: Proturk Alaturka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50752&extension=ts
+#DESCRIPTION TR: Proturk Arabesk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50753&extension=ts
+#DESCRIPTION TR: Proturk Bülent Ersoy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50754&extension=ts
+#DESCRIPTION TR: Proturk Meyhane Şarkıları
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50749&extension=ts
+#DESCRIPTION TR: Proturk Oyun Havaları
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50755&extension=ts
+#DESCRIPTION TR: Proturk Rap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50756&extension=ts
+#DESCRIPTION TR: Proturk Sanat Müziği
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50757&extension=ts
+#DESCRIPTION TR: Proturk Slow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50758&extension=ts
+#DESCRIPTION TR: Proturk Türk Pop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50759&extension=ts
+#DESCRIPTION TR: Proturk Türkü
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50760&extension=ts
+#DESCRIPTION TR: Proturk Zeki Müren
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28842&extension=ts
+#DESCRIPTION ++++TR EGITIM++++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=9477&extension=ts
+#DESCRIPTION TR: Trt Eba Tv İlkokul HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=9478&extension=ts
+#DESCRIPTION TR: Trt Eba Tv OrtaOkul HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=9479&extension=ts
+#DESCRIPTION TR: Trt Eba Tv Lise HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=40&extension=ts
+#DESCRIPTION TR: Trt Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=8671&extension=ts
+#DESCRIPTION TR: Trt Spor HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41&extension=ts
+#DESCRIPTION TR: Trt Spor Yıldız HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=43&extension=ts
+#DESCRIPTION TR: A Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=42&extension=ts
+#DESCRIPTION TR: A Spor HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93899&extension=ts
+#DESCRIPTION TR: Ht Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93900&extension=ts
+#DESCRIPTION TR: Ht Spor HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=99864&extension=ts
+#DESCRIPTION TR: Trendyol Süper Lig TV HD (Mac Ozetleri)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=99865&extension=ts
+#DESCRIPTION TR: Trendyol 1. Lig TV HD (Mac Ozetleri)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=99868&extension=ts
+#DESCRIPTION TR: Premier Lig TV HD (Mac Ozetleri)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=99866&extension=ts
+#DESCRIPTION TR: Bundesliga TV HD (Mac Ozetleri)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=99867&extension=ts
+#DESCRIPTION TR: Bundesliga 2.Lig TV HD (Mac Ozetleri)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=99869&extension=ts
+#DESCRIPTION TR: Fransa Ligue1 TV HD (Mac Ozetleri)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=7&extension=ts
+#DESCRIPTION TR: Bein Sports Haber HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=6&extension=ts
+#DESCRIPTION TR: Bein Sports Haber HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=103453&extension=ts
+#DESCRIPTION TR: Bein Sports 1 50FPS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16536&extension=ts
+#DESCRIPTION TR: Bein Sports 1 Feed HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41219&extension=ts
+#DESCRIPTION TR: Bein Sports 1 Feed HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16390&extension=ts
+#DESCRIPTION TR: Bein Sports 1 UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=52750&extension=ts
+#DESCRIPTION TR: Bein Sports 1 HD (VIP)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=26969&extension=ts
+#DESCRIPTION TR: Bein Sports 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41227&extension=ts
+#DESCRIPTION TR: Bein Sports 1 FHD (HQ)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=26970&extension=ts
+#DESCRIPTION TR: Bein Sports 1 HD (HQ)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=10&extension=ts
+#DESCRIPTION TR: Bein Sports 1 HD (1920x1080)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=4817&extension=ts
+#DESCRIPTION TR: Bein Sports 1 HD+ (1920x1080)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=1284&extension=ts
+#DESCRIPTION TR: Bein Sports 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41218&extension=ts
+#DESCRIPTION TR: Bein Sports 1 (SD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=8&extension=ts
+#DESCRIPTION TR: Bein Sports 1 Mobil (480P)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93632&extension=ts
+#DESCRIPTION TR: Bein Sports Yabanci
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50154&extension=ts
+#DESCRIPTION TR: Bein Sports 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=13&extension=ts
+#DESCRIPTION TR: Bein Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=23893&extension=ts
+#DESCRIPTION TR: Bein Sports 2 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=9&extension=ts
+#DESCRIPTION TR: Bein Sports 2 HD (S)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50155&extension=ts
+#DESCRIPTION TR: Bein Sports 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=15&extension=ts
+#DESCRIPTION TR: Bein Sports 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=23894&extension=ts
+#DESCRIPTION TR: Bein Sports 3 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=14&extension=ts
+#DESCRIPTION TR: Bein Sports 3 HD  (S)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50156&extension=ts
+#DESCRIPTION TR: Bein Sports 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=17&extension=ts
+#DESCRIPTION TR: Bein Sports 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=23895&extension=ts
+#DESCRIPTION TR: Bein Sports 4 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16&extension=ts
+#DESCRIPTION TR: Bein Sports 4 HD  (S)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50157&extension=ts
+#DESCRIPTION TR: Bein Sports 5 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=42605&extension=ts
+#DESCRIPTION TR: Bein Sports 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50158&extension=ts
+#DESCRIPTION TR: Bein Sports Max 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=19&extension=ts
+#DESCRIPTION TR: Bein Sports Max 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=23896&extension=ts
+#DESCRIPTION TR: Bein Sports Max 1 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=18&extension=ts
+#DESCRIPTION TR: Bein Sports Max 1 HD (S)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50159&extension=ts
+#DESCRIPTION TR: Bein Sports Max 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=21&extension=ts
+#DESCRIPTION TR: Bein Sports Max 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=23897&extension=ts
+#DESCRIPTION TR: Bein Sports Max 2 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=20&extension=ts
+#DESCRIPTION TR: Bein Sports Max 2 HD (S)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41795&extension=ts
+#DESCRIPTION TR: Bein Connect 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41796&extension=ts
+#DESCRIPTION TR: Bein Connect 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41797&extension=ts
+#DESCRIPTION TR: Bein Connect 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41798&extension=ts
+#DESCRIPTION TR: Bein Connect 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41799&extension=ts
+#DESCRIPTION TR: Bein Connect 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=41800&extension=ts
+#DESCRIPTION TR: Bein Connect 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53448&extension=ts
+#DESCRIPTION TR: Bein Connect 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53449&extension=ts
+#DESCRIPTION TR: Bein Connect 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53450&extension=ts
+#DESCRIPTION TR: Bein Connect 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=29&extension=ts
+#DESCRIPTION TR: S Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28&extension=ts
+#DESCRIPTION TR: S Sport HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50160&extension=ts
+#DESCRIPTION TR: S Sport FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=31&extension=ts
+#DESCRIPTION TR: S Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=34906&extension=ts
+#DESCRIPTION TR: S Sport 2 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50161&extension=ts
+#DESCRIPTION TR: S Sport 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=50146&extension=ts
+#DESCRIPTION TR: S Sport +1 HD (Maç Saati Aktif)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25545&extension=ts
+#DESCRIPTION TR: S Sport +1 (Maç Saati Aktif)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25546&extension=ts
+#DESCRIPTION TR: S Sport +2 (Maç Saati Aktif)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25547&extension=ts
+#DESCRIPTION TR: S Sport +3 (Maç Saati Aktif)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25548&extension=ts
+#DESCRIPTION TR: S Sport +4 (Maç Saati Aktif)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25549&extension=ts
+#DESCRIPTION TR: S Sport +5 (Maç Saati Aktif)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28858&extension=ts
+#DESCRIPTION TR: S Sport +6 (Maç Saati Aktif)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=91126&extension=ts
+#DESCRIPTION TR: S Sport +7 (Maç Saati Aktif)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=91127&extension=ts
+#DESCRIPTION TR: S Sport +8 (Maç Saati Aktif)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=33&extension=ts
+#DESCRIPTION TR: Spor Smart HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=32&extension=ts
+#DESCRIPTION TR: Spor Smart HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=12898&extension=ts
+#DESCRIPTION TR: Spor Smart 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=36&extension=ts
+#DESCRIPTION TR: Nba Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=22&extension=ts
+#DESCRIPTION TR: Tivibu Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=24&extension=ts
+#DESCRIPTION TR: Tivibu Spor 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=26&extension=ts
+#DESCRIPTION TR: Tivibu Spor 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28951&extension=ts
+#DESCRIPTION TR: Tivibu Spor 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=43205&extension=ts
+#DESCRIPTION TR: Tivibu Spor 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93984&extension=ts
+#DESCRIPTION TR: Tabii Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93985&extension=ts
+#DESCRIPTION TR: Tabii Spor HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93565&extension=ts
+#DESCRIPTION TR: Tabii Spor 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93564&extension=ts
+#DESCRIPTION TR: Tabii Spor 1 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93567&extension=ts
+#DESCRIPTION TR: Tabii Spor 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93566&extension=ts
+#DESCRIPTION TR: Tabii Spor 2 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93569&extension=ts
+#DESCRIPTION TR: Tabii Spor 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93568&extension=ts
+#DESCRIPTION TR: Tabii Spor 3 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93571&extension=ts
+#DESCRIPTION TR: Tabii Spor 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93570&extension=ts
+#DESCRIPTION TR: Tabii Spor 4 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93573&extension=ts
+#DESCRIPTION TR: Tabii Spor 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93572&extension=ts
+#DESCRIPTION TR: Tabii Spor 5 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93575&extension=ts
+#DESCRIPTION TR: Tabii Spor 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=93574&extension=ts
+#DESCRIPTION TR: Tabii Spor 6 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25697&extension=ts
+#DESCRIPTION TR: Exxen Spor 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28077&extension=ts
+#DESCRIPTION TR: Exxen Spor 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25699&extension=ts
+#DESCRIPTION TR: Exxen Spor 1 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28217&extension=ts
+#DESCRIPTION TR: Exxen Spor 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25700&extension=ts
+#DESCRIPTION TR: Exxen Spor 2 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28218&extension=ts
+#DESCRIPTION TR: Exxen Spor 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25701&extension=ts
+#DESCRIPTION TR: Exxen Spor 3 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28219&extension=ts
+#DESCRIPTION TR: Exxen Spor 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25702&extension=ts
+#DESCRIPTION TR: Exxen Spor 4 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28220&extension=ts
+#DESCRIPTION TR: Exxen Spor 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25703&extension=ts
+#DESCRIPTION TR: Exxen Spor 5 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28221&extension=ts
+#DESCRIPTION TR: Exxen Spor 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25704&extension=ts
+#DESCRIPTION TR: Exxen Spor 6 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25692&extension=ts
+#DESCRIPTION TR: Exxen Spor 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25705&extension=ts
+#DESCRIPTION TR: Exxen Spor 7 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25693&extension=ts
+#DESCRIPTION TR: Exxen Spor 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=25706&extension=ts
+#DESCRIPTION TR: Exxen Spor 8 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=37&extension=ts
+#DESCRIPTION TR: Eurosport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=38&extension=ts
+#DESCRIPTION TR: Eurosport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=44&extension=ts
+#DESCRIPTION TR: GS Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=45&extension=ts
+#DESCRIPTION TR: FB Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=34&extension=ts
+#DESCRIPTION TR: Sports Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=47&extension=ts
+#DESCRIPTION TR: Tjk Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=53089&extension=ts
+#DESCRIPTION TR: By Horses Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28952&extension=ts
+#DESCRIPTION TR: Fight Network HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28953&extension=ts
+#DESCRIPTION TR: Fight Box HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=28954&extension=ts
+#DESCRIPTION TR: Ufc Fight Pass HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=633&extension=ts
+#DESCRIPTION ++++TR Ⓗ②⑥⑤ HEVC++++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=204&extension=ts
+#DESCRIPTION TR: Trt 1 HD Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=212&extension=ts
+#DESCRIPTION TR: Atv HD Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=215&extension=ts
+#DESCRIPTION TR: Kanal D HD Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=210&extension=ts
+#DESCRIPTION TR: Star Tv HD Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=214&extension=ts
+#DESCRIPTION TR: Show HD Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=225&extension=ts
+#DESCRIPTION TR: Now Tv HD Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=223&extension=ts
+#DESCRIPTION TR: Tv8 HD Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=211&extension=ts
+#DESCRIPTION TR: Ntv HD Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=206&extension=ts
+#DESCRIPTION TR: Trt Haber HD Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=207&extension=ts
+#DESCRIPTION TR: Trt Spor HD Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=213&extension=ts
+#DESCRIPTION TR: A Spor HD Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16499&extension=ts
+#DESCRIPTION ++++TR RADIO++++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46245&extension=ts
+#DESCRIPTION TR: Avrasya Türk Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16504&extension=ts
+#DESCRIPTION TR: Aşk Fm Ankara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46223&extension=ts
+#DESCRIPTION TR: Baba Radyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16505&extension=ts
+#DESCRIPTION TR: Best Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16501&extension=ts
+#DESCRIPTION TR: Can Radyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46229&extension=ts
+#DESCRIPTION TR: Efkar Radyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16506&extension=ts
+#DESCRIPTION TR: Fenomen Radyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16507&extension=ts
+#DESCRIPTION TR: Fenomen Rap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16508&extension=ts
+#DESCRIPTION TR: Fenomen Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16502&extension=ts
+#DESCRIPTION TR: Joy Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16509&extension=ts
+#DESCRIPTION TR: Karadeniz Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16510&extension=ts
+#DESCRIPTION TR: Kral Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46218&extension=ts
+#DESCRIPTION TR: Kral Pop Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16518&extension=ts
+#DESCRIPTION TR: Metro Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16513&extension=ts
+#DESCRIPTION TR: Number 1 Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46220&extension=ts
+#DESCRIPTION TR: Ostim Radyo Ankara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16521&extension=ts
+#DESCRIPTION TR: Park Fm Ankara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16503&extension=ts
+#DESCRIPTION TR: Power Türk Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46240&extension=ts
+#DESCRIPTION TR: Radyo 06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46221&extension=ts
+#DESCRIPTION TR: Radyo Alaturka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46241&extension=ts
+#DESCRIPTION TR: Radyo Banko
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16522&extension=ts
+#DESCRIPTION TR: Radyo Megasite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46233&extension=ts
+#DESCRIPTION TR: Radyo Mydonose Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16515&extension=ts
+#DESCRIPTION TR: Radyo Seymen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46234&extension=ts
+#DESCRIPTION TR: Radyo Vizyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16517&extension=ts
+#DESCRIPTION TR: Slow Türk Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16511&extension=ts
+#DESCRIPTION TR: Süper Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=40043&extension=ts
+#DESCRIPTION TR: Türkülerle Türkiye
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=16519&extension=ts
+#DESCRIPTION TR: Virgin Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46238&extension=ts
+#DESCRIPTION TR: Diyanet Kuran Meali Canlı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46224&extension=ts
+#DESCRIPTION TR: Diyanet Radyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46226&extension=ts
+#DESCRIPTION TR: Semerkand Radyo Dini
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34mix.com%3a8080/play/live.php?mac=00%3a1A%3a79%3a71%3a18%3a85&stream=46225&extension=ts
+#DESCRIPTION TR: Bayram Fm Dini
