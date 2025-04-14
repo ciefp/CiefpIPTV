@@ -1,0 +1,1559 @@
+#NAME IPTV Mix Can 14.04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1028649&extension=ts
+#DESCRIPTION ##### ENGLISH #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176861&extension=ts
+#DESCRIPTION CA| A&E HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176793&extension=ts
+#DESCRIPTION CA| ABC EAST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176794&extension=ts
+#DESCRIPTION CA| ABC WEST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1458074&extension=ts
+#DESCRIPTION CA| ABC SPARK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176863&extension=ts
+#DESCRIPTION CA| AHC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176831&extension=ts
+#DESCRIPTION CA| APTN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176864&extension=ts
+#DESCRIPTION CA| AMC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176865&extension=ts
+#DESCRIPTION CA| ANIMAL PLANET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176797&extension=ts
+#DESCRIPTION CA| BBC WORLD NEWS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176798&extension=ts
+#DESCRIPTION CA| BNN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176867&extension=ts
+#DESCRIPTION CA| BBC EARTH HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176868&extension=ts
+#DESCRIPTION CA| BET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176801&extension=ts
+#DESCRIPTION CA| CBC NEWS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176800&extension=ts
+#DESCRIPTION CA| CBC EAST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176802&extension=ts
+#DESCRIPTION CA| CBS EAST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176803&extension=ts
+#DESCRIPTION CA| CBS WEST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177280&extension=ts
+#DESCRIPTION CA| CBC MONTREAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177283&extension=ts
+#DESCRIPTION CA| CITY MONTREAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176806&extension=ts
+#DESCRIPTION CA| CITY TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176807&extension=ts
+#DESCRIPTION CA| CITY TV 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176808&extension=ts
+#DESCRIPTION CA| CHCH HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176872&extension=ts
+#DESCRIPTION CA| CMT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176804&extension=ts
+#DESCRIPTION CA| CNBC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176809&extension=ts
+#DESCRIPTION CA| CNN NEWS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176795&extension=ts
+#DESCRIPTION CA| AL JAZEERA ENGLISH HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1161442&extension=ts
+#DESCRIPTION CA| PRESS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176805&extension=ts
+#DESCRIPTION CA| CP24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=365712&extension=ts
+#DESCRIPTION CA| CP24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176811&extension=ts
+#DESCRIPTION CA| CPAC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176873&extension=ts
+#DESCRIPTION CA| COTTAGE LIFE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176874&extension=ts
+#DESCRIPTION CA| CRIME & INVESTIGATION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176889&extension=ts
+#DESCRIPTION CA| COOKING CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1130198&extension=ts
+#DESCRIPTION CA| TLN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176796&extension=ts
+#DESCRIPTION CA| BBC CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176799&extension=ts
+#DESCRIPTION CA| BLOOMBERG HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176812&extension=ts
+#DESCRIPTION CA| CTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176815&extension=ts
+#DESCRIPTION CA| CTV COMEDY CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176813&extension=ts
+#DESCRIPTION CA| CTV 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176816&extension=ts
+#DESCRIPTION CA| CTV COMEDY CHANNEL WEST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176817&extension=ts
+#DESCRIPTION CA| CTV DRAMA CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176871&extension=ts
+#DESCRIPTION CA| CTV DRAMA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176818&extension=ts
+#DESCRIPTION CA| CTV LIFE CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1040103&extension=ts
+#DESCRIPTION CA| CTV 2 BARRIE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176814&extension=ts
+#DESCRIPTION CA| CTV NEWS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=545065&extension=ts
+#DESCRIPTION CA| CTV EDMONTON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176819&extension=ts
+#DESCRIPTION CA| CTV SCIFI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176820&extension=ts
+#DESCRIPTION CA| EURONEWS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176821&extension=ts
+#DESCRIPTION CA| FOX EAST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176823&extension=ts
+#DESCRIPTION CA| FOX NEWS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176824&extension=ts
+#DESCRIPTION CA| GLOBAL EAST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176822&extension=ts
+#DESCRIPTION CA| FOX WEST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176825&extension=ts
+#DESCRIPTION CA| GLOBAL VANCOUVER/BC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176826&extension=ts
+#DESCRIPTION CA| BBC FIRST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176827&extension=ts
+#DESCRIPTION CA| MSNBC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176828&extension=ts
+#DESCRIPTION CA| NBC EAST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176829&extension=ts
+#DESCRIPTION CA| NBC WEST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176830&extension=ts
+#DESCRIPTION CA| RUSSIA TODAY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=716435&extension=ts
+#DESCRIPTION CA| THE WEATHER CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1069362&extension=ts
+#DESCRIPTION CA| TORONTO LIVE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1069361&extension=ts
+#DESCRIPTION CA| TORONTO LIVE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1069360&extension=ts
+#DESCRIPTION CA| TORONTO LIVE 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1069359&extension=ts
+#DESCRIPTION CA| TORONTO LIVE 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1069358&extension=ts
+#DESCRIPTION CA| TORONTO LIVE 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176832&extension=ts
+#DESCRIPTION CA| DAYSTAR TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176833&extension=ts
+#DESCRIPTION CA| DEJAVIEW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176834&extension=ts
+#DESCRIPTION CA| FTV CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176835&extension=ts
+#DESCRIPTION CA| GAMETV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176837&extension=ts
+#DESCRIPTION CA| GAME SHOW NETWORK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176838&extension=ts
+#DESCRIPTION CA| JEWISH LIFE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176839&extension=ts
+#DESCRIPTION CA| JOYTV (BC) HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176840&extension=ts
+#DESCRIPTION CA| KTLA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176841&extension=ts
+#DESCRIPTION CA| MAV TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176842&extension=ts
+#DESCRIPTION CA| MIRACLE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176843&extension=ts
+#DESCRIPTION CA| OLN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176844&extension=ts
+#DESCRIPTION CA| OMNI 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176845&extension=ts
+#DESCRIPTION CA| OMNI 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176846&extension=ts
+#DESCRIPTION CA| OMNI EAST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176847&extension=ts
+#DESCRIPTION CA| OMNI VANCOUVER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176849&extension=ts
+#DESCRIPTION CA| ONE GET FIT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176852&extension=ts
+#DESCRIPTION CA| TVO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176855&extension=ts
+#DESCRIPTION CA| TV ASIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176856&extension=ts
+#DESCRIPTION CA| VISION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176858&extension=ts
+#DESCRIPTION CA| WSBK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176859&extension=ts
+#DESCRIPTION CA| YES TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176860&extension=ts
+#DESCRIPTION CA| YES BURLINGTON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176862&extension=ts
+#DESCRIPTION CA| ADULT SWIM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176870&extension=ts
+#DESCRIPTION CA| WILD BRAIN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176875&extension=ts
+#DESCRIPTION CA| INVESTIGATION DISCOVERY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176876&extension=ts
+#DESCRIPTION CA| DISCOVERY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176877&extension=ts
+#DESCRIPTION CA| DISCOVERY SCIENCE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176878&extension=ts
+#DESCRIPTION CA| DISCOVERY VELOCITY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176879&extension=ts
+#DESCRIPTION CA| DOCUMENTARY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176880&extension=ts
+#DESCRIPTION CA| CITYNEWS 24/7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176881&extension=ts
+#DESCRIPTION CA| DTOUR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176882&extension=ts
+#DESCRIPTION CA| E! ENTERTAINMENT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176883&extension=ts
+#DESCRIPTION CA| EWTN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176884&extension=ts
+#DESCRIPTION CA| FAITH TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176885&extension=ts
+#DESCRIPTION CA| SALT LIGHT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176886&extension=ts
+#DESCRIPTION CA| FASHION TELEVISION CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176888&extension=ts
+#DESCRIPTION CA| FOOD NETWORK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176890&extension=ts
+#DESCRIPTION CA| FYI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176891&extension=ts
+#DESCRIPTION CA| HGTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176893&extension=ts
+#DESCRIPTION CA| HISTORY 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176892&extension=ts
+#DESCRIPTION CA| HISTORY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176894&extension=ts
+#DESCRIPTION CA| HLN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176895&extension=ts
+#DESCRIPTION CA| IFC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176896&extension=ts
+#DESCRIPTION CA| LOVE NATURE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176897&extension=ts
+#DESCRIPTION CA| NAT GEO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176898&extension=ts
+#DESCRIPTION CA| NAT GEO WILD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176899&extension=ts
+#DESCRIPTION CA| OUT TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176900&extension=ts
+#DESCRIPTION CA| OWN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176902&extension=ts
+#DESCRIPTION CA| SLICE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176903&extension=ts
+#DESCRIPTION CA| SMITHSONIAN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176904&extension=ts
+#DESCRIPTION CA| PARAMOUNT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176905&extension=ts
+#DESCRIPTION CA| SPORTSMAN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176906&extension=ts
+#DESCRIPTION CA| TLC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176907&extension=ts
+#DESCRIPTION CA| TRAVEL AND ESCAPE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176908&extension=ts
+#DESCRIPTION CA| WILD TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176909&extension=ts
+#DESCRIPTION CA| BOOK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176911&extension=ts
+#DESCRIPTION CA| FX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176912&extension=ts
+#DESCRIPTION CA| FXX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176913&extension=ts
+#DESCRIPTION CA| HBO 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176914&extension=ts
+#DESCRIPTION CA| HBO 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1193365&extension=ts
+#DESCRIPTION CA| ZEE TV CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1147062&extension=ts
+#DESCRIPTION CA| HOLLYWOOD SUITE 00' HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1147063&extension=ts
+#DESCRIPTION CA| HOLLYWOOD SUITE 70' HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1147065&extension=ts
+#DESCRIPTION CA| HOLLYWOOD SUITE 90' HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176916&extension=ts
+#DESCRIPTION CA| HOLLYWOOD SUITE 70S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176917&extension=ts
+#DESCRIPTION CA| HOLLYWOOD SUITE 80S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176918&extension=ts
+#DESCRIPTION CA| HOLLYWOOD SUITE 90S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176919&extension=ts
+#DESCRIPTION CA| LIFETIME HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176920&extension=ts
+#DESCRIPTION CA| MAKEFUL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176921&extension=ts
+#DESCRIPTION CA| MOVIETIME HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176922&extension=ts
+#DESCRIPTION CA| MTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176923&extension=ts
+#DESCRIPTION CA| MTV 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176924&extension=ts
+#DESCRIPTION CA| MUCH MUSIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176925&extension=ts
+#DESCRIPTION CA| NTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1650137&extension=ts
+#DESCRIPTION CA| ROGERS TV (LONDON)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176926&extension=ts
+#DESCRIPTION CA| PEACH TREE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176927&extension=ts
+#DESCRIPTION CA| SHOWCASE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176928&extension=ts
+#DESCRIPTION CA| SILVER SCREEN CLASSICS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176929&extension=ts
+#DESCRIPTION CA| STARZ 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176930&extension=ts
+#DESCRIPTION CA| STARZ 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176931&extension=ts
+#DESCRIPTION CA| SUPER CHANNEL FUSE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176932&extension=ts
+#DESCRIPTION CA| SUPER CHANNEL HEART & HOME HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176933&extension=ts
+#DESCRIPTION CA| SUPER CHANNEL VAULT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176935&extension=ts
+#DESCRIPTION CA| TCM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176936&extension=ts
+#DESCRIPTION CA| CRAVE 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176937&extension=ts
+#DESCRIPTION CA| CRAVE 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176938&extension=ts
+#DESCRIPTION CA| CRAVE 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176939&extension=ts
+#DESCRIPTION CA| CRAVE 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176940&extension=ts
+#DESCRIPTION CA| W NETWORK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1828550&extension=ts
+#DESCRIPTION CA| NASA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=863802&extension=ts
+#DESCRIPTION CA| TSC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176857&extension=ts
+#DESCRIPTION CA| WGN HD CA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=552643&extension=ts
+#DESCRIPTION CA| GLOBAL NEWS CALGARY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1424779&extension=ts
+#DESCRIPTION CA| GLOBAL NEWS WINNIPEG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=176941&extension=ts
+#DESCRIPTION CA| YTV EAST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1028650&extension=ts
+#DESCRIPTION ##### FRENCH #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=956223&extension=ts
+#DESCRIPTION CA| ICI EXPLORA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1004142&extension=ts
+#DESCRIPTION CA| ICI EXPLORA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177265&extension=ts
+#DESCRIPTION CA| ICI ARTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177291&extension=ts
+#DESCRIPTION CA| ICI MONTREAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1544680&extension=ts
+#DESCRIPTION CA| ICI RDI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177267&extension=ts
+#DESCRIPTION CA| ICI RDI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177269&extension=ts
+#DESCRIPTION CA| ICI TELE 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177268&extension=ts
+#DESCRIPTION CA| ICI TELE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=843262&extension=ts
+#DESCRIPTION CA| ICI TÉLÉVISION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1029732&extension=ts
+#DESCRIPTION CA| ICI TELE ACADIE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177292&extension=ts
+#DESCRIPTION CA| ICI VANCOUVER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1652330&extension=ts
+#DESCRIPTION CA| ICI RADIO CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1068371&extension=ts
+#DESCRIPTION CA| ICI TELE QUEBEC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1142755&extension=ts
+#DESCRIPTION CA| ICI TELE OTTAWA-GATINEAU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177270&extension=ts
+#DESCRIPTION CA| ADDIK TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177271&extension=ts
+#DESCRIPTION CA| AMI-TELE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177273&extension=ts
+#DESCRIPTION CA| ARTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177274&extension=ts
+#DESCRIPTION CA| ASSEMBLEE NATIONALE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177275&extension=ts
+#DESCRIPTION CA| CANAL D HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177276&extension=ts
+#DESCRIPTION CA| CANAL SAVOIR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177277&extension=ts
+#DESCRIPTION CA| CANAL VIE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177278&extension=ts
+#DESCRIPTION CA| CANAL Z HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177279&extension=ts
+#DESCRIPTION CA| CASA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177281&extension=ts
+#DESCRIPTION CA| CGTN FRANCAIS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177282&extension=ts
+#DESCRIPTION CA| CINEPOP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177284&extension=ts
+#DESCRIPTION CA| CPAC HD FRENCH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177286&extension=ts
+#DESCRIPTION CA| ELLE FICTIONS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=198726&extension=ts
+#DESCRIPTION CA| CANAL INVESTIGATION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177287&extension=ts
+#DESCRIPTION CA| EVASION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177264&extension=ts
+#DESCRIPTION CA| EMCI TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177288&extension=ts
+#DESCRIPTION CA| FEU DE FOYER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177289&extension=ts
+#DESCRIPTION CA| FRISSONS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177290&extension=ts
+#DESCRIPTION CA| HISTORIA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177293&extension=ts
+#DESCRIPTION CA| LCN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177294&extension=ts
+#DESCRIPTION CA| MAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177295&extension=ts
+#DESCRIPTION CA| METEO MEDIA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177297&extension=ts
+#DESCRIPTION CA| TEMOIN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177298&extension=ts
+#DESCRIPTION CA| MUSIQUE PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177299&extension=ts
+#DESCRIPTION CA| MA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1475311&extension=ts
+#DESCRIPTION CA| NOOVOO QUEBEC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177327&extension=ts
+#DESCRIPTION CA| NOOVO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1624010&extension=ts
+#DESCRIPTION CA| PLANETE+ CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177300&extension=ts
+#DESCRIPTION CA| PRISE 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177301&extension=ts
+#DESCRIPTION CA| RDI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177302&extension=ts
+#DESCRIPTION CA| RDS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177303&extension=ts
+#DESCRIPTION CA| RDS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177304&extension=ts
+#DESCRIPTION CA| RDS INFO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=906570&extension=ts
+#DESCRIPTION CA| RDS INFO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=906569&extension=ts
+#DESCRIPTION CA| RDS INFO •
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177305&extension=ts
+#DESCRIPTION CA| SAVOIR MEDIA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177306&extension=ts
+#DESCRIPTION CA| SERIES PLUS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177307&extension=ts
+#DESCRIPTION CA| SUPER ECRAN 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177308&extension=ts
+#DESCRIPTION CA| SUPER ECRAN 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177309&extension=ts
+#DESCRIPTION CA| SUPER ECRAN 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177310&extension=ts
+#DESCRIPTION CA| SUPER ECRAN 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177312&extension=ts
+#DESCRIPTION CA| TELE QUEBEC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177313&extension=ts
+#DESCRIPTION CA| TELEMAGINO QUEBEC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177329&extension=ts
+#DESCRIPTION CA| TFO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177315&extension=ts
+#DESCRIPTION CA| TV5 QUEBEC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=235897&extension=ts
+#DESCRIPTION CA| TVA HULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177316&extension=ts
+#DESCRIPTION CA| TVA MONTREAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177317&extension=ts
+#DESCRIPTION CA| TVA QUEBEC CITY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1467207&extension=ts
+#DESCRIPTION CA| TVA SHERBROOKE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1472765&extension=ts
+#DESCRIPTION CA| TVA CARLETON SUR MER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1472764&extension=ts
+#DESCRIPTION CA| TVA RIMOUSKI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1472763&extension=ts
+#DESCRIPTION CA| TVA TROIS-RIVIÈRES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1472762&extension=ts
+#DESCRIPTION CA| TVA SAGUENAY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1472761&extension=ts
+#DESCRIPTION CA| TVA ABITIBI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1135226&extension=ts
+#DESCRIPTION CA|  ICI TELE ESTRIE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177318&extension=ts
+#DESCRIPTION CA| TVA RIVIERE DU LOUP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177319&extension=ts
+#DESCRIPTION CA| TVA SPORTS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177320&extension=ts
+#DESCRIPTION CA| TVA SPORTS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177321&extension=ts
+#DESCRIPTION CA| UNIS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177324&extension=ts
+#DESCRIPTION CA| Z TELE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177325&extension=ts
+#DESCRIPTION CA| ZESTE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=926246&extension=ts
+#DESCRIPTION CA|  STINGRAY RETRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177342&extension=ts
+#DESCRIPTION ##### CA KIDS ENGLISH #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177341&extension=ts
+#DESCRIPTION CA| FAMILY JUNIOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=962531&extension=ts
+#DESCRIPTION CA| FAMILY CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177337&extension=ts
+#DESCRIPTION CA| TREEHOUSE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177336&extension=ts
+#DESCRIPTION CA| WILD BRAIN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177335&extension=ts
+#DESCRIPTION CA| NICKELODEON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177334&extension=ts
+#DESCRIPTION CA| DISNEY CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177333&extension=ts
+#DESCRIPTION CA| DISNEY XD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177332&extension=ts
+#DESCRIPTION CA| BOOMERANG HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177331&extension=ts
+#DESCRIPTION CA| DISNEY JUNIOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177339&extension=ts
+#DESCRIPTION CA| CARTOON NETWORK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177343&extension=ts
+#DESCRIPTION ##### CA KIDS FRENCH #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=708385&extension=ts
+#DESCRIPTION CA| TELETOON FRENCH HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177340&extension=ts
+#DESCRIPTION CA| LA CHAINE DISNEY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1029663&extension=ts
+#DESCRIPTION ##### LOCALS #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177363&extension=ts
+#DESCRIPTION CA| CBC CALGARY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177364&extension=ts
+#DESCRIPTION CA| CBC EDMONTON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=828577&extension=ts
+#DESCRIPTION CA| CBC FREDERICTON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177365&extension=ts
+#DESCRIPTION CA| CBC HALIFAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177366&extension=ts
+#DESCRIPTION CA| CBC MONTREAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177367&extension=ts
+#DESCRIPTION CA| CBC OTTAWA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177368&extension=ts
+#DESCRIPTION CA| CBC ST JOHNS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177369&extension=ts
+#DESCRIPTION CA| CBC TORONTO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177370&extension=ts
+#DESCRIPTION CA| CBC VANCOUVER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1137917&extension=ts
+#DESCRIPTION CA| CBC CHARLOTTETOWN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=773280&extension=ts
+#DESCRIPTION CA| CBC WINDSOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177371&extension=ts
+#DESCRIPTION CA| CBC WINNIPEG HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177372&extension=ts
+#DESCRIPTION CA| CITY TV CALGARY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177373&extension=ts
+#DESCRIPTION CA| CITY TV MONTREAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177374&extension=ts
+#DESCRIPTION CA| CITY TV TORONTO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177375&extension=ts
+#DESCRIPTION CA| CITY TV VANCOUVER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177378&extension=ts
+#DESCRIPTION CA| CTV 2 HALIFAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177380&extension=ts
+#DESCRIPTION CA| CTV 2 LONDON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177386&extension=ts
+#DESCRIPTION CA| CTV 2 OTTAWA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177393&extension=ts
+#DESCRIPTION CA| CTV 2 TORONTO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177395&extension=ts
+#DESCRIPTION CA| CTV 2 VANCOUVER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177396&extension=ts
+#DESCRIPTION CA| CTV 2 VICTORIA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177397&extension=ts
+#DESCRIPTION CA| CTV 2 WINDSOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177376&extension=ts
+#DESCRIPTION CA| CTV CALGARY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177377&extension=ts
+#DESCRIPTION CA| CTV HALIFAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177379&extension=ts
+#DESCRIPTION CA| CTV KITCHENER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177381&extension=ts
+#DESCRIPTION CA| CTV MONCTON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177382&extension=ts
+#DESCRIPTION CA| CTV MONTREAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177383&extension=ts
+#DESCRIPTION CA| CTV NEWS NETWORK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=907930&extension=ts
+#DESCRIPTION CA| CTV NEWS SASKATOON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177384&extension=ts
+#DESCRIPTION CA| CTV NORTH BAY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177385&extension=ts
+#DESCRIPTION CA| CTV OTTAWA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=549276&extension=ts
+#DESCRIPTION CA| CTV PRINCE ALBERT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177387&extension=ts
+#DESCRIPTION CA| CTV REGINA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177388&extension=ts
+#DESCRIPTION CA| CTV SAULT STE MARIE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177389&extension=ts
+#DESCRIPTION CA| CTV SUDBURY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177390&extension=ts
+#DESCRIPTION CA| CTV SYDNEY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177391&extension=ts
+#DESCRIPTION CA| CTV TIMMINS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177392&extension=ts
+#DESCRIPTION CA| CTV TORONTO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177394&extension=ts
+#DESCRIPTION CA| CTV VANCOUVER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177398&extension=ts
+#DESCRIPTION CA| CTV WINNIPEG HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1796750&extension=ts
+#DESCRIPTION CA| GLOBAL BC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177399&extension=ts
+#DESCRIPTION CA| GLOBAL DURHAM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=723875&extension=ts
+#DESCRIPTION CA| GLOBAL EDMONTON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177401&extension=ts
+#DESCRIPTION CA| GLOBAL KINGSTON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177402&extension=ts
+#DESCRIPTION CA| GLOBAL MONTREAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177403&extension=ts
+#DESCRIPTION CA| GLOBAL PETERBOROUGH HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177404&extension=ts
+#DESCRIPTION CA| GLOBAL TORONTO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177405&extension=ts
+#DESCRIPTION CA| GLOBAL VANCOUVER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1092215&extension=ts
+#DESCRIPTION CA| GLOBAL OKANAGAN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1108228&extension=ts
+#DESCRIPTION CA| GLOBAL SASKATOON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1480209&extension=ts
+#DESCRIPTION CA| GLOBAL MARITIMES HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1108229&extension=ts
+#DESCRIPTION CA| GLOBAL REGINA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177406&extension=ts
+#DESCRIPTION CA| NTV NEWFOUNDLAND
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177407&extension=ts
+#DESCRIPTION CA| NTV SAINT JOHN'S HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177408&extension=ts
+#DESCRIPTION CA| VANCOUVER ISLAND
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1028660&extension=ts
+#DESCRIPTION ##### SPORT #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904216&extension=ts
+#DESCRIPTION CA| TSN1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177344&extension=ts
+#DESCRIPTION CA| TSN 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904215&extension=ts
+#DESCRIPTION CA| TSN2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177345&extension=ts
+#DESCRIPTION CA| TSN 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904214&extension=ts
+#DESCRIPTION CA| TSN3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177346&extension=ts
+#DESCRIPTION CA| TSN 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904213&extension=ts
+#DESCRIPTION CA| TSN4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177347&extension=ts
+#DESCRIPTION CA| TSN 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904212&extension=ts
+#DESCRIPTION CA| TSN5 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177348&extension=ts
+#DESCRIPTION CA| TSN 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=950327&extension=ts
+#DESCRIPTION CA| ONE SOCCER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1000006&extension=ts
+#DESCRIPTION CA| NBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177356&extension=ts
+#DESCRIPTION CA| BEIN SPORTS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177357&extension=ts
+#DESCRIPTION CA| BEIN SPORTS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177358&extension=ts
+#DESCRIPTION CA| BEIN SPORTS 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177359&extension=ts
+#DESCRIPTION CA| BEIN SPORTS 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177360&extension=ts
+#DESCRIPTION CA| BEIN SPORTS 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177361&extension=ts
+#DESCRIPTION CA| BEIN SPORTS 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177362&extension=ts
+#DESCRIPTION CA| BEIN SPORTS 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1036492&extension=ts
+#DESCRIPTION CA| WILLOW CRICKET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=732042&extension=ts
+#DESCRIPTION CA| HPITV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=732045&extension=ts
+#DESCRIPTION CA| HPITV WEST
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=732044&extension=ts
+#DESCRIPTION CA| HPITV INTERNATIONAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=732043&extension=ts
+#DESCRIPTION CA| HPITV EAST
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317036&extension=ts
+#DESCRIPTION CA| DAZN 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317037&extension=ts
+#DESCRIPTION CA| DAZN 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317038&extension=ts
+#DESCRIPTION CA| DAZN 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317039&extension=ts
+#DESCRIPTION CA| DAZN 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317040&extension=ts
+#DESCRIPTION CA| DAZN 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317041&extension=ts
+#DESCRIPTION CA| DAZN 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317042&extension=ts
+#DESCRIPTION CA| DAZN 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317043&extension=ts
+#DESCRIPTION CA| DAZN 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317044&extension=ts
+#DESCRIPTION CA| DAZN 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317045&extension=ts
+#DESCRIPTION CA| DAZN 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317046&extension=ts
+#DESCRIPTION CA| DAZN 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317047&extension=ts
+#DESCRIPTION CA| DAZN 12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=317048&extension=ts
+#DESCRIPTION CA| DAZN 13 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043914&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 267
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043915&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 368
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043916&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 422
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043917&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 431/476
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043918&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 432/472
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043920&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 433
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043921&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 434
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043922&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 435
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043924&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 436
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043926&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 437
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043927&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 438
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043928&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 439
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043931&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 440
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043933&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 441
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043934&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 442
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043936&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 443
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043938&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 444
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043940&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 450
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043941&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 452
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043942&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 453
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043943&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 454/477
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043944&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 455/478
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043945&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 456/479
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043947&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 457/480
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043948&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 458/481
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043949&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 459/482
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043950&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 460/483
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043951&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 461
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043952&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 462
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043953&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 464
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043954&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 465
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043955&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 473
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043956&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 474
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043957&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 475
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043958&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 476
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1043959&extension=ts
+#DESCRIPTION CA| SUPER SPORTS CH 477
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904211&extension=ts
+#DESCRIPTION CA| SPORTSNET 360 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177349&extension=ts
+#DESCRIPTION CA| SPORTSNET 360 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904210&extension=ts
+#DESCRIPTION CA| SPORTSNET EAST FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177350&extension=ts
+#DESCRIPTION CA| SPORTSNET EAST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904206&extension=ts
+#DESCRIPTION CA| SPORTSNET WEST FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177351&extension=ts
+#DESCRIPTION CA| SPORTSNET WEST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904204&extension=ts
+#DESCRIPTION CA| SPORTSNET WWE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=735988&extension=ts
+#DESCRIPTION CA| SPORTSNET WWE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904209&extension=ts
+#DESCRIPTION CA| SPORTSNET ONE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177352&extension=ts
+#DESCRIPTION CA| SPORTSNET ONE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904208&extension=ts
+#DESCRIPTION CA| SPORTSNET ONTARIO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177353&extension=ts
+#DESCRIPTION CA| SPORTSNET ONTARIO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904207&extension=ts
+#DESCRIPTION CA| SPORTSNET PACIFIC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177354&extension=ts
+#DESCRIPTION CA| SPORTSNET PACIFIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=904205&extension=ts
+#DESCRIPTION CA| SPORTSNET WORLD FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=177355&extension=ts
+#DESCRIPTION CA| SPORTSNET WORLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1434825&extension=ts
+#DESCRIPTION CA| SPORTSNET PPV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1434821&extension=ts
+#DESCRIPTION CA| SPORTSNET WORLD EXTRA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1434822&extension=ts
+#DESCRIPTION CA| SPORTSNET WORLD EXTRA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1434823&extension=ts
+#DESCRIPTION CA| SPORTSNET WORLD EXTRA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1434824&extension=ts
+#DESCRIPTION CA| SPORTSNET WORLD EXTRA 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=735987&extension=ts
+#DESCRIPTION CA| SPORTSNET EVENT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=735986&extension=ts
+#DESCRIPTION CA| SPORTSNET EVENT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=735985&extension=ts
+#DESCRIPTION CA| SPORTSNET EVENT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=735984&extension=ts
+#DESCRIPTION CA| SPORTSNET EVENT 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=735983&extension=ts
+#DESCRIPTION CA| SPORTSNET EVENT 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=735982&extension=ts
+#DESCRIPTION CA| SPORTSNET EVENT 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=735980&extension=ts
+#DESCRIPTION CA| SPORTSNET EVENT 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=735981&extension=ts
+#DESCRIPTION CA| SPORTSNET EVENT 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618997&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618987&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618981&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618980&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618979&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618978&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618977&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618976&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618998&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618996&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619014&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618995&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619013&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618994&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619012&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618993&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619011&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618992&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619010&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618991&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619009&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618990&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619008&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618989&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619007&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618988&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619006&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618986&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618985&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618984&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618983&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618982&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619005&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619004&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 36
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619003&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 37
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619002&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619001&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 39
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1619000&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1618999&extension=ts
+#DESCRIPTION CA| ROGERS SUPER SPORTS PACK 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1566862&extension=ts
+#DESCRIPTION CA| STINGRAY FIREPLACE UHD/4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1566937&extension=ts
+#DESCRIPTION CA| STINGRAY HOLIDAYSCAPES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1566936&extension=ts
+#DESCRIPTION CA| STINGRAY QELLO CONCERTS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1566934&extension=ts
+#DESCRIPTION CA| STINGRAY TODAY'S LATIN POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1566933&extension=ts
+#DESCRIPTION CA| STINGRAY GREATEST HITS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1566931&extension=ts
+#DESCRIPTION CA| STINGRAY NOTHIN' BUT 90S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1566930&extension=ts
+#DESCRIPTION CA| STINGRAY EASY LISTENTING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1566916&extension=ts
+#DESCRIPTION CA| STINGRAY ROMANCE LATINO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1566915&extension=ts
+#DESCRIPTION CA| STINGRAY CLASSICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1566877&extension=ts
+#DESCRIPTION CA| STINGRAY SMOOTH JAZZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1566876&extension=ts
+#DESCRIPTION CA| STINGRAY DJAZZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1566865&extension=ts
+#DESCRIPTION CA| STINGRAY TODAY'S K-POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423359&extension=ts
+#DESCRIPTION CA| STINGRAY ADULT ALTERNATIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423358&extension=ts
+#DESCRIPTION CA| STINGRAY ALTERNATIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423357&extension=ts
+#DESCRIPTION CA| STINGRAY CLASSIC MASTERS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423356&extension=ts
+#DESCRIPTION CA| STINGRAY CLASSIC ROCK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423355&extension=ts
+#DESCRIPTION CA| STINGRAY COUNTRY CLASSICS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423354&extension=ts
+#DESCRIPTION CA| STINGRAY EASY LISTENING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423353&extension=ts
+#DESCRIPTION CA| STINGRAY FLASHBACK '70S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423352&extension=ts
+#DESCRIPTION CA| STINGRAY FRANCO COUNTRY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423351&extension=ts
+#DESCRIPTION CA| STINGRAY FRANCO RETRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423350&extension=ts
+#DESCRIPTION CA| STINGRAY HIT LIST
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423349&extension=ts
+#DESCRIPTION CA| STINGRAY HOT COUNTRY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423348&extension=ts
+#DESCRIPTION CA| STINGRAY JUKEBOX OLDIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423347&extension=ts
+#DESCRIPTION CA| STINGRAY LE PALMARÈS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423346&extension=ts
+#DESCRIPTION CA| STINGRAY LOUD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423345&extension=ts
+#DESCRIPTION CA| STINGRAY NATURE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423344&extension=ts
+#DESCRIPTION CA| STINGRAY NATURESCAPE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423343&extension=ts
+#DESCRIPTION CA| STINGRAY NOSTALGIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423342&extension=ts
+#DESCRIPTION CA| STINGRAY POP ADULT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423341&extension=ts
+#DESCRIPTION CA| STINGRAY REMEMBER THE '80S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423340&extension=ts
+#DESCRIPTION CA| STINGRAY RETRO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423339&extension=ts
+#DESCRIPTION CA| STINGRAY ROCK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423338&extension=ts
+#DESCRIPTION CA| STINGRAY SMOOTH JAZZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423337&extension=ts
+#DESCRIPTION CA| STINGRAY SOUVENIRS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423336&extension=ts
+#DESCRIPTION CA| STINGRAY SPECIAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423335&extension=ts
+#DESCRIPTION CA| STINGRAY SPECIAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423334&extension=ts
+#DESCRIPTION CA| STINGRAY THE BLUES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423333&extension=ts
+#DESCRIPTION CA| STINGRAY THE CHILL LOUNGE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423332&extension=ts
+#DESCRIPTION CA| STINGRAY THE SPA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423449&extension=ts
+#DESCRIPTION ##### CA INDIA #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423448&extension=ts
+#DESCRIPTION CA| ZEE BOLLYWOOD CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423447&extension=ts
+#DESCRIPTION CA| ZEE TV CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423446&extension=ts
+#DESCRIPTION CA| ZEE CINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423445&extension=ts
+#DESCRIPTION CA| ZEE TAMIL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423443&extension=ts
+#DESCRIPTION CA| ZOOM CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423438&extension=ts
+#DESCRIPTION CA| ATN AASTHA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423437&extension=ts
+#DESCRIPTION CA| ATN ABP NEWS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423436&extension=ts
+#DESCRIPTION CA| ATN ARY NEWS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423435&extension=ts
+#DESCRIPTION CA| ATN B4U MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423434&extension=ts
+#DESCRIPTION CA| ATN B4U PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423433&extension=ts
+#DESCRIPTION CA| ATN BANGLA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423432&extension=ts
+#DESCRIPTION CA| ATN BRITASIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423431&extension=ts
+#DESCRIPTION CA| ATN COLORS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423430&extension=ts
+#DESCRIPTION CA| ATN COLORS BANGLA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423429&extension=ts
+#DESCRIPTION CA| ATN COLORS MARATHI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423428&extension=ts
+#DESCRIPTION CA| ATN CRICKET PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423427&extension=ts
+#DESCRIPTION CA| ATN DD BHARATI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423426&extension=ts
+#DESCRIPTION CA| ATN DD INDIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423425&extension=ts
+#DESCRIPTION CA| ATN DD NEWS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423424&extension=ts
+#DESCRIPTION CA| ATN FOOD FOOD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423423&extension=ts
+#DESCRIPTION CA| ATN GUJARATI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423422&extension=ts
+#DESCRIPTION CA| ATN IBC TAMIL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423421&extension=ts
+#DESCRIPTION CA| ATN JAYA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423420&extension=ts
+#DESCRIPTION CA| ATN LIFE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423419&extension=ts
+#DESCRIPTION CA| ATN MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423418&extension=ts
+#DESCRIPTION CA| ATN MTV INDIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423417&extension=ts
+#DESCRIPTION CA| ATN NDTV GOOD TIMES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423416&extension=ts
+#DESCRIPTION CA| ATN NEWS 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423415&extension=ts
+#DESCRIPTION CA| ATN PM ONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423414&extension=ts
+#DESCRIPTION CA| ATN PUNJABI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423413&extension=ts
+#DESCRIPTION CA| ATN PUNJABI PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423412&extension=ts
+#DESCRIPTION CA| ATN PUNJABI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423411&extension=ts
+#DESCRIPTION CA| ATN RISHTEY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423410&extension=ts
+#DESCRIPTION CA| ATN SIKH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423409&extension=ts
+#DESCRIPTION CA| ATN SPORTS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423408&extension=ts
+#DESCRIPTION CA| ATN TAMIL PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423407&extension=ts
+#DESCRIPTION CA| ATN TIMES NOW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423406&extension=ts
+#DESCRIPTION CA| ATN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423405&extension=ts
+#DESCRIPTION CA| B4U CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423404&extension=ts
+#DESCRIPTION CA| CBN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423403&extension=ts
+#DESCRIPTION CA| CHANNEL I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423402&extension=ts
+#DESCRIPTION CA| CHANNEL PUNJABI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423401&extension=ts
+#DESCRIPTION CA| CHANYHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423400&extension=ts
+#DESCRIPTION CA| NDTV 24X7 CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1704748&extension=ts
+#DESCRIPTION CA| PRIME CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423399&extension=ts
+#DESCRIPTION CA| PRIME ASIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423398&extension=ts
+#DESCRIPTION CA| PTC PUNJABI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423397&extension=ts
+#DESCRIPTION CA| SAB CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423396&extension=ts
+#DESCRIPTION CA| SET - ASIA INTERNATIONAL CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423395&extension=ts
+#DESCRIPTION CA| SET MAX CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423394&extension=ts
+#DESCRIPTION CA| SONY AATH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423393&extension=ts
+#DESCRIPTION CA| TAMIL VISION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423392&extension=ts
+#DESCRIPTION CA| TET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423471&extension=ts
+#DESCRIPTION ##### CA PAKISTAN  #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423439&extension=ts
+#DESCRIPTION CA| ARY ZAUQ CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423442&extension=ts
+#DESCRIPTION CA| ARY DIGITAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423441&extension=ts
+#DESCRIPTION CA| ARY DIGITAL THE MUSIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423440&extension=ts
+#DESCRIPTION CA| ARY QTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423450&extension=ts
+#DESCRIPTION ##### CA CHINA  #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423391&extension=ts
+#DESCRIPTION CA| BEIJING TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423390&extension=ts
+#DESCRIPTION CA| CCTV ENTERTAINMENT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423389&extension=ts
+#DESCRIPTION CA| CCTV4-CHINA CENTRAL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423388&extension=ts
+#DESCRIPTION CA| CHINA GLOBAL TELEVISION NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423387&extension=ts
+#DESCRIPTION CA| DRAGON TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423386&extension=ts
+#DESCRIPTION CA| FUJIAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423385&extension=ts
+#DESCRIPTION CA| JIANGSU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423384&extension=ts
+#DESCRIPTION CA| NHK WORLD TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423381&extension=ts
+#DESCRIPTION CA| WOWTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423451&extension=ts
+#DESCRIPTION ##### CA ITALY #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423380&extension=ts
+#DESCRIPTION CA| MEDIASET ITALIA CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423379&extension=ts
+#DESCRIPTION CA| MEDIASET TGCOM 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423378&extension=ts
+#DESCRIPTION CA| RAI NEWS 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423377&extension=ts
+#DESCRIPTION CA| TELEBIMBI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423452&extension=ts
+#DESCRIPTION ##### CA GREECE #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423376&extension=ts
+#DESCRIPTION CA| MEGA COSMOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423375&extension=ts
+#DESCRIPTION CA| ODYSSEY GREEK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423453&extension=ts
+#DESCRIPTION ##### CA PORTUGAL #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423374&extension=ts
+#DESCRIPTION CA| BENFICA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423373&extension=ts
+#DESCRIPTION CA| RECORD INTERNATIONAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423454&extension=ts
+#DESCRIPTION ##### CA CARRIBEAN/LATINO #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423371&extension=ts
+#DESCRIPTION CA| CARIBBEAN RADIO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423370&extension=ts
+#DESCRIPTION CA| CEEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423369&extension=ts
+#DESCRIPTION CA| CINELATINO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423368&extension=ts
+#DESCRIPTION CA| TELELATINO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423367&extension=ts
+#DESCRIPTION CA| TELELATINO NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423366&extension=ts
+#DESCRIPTION CA| TELENINOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423365&extension=ts
+#DESCRIPTION CA| TV CHILE INTERNACIONAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423364&extension=ts
+#DESCRIPTION CA| TVI INTERNATIONAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423363&extension=ts
+#DESCRIPTION CA| UNIVISION CANADA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423362&extension=ts
+#DESCRIPTION CA| WIN TV CARIBBEAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423455&extension=ts
+#DESCRIPTION ##### CA AFRICA  #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423361&extension=ts
+#DESCRIPTION CA| THE AFRICA CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423456&extension=ts
+#DESCRIPTION ##### CA ISRAEL  #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1423360&extension=ts
+#DESCRIPTION CA| THE ISRAELI NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791260&extension=ts
+#DESCRIPTION ####### PRIME PPV ᴿᴬᵂ #######
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791259&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791258&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791257&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791256&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791255&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791254&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791253&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791252&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791251&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791250&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791249&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791248&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791247&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791246&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791245&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791244&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791243&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791242&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791241&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791240&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791239&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791238&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791237&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 23 - NO EVENT STREAMING -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791236&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791235&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791234&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791233&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791232&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791231&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791230&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791229&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791228&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791227&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791226&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791225&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791224&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791223&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791222&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791221&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791220&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791219&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791218&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791217&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791216&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791215&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 45 - NO EVENT STREAMING -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791214&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 46 - NO EVENT STREAMING -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791213&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 47 - NO EVENT STREAMING -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791212&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791211&extension=ts
+#DESCRIPTION CA: PRIME PPV ᴿᴬᵂ 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1791210&extension=ts
+#DESCRIPTION BR: PRIME PPV ᴿᴬᵂ 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793314&extension=ts
+#DESCRIPTION ####### PRIME PPV #######
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793313&extension=ts
+#DESCRIPTION CA: PRIME PPV 1 - RED SOX AT WHITE SOX | Fri 11 Apr 23:30 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793312&extension=ts
+#DESCRIPTION CA: PRIME PPV 2 - TIGERS AT TWINS | Sat 12 Apr 00:00 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793311&extension=ts
+#DESCRIPTION CA: PRIME PPV 3 - VANCOUVER WARRIORS AT TORONTO ROCK | Fri 11 Apr 23:45 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793310&extension=ts
+#DESCRIPTION CA: PRIME PPV 4 - PITTSBURGH PIRATES AT CINCINNATI REDS | Fri 11 Apr 21:50 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793309&extension=ts
+#DESCRIPTION CA: PRIME PPV 5 - ARLINGTON RENEGADES AT BIRMINGHAM STALLIONS | Fri 11 Apr 23:45 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793308&extension=ts
+#DESCRIPTION CA: PRIME PPV 6 - ROYALS AT GUARDIANS | Fri 11 Apr 22:00 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793307&extension=ts
+#DESCRIPTION CA: PRIME PPV 7 - ANGELS AT ASTROS | Sat 12 Apr 00:00 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793306&extension=ts
+#DESCRIPTION CA: PRIME PPV 8 - HOCKEY 360 | Fri 11 Apr 22:00 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793305&extension=ts
+#DESCRIPTION CA: PRIME PPV 9 - LOVB SEMIFINAL: LOVB AUSTIN VS. LOVB ATLANTA | Fri 11 Apr 22:15 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793304&extension=ts
+#DESCRIPTION CA: PRIME PPV 10 - PIRATES AT REDS | Fri 11 Apr 22:30 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793303&extension=ts
+#DESCRIPTION CA: PRIME PPV 11 - CANADIENS AT SENATORS | Fri 11 Apr 22:45 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793302&extension=ts
+#DESCRIPTION CA: PRIME PPV 12 - BRAVES AT RAYS | Fri 11 Apr 22:55 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793301&extension=ts
+#DESCRIPTION CA: PRIME PPV 13 - GIANTS AT YANKEES | Fri 11 Apr 22:55 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793300&extension=ts
+#DESCRIPTION CA: PRIME PPV 14 - NATIONALS AT MARLINS | Fri 11 Apr 23:00 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793299&extension=ts
+#DESCRIPTION CA: PRIME PPV 15 - PHILLIES AT CARDINALS | Sat 12 Apr 00:05 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793298&extension=ts
+#DESCRIPTION CA: PRIME PPV 16 - PLAYERS CHAMPIONSHIP: DRAW 15 | Fri 11 Apr 23:15 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793297&extension=ts
+#DESCRIPTION CA: PRIME PPV 17 - RAPTORS AT MAVERICKS | Sat 12 Apr 00:15 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793296&extension=ts
+#DESCRIPTION CA: PRIME PPV 18 - THE AMERICAN CONTENDER TOURNAMENT FINALS | Sat 12 Apr 00:17 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793295&extension=ts
+#DESCRIPTION CA: PRIME PPV 19 - DETROIT TIGERS AT MINNESOTA TWINS | Fri 11 Apr 23:20 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793294&extension=ts
+#DESCRIPTION CA: PRIME PPV 20 - VANDERBILT AT OKLAHOMA | Fri 11 Apr 23:45 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793293&extension=ts
+#DESCRIPTION CA: PRIME PPV 21 - PFL WORLD TOURNAMENT: BANTAMWEIGHTS & WOMENS FLYWEIGHTS | Sat 12 Apr 00:17 | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793292&extension=ts
+#DESCRIPTION CA: PRIME PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793291&extension=ts
+#DESCRIPTION CA: PRIME PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793290&extension=ts
+#DESCRIPTION CA: PRIME PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793289&extension=ts
+#DESCRIPTION CA: PRIME PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793288&extension=ts
+#DESCRIPTION CA: PRIME PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793287&extension=ts
+#DESCRIPTION CA: PRIME PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793286&extension=ts
+#DESCRIPTION CA: PRIME PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793285&extension=ts
+#DESCRIPTION CA: PRIME PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793284&extension=ts
+#DESCRIPTION CA: PRIME PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793283&extension=ts
+#DESCRIPTION CA: PRIME PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793282&extension=ts
+#DESCRIPTION CA: PRIME PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793281&extension=ts
+#DESCRIPTION CA: PRIME PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793280&extension=ts
+#DESCRIPTION CA: PRIME PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793279&extension=ts
+#DESCRIPTION CA: PRIME PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793278&extension=ts
+#DESCRIPTION CA: PRIME PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793277&extension=ts
+#DESCRIPTION CA: PRIME PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793276&extension=ts
+#DESCRIPTION CA: PRIME PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793275&extension=ts
+#DESCRIPTION CA: PRIME PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793274&extension=ts
+#DESCRIPTION CA: PRIME PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793273&extension=ts
+#DESCRIPTION CA: PRIME PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793272&extension=ts
+#DESCRIPTION CA: PRIME PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793271&extension=ts
+#DESCRIPTION CA: PRIME PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793270&extension=ts
+#DESCRIPTION CA: PRIME PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793269&extension=ts
+#DESCRIPTION CA: PRIME PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793268&extension=ts
+#DESCRIPTION CA: PRIME PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793267&extension=ts
+#DESCRIPTION CA: PRIME PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793266&extension=ts
+#DESCRIPTION CA: PRIME PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793265&extension=ts
+#DESCRIPTION CA: PRIME PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1793264&extension=ts
+#DESCRIPTION CA: PRIME PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362723&extension=ts
+#DESCRIPTION ##### AHL PPV #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362724&extension=ts
+#DESCRIPTION CA: ABBOTSFORD CANUCKS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362725&extension=ts
+#DESCRIPTION CA: BAKERSFIELD CONDORS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362726&extension=ts
+#DESCRIPTION CA: BELLEVILLE SENATORS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362727&extension=ts
+#DESCRIPTION CA: BRIDGEPORT ISLANDERS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362728&extension=ts
+#DESCRIPTION CA: CALGARY WRANGLERS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362729&extension=ts
+#DESCRIPTION CA: CHARLOTTE CHECKERS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362730&extension=ts
+#DESCRIPTION CA: CHICAGO WOLVES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362731&extension=ts
+#DESCRIPTION CA: CLEVELAND MONSTERS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362732&extension=ts
+#DESCRIPTION CA: COACHELLA VALLEY FIREBIRDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362733&extension=ts
+#DESCRIPTION CA: COLORADO EAGLES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362734&extension=ts
+#DESCRIPTION CA: GRAND RAPIDS GRIFFINS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362735&extension=ts
+#DESCRIPTION CA: HARTFORD WOLF PACK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362736&extension=ts
+#DESCRIPTION CA: HENDERSON SILVER KNIGHTS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362737&extension=ts
+#DESCRIPTION CA: HERSHEY BEARS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362738&extension=ts
+#DESCRIPTION CA: IOWA WILD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362739&extension=ts
+#DESCRIPTION CA: LAVAL ROCKET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362740&extension=ts
+#DESCRIPTION CA: LEHIGH VALLEY PHANTOMS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362741&extension=ts
+#DESCRIPTION CA: MANITOBA MOOSE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362742&extension=ts
+#DESCRIPTION CA: MILWAUKEE ADMIRALS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362743&extension=ts
+#DESCRIPTION CA: ONTARIO REIGN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362744&extension=ts
+#DESCRIPTION CA: PROVIDENCE BRUINS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362745&extension=ts
+#DESCRIPTION CA: ROCHESTER AMERICANS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362746&extension=ts
+#DESCRIPTION CA: ROCKFORD ICEHOGS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362747&extension=ts
+#DESCRIPTION CA: SAN DIEGO GULLS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362748&extension=ts
+#DESCRIPTION CA: SAN JOSE BARRACUDA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362749&extension=ts
+#DESCRIPTION CA: SPRINGFIELD THUNDERBIRDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362750&extension=ts
+#DESCRIPTION CA: SYRACUSE CRUNCH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362751&extension=ts
+#DESCRIPTION CA: TEXAS STARS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362752&extension=ts
+#DESCRIPTION CA: TORONTO MARLIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362753&extension=ts
+#DESCRIPTION CA: TUCSON ROADRUNNERS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362754&extension=ts
+#DESCRIPTION CA: UTICA COMETS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1362755&extension=ts
+#DESCRIPTION CA: W-B/SCRANTON PENGUINS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1346319&extension=ts
+#DESCRIPTION CHL 1 HD (D): QMJHL | Ronde 2 _ Match 1: BAC @ MON | Fri 11 Apr 18:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1346318&extension=ts
+#DESCRIPTION CHL 2 HD (D): QMJHL | Ronde 2 _ Match 1: SHE @ SHA | Fri 11 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1346659&extension=ts
+#DESCRIPTION CHL 3 HD (D): QMJHL | Ronde 2 _ Match 1: CHI @ RIM | Fri 11 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1346660&extension=ts
+#DESCRIPTION CHL 4 HD (D): QMJHL | Ronde 2 _ Match 1: HAL @ ROU | Fri 11 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1346661&extension=ts
+#DESCRIPTION CHL 5 HD (D): QMJHL | Ronde 2 _ Match 2: CHI @ RIM | Sat 12 Apr 16:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1346662&extension=ts
+#DESCRIPTION CHL 6 HD (D): QMJHL | Ronde 2 _ Match 2: HAL @ ROU | Sat 12 Apr 16:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1346663&extension=ts
+#DESCRIPTION CHL 7 HD (D): QMJHL | Ronde 2 _ Match 2: SHE @ SHA | Sat 12 Apr 16:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1359865&extension=ts
+#DESCRIPTION CHL 8 HD (D): QMJHL | Ronde 2 _ Match 2: BAC @ MON | Sun 13 Apr 15:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1359866&extension=ts
+#DESCRIPTION CHL 9 HD (D): QMJHL | Ronde 2 _ Match 3: ROU @ HAL | Tue 15 Apr 18:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1359867&extension=ts
+#DESCRIPTION CHL 10 HD (D): QMJHL | Ronde 2 _ Match 3: RIM @ CHI | Tue 15 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1359868&extension=ts
+#DESCRIPTION CHL 11 HD (D): QMJHL | Ronde 2 _ Match 3: MON @ BAC | Tue 15 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1359869&extension=ts
+#DESCRIPTION CHL 12 HD (D): QMJHL | Ronde 2 _ Match 3: SHA @ SHE | Tue 15 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1359870&extension=ts
+#DESCRIPTION CHL 13 HD (D): QMJHL | Ronde 2 _ Match 4: ROU @ HAL | Wed 16 Apr 18:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1359871&extension=ts
+#DESCRIPTION CHL 14 HD (D): QMJHL | Ronde 2 _ Match 4: SHA @ SHE | Wed 16 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1411981&extension=ts
+#DESCRIPTION CHL 15 HD (D): QMJHL | Ronde 2 _ Match 4: MON @ BAC | Wed 16 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1359873&extension=ts
+#DESCRIPTION CHL 16 HD (D): QMJHL | Ronde 2 _ Match 4: RIM @ CHI | Wed 16 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1359874&extension=ts
+#DESCRIPTION CHL 17 HD (D): QMJHL | Ronde 2 _ Match 5: ROU @ HAL * | Fri 18 Apr 18:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1359875&extension=ts
+#DESCRIPTION CHL 18 HD (D): QMJHL | Ronde 2 _ Match 5: SHE @ SHA * | Fri 18 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1359876&extension=ts
+#DESCRIPTION CHL 19 HD (D): QMJHL | Ronde 2 _ Match 5: CHI @ RIM * | Fri 18 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1359877&extension=ts
+#DESCRIPTION CHL 20 HD (D): QMJHL | Ronde 2 _ Match 5: MON @ BAC * | Fri 18 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737811&extension=ts
+#DESCRIPTION CHL 21 HD (D): OHL | Round 2 _ Game 2: ER @ LDN | Sat 12 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737810&extension=ts
+#DESCRIPTION CHL 22 HD (D): OHL | Round 2 _ Game 2: KIT @ WSR | Sat 12 Apr 19:05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737809&extension=ts
+#DESCRIPTION CHL 23 HD (D): OHL | Round 2 _ Game 2: KGN @ BAR | Sat 12 Apr 19:30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737808&extension=ts
+#DESCRIPTION CHL 24 HD (D): OHL | Round 2 _ Game 2: OSH @ BFD | Sun 13 Apr 14:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737807&extension=ts
+#DESCRIPTION CHL 25 HD (D): OHL | Round 2 _ Game 3: WSR @ KIT | Mon 14 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737806&extension=ts
+#DESCRIPTION CHL 26 HD (D): OHL | Round 2 _ Game 3: LDN @ ER | Tue 15 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737805&extension=ts
+#DESCRIPTION CHL 27 HD (D): OHL | Round 2 _ Game 3: BAR @ KGN | Tue 15 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737804&extension=ts
+#DESCRIPTION CHL 28 HD (D): OHL | Round 2 _ Game 3: BFD @ OSH | Tue 15 Apr 19:05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737803&extension=ts
+#DESCRIPTION CHL 29 HD (D): OHL | Round 2 _ Game 4: WSR @ KIT | Wed 16 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737802&extension=ts
+#DESCRIPTION CHL 30 HD (D): OHL | Round 2 _ Game 4: LDN @ ER | Thu 17 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737801&extension=ts
+#DESCRIPTION CHL 31 HD (D): OHL | Round 2 _ Game 4: BAR @ KGN | Thu 17 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737800&extension=ts
+#DESCRIPTION CHL 32 HD (D): OHL | Round 2 _ Game 4: BFD @ OSH | Thu 17 Apr 19:05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737799&extension=ts
+#DESCRIPTION CHL 33 HD (D): OHL | Round 2 _ Game 5: ER @ LDN * | Fri 18 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737798&extension=ts
+#DESCRIPTION CHL 34 HD (D): OHL | Round 2 _ Game 5: KIT @ WSR * | Fri 18 Apr 19:05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737797&extension=ts
+#DESCRIPTION CHL 35 HD (D): OHL | Round 2 _ Game 5: OSH @ BFD * | Sat 19 Apr 19:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737796&extension=ts
+#DESCRIPTION CHL 36 HD (D): OHL | Round 2 _ Game 5: KGN @ BAR * | Sat 19 Apr 19:30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737795&extension=ts
+#DESCRIPTION CHL 37 HD (D): WHL | Round 2 _ Game 1: POR @ EVT | Fri 11 Apr 22:05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737793&extension=ts
+#DESCRIPTION CHL 38 HD (D): WHL | Round 2 _ Game 2: LET @ CGY | Sat 12 Apr 20:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737792&extension=ts
+#DESCRIPTION CHL 39 HD (D): WHL | Round 2 _ Game 1: PA @ MH | Sat 12 Apr 21:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=1411977&extension=ts
+#DESCRIPTION CHL 40 HD (D): WHL | Round 2 _ Game 2: POR @ EVT | Sat 12 Apr 21:05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737790&extension=ts
+#DESCRIPTION CHL 41 HD (D): WHL | Round 2 _ Game 2: PA @ MH | Sun 13 Apr 20:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737789&extension=ts
+#DESCRIPTION CHL 42 HD (D): WHL | Round 2 _ Game 1: VIC @ SPO | Sun 13 Apr 21:05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737788&extension=ts
+#DESCRIPTION CHL 43 HD (D): WHL | Round 2 _ Game 2: VIC @ SPO | Mon 14 Apr 22:05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737787&extension=ts
+#DESCRIPTION CHL 44 HD (D): WHL | Round 2 _ Game 3: CGY @ LET | Tue 15 Apr 21:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737786&extension=ts
+#DESCRIPTION CHL 45 HD (D): WHL | Round 2 _ Game 3: EVT @ POR | Tue 15 Apr 22:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737785&extension=ts
+#DESCRIPTION CHL 46 HD (D): WHL | Round 2 _ Game 3: MH @ PA | Wed 16 Apr 21:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737784&extension=ts
+#DESCRIPTION CHL 47 HD (D): WHL | Round 2 _ Game 4: CGY @ LET | Wed 16 Apr 21:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737783&extension=ts
+#DESCRIPTION CHL 48 HD (D): WHL | Round 2 _ Game 4: EVT @ POR | Wed 16 Apr 22:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737782&extension=ts
+#DESCRIPTION CHL 49 HD (D): WHL | Round 2 _ Game 3: SPO @ VIC | Wed 16 Apr 22:05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737781&extension=ts
+#DESCRIPTION CHL 50 HD (D): WHL | Round 2 _ Game 4: MH @ PA | Thu 17 Apr 21:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737780&extension=ts
+#DESCRIPTION CHL 51 HD (D): WHL | Round 2 _ Game 4: SPO @ VIC | Fri 18 Apr 22:05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737779&extension=ts
+#DESCRIPTION CHL 52 HD (D): WHL | Round 2 _ Game 5: POR @ EVT * | Fri 18 Apr 22:05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737778&extension=ts
+#DESCRIPTION CHL 53 HD (D): WHL | Round 2 _ Game 5: PA @ MH * | Sat 19 Apr 18:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737777&extension=ts
+#DESCRIPTION CHL 54 HD (D): WHL | Round 2 _ Game 6: MH @ PA * | Mon 21 Apr 21:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737776&extension=ts
+#DESCRIPTION CHL 55 HD (D): WHL | Round 2 _ Game 7: PA @ MH * | Wed 23 Apr 21:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737775&extension=ts
+#DESCRIPTION CHL 56 HD (D): WHL | Round 1 _ Game 7: EDM @ PA * | Tue 08 Apr 21:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737774&extension=ts
+#DESCRIPTION CHL 57 HD (D): WHL | Round 1 _ Game 7: SC @ MH * | Tue 08 Apr 21:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737773&extension=ts
+#DESCRIPTION CHL 58 HD (D): WHL | Round 1 _ Game 7: BDN @ LET * | Tue 08 Apr 21:00
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737770&extension=ts
+#DESCRIPTION CHL 59 HD (D): WHL | Round 1 _ Game 6: TC @ VIC * | Sun 06 Apr 18:05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.premiumpowers.net%3a8000/play/live.php?mac=00%3a1A%3a79%3a00%3a0E%3aDC&stream=737769&extension=ts
+#DESCRIPTION CHL 60 HD (D): WHL | Round 1 _ Game 6: MH @ SC * | Sun 06 Apr 19:00
