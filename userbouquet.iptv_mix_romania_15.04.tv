@@ -1,0 +1,2273 @@
+#NAME IPTV Mix Romania 15.04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75879
+#DESCRIPTION ⭐⭐⭐OpenTv Romania⭐⭐⭐
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/51856
+#DESCRIPTION ⭐⭐⭐MIREASA⭐⭐⭐
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/51857
+#DESCRIPTION ⭐⭐⭐Mireasa Plus⭐⭐⭐
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70429
+#DESCRIPTION Antena 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9051
+#DESCRIPTION Antena 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8970
+#DESCRIPTION Antena 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8971
+#DESCRIPTION Antena 1 2K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/13180
+#DESCRIPTION Antena 1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70447
+#DESCRIPTION Antena 1 HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70428
+#DESCRIPTION Pro TV SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9048
+#DESCRIPTION Pro TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8968
+#DESCRIPTION Pro TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9394
+#DESCRIPTION Pro TV 2K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/13181
+#DESCRIPTION Pro Tv 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70448
+#DESCRIPTION Pro TV HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8969
+#DESCRIPTION Pro TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70427
+#DESCRIPTION Kanal D SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9064
+#DESCRIPTION Kanal D HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9395
+#DESCRIPTION Kanal D FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8974
+#DESCRIPTION Kanal D 2K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8975
+#DESCRIPTION Kanal D 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70449
+#DESCRIPTION Kanal D HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9062
+#DESCRIPTION Kanal D2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54195
+#DESCRIPTION Kanal D2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70494
+#DESCRIPTION Kanal D2 HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8979
+#DESCRIPTION Digi 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9063
+#DESCRIPTION Prima TV SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/24842
+#DESCRIPTION Prima TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70493
+#DESCRIPTION Prima TV HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31386
+#DESCRIPTION Prima Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9058
+#DESCRIPTION TVR 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8977
+#DESCRIPTION TVR 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9059
+#DESCRIPTION TVR 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8978
+#DESCRIPTION TVR 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9060
+#DESCRIPTION TVR 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31413
+#DESCRIPTION TVR 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9061
+#DESCRIPTION TVR International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9049
+#DESCRIPTION ProTV International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9053
+#DESCRIPTION Antena 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8973
+#DESCRIPTION Antena 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31848
+#DESCRIPTION Antena 3 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70491
+#DESCRIPTION Antena 3 HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9052
+#DESCRIPTION Antena Stars HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8972
+#DESCRIPTION Antena Stars FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70492
+#DESCRIPTION Antena Stars HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54244
+#DESCRIPTION CaTine Ro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54245
+#DESCRIPTION Antena Comedy Play
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54246
+#DESCRIPTION Antena Monden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9194
+#DESCRIPTION ⚡⚡⚡ CANALE STIRI ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9130
+#DESCRIPTION Digi 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8980
+#DESCRIPTION Digi 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/10872
+#DESCRIPTION Digi 24 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70450
+#DESCRIPTION Digi 24 HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9132
+#DESCRIPTION Realitatea Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37911
+#DESCRIPTION Realitatea Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9131
+#DESCRIPTION RomaniaTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54243
+#DESCRIPTION Romania Tv FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37903
+#DESCRIPTION B1 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9066
+#DESCRIPTION B1 TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31410
+#DESCRIPTION Euronews RO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/32363
+#DESCRIPTION Euronews RO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/50130
+#DESCRIPTION Prima News FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/53521
+#DESCRIPTION Global News Ro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/28109
+#DESCRIPTION ProTv News FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30277
+#DESCRIPTION AlephNews SmartTv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31381
+#DESCRIPTION Aleph News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/19324
+#DESCRIPTION Aleph News FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31379
+#DESCRIPTION Aleph Business
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31380
+#DESCRIPTION Aleph Business FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9065
+#DESCRIPTION National TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/13585
+#DESCRIPTION National 24+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31403
+#DESCRIPTION Privesc EU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31019
+#DESCRIPTION Realitatea Star HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30450
+#DESCRIPTION Realitatea Sportiva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30429
+#DESCRIPTION LinkPress Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37899
+#DESCRIPTION RO Media Valencia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37908
+#DESCRIPTION PrimaNews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/26657
+#DESCRIPTION Metropola Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9195
+#DESCRIPTION ⚡⚡⚡ CANALE SPORT ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/59935
+#DESCRIPTION TVR Sport FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82437
+#DESCRIPTION Digi Sport 1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82433
+#DESCRIPTION Digi Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82429
+#DESCRIPTION Digi Sport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82438
+#DESCRIPTION Digi Sport 1 HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82434
+#DESCRIPTION Digi Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82430
+#DESCRIPTION Digi Sport 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82439
+#DESCRIPTION Digi Sport 2 HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82435
+#DESCRIPTION Digi Sport 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82431
+#DESCRIPTION Digi Sport 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82440
+#DESCRIPTION Digi Sport 3 HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82436
+#DESCRIPTION Digi Sport 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82432
+#DESCRIPTION Digi Sport 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82441
+#DESCRIPTION Digi Sport 4 HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17995
+#DESCRIPTION Eurosport 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70382
+#DESCRIPTION EuroSport1 Romania FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70387
+#DESCRIPTION EuroSport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70385
+#DESCRIPTION EuroSport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70384
+#DESCRIPTION EuroSport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70388
+#DESCRIPTION EuroSport 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/19319
+#DESCRIPTION Prima 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9106
+#DESCRIPTION Prima Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31399
+#DESCRIPTION Prima Sport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70495
+#DESCRIPTION Prima Sport 1 HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9105
+#DESCRIPTION Prima Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9003
+#DESCRIPTION Prima Sport 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70496
+#DESCRIPTION Prima Sport 2 HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30431
+#DESCRIPTION Prima Sport 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9005
+#DESCRIPTION Prima Sport 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70497
+#DESCRIPTION Prima Sport 3 HDR  (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30430
+#DESCRIPTION Prima Sport 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9004
+#DESCRIPTION Prima Sport 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70498
+#DESCRIPTION Prima Sport 4 HDR (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37928
+#DESCRIPTION Prima Sport 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37842
+#DESCRIPTION Prima Sport 5 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70499
+#DESCRIPTION Prima Sport 5 HDR  (Net Bun)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/29052
+#DESCRIPTION Sport Extra FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9104
+#DESCRIPTION Pro Arena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9006
+#DESCRIPTION Pro Arena FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37927
+#DESCRIPTION Auto Motors Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30384
+#DESCRIPTION Trace Sports Star HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58768
+#DESCRIPTION Motor Vision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9109
+#DESCRIPTION FightBox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37926
+#DESCRIPTION Extreme Sports Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9199
+#DESCRIPTION ⚡⚡⚡ CANALE FILME GENERALE ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70445
+#DESCRIPTION Film Mania FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70412
+#DESCRIPTION SkyShowtime 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70413
+#DESCRIPTION SkyShowtime 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9067
+#DESCRIPTION HBO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8983
+#DESCRIPTION HBO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9068
+#DESCRIPTION HBO 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8984
+#DESCRIPTION HBO 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9069
+#DESCRIPTION HBO 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8985
+#DESCRIPTION HBO 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9088
+#DESCRIPTION Cinemax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8988
+#DESCRIPTION Cinemax FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9089
+#DESCRIPTION Cinemax 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31388
+#DESCRIPTION Cinemax 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9077
+#DESCRIPTION AMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31382
+#DESCRIPTION AMC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9080
+#DESCRIPTION AXN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8981
+#DESCRIPTION AXN FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9081
+#DESCRIPTION AXN White
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9082
+#DESCRIPTION AXN Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9083
+#DESCRIPTION AXN Spin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9070
+#DESCRIPTION Film Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8982
+#DESCRIPTION Film Now FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9075
+#DESCRIPTION Film Cafe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31396
+#DESCRIPTION Film Cafe FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9090
+#DESCRIPTION FilmBox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9091
+#DESCRIPTION FilmBox Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31397
+#DESCRIPTION Filmbox Stars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58767
+#DESCRIPTION FilmBox ArtHouse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9093
+#DESCRIPTION FilmBox Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8986
+#DESCRIPTION FilmBox Extra HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9084
+#DESCRIPTION BollywoodTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54111
+#DESCRIPTION Bollyood Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31383
+#DESCRIPTION BollyoodTv FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31384
+#DESCRIPTION Bollyood Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9087
+#DESCRIPTION Comedy Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31389
+#DESCRIPTION Comedy Central FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30424
+#DESCRIPTION Epic Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8987
+#DESCRIPTION Epic Drama FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9074
+#DESCRIPTION Acasa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8976
+#DESCRIPTION Acasa Tv FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9072
+#DESCRIPTION Acasa Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31405
+#DESCRIPTION Acasa Gold FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9078
+#DESCRIPTION Happy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8989
+#DESCRIPTION Happy FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9071
+#DESCRIPTION Pro Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31404
+#DESCRIPTION Pro Cinema FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31415
+#DESCRIPTION Warner Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37924
+#DESCRIPTION Warner TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9073
+#DESCRIPTION TV1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9120
+#DESCRIPTION TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37925
+#DESCRIPTION TLC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9079
+#DESCRIPTION TDC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/8990
+#DESCRIPTION TDC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9094
+#DESCRIPTION Cinemaraton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31387
+#DESCRIPTION Cinemaraton HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9095
+#DESCRIPTION h_125
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9086
+#DESCRIPTION Diva Universal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/74507
+#DESCRIPTION Nostalgia Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9016
+#DESCRIPTION E! Entertainment FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30423
+#DESCRIPTION E! Enterteinment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9200
+#DESCRIPTION ⚡⚡⚡ CANALE DOCUMENTARE ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70414
+#DESCRIPTION Prima Food & Travel FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58648
+#DESCRIPTION Prima History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30421
+#DESCRIPTION Discovery Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9007
+#DESCRIPTION Discovery Channel FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9124
+#DESCRIPTION Discovery Investigation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31861
+#DESCRIPTION Discovery Investigation FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/13583
+#DESCRIPTION Digi Animal World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31390
+#DESCRIPTION Digi Animal World FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9114
+#DESCRIPTION Digi World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31392
+#DESCRIPTION Digi World FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9113
+#DESCRIPTION Digi Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31391
+#DESCRIPTION Digi Life FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9115
+#DESCRIPTION National Geographic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9010
+#DESCRIPTION National Geographic FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9116
+#DESCRIPTION National Geographic Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9011
+#DESCRIPTION National Geographic Wild FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37932
+#DESCRIPTION National Geograpghic People
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9112
+#DESCRIPTION Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9009
+#DESCRIPTION Animal Planet FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37933
+#DESCRIPTION Love Nature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9008
+#DESCRIPTION Love Nature FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9117
+#DESCRIPTION Viasat Explorer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9012
+#DESCRIPTION Viasat Explorer FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9119
+#DESCRIPTION Viasat Nature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9013
+#DESCRIPTION Viasat Nature FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9118
+#DESCRIPTION Viasat History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9014
+#DESCRIPTION Viasat History FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30426
+#DESCRIPTION History Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9015
+#DESCRIPTION History Channel FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9129
+#DESCRIPTION Travel Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31409
+#DESCRIPTION Travel Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9123
+#DESCRIPTION Fishing & Hunting
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37934
+#DESCRIPTION Fishing & Hunting HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9122
+#DESCRIPTION Crime & Investigation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37931
+#DESCRIPTION DocuBox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/21073
+#DESCRIPTION DocuBox FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9018
+#DESCRIPTION Travel MIX FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37935
+#DESCRIPTION Travel XP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30387
+#DESCRIPTION Travel XP FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/50192
+#DESCRIPTION BBC Earth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9017
+#DESCRIPTION BBC Earth FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30419
+#DESCRIPTION BBC First FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14439
+#DESCRIPTION CBS Reality
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37909
+#DESCRIPTION DaVinci Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14441
+#DESCRIPTION DaVinci Learning HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9121
+#DESCRIPTION HGTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37894
+#DESCRIPTION HGTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30366
+#DESCRIPTION Arcadia World HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30372
+#DESCRIPTION Exploris Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9126
+#DESCRIPTION PaprikaTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31402
+#DESCRIPTION Paprika Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9128
+#DESCRIPTION Food Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9196
+#DESCRIPTION ⚡⚡⚡ CANALE OpenTv ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54109
+#DESCRIPTION OpenTv Premiere 2023
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58760
+#DESCRIPTION OpenTv Premiere New 2024
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70576
+#DESCRIPTION OpenTv Las Fierbinti Sezon 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70577
+#DESCRIPTION OpenTv Las Fierbinti Sezon 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70578
+#DESCRIPTION OpenTv Las Fierbinti Sezon 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70579
+#DESCRIPTION OpenTv Las Fierbinti Sezon 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70580
+#DESCRIPTION OpenTv Las Fierbinti Sezon 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70581
+#DESCRIPTION OpenTv Las Fierbinti Sezon 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70582
+#DESCRIPTION OpenTv Las Fierbinti Sezon 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70583
+#DESCRIPTION OpenTv Las Fierbinti Sezon 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/71114
+#DESCRIPTION OpenTv Las Fierbinti Sezonul 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75887
+#DESCRIPTION OpenTv Las Fierbinti Sezonul 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/22270
+#DESCRIPTION OpenTv 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70591
+#DESCRIPTION OpenTv Actiune New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70592
+#DESCRIPTION OpenTv Horror New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70593
+#DESCRIPTION OpenTv Comedie New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70594
+#DESCRIPTION OpenTv SCI-FI New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70595
+#DESCRIPTION OpenTv Documentary New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70596
+#DESCRIPTION OpenTv Trilogy New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70597
+#DESCRIPTION OpenTv Manele New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70598
+#DESCRIPTION OpenTv Dance New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70599
+#DESCRIPTION OpenTv Comedy Box Podcast
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70600
+#DESCRIPTION OpenTv Comedy Box
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70584
+#DESCRIPTION OpenTv Thriller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70585
+#DESCRIPTION OpenTv Actiune
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70586
+#DESCRIPTION OpenTv Aventura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70587
+#DESCRIPTION OpenTv Comedie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70588
+#DESCRIPTION OpenTv Premiere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70589
+#DESCRIPTION OpenTv Groapa Sezon 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70590
+#DESCRIPTION OpenTv Tulsa King Sezon 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/71330
+#DESCRIPTION ⭐⭐⭐ OpenTV Colinde ⭐⭐⭐
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/74436
+#DESCRIPTION ⭐⭐⭐ OpenTV Filme de Craciun ⭐⭐⭐
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/25111
+#DESCRIPTION ⚡⚡⚡ EXCLUSIVITATE CLIENTI OpenTv ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70608
+#DESCRIPTION Plex TV Actiune New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70606
+#DESCRIPTION Plex TV Actiune
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70607
+#DESCRIPTION Plex TV Comedie New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70605
+#DESCRIPTION Plex TV Comedie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70609
+#DESCRIPTION Plex TV SCI-FI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70610
+#DESCRIPTION Plex TV Mistery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70611
+#DESCRIPTION Plex TV Documentare
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70612
+#DESCRIPTION Plex TV Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70613
+#DESCRIPTION Plex TV Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70614
+#DESCRIPTION Plex TV Trilogy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70615
+#DESCRIPTION Plex TV Horror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70601
+#DESCRIPTION Plex TV Box Office
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70604
+#DESCRIPTION Plex TV Aventura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70602
+#DESCRIPTION Plex TV Music Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70603
+#DESCRIPTION Plex TV Music House
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70616
+#DESCRIPTION Pandora TV Pistruiatul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70617
+#DESCRIPTION Pandora TV Filme Dublate 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70618
+#DESCRIPTION Pandora TV Filme Dublate 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70619
+#DESCRIPTION Pandora TV Filme Romanesti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70620
+#DESCRIPTION Pandora TV Baieti De Oras Sezon 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70621
+#DESCRIPTION Pandora TV Baieti De Oras Sezon 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70628
+#DESCRIPTION Pandora TV Tom &Jerry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30452
+#DESCRIPTION NickTv Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/50188
+#DESCRIPTION NickTv Premiere4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30454
+#DESCRIPTION NickTv Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/50185
+#DESCRIPTION NickTv Animatie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30451
+#DESCRIPTION NickTv Muzica de Petrecere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30455
+#DESCRIPTION NickTv Latino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/50186
+#DESCRIPTION NickTv Manele
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/50187
+#DESCRIPTION NickTv Romales
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30453
+#DESCRIPTION NickTv Pescaresti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/18240
+#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE AnumeTv ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37537
+#DESCRIPTION AnumeTv Premiere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14451
+#DESCRIPTION AnumeTv Super Eroi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54241
+#DESCRIPTION AnumeTv Romania Te Iubesc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82222
+#DESCRIPTION Anume Premiere 2025
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82223
+#DESCRIPTION AnumeTV SuperEroi 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82224
+#DESCRIPTION AnumeTV PowerCouple
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82225
+#DESCRIPTION AnumeTV Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82226
+#DESCRIPTION AnumeTV Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82227
+#DESCRIPTION AnumeTV Comedie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54242
+#DESCRIPTION AnumeTv Desene Animate
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58660
+#DESCRIPTION Xtream Romania Premiere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58661
+#DESCRIPTION Xtream Romania Premiere 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58662
+#DESCRIPTION Xtream Romania Premiere 4K 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58663
+#DESCRIPTION Xtream Romania Actiune 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58664
+#DESCRIPTION Xtream Romania Filme Romanesti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58665
+#DESCRIPTION Xtream Romania Actiune
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58666
+#DESCRIPTION Xtream Romania Comedie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58667
+#DESCRIPTION Xtream Romania Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58668
+#DESCRIPTION Xtream Romania Horror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/25114
+#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE PatriaTv ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/19034
+#DESCRIPTION PatriaTv 2022
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54240
+#DESCRIPTION PatriaTv 2023
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31365
+#DESCRIPTION PatriaTv Filmul Zilei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/21095
+#DESCRIPTION PatriaTv Documentare
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/19035
+#DESCRIPTION PatriaTv Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/50129
+#DESCRIPTION PatriaTv Diva Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31366
+#DESCRIPTION PatriaTv 2021
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/19032
+#DESCRIPTION PatriaTv Manele
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30392
+#DESCRIPTION PatriaTv Cinema HD1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30393
+#DESCRIPTION PatriaTv Ro Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/19031
+#DESCRIPTION PatriaTv Petrecere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30448
+#DESCRIPTION PatriaTv Animatie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30394
+#DESCRIPTION PatriaTv Cinemax HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58763
+#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE Hnet Studio⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70622
+#DESCRIPTION HNet Actiune
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70623
+#DESCRIPTION HNet Comedie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70624
+#DESCRIPTION HNet Documentare
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70625
+#DESCRIPTION HNet Horror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70626
+#DESCRIPTION HNet SCI-FI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/10662
+#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE LUCTV ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/10644
+#DESCRIPTION LucTv Stand Up Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14525
+#DESCRIPTION LucTv 2020
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/10638
+#DESCRIPTION LucTv Kids Disney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/10646
+#DESCRIPTION LucTV Trilogy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/10647
+#DESCRIPTION LucTv CINEDECOLECTIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14511
+#DESCRIPTION LucTv Divertisment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14514
+#DESCRIPTION LucTv Actiune
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/10657
+#DESCRIPTION LucTv Horror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14519
+#DESCRIPTION LucTv BoxOffice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14520
+#DESCRIPTION LucTv Mistery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14521
+#DESCRIPTION LucTv Western
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14522
+#DESCRIPTION LucTv Romantic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14523
+#DESCRIPTION LucTv Arte Martiale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/10648
+#DESCRIPTION LucTv Comedie Clasica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14505
+#DESCRIPTION LucTv El Chapo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14506
+#DESCRIPTION LucTv Narcos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14507
+#DESCRIPTION LucTv Prison Break
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14508
+#DESCRIPTION LucTv Vikings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14510
+#DESCRIPTION LucTv Mini Series
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14509
+#DESCRIPTION LucTv Game Of Thrones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17909
+#DESCRIPTION LucTv Muzica Populara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17963
+#DESCRIPTION LucTv Muzica Latino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17417
+#DESCRIPTION LucTv Documentare
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17914
+#DESCRIPTION LucTv Top Hits Romania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/25129
+#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE ZonaTV ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/25119
+#DESCRIPTION ZoNa TV Vin Diesel Pack
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/25120
+#DESCRIPTION ZoNa TV Keanu Reeves
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/25122
+#DESCRIPTION ZoNa TV Jason Statham
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/25123
+#DESCRIPTION ZoNa TV Arnold Schwarzenegger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/25124
+#DESCRIPTION ZoNa TV Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/25125
+#DESCRIPTION ZoNa TV Robert De Niro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/25127
+#DESCRIPTION ZoNa TV Angelina Jolie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/25128
+#DESCRIPTION ZoNa TV Tom Cruise
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17932
+#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE ZokkoTV ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/18253
+#DESCRIPTION ZokkoTv 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/18254
+#DESCRIPTION ZokkoTv Movies 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/18255
+#DESCRIPTION ZokkoTv 4K Two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/18256
+#DESCRIPTION ZokkoTv 4K Three
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17934
+#DESCRIPTION ZokkoTV Movies 2020
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17933
+#DESCRIPTION ZokkoTv New Releases
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17935
+#DESCRIPTION ZokkoTv Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17936
+#DESCRIPTION ZokkoTv Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17937
+#DESCRIPTION ZokkoTv Kids Two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17938
+#DESCRIPTION ZokkoTv Manele
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17939
+#DESCRIPTION ZokkoTv Action Four
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17940
+#DESCRIPTION ZokkoTv Action Five
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17941
+#DESCRIPTION ZokkoTv Action Three
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17942
+#DESCRIPTION ZokkoTv Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17943
+#DESCRIPTION ZokkoTV Comedy Two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17944
+#DESCRIPTION ZokkoTv Horror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17945
+#DESCRIPTION ZokkoTv Horror Two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17946
+#DESCRIPTION ZokkoTv Adventure
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17947
+#DESCRIPTION ZokkoTv Adventure Two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17948
+#DESCRIPTION ZokkoTv Thriller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17949
+#DESCRIPTION ZokkoTv Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17950
+#DESCRIPTION ZokkoTv Action Two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17952
+#DESCRIPTION ZokkoTv Science Fiction
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17951
+#DESCRIPTION ZokkoTv Thriller Two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17954
+#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE Mega ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/18997
+#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE Prime ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58725
+#DESCRIPTION ⚡⚡⚡ CANALE COLABORARE ProXTech ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58692
+#DESCRIPTION PROXTECH  2023 FILM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58691
+#DESCRIPTION PROXTECH TRUE 4K CINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58693
+#DESCRIPTION PROXTECH  2022 FILM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58694
+#DESCRIPTION PROXTECH  2021 FILM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58695
+#DESCRIPTION PROXTECH  2020 FILM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58696
+#DESCRIPTION PROXTECH CINEMA CRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58697
+#DESCRIPTION PROXTECH CINEMA FICTION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58698
+#DESCRIPTION PROXTECH CINEMA DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58699
+#DESCRIPTION PROXTECH CINEMA COMEDIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58700
+#DESCRIPTION PROXTECH CINEMA AVENTURA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58701
+#DESCRIPTION PROXTECH CINEMA KIDS-DUBLAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58702
+#DESCRIPTION PROXTECH CINEMA THIRLLER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58703
+#DESCRIPTION PROXTECH CINEMA ACTIUNE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58718
+#DESCRIPTION PROXTECH - TOM AND JERRY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58719
+#DESCRIPTION PROXTECH - BUGS BANNY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58720
+#DESCRIPTION PROXTECH - MASHA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9201
+#DESCRIPTION ⚡⚡⚡ CANALE DESENE ANIMATE ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9161
+#DESCRIPTION Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37917
+#DESCRIPTION Boomerang HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9160
+#DESCRIPTION Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37916
+#DESCRIPTION Cartoon Network HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9166
+#DESCRIPTION Disney Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/17997
+#DESCRIPTION TeenNick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9165
+#DESCRIPTION Disney Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30439
+#DESCRIPTION Nickelodeon Jr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58766
+#DESCRIPTION Baby Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58769
+#DESCRIPTION Cartoonito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9167
+#DESCRIPTION Minimax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9162
+#DESCRIPTION Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9164
+#DESCRIPTION Nicktoons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9163
+#DESCRIPTION Nick Jr.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31854
+#DESCRIPTION Tralala HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9168
+#DESCRIPTION DuckTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9169
+#DESCRIPTION JimJam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9202
+#DESCRIPTION ⚡⚡⚡ CANALE MUZICA ⚡⚡⚡​
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9139
+#DESCRIPTION U TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31414
+#DESCRIPTION U TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9142
+#DESCRIPTION ZUTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9022
+#DESCRIPTION ZUTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9140
+#DESCRIPTION KissTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54415
+#DESCRIPTION Kiss TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/50193
+#DESCRIPTION Radio ZU TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9150
+#DESCRIPTION Mooz RO!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37921
+#DESCRIPTION Mooz Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9149
+#DESCRIPTION Mooz Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9021
+#DESCRIPTION Mooz Dance HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37901
+#DESCRIPTION MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30438
+#DESCRIPTION Mtv Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9143
+#DESCRIPTION MTV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9146
+#DESCRIPTION MTV Rocks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9145
+#DESCRIPTION MTV Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37929
+#DESCRIPTION MTV 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37930
+#DESCRIPTION MTV 90s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30435
+#DESCRIPTION Mtv 2000´s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58765
+#DESCRIPTION MTV Club
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9147
+#DESCRIPTION VH1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31407
+#DESCRIPTION RockTv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/13182
+#DESCRIPTION MagicTv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14444
+#DESCRIPTION Retro Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30395
+#DESCRIPTION Atomic Tv Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9141
+#DESCRIPTION H!T Music Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/11211
+#DESCRIPTION 1 Music Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31853
+#DESCRIPTION Impact Dance HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9152
+#DESCRIPTION First Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37920
+#DESCRIPTION Music Channel Ro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9024
+#DESCRIPTION First Music FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30385
+#DESCRIPTION Trace Urban
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31408
+#DESCRIPTION Taraf Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9154
+#DESCRIPTION Taraf Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9153
+#DESCRIPTION Etno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31395
+#DESCRIPTION Etno HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9157
+#DESCRIPTION Favorit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/24811
+#DESCRIPTION Tezaur Folclor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9156
+#DESCRIPTION Hora TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9151
+#DESCRIPTION Party Mix HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58770
+#DESCRIPTION TVR Folclor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30418
+#DESCRIPTION Balkanika MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/53522
+#DESCRIPTION Atomic Academy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54140
+#DESCRIPTION DiscoMix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/26656
+#DESCRIPTION Impact Tv Manele
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30386
+#DESCRIPTION Traditional Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9158
+#DESCRIPTION NorocTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9155
+#DESCRIPTION PopasTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9256
+#DESCRIPTION ⚡⚡⚡ CANALE MOLDOVA ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70455
+#DESCRIPTION MD 360 Tune Box MD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82281
+#DESCRIPTION Busuioc ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82282
+#DESCRIPTION Moldova ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82283
+#DESCRIPTION Noroc TV Moldova ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82284
+#DESCRIPTION N4 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82285
+#DESCRIPTION One TV ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82286
+#DESCRIPTION R-live ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82287
+#DESCRIPTION Pro TV Chisinau ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82288
+#DESCRIPTION Privesc.eu ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82289
+#DESCRIPTION Jurnal TV ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82290
+#DESCRIPTION TVC21 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82291
+#DESCRIPTION TV8 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82292
+#DESCRIPTION TNT Exclusive ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82293
+#DESCRIPTION Tezaur HD ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82294
+#DESCRIPTION Media TV ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82296
+#DESCRIPTION We Sport ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82297
+#DESCRIPTION Vocea Basarabiei ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82298
+#DESCRIPTION Studio L ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82299
+#DESCRIPTION Star TV ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82300
+#DESCRIPTION SorTV ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82301
+#DESCRIPTION Regional TV ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82302
+#DESCRIPTION Popas TV ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82303
+#DESCRIPTION NTS Taraclia ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82304
+#DESCRIPTION Moldova 2 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82305
+#DESCRIPTION Mega ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82306
+#DESCRIPTION Gurinel ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82307
+#DESCRIPTION GRT (Gagauzia) ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82308
+#DESCRIPTION Global 24 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82309
+#DESCRIPTION Axial HD ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82310
+#DESCRIPTION Elita TV ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82311
+#DESCRIPTION Drochia TV ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82312
+#DESCRIPTION Cotidianul TV ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82313
+#DESCRIPTION 00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="Romania "
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82314
+#DESCRIPTION Agro TV Moldova ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/82315
+#DESCRIPTION 7TV ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9203
+#DESCRIPTION ⚡⚡⚡ CANALE REGIONALE ⚡⚡⚡
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/1539
+#DESCRIPTION Iasi Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/1532
+#DESCRIPTION Tele M Iasi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/1545
+#DESCRIPTION TVR Timisoara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/1546
+#DESCRIPTION TVR TgMures
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/1547
+#DESCRIPTION TVR Craiova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/1548
+#DESCRIPTION TVR Cluj
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/1549
+#DESCRIPTION TVR Iasi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/18371
+#DESCRIPTION DottoTv Constanta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/1557
+#DESCRIPTION Tv Plus Suceava
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9174
+#DESCRIPTION Bucovina Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/26685
+#DESCRIPTION Tv Arad HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/26686
+#DESCRIPTION Tele M Botosani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/26693
+#DESCRIPTION Oltenia 3Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/1542
+#DESCRIPTION Infinit Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/1555
+#DESCRIPTION CredoTv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/1556
+#DESCRIPTION Alpha Media Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/1558
+#DESCRIPTION A7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9125
+#DESCRIPTION AgroTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14516
+#DESCRIPTION DiasporaTv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14518
+#DESCRIPTION JobTv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/24810
+#DESCRIPTION Qub RO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30367
+#DESCRIPTION Autentic Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30368
+#DESCRIPTION Balada Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30369
+#DESCRIPTION Banat Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30370
+#DESCRIPTION Canal 33 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30371
+#DESCRIPTION Columna Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30374
+#DESCRIPTION Kapital Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30376
+#DESCRIPTION Mdi Targoviste Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30377
+#DESCRIPTION Media Tv Regional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30383
+#DESCRIPTION Tele 2 Drobeta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30390
+#DESCRIPTION Muscel Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9133
+#DESCRIPTION Profit RO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9134
+#DESCRIPTION NasulTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9135
+#DESCRIPTION Alfa Omega
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9136
+#DESCRIPTION Trinitas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9137
+#DESCRIPTION SperantaTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9173
+#DESCRIPTION Rapsodia Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/11213
+#DESCRIPTION Est Tv Neamt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/11221
+#DESCRIPTION TV Sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14437
+#DESCRIPTION Inedit Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14517
+#DESCRIPTION SuperTv RO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/28669
+#DESCRIPTION Emi Tv Hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30147
+#DESCRIPTION Tele 7 ABC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30278
+#DESCRIPTION AngelusTv RELIGIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30379
+#DESCRIPTION Moldova Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30380
+#DESCRIPTION Orizont Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30425
+#DESCRIPTION Fashion Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30427
+#DESCRIPTION IDA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30432
+#DESCRIPTION Maria Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/30433
+#DESCRIPTION Medika Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31385
+#DESCRIPTION Busuioc Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31398
+#DESCRIPTION Inedit Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/31412
+#DESCRIPTION TV Sud-Est
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37895
+#DESCRIPTION Tele 7 ABC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37896
+#DESCRIPTION TV Sud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37902
+#DESCRIPTION Antena 3 Iasi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37904
+#DESCRIPTION TVR Cultural FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37906
+#DESCRIPTION TVR INFO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37907
+#DESCRIPTION TV AS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37910
+#DESCRIPTION IDA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37912
+#DESCRIPTION Romania TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37913
+#DESCRIPTION 24 Mix Teleshop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37914
+#DESCRIPTION Shop On Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37915
+#DESCRIPTION NCN International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/37923
+#DESCRIPTION TV Cromtel FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/53520
+#DESCRIPTION Valea Prahovei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/53523
+#DESCRIPTION SorTv MD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54139
+#DESCRIPTION Alba Carolina Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54144
+#DESCRIPTION Mediasud Alexandria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/54151
+#DESCRIPTION Balcan Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9138
+#DESCRIPTION CNN International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9233
+#DESCRIPTION ProTV Chisinau FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/9255
+#DESCRIPTION AccentTV Oltenia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/14707
+#DESCRIPTION Media Regional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58771
+#DESCRIPTION Curier Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/74509
+#DESCRIPTION Sens Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/71123
+#DESCRIPTION OpenTV Liya Silver Pack 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/71135
+#DESCRIPTION OpenTv Roma Amore Passion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70721
+#DESCRIPTION OpenTV Vanessa Decker
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70690
+#DESCRIPTION OpenTv Victoria June
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70691
+#DESCRIPTION OpenTV Shay Evans
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70692
+#DESCRIPTION OpenTV Savannah Bond
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70693
+#DESCRIPTION OpenTV Sasha Rose
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70694
+#DESCRIPTION OpenTV Riley Reid
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70695
+#DESCRIPTION OpenTV Nicole Aristone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70696
+#DESCRIPTION OpenTV Nathaly Cherie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70697
+#DESCRIPTION OpenTV Mckenzie Lee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70698
+#DESCRIPTION OpenTV Luna Star
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70699
+#DESCRIPTION OpenTV Lya Silver
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70700
+#DESCRIPTION OpenTV Lena Paul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70701
+#DESCRIPTION OpenTV Kenzie Taylor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70702
+#DESCRIPTION OpenTV Katrina Morena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70703
+#DESCRIPTION OpenTV Jessa Rhodes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70704
+#DESCRIPTION OpenTV Georgie Lyall
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70705
+#DESCRIPTION OpenTV Brett Rossi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70706
+#DESCRIPTION OpenTV Azul Hermosa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70707
+#DESCRIPTION OpenTV Anissa Kate
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70708
+#DESCRIPTION OpenTV Ania Kinski
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70709
+#DESCRIPTION OpenTV Angela White
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70710
+#DESCRIPTION OpenTV Alina Plugaru
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70711
+#DESCRIPTION OpenTV Alexis Fawx
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70712
+#DESCRIPTION OpenTV Alleta Ocean
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70713
+#DESCRIPTION OpenTV Public Agent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70714
+#DESCRIPTION OpenTV Brazzers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70715
+#DESCRIPTION OpenTV Fake Hostel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70716
+#DESCRIPTION OpenTV CumShot
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70717
+#DESCRIPTION OpenTV Big Ass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70718
+#DESCRIPTION OpenTV Blonde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70719
+#DESCRIPTION OpenTV Double Penetration
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70720
+#DESCRIPTION OpenTV Anal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/50189
+#DESCRIPTION Super One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/57856
+#DESCRIPTION XXX: ----- FOR ADULTS -----
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58036
+#DESCRIPTION Fake Taxi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58037
+#DESCRIPTION EVIL ANGEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58038
+#DESCRIPTION BRAZZERS EXXTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58039
+#DESCRIPTION BRASILEIRINHAS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58043
+#DESCRIPTION ADULT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58045
+#DESCRIPTION ADULT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58048
+#DESCRIPTION BANGBROS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58049
+#DESCRIPTION RKPrime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58050
+#DESCRIPTION LGBT-MAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58054
+#DESCRIPTION FAKE HOSTEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58055
+#DESCRIPTION FISTING WOMEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58056
+#DESCRIPTION PUBLICAGENT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58057
+#DESCRIPTION MOFOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58058
+#DESCRIPTION LA PIZZA ORGIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58059
+#DESCRIPTION LA PIZZA ORGIA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58060
+#DESCRIPTION PEGGING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58061
+#DESCRIPTION JUJU FURACÃO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58064
+#DESCRIPTION AssTRAFIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58065
+#DESCRIPTION PETITE NUBILES 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58066
+#DESCRIPTION PETITE NUBILE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58067
+#DESCRIPTION PETITE NUBILES 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58068
+#DESCRIPTION PETITE NUBILES 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58069
+#DESCRIPTION PUBLIC BANG 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58070
+#DESCRIPTION PUBLIC BANG 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58071
+#DESCRIPTION MAX HARDCORE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58072
+#DESCRIPTION MAX HARDCORE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58073
+#DESCRIPTION MAX HARDCORE 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58075
+#DESCRIPTION MAX HARDCORE 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58076
+#DESCRIPTION ADULT 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58077
+#DESCRIPTION ADULT 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58079
+#DESCRIPTION Czech Hotties 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58080
+#DESCRIPTION Czech Hotties 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58081
+#DESCRIPTION Mature NL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/58082
+#DESCRIPTION XXX | GANGBANG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70722
+#DESCRIPTION MyCamTV Teen Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70723
+#DESCRIPTION MyCamTV MILF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70724
+#DESCRIPTION MyCamTV Young Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70725
+#DESCRIPTION MyCamTV Mature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70726
+#DESCRIPTION MyCamTV Arab Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70727
+#DESCRIPTION MyCamTV Ebony Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70728
+#DESCRIPTION MyCamTV Asian Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70729
+#DESCRIPTION MyCamTV Brunette Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70730
+#DESCRIPTION MyCamTV Latina Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70731
+#DESCRIPTION MyCamTV White Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70732
+#DESCRIPTION MyCamTV Blonde Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70733
+#DESCRIPTION MyCamTV Anal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70734
+#DESCRIPTION MyCamTV Big Ass Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70735
+#DESCRIPTION MyCamTV Girls Squirt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70736
+#DESCRIPTION MyCamTV Big Tits Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70737
+#DESCRIPTION MyCamTV Skinny Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70738
+#DESCRIPTION MyCamTV Medium Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70739
+#DESCRIPTION MyCamTV Blowjob
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70740
+#DESCRIPTION AdultIPTV.net Live Cams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70741
+#DESCRIPTION AdultIPTV.net MILF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70742
+#DESCRIPTION AdultIPTV.net Big Dick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70743
+#DESCRIPTION AdultIPTV.net Big Tits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70744
+#DESCRIPTION AdultIPTV.net Fetish
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70745
+#DESCRIPTION AdultIPTV.net Pornstar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70746
+#DESCRIPTION AdultIPTV.net Big Ass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70747
+#DESCRIPTION AdultIPTV.net Interracial
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70748
+#DESCRIPTION AdultIPTV.net Latina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70749
+#DESCRIPTION AdultIPTV.net POV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70750
+#DESCRIPTION AdultIPTV.net Blowjob
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70751
+#DESCRIPTION AdultIPTV.net Teen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70752
+#DESCRIPTION AdultIPTV.net Hardcore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70753
+#DESCRIPTION AdultIPTV.net Cuckold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70754
+#DESCRIPTION AdultIPTV.net Threesome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70755
+#DESCRIPTION AdultIPTV.net Russian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70756
+#DESCRIPTION AdultIPTV.net Lesbian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70757
+#DESCRIPTION AdultIPTV.net Rough
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70758
+#DESCRIPTION AdultIPTV.net Gangbang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70759
+#DESCRIPTION AdultIPTV.net Anal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70760
+#DESCRIPTION AdultIPTV.net Compilation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70761
+#DESCRIPTION AdultIPTV.net Brunette
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70762
+#DESCRIPTION AdultIPTV.net Blonde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70763
+#DESCRIPTION AdultIPTV.net Gay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/70764
+#DESCRIPTION AdultIPTV.net Asian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/71246
+#DESCRIPTION OpenTV Best Porn Collection Pack 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/74505
+#DESCRIPTION Danielle Lanza Thedandangler XXX Pack
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75886
+#DESCRIPTION OpenTV ELLA KNOX Pack 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75894
+#DESCRIPTION XXX: DORCEL TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75895
+#DESCRIPTION XXX: REDLIGHT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75896
+#DESCRIPTION XXX: HUSTLER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75897
+#DESCRIPTION XXX: VIVID RED HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75898
+#DESCRIPTION XXX: VIVID EUROPE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75899
+#DESCRIPTION XXX: PRIVATE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75900
+#DESCRIPTION XXX: BLUE HUSTLER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75901
+#DESCRIPTION XXX: EROX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75902
+#DESCRIPTION XXX: EROXXX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75903
+#DESCRIPTION XXX: PLAYBOY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75904
+#DESCRIPTION h_500
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75905
+#DESCRIPTION XXX: SIRINA 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75906
+#DESCRIPTION XXX: SIRINA 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75907
+#DESCRIPTION XXX: SUGARBABES FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75908
+#DESCRIPTION XXX: GOLDEN KEYHOLE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75909
+#DESCRIPTION XXX: LEO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75910
+#DESCRIPTION XXX: GAY TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75911
+#DESCRIPTION XXX: LUXURE TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75912
+#DESCRIPTION XXX: COUGARS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75913
+#DESCRIPTION XXX: EXEGIRLS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75914
+#DESCRIPTION XXX: PORNOX TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75915
+#DESCRIPTION XXX: UNDERSEX TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75916
+#DESCRIPTION XXX: PULSION TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75917
+#DESCRIPTION XXX: LOVE TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75918
+#DESCRIPTION XXX: APHRODITE TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75919
+#DESCRIPTION XXX: FRANCESEX TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75920
+#DESCRIPTION XXX: VENUSEXO TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75921
+#DESCRIPTION XXX: BESTGIRLS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75922
+#DESCRIPTION XXX: HARD HOT TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75923
+#DESCRIPTION XXX: NUTS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75924
+#DESCRIPTION XXX: PROSEX TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75925
+#DESCRIPTION XXX: NIGHT TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75926
+#DESCRIPTION XXX: PASSIONX TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75927
+#DESCRIPTION XXX: VENUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75928
+#DESCRIPTION XXX: PINKO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75929
+#DESCRIPTION XXX: REALITY KINGS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75930
+#DESCRIPTION XXX: PLAYHOUSE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75931
+#DESCRIPTION XXX: PENTHOUSE 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75932
+#DESCRIPTION XXX: PENTHOUSE Q HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75933
+#DESCRIPTION XXX: PENTHOUSE GOLD FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75934
+#DESCRIPTION XXX: DUSK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75935
+#DESCRIPTION XXX: BALKAN EROTIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75936
+#DESCRIPTION XXX: SUPERONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75937
+#DESCRIPTION XXX: CANDY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75938
+#DESCRIPTION XXX: BRAZZERS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75939
+#DESCRIPTION XXX: MASSAGE ROOMS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75940
+#DESCRIPTION XXX: XPLUS-FETİSH  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75941
+#DESCRIPTION XXX: RUSSIAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75942
+#DESCRIPTION XXX: MEGA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75943
+#DESCRIPTION XXX: XY PLUS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75944
+#DESCRIPTION XXX: XY MAX TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75945
+#DESCRIPTION XXX: EXTASY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75946
+#DESCRIPTION XXX: PORSTAR/EXXXOTICA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75947
+#DESCRIPTION XXX: MIAMI TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75948
+#DESCRIPTION XXX: ADULT 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75949
+#DESCRIPTION XXX: DORCEL XXX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75950
+#DESCRIPTION XXX: ALBA XXX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75951
+#DESCRIPTION XXX: OLDTIMER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75952
+#DESCRIPTION XXX: MILF 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75953
+#DESCRIPTION XXX: MILF 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75954
+#DESCRIPTION XXX: MATURE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75955
+#DESCRIPTION XXX: BIG TITS 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75956
+#DESCRIPTION XXX: SEXTREME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75957
+#DESCRIPTION XXX: HOLED FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75958
+#DESCRIPTION XXX: BARELY LEGAL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75959
+#DESCRIPTION XXX: VISIT-X TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75960
+#DESCRIPTION XXX: CUCKOLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75961
+#DESCRIPTION XXX: BABES TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75962
+#DESCRIPTION XXX: ADULT 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75963
+#DESCRIPTION XXX: PINKO CLUB HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75964
+#DESCRIPTION XXX: ASSPARADE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75965
+#DESCRIPTION XXX: ADULT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75966
+#DESCRIPTION XXX: LATINA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75967
+#DESCRIPTION XXX: SEXT6SENSO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75968
+#DESCRIPTION XXX: CENTO X CENTO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75969
+#DESCRIPTION XXX: BANGBUS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75970
+#DESCRIPTION XXX: SLTV ADULT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75971
+#DESCRIPTION XXX: SLTV ADULT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75972
+#DESCRIPTION XXX: SLTV ADULT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75973
+#DESCRIPTION XXX: SLTV ADULT 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75974
+#DESCRIPTION XXX: SLTV ADULT 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75975
+#DESCRIPTION XXX: SLTV ADULT 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75976
+#DESCRIPTION XXX: SLTV ADULT 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75977
+#DESCRIPTION XXX: SLTV ADULT 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75978
+#DESCRIPTION XXX: SLTV ADULT 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75979
+#DESCRIPTION XXX: SLTV EROTIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75980
+#DESCRIPTION XXX: DORCEL XXX Ⓗ②⑥④
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75981
+#DESCRIPTION XXX: DORCEL TV Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75982
+#DESCRIPTION XXX: VIXEN FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75983
+#DESCRIPTION XXX: VIXEN Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75984
+#DESCRIPTION XXX: TUSHY ANAL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75985
+#DESCRIPTION XXX: TUSHY 2 TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75986
+#DESCRIPTION XXX: TEEN FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75987
+#DESCRIPTION XXX: MIA ADULT TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75988
+#DESCRIPTION XXX: FAP TV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75989
+#DESCRIPTION XXX: FAP TV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75990
+#DESCRIPTION XXX: 4K PORN 1 UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75991
+#DESCRIPTION XXX: 4K PORN 2 UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75992
+#DESCRIPTION XXX: 4K PORN 3 UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75993
+#DESCRIPTION XXX: 4K PORN 4 UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75994
+#DESCRIPTION XXX: HOT SEXY 1 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75995
+#DESCRIPTION XXX: HOT SEXY 2 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75996
+#DESCRIPTION XXX: HOT SEXY 3 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75997
+#DESCRIPTION XXX: HOT SEXY 4 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75998
+#DESCRIPTION XXX: HOT SEXY 5 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/75999
+#DESCRIPTION XXX: HOT SEXY 6 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76000
+#DESCRIPTION XXX: HOT SEXY 7 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76001
+#DESCRIPTION XXX: HOT SEXY 8 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76002
+#DESCRIPTION XXX: HOT SEXY 9 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76003
+#DESCRIPTION XXX: HOT SEXY 10 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76004
+#DESCRIPTION XXX: HOT SEXY 11 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76005
+#DESCRIPTION XXX: HOT SEXY 12 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76006
+#DESCRIPTION XXX: HOT SEXY 13 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76007
+#DESCRIPTION XXX: HOT SEXY 14 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76008
+#DESCRIPTION XXX: HOT SEXY 15 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76009
+#DESCRIPTION XXX: HOT SEXY 16 Ⓗ②⑥⑤
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76010
+#DESCRIPTION XXX: FRESH PORNO INFO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76011
+#DESCRIPTION XXX: FRESH PORNO 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76012
+#DESCRIPTION XXX: FRESH PORNO 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76013
+#DESCRIPTION XXX: FRESH PORNO 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76014
+#DESCRIPTION XXX: FRESH PORNO 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76015
+#DESCRIPTION XXX: FRESH PORNO 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76016
+#DESCRIPTION XXX: FRESH PORNO 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76017
+#DESCRIPTION XXX: FRESH PORNO 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76018
+#DESCRIPTION XXX: FRESH PORNO 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76019
+#DESCRIPTION XXX: FRESH PORNO 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76020
+#DESCRIPTION XXX: FRESH PORNO 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76021
+#DESCRIPTION XXX: FRESH PORNO 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76022
+#DESCRIPTION XXX: FRESH PORNO 13 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76023
+#DESCRIPTION XXX: FRESH PORNO 14 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76024
+#DESCRIPTION XXX: FRESH PORNO 15 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76025
+#DESCRIPTION XXX: FRESH PORNO 16 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76026
+#DESCRIPTION XXX: ONE XXX PLAY ABELLADANGER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76027
+#DESCRIPTION XXX: ONE XXX PLAY ADRIANACHECHIK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76028
+#DESCRIPTION XXX: ONE XXX PLAY ADULT TIME HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76029
+#DESCRIPTION XXX: ONE XXX PLAY ANAL ONLY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76030
+#DESCRIPTION XXX: ONE XXX PLAY ANGELAWHITE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76031
+#DESCRIPTION XXX: ONE XXX PLAY AUTUMNFALLS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76032
+#DESCRIPTION XXX: ONE XXX PLAY BABES TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76033
+#DESCRIPTION XXX: ONE XXX PLAY BANG BROS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76034
+#DESCRIPTION XXX: ONE XXX PLAY BANG BROS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76035
+#DESCRIPTION XXX: ONE XXX PLAY BLACKED! HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76036
+#DESCRIPTION XXX: ONE XXX PLAY BLACKEDRAW! HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76037
+#DESCRIPTION XXX: ONE XXX PLAY BRATTYSIS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76038
+#DESCRIPTION XXX: ONE XXX PLAY BRAZZERS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76039
+#DESCRIPTION XXX: ONE XXX PLAY BRAZZERS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76040
+#DESCRIPTION XXX: ONE XXX PLAY BRAZZERS 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76041
+#DESCRIPTION XXX: ONE XXX PLAY BRIGETTE B HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76042
+#DESCRIPTION XXX: ONE XXX PLAY CANELASKIN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76043
+#DESCRIPTION XXX: ONE XXX PLAY DEEPER! HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76044
+#DESCRIPTION XXX: ONE XXX PLAY DP 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76045
+#DESCRIPTION XXX: ONE XXX PLAY DP 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76046
+#DESCRIPTION XXX: ONE XXX PLAY EVIL ANGEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76047
+#DESCRIPTION XXX: ONE XXX PLAY FAKE HOSTEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76048
+#DESCRIPTION XXX: ONE XXX PLAY FAKE HUB HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76049
+#DESCRIPTION XXX: ONE XXX PLAY FAKE TAXI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76050
+#DESCRIPTION XXX: ONE XXX PLAY HARD X HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76051
+#DESCRIPTION XXX: ONE XXX PLAY JADASTEVANS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76052
+#DESCRIPTION XXX: ONE XXX PLAY JULES JORDAN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76053
+#DESCRIPTION XXX: ONE XXX PLAY KELSIMONROE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76054
+#DESCRIPTION XXX: ONE XXX PLAY KIRANOIR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76055
+#DESCRIPTION XXX: ONE XXX PLAY LANARHOADES HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76056
+#DESCRIPTION XXX: ONE XXX PLAY LASIRENA69 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76057
+#DESCRIPTION XXX: ONE XXX PLAY LENAPAUL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76058
+#DESCRIPTION XXX: ONE XXX PLAY LESBIANS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76059
+#DESCRIPTION XXX: ONE XXX PLAY LUNASTAR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76060
+#DESCRIPTION XXX: ONE XXX PLAY LUXURYGIRL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76061
+#DESCRIPTION XXX: ONE XXX PLAY MASSAGED HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76062
+#DESCRIPTION XXX: ONE XXX PLAY MIAMALKOVA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76063
+#DESCRIPTION XXX: ONE XXX PLAY MOFOS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76064
+#DESCRIPTION XXX: ONE XXX PLAY MOFOS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76065
+#DESCRIPTION XXX: ONE XXX PLAY MYLF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76066
+#DESCRIPTION XXX: ONE XXX PLAY NICOLEANISTON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76067
+#DESCRIPTION XXX: ONE XXX PLAY NUGHTYAMERICA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76068
+#DESCRIPTION XXX: ONE XXX PLAY NYMPHO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76069
+#DESCRIPTION XXX: ONE XXX PLAY PERMOM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76070
+#DESCRIPTION XXX: ONE XXX PLAY PROPERTYSEX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76071
+#DESCRIPTION XXX: ONE XXX PLAY PURETABOO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76072
+#DESCRIPTION XXX: ONE XXX PLAY RAELILBLACK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76073
+#DESCRIPTION XXX: ONE XXX PLAY REALITYJUNKIES HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76074
+#DESCRIPTION XXX: ONE XXX PLAY REALITY KINGS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76075
+#DESCRIPTION XXX: ONE XXX PLAY REALITY KINGS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76076
+#DESCRIPTION XXX: ONE XXX PLAY SAVANNAHBOND HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76077
+#DESCRIPTION XXX: ONE XXX PLAY SERIE 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76078
+#DESCRIPTION XXX: ONE XXX PLAY SERIE 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76079
+#DESCRIPTION XXX: ONE XXX PLAY SINFULRAW HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76080
+#DESCRIPTION XXX: ONE XXX PLAY SISI LOVES ME HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76081
+#DESCRIPTION XXX: ONE XXX PLAY SWEETSINNER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76082
+#DESCRIPTION XXX: ONE XXX PLAY TEAM SKEET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76083
+#DESCRIPTION XXX: ONE XXX PLAY TRUEANAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76084
+#DESCRIPTION XXX: ONE XXX PLAY VIOLETMYERS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76085
+#DESCRIPTION XXX: ONE XXX PLAY VIXEN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76086
+#DESCRIPTION XXX: ONE XXX PLAY WICKED HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76087
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE INFO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76088
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76089
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76090
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76091
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76092
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76093
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76094
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76095
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76096
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76097
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76098
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76099
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76100
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 13 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76101
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 14 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76102
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 15 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76103
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 16 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76104
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 17 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76105
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 18 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76106
+#DESCRIPTION XXX: ONE XXX ZZ PREMIERE 19 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76107
+#DESCRIPTION XXX: ONE XXX ZZ SERIES INFO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76108
+#DESCRIPTION XXX: ONE XXX ZZ SERIES 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76109
+#DESCRIPTION XXX: ONE XXX ZZ SERIES 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76110
+#DESCRIPTION XXX: ONE XXX ZZ SERIES 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76111
+#DESCRIPTION XXX: ONE XXX ZZ SERIES 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76112
+#DESCRIPTION XXX: ONE XXX ZZ SERIES 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76113
+#DESCRIPTION XXX: ONE XXX ZZ SERIES 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76114
+#DESCRIPTION XXX: ONE XXX ZZ SERIES 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76115
+#DESCRIPTION XXX: ONE XXX ZZ SERIES 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76116
+#DESCRIPTION XXX: PERV FAMILY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76117
+#DESCRIPTION XXX: MY FAMILY PIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76118
+#DESCRIPTION XXX: HOT CLUB 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76119
+#DESCRIPTION XXX: HOT CLUB 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76120
+#DESCRIPTION XXX: PINK EROTIC 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76121
+#DESCRIPTION XXX: PINK EROTIC 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76122
+#DESCRIPTION XXX: PINK EROTIC 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76123
+#DESCRIPTION XXX: PINK EROTIC 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76124
+#DESCRIPTION XXX: PINK EROTIC 5  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76125
+#DESCRIPTION XXX: PINK EROTIC 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76126
+#DESCRIPTION XXX: PINK EROTIC 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76127
+#DESCRIPTION XXX: PINK EROTIC 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76128
+#DESCRIPTION XXX: FAKE TAXI 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76129
+#DESCRIPTION XXX: FAKE TAXI 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76130
+#DESCRIPTION XXX: FAKE TAXI 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76131
+#DESCRIPTION XXX: GONZO 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76132
+#DESCRIPTION XXX: GONZO 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76133
+#DESCRIPTION XXX: GONZO 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76134
+#DESCRIPTION XXX: GONZO 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76135
+#DESCRIPTION XXX: HARDX 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76136
+#DESCRIPTION XXX: HARDX 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76137
+#DESCRIPTION XXX: JULESJORDAN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76138
+#DESCRIPTION XXX: JULESJORDAN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76139
+#DESCRIPTION XXX: JULESJORDAN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76140
+#DESCRIPTION XXX: FAKE MIXED 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76141
+#DESCRIPTION XXX: MOFOS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76142
+#DESCRIPTION XXX: SWALLOWED 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76143
+#DESCRIPTION XXX: PUBLIC AGENT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76144
+#DESCRIPTION XXX: REALITY KINGS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76145
+#DESCRIPTION XXX: BLUETV ANAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76146
+#DESCRIPTION XXX: BLUETV ASIAN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76147
+#DESCRIPTION XXX: BLUETV MILF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76148
+#DESCRIPTION XXX: BLUETV AMATEUR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76149
+#DESCRIPTION XXX: BLUETV MASSAGE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76150
+#DESCRIPTION XXX: BLUETV TEEN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76151
+#DESCRIPTION XXX: BLUETV 18 YEARS OLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76152
+#DESCRIPTION XXX: BLUETV FAMILY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76153
+#DESCRIPTION XXX: BLUETV PUBLIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76154
+#DESCRIPTION XXX: BLUETV BIG ASS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76155
+#DESCRIPTION XXX: BLUETV BIG TITS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76156
+#DESCRIPTION XXX: BLUETV BIG COCK  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76157
+#DESCRIPTION XXX: BLUETV LESBIAN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76158
+#DESCRIPTION XXX: BLUETV CUCKOLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76159
+#DESCRIPTION XXX: BLUETV BRAZZERS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76160
+#DESCRIPTION XXX: BLUETV GANGBANG HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76161
+#DESCRIPTION XXX: BLUETV FAKE HOSPITAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76162
+#DESCRIPTION XXX: BLUETV FAKE TAXI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76163
+#DESCRIPTION XXX: BLUETV BLACK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76164
+#DESCRIPTION XXX: BLUETV BLACKED  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76165
+#DESCRIPTION XXX: BLUETV BLACKED RAW HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76166
+#DESCRIPTION XXX: BLUETV EROTICA 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76167
+#DESCRIPTION XXX: BLUETV EROTICA 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76168
+#DESCRIPTION XXX: BLUETV YEŞILÇAM EROTIK 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76169
+#DESCRIPTION XXX: BLUETV YEŞILÇAM EROTIK 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76170
+#DESCRIPTION XXX: BLUETV TÜRKÇE ALT YAZILI 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76171
+#DESCRIPTION XXX: BLUETV TÜRKÇE ALT YAZILI 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76172
+#DESCRIPTION XXX: BLUETV TÜRKÇE ALT YAZILI 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76173
+#DESCRIPTION XXX: TÜRKHUB ALT YAZILI 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76174
+#DESCRIPTION XXX: TÜRKHUB ALT YAZILI 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76175
+#DESCRIPTION XXX: TÜRKHUB ALT YAZILI 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76176
+#DESCRIPTION XXX: TÜRKHUB ALT YAZILI 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76177
+#DESCRIPTION XXX: TÜRKHUB ALT YAZILI 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76178
+#DESCRIPTION XXX: SUGARTV  TÜRKÇE ALT YAZILI 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76179
+#DESCRIPTION XXX: SUGARTV  TÜRKÇE ALT YAZILI 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76180
+#DESCRIPTION XXX: SUGARTV  ANAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76181
+#DESCRIPTION XXX: SUGARTV  BABES HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76182
+#DESCRIPTION XXX: SUGARTV  FAKEHUB HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76183
+#DESCRIPTION XXX: SUGARTV  FAMILIE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76184
+#DESCRIPTION XXX: SUGARTV  LESBIAN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76185
+#DESCRIPTION XXX: SUGARTV  MOFOS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76186
+#DESCRIPTION XXX: SUGARTV  REALITY KINGS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76187
+#DESCRIPTION XXX: SUGARTV  SEXYHUB HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76188
+#DESCRIPTION XXX: PIXELTV ANALIZED HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76189
+#DESCRIPTION XXX: PIXELTV THROATED HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76190
+#DESCRIPTION XXX: PIXELTV SPIZOO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76191
+#DESCRIPTION XXX: PIXELTV SHOP LYFTER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76192
+#DESCRIPTION XXX: PIXELTV PRIVATE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76193
+#DESCRIPTION XXX: PIXELTV POOKSI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76194
+#DESCRIPTION XXX: PIXELTV OURS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76195
+#DESCRIPTION XXX: PIXELTV HOLED HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76196
+#DESCRIPTION XXX: PIXELTV BANG BROS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76197
+#DESCRIPTION XXX: PIXELTV ARCH ANGEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76198
+#DESCRIPTION XXX: NOVATV BRATY SIS  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76199
+#DESCRIPTION XXX: NOVATV DIGITAL PLAY  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76200
+#DESCRIPTION XXX: NOVATV GIRL SHOW  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76201
+#DESCRIPTION XXX: NOVATV MILF  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76202
+#DESCRIPTION XXX: NOVATV MOMS TEACH  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76203
+#DESCRIPTION XXX: NOVATV OILY  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76204
+#DESCRIPTION XXX: NOVATV RUSSIAN  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76205
+#DESCRIPTION XXX: NOVATV SCHOOLL  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76206
+#DESCRIPTION XXX: NOVATV SLIM GIRL  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76207
+#DESCRIPTION XXX: NOVATV STEP SIBLINGS  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76208
+#DESCRIPTION XXX: FUXTV INKED GURLZ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76209
+#DESCRIPTION XXX: FUXTV LUXURE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76210
+#DESCRIPTION XXX: FUXTV NYMPHO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76211
+#DESCRIPTION XXX: FUXTV MONOJOB HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76212
+#DESCRIPTION XXX: FUXTV FIT 18 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76213
+#DESCRIPTION XXX: FUXTV FAKE AGENT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76214
+#DESCRIPTION XXX: FUXTV DTF SLUTS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76215
+#DESCRIPTION XXX: FUXTV DEVILS FILM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76216
+#DESCRIPTION XXX: FUXTV DEEPER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76217
+#DESCRIPTION XXX: FUXTV VIPISSY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76218
+#DESCRIPTION XXX: SUTRATV ANAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76219
+#DESCRIPTION XXX: SUTRATV HEGRE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76220
+#DESCRIPTION XXX: SUTRATV JAVHUB HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76221
+#DESCRIPTION XXX: SUTRATV MISAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76222
+#DESCRIPTION XXX: SUTRATV NUBILE FILMS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76223
+#DESCRIPTION XXX: SUTRATV PURE TABOO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76224
+#DESCRIPTION XXX: SUTRATV TUHSY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76225
+#DESCRIPTION XXX: SUTRATV ULTRA FILMS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76226
+#DESCRIPTION XXX: SUTRATV VIXEN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76227
+#DESCRIPTION XXX: SUTRATV PROPERTY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76228
+#DESCRIPTION XXX: REDLIGHTTV DICK DRAINERS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76229
+#DESCRIPTION XXX: REDLIGHTTV WICKED PICTURES HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76230
+#DESCRIPTION XXX: REDLIGHTTV SWEET SINNER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76231
+#DESCRIPTION XXX: REDLIGHTTV SPANK MONSTER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76232
+#DESCRIPTION XXX: REDLIGHTTV PRODUCERSFUN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76233
+#DESCRIPTION XXX: REDLIGHTTV NEW SENSATIONS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76234
+#DESCRIPTION XXX: REDLIGHTTV KINKY FAMILY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76235
+#DESCRIPTION XXX: REDLIGHTTV FETISH GOLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76236
+#DESCRIPTION XXX: REDLIGHTTV EXCOGI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76237
+#DESCRIPTION XXX: REDLIGHTTV EROTIQUE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76238
+#DESCRIPTION XXX: EROXTV BABES  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76239
+#DESCRIPTION XXX: EROXTV GERMANY  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76240
+#DESCRIPTION XXX: EROXTV HARDCORE  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76241
+#DESCRIPTION XXX: EROXTV INTERRACIAL  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76242
+#DESCRIPTION XXX: EROXTV NETGIRL  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76243
+#DESCRIPTION XXX: EROXTV PORN STAR  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76244
+#DESCRIPTION XXX: EROXTV RED HEAD  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76245
+#DESCRIPTION XXX: EROXTV SPORTS  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76246
+#DESCRIPTION XXX: EROXTV STORY  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76247
+#DESCRIPTION XXX: EROXTV UPSKIRT  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76248
+#DESCRIPTION XXX: ADULT ANAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76249
+#DESCRIPTION XXX: ADULT ASIAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76250
+#DESCRIPTION XXX: ADULT BIGASS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76251
+#DESCRIPTION XXX: ADULT BIGDICK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76252
+#DESCRIPTION XXX: ADULT BIGTITS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76253
+#DESCRIPTION XXX: ADULT BLONDE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76254
+#DESCRIPTION XXX: ADULT BLOWJOB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76255
+#DESCRIPTION XXX: ADULT BRUNETTE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76256
+#DESCRIPTION XXX: ADULT COMPILATION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76257
+#DESCRIPTION XXX: ADULT CUCKOLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76258
+#DESCRIPTION XXX: ADULT FETISH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76259
+#DESCRIPTION XXX: ADULT GANGBANG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76260
+#DESCRIPTION XXX: ADULT GAY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76261
+#DESCRIPTION XXX: ADULT HARDCORE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76262
+#DESCRIPTION XXX: ADULT INTERRACIAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76263
+#DESCRIPTION XXX: ADULT LATINA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76264
+#DESCRIPTION XXX: ADULT LESBIAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76265
+#DESCRIPTION XXX: ADULT LIVECAMS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76266
+#DESCRIPTION XXX: ADULT MILF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76267
+#DESCRIPTION XXX: ADULT PORNSTAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76268
+#DESCRIPTION XXX: ADULT POV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76269
+#DESCRIPTION XXX: ADULT ROUGH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76270
+#DESCRIPTION XXX: ADULT RUSSIAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76271
+#DESCRIPTION XXX: ADULT TEEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76272
+#DESCRIPTION XXX: ADULT THREESOME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76273
+#DESCRIPTION XXX: ADULT WOMAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76274
+#DESCRIPTION XXX: BABESTATION 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76275
+#DESCRIPTION XXX: DORCELTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76276
+#DESCRIPTION XXX: EROX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76277
+#DESCRIPTION XXX: MIAMITV MEXICO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76278
+#DESCRIPTION XXX: OLALA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76279
+#DESCRIPTION XXX: PENTHOUSEGOLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76280
+#DESCRIPTION XXX: VISITXTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76281
+#DESCRIPTION XXX: X-MO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76282
+#DESCRIPTION XXX: NEO GAY 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76283
+#DESCRIPTION XXX: NEO GAY 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76284
+#DESCRIPTION XXX: TURKHUB 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76285
+#DESCRIPTION XXX: TURKHUB 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76286
+#DESCRIPTION XXX: TURKHUB 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76287
+#DESCRIPTION XXX: TURKHUB 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76288
+#DESCRIPTION XXX: TURKHUB 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76289
+#DESCRIPTION XXX: SEXBOX 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76290
+#DESCRIPTION XXX: SEXBOX 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76291
+#DESCRIPTION XXX: SEXBOX 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76292
+#DESCRIPTION XXX: SEXBOX 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76293
+#DESCRIPTION XXX: SEXBOX 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76294
+#DESCRIPTION XXX: SEXBOX 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76295
+#DESCRIPTION XXX: SEXBOX 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76296
+#DESCRIPTION XXX: SEXBOX 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76297
+#DESCRIPTION XXX: SEXBOX 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76298
+#DESCRIPTION XXX: SEXBOX 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76299
+#DESCRIPTION XXX: SEXBOX 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76300
+#DESCRIPTION XXX: SEXBOX 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76301
+#DESCRIPTION XXX: SEXBOX 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76302
+#DESCRIPTION XXX: SEXBOX 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76303
+#DESCRIPTION XXX: SEXBOX 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76304
+#DESCRIPTION XXX: SLTV PORNBOX 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76305
+#DESCRIPTION XXX: SLTV PORNBOX 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76306
+#DESCRIPTION XXX: SLTV PORNBOX 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76307
+#DESCRIPTION XXX: SLTV PORNBOX 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76308
+#DESCRIPTION XXX: SLTV PORNBOX 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76309
+#DESCRIPTION XXX: SLTV PORNBOX 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76310
+#DESCRIPTION XXX: SLTV PORNBOX 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76311
+#DESCRIPTION XXX: SLTV PORNBOX 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76312
+#DESCRIPTION XXX: SLTV PORNBOX 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//update.miicrosoft.es%3a80/JzSCCFG4GmeL9LyQAHPRkQ7cLsgHpa/rqLdHOZRa1qz9igLRhhnhTcxmQBRxb/76313
+#DESCRIPTION XXX: SLTV PORNBOX 10
