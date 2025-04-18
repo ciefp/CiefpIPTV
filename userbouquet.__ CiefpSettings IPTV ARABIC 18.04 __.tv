@@ -1,4 +1,4 @@
-#NAME :: CiefpSettings IPTV UK 18.04 ::
+#NAME :: CiefpSettings IPTV ARABIC 18.04 ::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/5063:AR A&E
 #DESCRIPTION AR A&E
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/5064:AR AMC

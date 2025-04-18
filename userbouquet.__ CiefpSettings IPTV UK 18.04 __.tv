@@ -1,4 +1,4 @@
-#NAME CiefpSettings IPTV
+#NAME :: CiefpSettings IPTV UK 18.04 ::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12165:UK 3E
 #DESCRIPTION UK 3E
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12166:UK 4Music
