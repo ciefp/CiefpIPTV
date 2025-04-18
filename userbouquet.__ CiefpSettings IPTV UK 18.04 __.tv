@@ -1,0 +1,337 @@
+#NAME CiefpSettings IPTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12165:UK 3E
+#DESCRIPTION UK 3E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12166:UK 4Music
+#DESCRIPTION UK 4Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12167:UK 4seven
+#DESCRIPTION UK 4seven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12168:UK Star
+#DESCRIPTION UK Star
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12169:[UK] USA
+#DESCRIPTION [UK] USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12170:UK Aaj Tak
+#DESCRIPTION UK Aaj Tak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12171:UK ABP News
+#DESCRIPTION UK ABP News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12172:UK Alibi
+#DESCRIPTION UK Alibi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12173:UK AMC
+#DESCRIPTION UK AMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12174:UK And TV
+#DESCRIPTION UK And TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12175:UK Animal Planet
+#DESCRIPTION UK Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12176:UK At The Races
+#DESCRIPTION UK At The Races
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12177:UK B4U Movies
+#DESCRIPTION UK B4U Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12178:UK B4U Music
+#DESCRIPTION UK B4U Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12179:UK B4U PLUS
+#DESCRIPTION UK B4U PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12180:UK baby tv
+#DESCRIPTION UK baby tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12181:UK BBC 1
+#DESCRIPTION UK BBC 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12182:UK BBC 2
+#DESCRIPTION UK BBC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12183:UK BBC 3
+#DESCRIPTION UK BBC 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12184:UK BBC 4
+#DESCRIPTION UK BBC 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12185:UK BBC Alba
+#DESCRIPTION UK BBC Alba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12186:UK BBC News HD
+#DESCRIPTION UK BBC News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12187:UK BBC Northern Ireland
+#DESCRIPTION UK BBC Northern Ireland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12188:UK BBC Scotland
+#DESCRIPTION UK BBC Scotland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12189:UK BBC Wales
+#DESCRIPTION UK BBC Wales
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12190:UK BBC Parliament
+#DESCRIPTION UK BBC Parliament
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12191:UK BBC Scotland
+#DESCRIPTION UK BBC Scotland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12192:UK BBC Northern Ireland
+#DESCRIPTION UK BBC Northern Ireland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12193:UK BBC Scotland
+#DESCRIPTION UK BBC Scotland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12194:UK BBC Two Wales
+#DESCRIPTION UK BBC Two Wales
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12195:UK BBC World News
+#DESCRIPTION UK BBC World News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12196:UK BET
+#DESCRIPTION UK BET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12197:UK Blaze TV
+#DESCRIPTION UK Blaze TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12198:UK Bloomberg
+#DESCRIPTION UK Bloomberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12199:UK Boomerang
+#DESCRIPTION UK Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12200:UK BOX Hits
+#DESCRIPTION UK BOX Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12201:UK CITV
+#DESCRIPTION UK CITV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12202:UK Cartoon network
+#DESCRIPTION UK Cartoon network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12203:UK Cartoonito
+#DESCRIPTION UK Cartoonito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12204:UK CBBC
+#DESCRIPTION UK CBBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12205:UK CBeebies HD
+#DESCRIPTION UK CBeebies HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12206:UK CBS Action
+#DESCRIPTION UK CBS Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12207:UK CBS Justice
+#DESCRIPTION UK CBS Justice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12208:[UK] CBS Reality
+#DESCRIPTION [UK] CBS Reality
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12209:UK Challenge
+#DESCRIPTION UK Challenge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12210:UK Channel HD
+#DESCRIPTION UK Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12211:[UK] Channel HD
+#DESCRIPTION [UK] Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12212:UK Chart Show Hits UK
+#DESCRIPTION UK Chart Show Hits UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12213:UK Chelsea TV HD
+#DESCRIPTION UK Chelsea TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12214:UK MTV Club
+#DESCRIPTION UK MTV Club
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12215:UK CNBC News
+#DESCRIPTION UK CNBC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12216:UK CNN HD
+#DESCRIPTION UK CNN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12217:UK Colors
+#DESCRIPTION UK Colors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12218:UK Colors Europe
+#DESCRIPTION UK Colors Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12219:UK Comedy Central Extra
+#DESCRIPTION UK Comedy Central Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12220:UK Comedy Central HD
+#DESCRIPTION UK Comedy Central HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12221:UK Crime & Investigation HD
+#DESCRIPTION UK Crime & Investigation HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12222:UK Dave HD
+#DESCRIPTION UK Dave HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12223:UK Discovery
+#DESCRIPTION UK Discovery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12224:UK Discovery History
+#DESCRIPTION UK Discovery History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12225:UK Discovery Investigation
+#DESCRIPTION UK Discovery Investigation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12226:UK Discovery Science
+#DESCRIPTION UK Discovery Science
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12227:UK Discovery Shed
+#DESCRIPTION UK Discovery Shed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12228:UK Discovery Turbo
+#DESCRIPTION UK Discovery Turbo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12229:UK DISNEY HD
+#DESCRIPTION UK DISNEY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12230:UK Disney XD
+#DESCRIPTION UK Disney XD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12231:UK DMAX HD
+#DESCRIPTION UK DMAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12232:UK Drama
+#DESCRIPTION UK Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12233:UK E! Entertainment
+#DESCRIPTION UK E! Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12234:UK E4
+#DESCRIPTION UK E4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12235:UK EHD
+#DESCRIPTION UK EHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12236:UK EDEN HD
+#DESCRIPTION UK EDEN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12237:UK Film HD
+#DESCRIPTION UK Film HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12238:UK Film HD
+#DESCRIPTION UK Film HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12239:UK Fine Living Network
+#DESCRIPTION UK Fine Living Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12240:UK Channel Five
+#DESCRIPTION UK Channel Five
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12241:UK Food Network
+#DESCRIPTION UK Food Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12242:UK Fox
+#DESCRIPTION UK Fox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12243:UK Fox News HD
+#DESCRIPTION UK Fox News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12244:UK France 24
+#DESCRIPTION UK France 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12245:UK Free Sports
+#DESCRIPTION UK Free Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12246:UK Gold
+#DESCRIPTION UK Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12247:UK Good Food
+#DESCRIPTION UK Good Food
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12248:UK History 2
+#DESCRIPTION UK History 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12249:UK History HD
+#DESCRIPTION UK History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12250:UK Home
+#DESCRIPTION UK Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12251:UK Discovery Home And Health
+#DESCRIPTION UK Discovery Home And Health
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12252:UK Horse and Country
+#DESCRIPTION UK Horse and Country
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12253:UK ITV 1
+#DESCRIPTION UK ITV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12254:UK ITV 2
+#DESCRIPTION UK ITV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12255:UK ITV 3
+#DESCRIPTION UK ITV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12256:UK Itv 4
+#DESCRIPTION UK Itv 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12257:UK ITVBE
+#DESCRIPTION UK ITVBE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12258:UK LFC TV
+#DESCRIPTION UK LFC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12259:UK Life Time HD
+#DESCRIPTION UK Life Time HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12260:UK London Live
+#DESCRIPTION UK London Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12261:UK More 4
+#DESCRIPTION UK More 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12262:UK More HD
+#DESCRIPTION UK More HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12263:UK Movies4Men
+#DESCRIPTION UK Movies4Men
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12264:UK MUTV
+#DESCRIPTION UK MUTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12265:UK MUTV HD
+#DESCRIPTION UK MUTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12266:UK Nat Geo
+#DESCRIPTION UK Nat Geo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12267:UK Nat Geo Wild
+#DESCRIPTION UK Nat Geo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12268:UK Nick Jnr Too
+#DESCRIPTION UK Nick Jnr Too
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12269:UK NICK JUNIOR
+#DESCRIPTION UK NICK JUNIOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12270:UK NICK TOONS
+#DESCRIPTION UK NICK TOONS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12271:UK Nickelodeon
+#DESCRIPTION UK Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12272:UK PICK
+#DESCRIPTION UK PICK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12273:UK POP
+#DESCRIPTION UK POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12274:UK Quest
+#DESCRIPTION UK Quest
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12275:UK Quest Red
+#DESCRIPTION UK Quest Red
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12276:UK Racing TV HD
+#DESCRIPTION UK Racing TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12277:UK Real Lives
+#DESCRIPTION UK Real Lives
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12278:UK Really
+#DESCRIPTION UK Really
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12279:UK Colors Rishtey
+#DESCRIPTION UK Colors Rishtey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12280:UK ROK TV
+#DESCRIPTION UK ROK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12281:UK RTE HD
+#DESCRIPTION UK RTE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12282:UK RTE HD
+#DESCRIPTION UK RTE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12283:UK RTE Junior
+#DESCRIPTION UK RTE Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12284:UK RTE News Now
+#DESCRIPTION UK RTE News Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12285:UK RTE One
+#DESCRIPTION UK RTE One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12286:UK RTE 2
+#DESCRIPTION UK RTE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12287:UK S4C
+#DESCRIPTION UK S4C
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12288:UK Sab TV (SET)
+#DESCRIPTION UK Sab TV (SET)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12298:UK Sony Channel
+#DESCRIPTION UK Sony Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12299:UK Sony Entertainment (SET)
+#DESCRIPTION UK Sony Entertainment (SET)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12300:UK spike
+#DESCRIPTION UK spike
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12301:UK Star Bharat
+#DESCRIPTION UK Star Bharat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12302:UK Star Gold
+#DESCRIPTION UK Star Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12303:UK Star Jalsha
+#DESCRIPTION UK Star Jalsha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12304:UK Star Plus
+#DESCRIPTION UK Star Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12305:UK Starz TV
+#DESCRIPTION UK Starz TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12306:UK STV HD
+#DESCRIPTION UK STV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12307:UK Syfy
+#DESCRIPTION UK Syfy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12308:UK Talking Pictures HD
+#DESCRIPTION UK Talking Pictures HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12309:UK TCM HD
+#DESCRIPTION UK TCM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12310:UK TG4
+#DESCRIPTION UK TG4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12311:UK The Vault
+#DESCRIPTION UK The Vault
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12312:UK Tiny Pop
+#DESCRIPTION UK Tiny Pop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12313:UK TLC
+#DESCRIPTION UK TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12314:UK Travel Channel
+#DESCRIPTION UK Travel Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12315:UK True Entertainment
+#DESCRIPTION UK True Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12316:UK True Movies 1
+#DESCRIPTION UK True Movies 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12317:UK TruTV
+#DESCRIPTION UK TruTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12318:UK TVIR HD
+#DESCRIPTION UK TVIR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12320:UK UFC fight night Pass HD
+#DESCRIPTION UK UFC fight night Pass HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12321:UK UFC Fight PASS
+#DESCRIPTION UK UFC Fight PASS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12322:UK Universal Channel HD
+#DESCRIPTION UK Universal Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12323:UK UTV Ireland
+#DESCRIPTION UK UTV Ireland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12324:UK VHClassic
+#DESCRIPTION UK VHClassic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12325:UK Viceland HD
+#DESCRIPTION UK Viceland HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12326:UK VIVA
+#DESCRIPTION UK VIVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12327:UK W  1
+#DESCRIPTION UK W  1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12328:UK Watch
+#DESCRIPTION UK Watch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12329:UK Yesterday HD
+#DESCRIPTION UK Yesterday HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12330:UK Zee Cinema
+#DESCRIPTION UK Zee Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12331:UK Zee Punjabi
+#DESCRIPTION UK Zee Punjabi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12332:UK Zee Cinema
+#DESCRIPTION UK Zee Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/12333:UK Zing
+#DESCRIPTION UK Zing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/13754:UK MTV
+#DESCRIPTION UK MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/13755:UK MTV Base
+#DESCRIPTION UK MTV Base
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/13756:UK MTV Classic
+#DESCRIPTION UK MTV Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/13757:UK MTV Dance
+#DESCRIPTION UK MTV Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/13758:UK MTV HD
+#DESCRIPTION UK MTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/13759:UK MTV Hits
+#DESCRIPTION UK MTV Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/13760:UK MTV Music
+#DESCRIPTION UK MTV Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/13761:UK MTV OMG
+#DESCRIPTION UK MTV OMG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/13762:UK MTV Rocks
+#DESCRIPTION UK MTV Rocks

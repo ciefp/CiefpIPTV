@@ -1,0 +1,279 @@
+#NAME :: CiefpSettings IPTV ITALIA 18.04 ::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86262:[TR] Bein Sport 1
+#DESCRIPTION [TR] Bein Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86263:[TR] Bein Sport 2
+#DESCRIPTION [TR] Bein Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86264:[TR] Bein Sport 3
+#DESCRIPTION [TR] Bein Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86265:[TR] Bein Sport 4
+#DESCRIPTION [TR] Bein Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86266:[TR] beIN SPORTS MAX 1
+#DESCRIPTION [TR] beIN SPORTS MAX 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86267:[TR] beIN SPORTS MAX 2
+#DESCRIPTION [TR] beIN SPORTS MAX 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86268:[TR] beIN Sports Haber
+#DESCRIPTION [TR] beIN Sports Haber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86269:[TR] beIN Series Comedy
+#DESCRIPTION [TR] beIN Series Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86270:[TR] beIN Movies Stars
+#DESCRIPTION [TR] beIN Movies Stars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86271:[TR] beIN Movies Premiere 2
+#DESCRIPTION [TR] beIN Movies Premiere 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86272:[TR] beIN Movies Family
+#DESCRIPTION [TR] beIN Movies Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86273:[TR] beIN Movies  Premiere 1
+#DESCRIPTION [TR] beIN Movies  Premiere 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86274:[TR] beIN Movies Turk
+#DESCRIPTION [TR] beIN Movies Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86275:[TR] beIN Movies Action 2
+#DESCRIPTION [TR] beIN Movies Action 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86276:[TR] beIN Movies Action
+#DESCRIPTION [TR] beIN Movies Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86277:[TR] beIN Movies Premiere 3
+#DESCRIPTION [TR] beIN Movies Premiere 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86278:[TR] beIN MOVIE Fist HD
+#DESCRIPTION [TR] beIN MOVIE Fist HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86279:[TR] beIN  MOVIE PREMIUM HD
+#DESCRIPTION [TR] beIN  MOVIE PREMIUM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86280:[TR] beIN MOVIE Platin HD
+#DESCRIPTION [TR] beIN MOVIE Platin HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86281:[TR] beIN MOVIE Platin HD
+#DESCRIPTION [TR] beIN MOVIE Platin HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86282:[TR] beIN MOVIE Family HD
+#DESCRIPTION [TR] beIN MOVIE Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86283:[TR] beIN SMART TURK HD
+#DESCRIPTION [TR] beIN SMART TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86284:[TR] DIZI SMART PREMIUM HD
+#DESCRIPTION [TR] DIZI SMART PREMIUM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86285:[TR] DiZi SMART MAX HD
+#DESCRIPTION [TR] DiZi SMART MAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86286:[TR] SINEMAX WESTERN
+#DESCRIPTION [TR] SINEMAX WESTERN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86287:[TR] SiNEMA TV HD
+#DESCRIPTION [TR] SiNEMA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86288:[TR] SiNEMA TV AKSiYON HD
+#DESCRIPTION [TR] SiNEMA TV AKSiYON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86289:[TR] SiNEMA TV AiLE HD
+#DESCRIPTION [TR] SiNEMA TV AiLE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86290:[TR] SiNEMA TV KOMEDi HD
+#DESCRIPTION [TR] SiNEMA TV KOMEDi HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86291:[TR] SiNEMA TV HD
+#DESCRIPTION [TR] SiNEMA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86292:[TR] Euro Sport HD
+#DESCRIPTION [TR] Euro Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86293:[TR] Euro Sport HD
+#DESCRIPTION [TR] Euro Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86294:[TR] NBA TV
+#DESCRIPTION [TR] NBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86295:[TR] beIN MOVIE PREMIUM HD
+#DESCRIPTION [TR] beIN MOVIE PREMIUM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86296:[TR] TV HD
+#DESCRIPTION [TR] TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86297:[TR] A SPOR HD
+#DESCRIPTION [TR] A SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86298:[TR] Kanal D FHD
+#DESCRIPTION [TR] Kanal D FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86299:[TR] Tivibu  Spor 1
+#DESCRIPTION [TR] Tivibu  Spor 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86300:[TR] Tivibu  Spor 2
+#DESCRIPTION [TR] Tivibu  Spor 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86301:[TR] Tivibu Spor 3
+#DESCRIPTION [TR] Tivibu Spor 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86302:[TR] TRT Spor HD
+#DESCRIPTION [TR] TRT Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86303:[TR] TRT Avaz
+#DESCRIPTION [TR] TRT Avaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86304:[TR] TRT Cocuk
+#DESCRIPTION [TR] TRT Cocuk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86305:[TR] TRT Diyanet
+#DESCRIPTION [TR] TRT Diyanet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86306:[TR] TRT Haber HD
+#DESCRIPTION [TR] TRT Haber HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86307:[TR] TRT Muzik HD
+#DESCRIPTION [TR] TRT Muzik HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86308:[TR] TRT MUZIK
+#DESCRIPTION [TR] TRT MUZIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86309:[TR] TRT Haber
+#DESCRIPTION [TR] TRT Haber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86310:[TR] TRT Belgesel FHD
+#DESCRIPTION [TR] TRT Belgesel FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86311:[TR] TRT Turk
+#DESCRIPTION [TR] TRT Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86312:[TR] TRT FHD
+#DESCRIPTION [TR] TRT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86313:[TR] TRT World
+#DESCRIPTION [TR] TRT World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86314:[TR] Discovery IDX HD
+#DESCRIPTION [TR] Discovery IDX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86315:[TR] Nat Geo Wild HD
+#DESCRIPTION [TR] Nat Geo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86316:[TR] Animal Planet HD
+#DESCRIPTION [TR] Animal Planet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86317:[TR] Discovery HD
+#DESCRIPTION [TR] Discovery HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86318:[TR] Power Turk
+#DESCRIPTION [TR] Power Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86319:[TR] Nat Geo HD
+#DESCRIPTION [TR] Nat Geo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86320:[TR] FX HD
+#DESCRIPTION [TR] FX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86321:[TR] Discovery SCiENCE HD
+#DESCRIPTION [TR] Discovery SCiENCE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86322:[TR] Nickelodeon
+#DESCRIPTION [TR] Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86323:[TR] Disney Channel
+#DESCRIPTION [TR] Disney Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86324:[TR] History
+#DESCRIPTION [TR] History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86325:[TR] Cartoon Network
+#DESCRIPTION [TR] Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86326:[TR] Bloomberg
+#DESCRIPTION [TR] Bloomberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86327:[TR] Fox TV FHD
+#DESCRIPTION [TR] Fox TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86328:[TR] Fox TV HD
+#DESCRIPTION [TR] Fox TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86329:[TR] BBC Earth
+#DESCRIPTION [TR] BBC Earth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86330:[TR] Dream TV
+#DESCRIPTION [TR] Dream TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86331:[TR] Dream Turk
+#DESCRIPTION [TR] Dream Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86332:[TR] Cnn Turk FHD
+#DESCRIPTION [TR] Cnn Turk FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86333:[TR] Cnn Turk HD
+#DESCRIPTION [TR] Cnn Turk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86334:[TR] Halk TV
+#DESCRIPTION [TR] Halk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86335:[TR] Haber Turk
+#DESCRIPTION [TR] Haber Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86336:[TR] FB TV
+#DESCRIPTION [TR] FB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86337:[TR] sterk
+#DESCRIPTION [TR] sterk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86338:[TR] AVAZ
+#DESCRIPTION [TR] AVAZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86339:[TR] HABER
+#DESCRIPTION [TR] HABER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86340:[TR] TÜRK
+#DESCRIPTION [TR] TÜRK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86341:[TR] TRT WORLD
+#DESCRIPTION [TR] TRT WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86342:[TR] ÇOCUK
+#DESCRIPTION [TR] ÇOCUK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86343:[TR] Tele
+#DESCRIPTION [TR] Tele
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86344:[TR] DMAX
+#DESCRIPTION [TR] DMAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86345:[TR] TV HD
+#DESCRIPTION [TR] TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86346:[TR] GS TV
+#DESCRIPTION [TR] GS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86347:[TR] Ulke TV
+#DESCRIPTION [TR] Ulke TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86348:[TR] Spor Smart  1
+#DESCRIPTION [TR] Spor Smart  1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86349:[TR] Yaban TV
+#DESCRIPTION [TR] Yaban TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86350:[TR] Mini Ago
+#DESCRIPTION [TR] Mini Ago
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86351:[TR] TV 41
+#DESCRIPTION [TR] TV 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86352:[TR] TV FHD
+#DESCRIPTION [TR] TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86353:[TR] TV HD
+#DESCRIPTION [TR] TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86354:[TR] TGRT Haber
+#DESCRIPTION [TR] TGRT Haber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86355:[TR] Star TV FHD
+#DESCRIPTION [TR] Star TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86356:[TR] Star TV HD
+#DESCRIPTION [TR] Star TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86357:[TR] Show Max
+#DESCRIPTION [TR] Show Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86358:[TR] Show TV FHD
+#DESCRIPTION [TR] Show TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86359:[TR] Show TV HD
+#DESCRIPTION [TR] Show TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86360:[TR] Planet Cocuk
+#DESCRIPTION [TR] Planet Cocuk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86361:[TR] NRTURK HD
+#DESCRIPTION [TR] NRTURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86362:[TR] Minika Cocuk
+#DESCRIPTION [TR] Minika Cocuk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86363:[TR] NTV HD
+#DESCRIPTION [TR] NTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86364:[TR] Kral TV
+#DESCRIPTION [TR] Kral TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86365:[TR] Kral POP TV
+#DESCRIPTION [TR] Kral POP TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86366:[TR] Kanal D
+#DESCRIPTION [TR] Kanal D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86367:[TR] Kanal D EU
+#DESCRIPTION [TR] Kanal D EU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86368:[TR] Kanal Avrupa
+#DESCRIPTION [TR] Kanal Avrupa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86369:[TR] Kanal HD
+#DESCRIPTION [TR] Kanal HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86370:[TR] Kanal 3
+#DESCRIPTION [TR] Kanal 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86371:[TR] TLC
+#DESCRIPTION [TR] TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86372:[TR] ATV FHD
+#DESCRIPTION [TR] ATV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86373:[TR] ATV HD
+#DESCRIPTION [TR] ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86374:[TR] A Haber
+#DESCRIPTION [TR] A Haber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86375:[TR]  Kanal FHD
+#DESCRIPTION [TR]  Kanal FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86376:[TR] Teve HD
+#DESCRIPTION [TR] Teve HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86377:[TR] FiberBox Komedi HD
+#DESCRIPTION [TR] FiberBox Komedi HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86378:[TR] Bengu Turk
+#DESCRIPTION [TR] Bengu Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86379:[TR] BLOOMBERG FHD
+#DESCRIPTION [TR] BLOOMBERG FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86380:[TR] HALK TV SD
+#DESCRIPTION [TR] HALK TV SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86381:[TR] CAN TV HD
+#DESCRIPTION [TR] CAN TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86382:[TR] AKILLI TV
+#DESCRIPTION [TR] AKILLI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86383:[TR] EGETURK TV
+#DESCRIPTION [TR] EGETURK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86384:[TR] MAVI KARADENIZ
+#DESCRIPTION [TR] MAVI KARADENIZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86385:[TR] AKIT TV HD Plus
+#DESCRIPTION [TR] AKIT TV HD Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86386:[TR] ARTI TV
+#DESCRIPTION [TR] ARTI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86387:[TR] TEK RUMELI TV
+#DESCRIPTION [TR] TEK RUMELI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86388:[TR] CAY TV RIZE
+#DESCRIPTION [TR] CAY TV RIZE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86389:[TR] FiberBox Korku HD
+#DESCRIPTION [TR] FiberBox Korku HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86390:[TR] SPORTS TV HD
+#DESCRIPTION [TR] SPORTS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86391:[TR] TRT Spor HD
+#DESCRIPTION [TR] TRT Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86392:[TR] BEiN BOX OFFİCE HD
+#DESCRIPTION [TR] BEiN BOX OFFİCE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86393:[TR] BEiN BOX OFFİCE HD
+#DESCRIPTION [TR] BEiN BOX OFFİCE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86394:[TR] TRT HD
+#DESCRIPTION [TR] TRT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86395:[TR] TV HD
+#DESCRIPTION [TR] TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86396:[TR] KRT TV HD
+#DESCRIPTION [TR] KRT TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86397:[TR] EKOTURK HD
+#DESCRIPTION [TR] EKOTURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86398:[TR] BABY TV HD
+#DESCRIPTION [TR] BABY TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86399:[TR] HALK TV HD
+#DESCRIPTION [TR] HALK TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/86400:[TR] Ssport HD TV
+#DESCRIPTION [TR] Ssport HD TV

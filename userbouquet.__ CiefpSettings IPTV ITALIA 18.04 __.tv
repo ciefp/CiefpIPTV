@@ -1,0 +1,583 @@
+#NAME :: CiefpSettings IPTV PORTUGAL 18.04 ::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83363:[IT] Tv8
+#DESCRIPTION [IT] Tv8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83364:[IT] Top Crime
+#DESCRIPTION [IT] Top Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83365:[IT] Tg Com 24
+#DESCRIPTION [IT] Tg Com 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83366:[IT] Super!
+#DESCRIPTION [IT] Super!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83367:[IT] Super Tennis HD
+#DESCRIPTION [IT] Super Tennis HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83421:[IT] RTL 102.5
+#DESCRIPTION [IT] RTL 102.5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83422:[IT] RSI LaHD
+#DESCRIPTION [IT] RSI LaHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83423:[IT] RSI LaHD
+#DESCRIPTION [IT] RSI LaHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83424:[IT] Roma Channel
+#DESCRIPTION [IT] Roma Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83425:[IT] Rete HD
+#DESCRIPTION [IT] Rete HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83426:[IT] Real Time
+#DESCRIPTION [IT] Real Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83427:[IT] Rai yoyo
+#DESCRIPTION [IT] Rai yoyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83428:[IT] Rai Storia
+#DESCRIPTION [IT] Rai Storia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83429:[IT] Rai Sport   HD
+#DESCRIPTION [IT] Rai Sport   HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83430:[IT] Rai Scuola
+#DESCRIPTION [IT] Rai Scuola
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83431:[IT] Rai Premium
+#DESCRIPTION [IT] Rai Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83432:[IT] Rai News 24
+#DESCRIPTION [IT] Rai News 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83433:[IT] Rai Movie
+#DESCRIPTION [IT] Rai Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83434:[IT] Rai Gulp
+#DESCRIPTION [IT] Rai Gulp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83435:[IT] Rai Ful HD
+#DESCRIPTION [IT] Rai Ful HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83436:[IT] Rai Full HD
+#DESCRIPTION [IT] Rai Full HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83437:[IT] Rai 4
+#DESCRIPTION [IT] Rai 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83438:[IT] Rai HD
+#DESCRIPTION [IT] Rai HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83439:[IT] Rai Full HD
+#DESCRIPTION [IT] Rai Full HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83440:[IT] Rai HD
+#DESCRIPTION [IT] Rai HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83441:[IT] Rai Full HD
+#DESCRIPTION [IT] Rai Full HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83442:[IT] Rai HD
+#DESCRIPTION [IT] Rai HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83443:[IT] Radio Italia TV
+#DESCRIPTION [IT] Radio Italia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83444:[IT] Radio Capital TV
+#DESCRIPTION [IT] Radio Capital TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83445:[IT] Premium Stories
+#DESCRIPTION [IT] Premium Stories
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83446:[IT] PREMIUM CINEMA ENERGY FHD
+#DESCRIPTION [IT] PREMIUM CINEMA ENERGY FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83447:[IT]  PREMIUM CINEMA ENERGY
+#DESCRIPTION [IT]  PREMIUM CINEMA ENERGY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83448:[IT] Premium Emotion
+#DESCRIPTION [IT] Premium Emotion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83449:[IT] Premium Crime HD
+#DESCRIPTION [IT] Premium Crime HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83450:[IT] Premium Crime Full HD
+#DESCRIPTION [IT] Premium Crime Full HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83451:[IT] Premium Comedy
+#DESCRIPTION [IT] Premium Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83452:[IT] Premium Cinema HD
+#DESCRIPTION [IT] Premium Cinema HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83453:[IT] Premium Cinema  HD
+#DESCRIPTION [IT] Premium Cinema  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83454:[IT] Premium Action HD
+#DESCRIPTION [IT] Premium Action HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83455:[IT] Premium Action Full HD
+#DESCRIPTION [IT] Premium Action Full HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83456:[IT] Premium 20
+#DESCRIPTION [IT] Premium 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83457:[IT] Pesca e Caccia
+#DESCRIPTION [IT] Pesca e Caccia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83458:[IT] Paramount NETWORK HD
+#DESCRIPTION [IT] Paramount NETWORK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83459:[IT] Nove TV
+#DESCRIPTION [IT] Nove TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83460:[IT] Nickelodeon
+#DESCRIPTION [IT] Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83461:[IT] Nick Junior
+#DESCRIPTION [IT] Nick Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83462:[IT] NationalGeo HD
+#DESCRIPTION [IT] NationalGeo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83463:[IT] NatGeo Wild HD
+#DESCRIPTION [IT] NatGeo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83464:[IT] Milan Channel
+#DESCRIPTION [IT] Milan Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83465:[IT] Mediaset Extra
+#DESCRIPTION [IT] Mediaset Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83466:[IT] Marco Polo
+#DESCRIPTION [IT] Marco Polo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83467:[IT] M2O
+#DESCRIPTION [IT] M2O
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83468:[IT] LaEffe
+#DESCRIPTION [IT] LaEffe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83469:[IT] La7d
+#DESCRIPTION [IT] La7d
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83470:[IT] La7
+#DESCRIPTION [IT] La7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83471:[IT] La 5
+#DESCRIPTION [IT] La 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83472:[IT] K2
+#DESCRIPTION [IT] K2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83473:[IT] Italia 2
+#DESCRIPTION [IT] Italia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83474:[IT] Italia HD
+#DESCRIPTION [IT] Italia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83475:[IT] Fox Crime HD
+#DESCRIPTION [IT] Fox Crime HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83476:[IT] Fox Crime Full HD
+#DESCRIPTION [IT] Fox Crime Full HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83477:[IT] Focus
+#DESCRIPTION [IT] Focus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83478:[IT] Eurosport HD
+#DESCRIPTION [IT] Eurosport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83479:[IT] Eurosport HD
+#DESCRIPTION [IT] Eurosport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83480:[IT] Dmax
+#DESCRIPTION [IT] Dmax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83481:[IT] Disney Junior
+#DESCRIPTION [IT] Disney Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83482:[IT] Disney Channel
+#DESCRIPTION [IT] Disney Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83483:[IT] Discovery Sci HD
+#DESCRIPTION [IT] Discovery Sci HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83484:[IT] Discovery HD
+#DESCRIPTION [IT] Discovery HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83485:[IT] Discovery Full HD
+#DESCRIPTION [IT] Discovery Full HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83486:[IT] Dea Kids
+#DESCRIPTION [IT] Dea Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83487:[IT] Dea junior
+#DESCRIPTION [IT] Dea junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83494:[IT] Crime Investigation HD
+#DESCRIPTION [IT] Crime Investigation HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83495:[IT] Comedy Central
+#DESCRIPTION [IT] Comedy Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83496:[IT] Cartoonito
+#DESCRIPTION [IT] Cartoonito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83497:[IT] Canale 8
+#DESCRIPTION [IT] Canale 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83498:[IT] Canale HD
+#DESCRIPTION [IT] Canale HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83499:[IT] Canale Full HD
+#DESCRIPTION [IT] Canale Full HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83500:[IT] Caccia e Pesca
+#DESCRIPTION [IT] Caccia e Pesca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83501:[IT] Boomerang
+#DESCRIPTION [IT] Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83502:[IT] Boing
+#DESCRIPTION [IT] Boing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83503:[IT] Blaze HD
+#DESCRIPTION [IT] Blaze HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83504:[IT] Baby Tv
+#DESCRIPTION [IT] Baby Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83505:[IT] Alice
+#DESCRIPTION [IT] Alice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83506:[IT] Iris
+#DESCRIPTION [IT] Iris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83507:[IT] Inter Channel
+#DESCRIPTION [IT] Inter Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83508:[IT] History Lab
+#DESCRIPTION [IT] History Lab
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83509:[IT] History HD
+#DESCRIPTION [IT] History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83510:[IT] Giallo
+#DESCRIPTION [IT] Giallo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83511:[IT] Gambero Rosso HD
+#DESCRIPTION [IT] Gambero Rosso HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83512:[IT] Frisbee
+#DESCRIPTION [IT] Frisbee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83513:[IT] Fox HD
+#DESCRIPTION [IT] Fox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83514:[IT] Fox Full HD
+#DESCRIPTION [IT] Fox Full HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83515:[IT] Cartoon Network HD
+#DESCRIPTION [IT] Cartoon Network HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83516:[IT] Lazio Channel
+#DESCRIPTION [IT] Lazio Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83517:[IT] Torino Channel
+#DESCRIPTION [IT] Torino Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83518:IT_PRIMAFILA HD
+#DESCRIPTION IT_PRIMAFILA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83519:IT_PRIMAFILA HD
+#DESCRIPTION IT_PRIMAFILA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83520:IT_PRIMAFILA HD
+#DESCRIPTION IT_PRIMAFILA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83521:IT_PRIMAFILA HD
+#DESCRIPTION IT_PRIMAFILA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83522:IT_PRIMAFILA HD
+#DESCRIPTION IT_PRIMAFILA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83523:IT_PRIMAFILA HD
+#DESCRIPTION IT_PRIMAFILA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83524:IT_PRIMAFILA HD
+#DESCRIPTION IT_PRIMAFILA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83525:IT_PRIMAFILA HD
+#DESCRIPTION IT_PRIMAFILA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83526:IT_PRIMAFILA HD
+#DESCRIPTION IT_PRIMAFILA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83527:IT_PRIMAFILA HD
+#DESCRIPTION IT_PRIMAFILA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83528:IT_PRIMAFILA HD
+#DESCRIPTION IT_PRIMAFILA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83529:IT_PRIMAFILA HD
+#DESCRIPTION IT_PRIMAFILA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83535:[IT] CIELO HD
+#DESCRIPTION [IT] CIELO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83536:[IT] Eleven Sport HD
+#DESCRIPTION [IT] Eleven Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83537:[IT] Eleven Sport HD
+#DESCRIPTION [IT] Eleven Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83538:[IT] Eleven Sport HD
+#DESCRIPTION [IT] Eleven Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83539:[IT] Eleven Sport HD
+#DESCRIPTION [IT] Eleven Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83540:[ITReg] Radio TV
+#DESCRIPTION [ITReg] Radio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83541:[ITReg] Antenna Sud
+#DESCRIPTION [ITReg] Antenna Sud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83542:[ITReg] Antenna Tre
+#DESCRIPTION [ITReg] Antenna Tre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83543:[ITReg] Azzurra TV
+#DESCRIPTION [ITReg] Azzurra TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83544:[ITReg] CafèTV24
+#DESCRIPTION [ITReg] CafèTV24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83545:[ITReg] Canale 10
+#DESCRIPTION [ITReg] Canale 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83546:[ITReg] Canale 10
+#DESCRIPTION [ITReg] Canale 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83547:[ITReg] Canale Altamura
+#DESCRIPTION [ITReg] Canale Altamura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83548:[ITReg] Canale 7
+#DESCRIPTION [ITReg] Canale 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83549:[ITReg] Canale 7
+#DESCRIPTION [ITReg] Canale 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83550:[ITReg] Canale 8
+#DESCRIPTION [ITReg] Canale 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83551:[ITReg] Canale Puglia
+#DESCRIPTION [ITReg] Canale Puglia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83552:[ITReg] Carina TV
+#DESCRIPTION [ITReg] Carina TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83553:[ITReg] Carina TV
+#DESCRIPTION [ITReg] Carina TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83554:[ITReg] Company TV
+#DESCRIPTION [ITReg] Company TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83555:[ITReg] Company TV
+#DESCRIPTION [ITReg] Company TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83556:[ITReg] DeeJay TV
+#DESCRIPTION [ITReg] DeeJay TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83557:[ITReg] DeeJay TV
+#DESCRIPTION [ITReg] DeeJay TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83558:[ITReg] Elive TV Brescia
+#DESCRIPTION [ITReg] Elive TV Brescia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83559:[ITReg] Esperia TV
+#DESCRIPTION [ITReg] Esperia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83560:[ITReg] Esperia TV
+#DESCRIPTION [ITReg] Esperia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83561:[ITReg] ETV Marche
+#DESCRIPTION [ITReg] ETV Marche
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83562:[ITReg] ETV Marche
+#DESCRIPTION [ITReg] ETV Marche
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83563:[ITReg] ETV Marche
+#DESCRIPTION [ITReg] ETV Marche
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83564:[ITReg] Gold TV Roma
+#DESCRIPTION [ITReg] Gold TV Roma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83565:[ITReg] Icaro TV
+#DESCRIPTION [ITReg] Icaro TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83566:[ITReg] La Tr3
+#DESCRIPTION [ITReg] La Tr3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83567:[ITReg] Medjugorje Italia TV
+#DESCRIPTION [ITReg] Medjugorje Italia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83568:[ITReg] MotorTrend
+#DESCRIPTION [ITReg] MotorTrend
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83569:[ITReg] Padre Pio TV
+#DESCRIPTION [ITReg] Padre Pio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83570:[ITReg] Paradise TV
+#DESCRIPTION [ITReg] Paradise TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83571:[ITReg] Parole di Vita
+#DESCRIPTION [ITReg] Parole di Vita
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83572:[ITReg] Pescara TV
+#DESCRIPTION [ITReg] Pescara TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83573:[ITReg] Prima Tivvu
+#DESCRIPTION [ITReg] Prima Tivvu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83574:[ITReg] Prima Tivvu
+#DESCRIPTION [ITReg] Prima Tivvu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83575:[ITReg] Prima TV
+#DESCRIPTION [ITReg] Prima TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83576:[ITReg] Primocanale Liguria
+#DESCRIPTION [ITReg] Primocanale Liguria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83577:[ITReg] QVC
+#DESCRIPTION [ITReg] QVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83578:[ITReg] Radio 51
+#DESCRIPTION [ITReg] Radio 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83579:[ITReg] Radio Birikina TV
+#DESCRIPTION [ITReg] Radio Birikina TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83580:[ITReg] Radio Bruno
+#DESCRIPTION [ITReg] Radio Bruno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83581:[ITReg] Radio Bruno TV
+#DESCRIPTION [ITReg] Radio Bruno TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83582:[ITReg] Radio Capital TV
+#DESCRIPTION [ITReg] Radio Capital TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83583:[ITReg] Antenna Sud Puglia
+#DESCRIPTION [ITReg] Antenna Sud Puglia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83584:[ITReg] Antenna Tre Nordest
+#DESCRIPTION [ITReg] Antenna Tre Nordest
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83585:[ITReg] Antenna Uno Lentini
+#DESCRIPTION [ITReg] Antenna Uno Lentini
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83586:[ITReg] Aurora Arte (New!)
+#DESCRIPTION [ITReg] Aurora Arte (New!)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83587:[ITReg] Azzurra TV Verbano
+#DESCRIPTION [ITReg] Azzurra TV Verbano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83588:[ITReg] CafeTVVeneto (Opt1)
+#DESCRIPTION [ITReg] CafeTVVeneto (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83589:[ITReg] CafeTVVeneto (Opt2)
+#DESCRIPTION [ITReg] CafeTVVeneto (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83590:[ITReg] CafeTVVeneto (Opt3)
+#DESCRIPTION [ITReg] CafeTVVeneto (Opt3)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83591:[ITReg] Canale Altamura
+#DESCRIPTION [ITReg] Canale Altamura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83592:[ITReg] Canale Puglia (Opt1)
+#DESCRIPTION [ITReg] Canale Puglia (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83593:[ITReg] Canale Puglia (Opt2)
+#DESCRIPTION [ITReg] Canale Puglia (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83594:[ITReg] Canale Ostia
+#DESCRIPTION [ITReg] Canale Ostia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83595:[ITReg] Canale Sassari
+#DESCRIPTION [ITReg] Canale Sassari
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83596:[ITReg] Canale Carbonia
+#DESCRIPTION [ITReg] Canale Carbonia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83597:[ITReg] Canale Puglia (Opt1)
+#DESCRIPTION [ITReg] Canale Puglia (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83598:[ITReg] Canale Puglia (Opt2)
+#DESCRIPTION [ITReg] Canale Puglia (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83599:[ITReg] Company TV (Opt1)
+#DESCRIPTION [ITReg] Company TV (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83600:[ITReg] Company TV (Opt2)
+#DESCRIPTION [ITReg] Company TV (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83601:[ITReg] DeeJay TV
+#DESCRIPTION [ITReg] DeeJay TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83602:[ITReg] Elive TV Brescia
+#DESCRIPTION [ITReg] Elive TV Brescia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83603:[ITReg] Esperia TV Calabria (Opt1)
+#DESCRIPTION [ITReg] Esperia TV Calabria (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83604:[ITReg] Esperia TV Calabria (Opt2)
+#DESCRIPTION [ITReg] Esperia TV Calabria (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83605:[ITReg] ETV Marche (Opt1)
+#DESCRIPTION [ITReg] ETV Marche (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83606:[ITReg] ETV Marche (Opt2)
+#DESCRIPTION [ITReg] ETV Marche (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83607:[ITReg] Euro Indie Music Chart (New!)
+#DESCRIPTION [ITReg] Euro Indie Music Chart (New!)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83608:[ITReg] Extra TV Lazio
+#DESCRIPTION [ITReg] Extra TV Lazio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83609:[ITReg] FM Italia
+#DESCRIPTION [ITReg] FM Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83610:[ITReg] Gargano TV
+#DESCRIPTION [ITReg] Gargano TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83611:[ITReg] Globus TV Sicilia
+#DESCRIPTION [ITReg] Globus TV Sicilia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83612:[ITReg] Gold TV Roma
+#DESCRIPTION [ITReg] Gold TV Roma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83613:[ITReg] Icaro TV Rimini
+#DESCRIPTION [ITReg] Icaro TV Rimini
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83614:[ITReg] Julie TV
+#DESCRIPTION [ITReg] Julie TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83615:[ITReg] La Nuova TV Potenza
+#DESCRIPTION [ITReg] La Nuova TV Potenza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83616:[ITReg] La TRMarsala
+#DESCRIPTION [ITReg] La TRMarsala
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83617:[ITReg] Lucania Channel
+#DESCRIPTION [ITReg] Lucania Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83618:[ITReg] Mediasport Channel
+#DESCRIPTION [ITReg] Mediasport Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83619:[ITReg] Motor Trend (New!)
+#DESCRIPTION [ITReg] Motor Trend (New!)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83620:[ITReg] Onda TV Sicilia
+#DESCRIPTION [ITReg] Onda TV Sicilia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83621:[ITReg] Orler TV Favaro Veneto
+#DESCRIPTION [ITReg] Orler TV Favaro Veneto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83622:[ITReg] Otto Channel
+#DESCRIPTION [ITReg] Otto Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83623:[ITReg] Otto FM TV
+#DESCRIPTION [ITReg] Otto FM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83624:[ITReg] Paradise TV Ercolano
+#DESCRIPTION [ITReg] Paradise TV Ercolano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83625:[ITReg] Partenope TV (New!)
+#DESCRIPTION [ITReg] Partenope TV (New!)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83626:[ITReg] Pescara TV
+#DESCRIPTION [ITReg] Pescara TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83627:[ITReg] RDS Social TV
+#DESCRIPTION [ITReg] RDS Social TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83628:[ITReg] Rete Biella TV
+#DESCRIPTION [ITReg] Rete Biella TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83629:[ITReg] ReggioTV
+#DESCRIPTION [ITReg] ReggioTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83630:[ITReg] Rei TV Sicilia
+#DESCRIPTION [ITReg] Rei TV Sicilia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83631:[ITReg] Reteveneta
+#DESCRIPTION [ITReg] Reteveneta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83632:[ITReg] RMK TV Sciacca
+#DESCRIPTION [ITReg] RMK TV Sciacca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83633:[ITReg] RMM Marche
+#DESCRIPTION [ITReg] RMM Marche
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83634:[ITReg] RTC Telecalabria
+#DESCRIPTION [ITReg] RTC Telecalabria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83635:[ITReg] RTC Quarta Rete
+#DESCRIPTION [ITReg] RTC Quarta Rete
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83636:[ITReg] RTL Radio
+#DESCRIPTION [ITReg] RTL Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83637:[ITReg] RTP Sicilia
+#DESCRIPTION [ITReg] RTP Sicilia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83638:[ITReg] RTR Lazio
+#DESCRIPTION [ITReg] RTR Lazio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83639:[ITReg] RTTR TV Trento
+#DESCRIPTION [ITReg] RTTR TV Trento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83640:[ITReg] RTV Sport (San Marino)
+#DESCRIPTION [ITReg] RTV Sport (San Marino)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83641:[ITReg] Sardegna Uno
+#DESCRIPTION [ITReg] Sardegna Uno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83642:[ITReg] Senato TV
+#DESCRIPTION [ITReg] Senato TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83643:[ITReg] SLTV Lazio
+#DESCRIPTION [ITReg] SLTV Lazio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83644:[ITReg] Soverato Uno TV
+#DESCRIPTION [ITReg] Soverato Uno TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83645:[ITReg] SporTVL Toscana
+#DESCRIPTION [ITReg] SporTVL Toscana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83646:[ITReg] Standby TV Roma
+#DESCRIPTION [ITReg] Standby TV Roma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83647:[ITReg] Studio Puglia (Opt1)
+#DESCRIPTION [ITReg] Studio Puglia (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83648:[ITReg] Studio Puglia (Opt2)
+#DESCRIPTION [ITReg] Studio Puglia (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83649:[ITReg] Super J TV Teramo (Opt1)
+#DESCRIPTION [ITReg] Super J TV Teramo (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83650:[ITReg] Super J TV Teramo (Opt2)
+#DESCRIPTION [ITReg] Super J TV Teramo (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83651:[ITReg] Super TV Brescia
+#DESCRIPTION [ITReg] Super TV Brescia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83652:[ITReg] Super TV Oristano (New!)
+#DESCRIPTION [ITReg] Super TV Oristano (New!)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83653:[ITReg] Tele TV Mazara
+#DESCRIPTION [ITReg] Tele TV Mazara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83654:[ITReg] Tele Abruzzo
+#DESCRIPTION [ITReg] Tele Abruzzo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83655:[ITReg] Tele Lazio Nord (New!)
+#DESCRIPTION [ITReg] Tele Lazio Nord (New!)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83656:[ITReg] Tele One Palermo
+#DESCRIPTION [ITReg] Tele One Palermo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83657:[ITReg] Tele Pegaso Catania
+#DESCRIPTION [ITReg] Tele Pegaso Catania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83658:[ITReg] TeleArena Verona
+#DESCRIPTION [ITReg] TeleArena Verona
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83659:[ITReg] TeleBari
+#DESCRIPTION [ITReg] TeleBari
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83660:[ITReg] Teleblu Foggia
+#DESCRIPTION [ITReg] Teleblu Foggia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83661:[ITReg] TeleBoario
+#DESCRIPTION [ITReg] TeleBoario
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83662:[ITReg] TeleChiara Vicenza (Opt1)
+#DESCRIPTION [ITReg] TeleChiara Vicenza (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83663:[ITReg] TeleChiara Vicenza (Opt2)
+#DESCRIPTION [ITReg] TeleChiara Vicenza (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83664:[ITReg] Telecitta
+#DESCRIPTION [ITReg] Telecitta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83665:[ITReg] Teledehon
+#DESCRIPTION [ITReg] Teledehon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83666:[ITReg] Telefoggia
+#DESCRIPTION [ITReg] Telefoggia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83667:[ITReg] Telefriuli
+#DESCRIPTION [ITReg] Telefriuli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83668:[ITReg] TeleGalatina Puglia (Opt1)
+#DESCRIPTION [ITReg] TeleGalatina Puglia (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83669:[ITReg] TeleGalatina Puglia (Opt2)
+#DESCRIPTION [ITReg] TeleGalatina Puglia (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83670:[ITReg] Telemantova
+#DESCRIPTION [ITReg] Telemantova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83671:[ITReg] TeleMia Calabria
+#DESCRIPTION [ITReg] TeleMia Calabria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83672:[ITReg] Telemolise
+#DESCRIPTION [ITReg] Telemolise
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83673:[ITReg] TeleMonteneve Livigno (Opt1)
+#DESCRIPTION [ITReg] TeleMonteneve Livigno (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83674:[ITReg] TeleMonteneve Livigno (Opt2)
+#DESCRIPTION [ITReg] TeleMonteneve Livigno (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83675:[ITReg] TeleMonteneve Livigno
+#DESCRIPTION [ITReg] TeleMonteneve Livigno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83676:[ITReg] TeleNordest Friuli
+#DESCRIPTION [ITReg] TeleNordest Friuli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83677:[ITReg] TeleNordest Padova
+#DESCRIPTION [ITReg] TeleNordest Padova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83678:[ITReg] Telenostra Avellino
+#DESCRIPTION [ITReg] Telenostra Avellino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83679:[ITReg] Teleonda Puglia
+#DESCRIPTION [ITReg] Teleonda Puglia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83680:[ITReg] telePAVIA
+#DESCRIPTION [ITReg] telePAVIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83681:[ITReg] Telequattro Friuli
+#DESCRIPTION [ITReg] Telequattro Friuli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83682:[ITReg] TeleRama Lecce
+#DESCRIPTION [ITReg] TeleRama Lecce
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83683:[ITReg] TeleRomagna24
+#DESCRIPTION [ITReg] TeleRomagna24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83684:[ITReg] TeleRomagna Mia
+#DESCRIPTION [ITReg] TeleRomagna Mia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83685:[ITReg] TeleRomagna Sport
+#DESCRIPTION [ITReg] TeleRomagna Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83686:[ITReg] TeleTerni
+#DESCRIPTION [ITReg] TeleTerni
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83687:[ITReg] Teletricolore Reggio
+#DESCRIPTION [ITReg] Teletricolore Reggio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83688:[ITReg] Teletruria Arezzo
+#DESCRIPTION [ITReg] Teletruria Arezzo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83689:[ITReg] TeleTusciaSabina 2000
+#DESCRIPTION [ITReg] TeleTusciaSabina 2000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83690:[ITReg] Teleuniverso Aquino (New!)
+#DESCRIPTION [ITReg] Teleuniverso Aquino (New!)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83691:[ITReg] TeleVenezia
+#DESCRIPTION [ITReg] TeleVenezia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83692:[ITReg] Tevere TV Valtiberina
+#DESCRIPTION [ITReg] Tevere TV Valtiberina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83693:[ITReg] TG Norba 24
+#DESCRIPTION [ITReg] TG Norba 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83694:[ITReg] Trentino TV
+#DESCRIPTION [ITReg] Trentino TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83695:[ITReg] TRG Umbria
+#DESCRIPTION [ITReg] TRG Umbria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83696:[ITReg] TRM hBasilicata
+#DESCRIPTION [ITReg] TRM hBasilicata
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83697:[ITReg] TSB Palermo
+#DESCRIPTION [ITReg] TSB Palermo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83698:[ITReg] TSN Sondrio
+#DESCRIPTION [ITReg] TSN Sondrio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83699:[ITReg] TSN Lecco (Opt1)
+#DESCRIPTION [ITReg] TSN Lecco (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83700:[ITReg] TV Qui Modena
+#DESCRIPTION [ITReg] TV Qui Modena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83701:[ITReg] TV Sei Teramo
+#DESCRIPTION [ITReg] TV Sei Teramo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83702:[ITReg] TVBenevento
+#DESCRIPTION [ITReg] TVBenevento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83703:[ITReg] TVTriveneta
+#DESCRIPTION [ITReg] TVTriveneta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83704:[ITReg] TVA Vicenza (Opt1)
+#DESCRIPTION [ITReg] TVA Vicenza (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83705:[ITReg] TVA Vicenza (Opt2)
+#DESCRIPTION [ITReg] TVA Vicenza (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83706:[ITReg] TVL Toscana
+#DESCRIPTION [ITReg] TVL Toscana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83707:[ITReg] TVR Xenon Caltagirone
+#DESCRIPTION [ITReg] TVR Xenon Caltagirone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83708:[ITReg] TVRS Marche
+#DESCRIPTION [ITReg] TVRS Marche
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83709:[ITReg] Umbria TV
+#DESCRIPTION [ITReg] Umbria TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83710:[ITReg] Vera TV Marche (Opt1)
+#DESCRIPTION [ITReg] Vera TV Marche (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83711:[ITReg] Vera TV Marche (Opt2)
+#DESCRIPTION [ITReg] Vera TV Marche (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83712:[ITReg] VH1
+#DESCRIPTION [ITReg] VH1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83713:[ITReg] Video Brescia (Opt1)
+#DESCRIPTION [ITReg] Video Brescia (Opt1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83714:[ITReg] Video Brescia (Opt2)
+#DESCRIPTION [ITReg] Video Brescia (Opt2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83715:[ITReg] Videolina Sardegna
+#DESCRIPTION [ITReg] Videolina Sardegna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83716:[ITReg] Videonola Napoli
+#DESCRIPTION [ITReg] Videonola Napoli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//supersonictv.live%3a8080/bill042021/042021/83718:[ITReg] Videostar TV Lombardia
+#DESCRIPTION [ITReg] Videostar TV Lombardia
