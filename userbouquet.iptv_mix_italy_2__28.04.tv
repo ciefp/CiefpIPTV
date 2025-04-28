@@ -1,0 +1,1797 @@
+#NAME IPTV Mix Italy 2  28.04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4181
+#DESCRIPTION IT: Top Calcio HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/25350
+#DESCRIPTION IT: Sport2U Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4200
+#DESCRIPTION IT: Sport Tv Pistoia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51742
+#DESCRIPTION IT: Udinese TV (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4624
+#DESCRIPTION IT: m2o (musica)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4640
+#DESCRIPTION IT: RTL 102.5 TV (musica)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36065
+#DESCRIPTION IT: Radio Bruno TV Musica (Emilia Romagna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36066
+#DESCRIPTION IT: Radio Taormina TV musica (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/9651
+#DESCRIPTION IT: Radio Tv Azzura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4213
+#DESCRIPTION IT: RADIO 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36146
+#DESCRIPTION IT: Radio Italia Vision (Emilia Romagna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51682
+#DESCRIPTION IT: Radio Linea Nr.1 (Abruzzo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4616
+#DESCRIPTION IT: Radio Pescara TV (Abruzzo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4198
+#DESCRIPTION IT: RadioNorba TV (Basilicata)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53613
+#DESCRIPTION IT: Radio Vertigo One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51666
+#DESCRIPTION *======= Abruzzo =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51679
+#DESCRIPTION IT: ReteTvItalia (Abruzzo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36010
+#DESCRIPTION IT: TeleSirio (Abruzzo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36015
+#DESCRIPTION IT: Super J HD (Abruzzo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4184
+#DESCRIPTION IT: Tv 6 (Abruzzo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53587
+#DESCRIPTION IT: Radio Linea n1 TV (Abruzzo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53585
+#DESCRIPTION IT: Rete TV Italia (Abruzzo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51683
+#DESCRIPTION *======= Basilicata =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51684
+#DESCRIPTION IT: La Nuova TV (Basilicata)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/3966
+#DESCRIPTION IT: Carina TV (Basilicata)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4180
+#DESCRIPTION IT: Canale 2 RTV (Basilicata)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53589
+#DESCRIPTION IT: Set TV Canale 669 (Basilicata)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51686
+#DESCRIPTION *======= Calabria =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51696
+#DESCRIPTION IT: Calabria Uno (Calabria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51692
+#DESCRIPTION IT: ReggioTV (Calabria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51691
+#DESCRIPTION IT: L'altro Corriere TV (Calabria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51690
+#DESCRIPTION IT: LaC News24 (Calabria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51689
+#DESCRIPTION IT: RTC Telecalabria (Calabria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51687
+#DESCRIPTION IT: VideoTouring Radio TV (Calabria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4643
+#DESCRIPTION IT: TeleMIa (Calabria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4202
+#DESCRIPTION IT: Esperia TV (Calabria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51852
+#DESCRIPTION IT: Mi Sposo TV (Calabria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53591
+#DESCRIPTION IT: Telejonio (Calabria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51699
+#DESCRIPTION *======= Campania =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51719
+#DESCRIPTION IT: TV1 CAMPANE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51718
+#DESCRIPTION IT: TV2 CAMPANE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51717
+#DESCRIPTION IT: TeleLaser (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51716
+#DESCRIPTION IT: Otto Channel 696 TV (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51715
+#DESCRIPTION IT: Prima Tivvu (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51713
+#DESCRIPTION IT: Ora TV FHD  (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51711
+#DESCRIPTION IT: Quarto Canale Flegreo (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51710
+#DESCRIPTION IT: Paradise TV (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/3443
+#DESCRIPTION IT: RTC Quarta Rete (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51709
+#DESCRIPTION IT: Radio Stereo 5 TV (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51707
+#DESCRIPTION IT: Italia 2 TV (Campane)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4204
+#DESCRIPTION IT: NOVOLA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51703
+#DESCRIPTION IT: Tv 3 Campane (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51704
+#DESCRIPTION IT: RDE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51702
+#DESCRIPTION IT: Tele Universo (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51701
+#DESCRIPTION IT: Tele Oltre Religione (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51700
+#DESCRIPTION IT: Tv Luna (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/3621
+#DESCRIPTION IT: Canale 8 (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36248
+#DESCRIPTION IT: VideoNola TV ( Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36030
+#DESCRIPTION IT: Canale 21 Campania (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53583
+#DESCRIPTION IT: Ora TV (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53581
+#DESCRIPTION IT: Tv7 Benevento (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53580
+#DESCRIPTION IT: Telegolfo RTG (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53579
+#DESCRIPTION IT: Kiss Kiss TV (Campania)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51720
+#DESCRIPTION *======= Emilia Romagna =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51732
+#DESCRIPTION IT: È TV Rete7 Bologna (Emilia Romagna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51725
+#DESCRIPTION IT: Telestense Ferrara (Emilia Romagna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51722
+#DESCRIPTION IT: Love FM TV  (Emilia Romagna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51721
+#DESCRIPTION IT: Tele Liberta (Emilia Romagna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36047
+#DESCRIPTION IT: Teleromagna (Emilia Romagna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/35977
+#DESCRIPTION IT: Icaro TV (Emilia Romagna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/35998
+#DESCRIPTION IT: TV Qui Modena (Emilia Romagna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4192
+#DESCRIPTION IT: TR24 (Emilia Romagna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53593
+#DESCRIPTION IT:  Rete 8 VGA Telerimini (Emilia Romagna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53592
+#DESCRIPTION IT: Radio Studio Delta TV (Emilia Romagna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51734
+#DESCRIPTION *======= Veneto =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51741
+#DESCRIPTION IT: Radio Birikina Tv (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51738
+#DESCRIPTION IT: Bellla&Monella TV musica (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51736
+#DESCRIPTION IT: Telebelluno (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51731
+#DESCRIPTION IT: Cafe24 (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36141
+#DESCRIPTION IT: Antenna Tre A3 (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/9648
+#DESCRIPTION IT: Telefriuli (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53599
+#DESCRIPTION IT: TeleQuattro (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53596
+#DESCRIPTION IT: Radio PuntoZero (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51743
+#DESCRIPTION *======= Lazio =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51755
+#DESCRIPTION IT: Rete Oro TV (Lazio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51753
+#DESCRIPTION IT: TS 2000 Tele Tuscia Sabina (Lazio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51751
+#DESCRIPTION IT: RTR99 Radio Ti Ricordi (Lazio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51749
+#DESCRIPTION IT: TeleTibur (Lazio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51745
+#DESCRIPTION IT: CittaCeleste TV sport (Lazio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/25348
+#DESCRIPTION IT: GOLD TV (Lazio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/25349
+#DESCRIPTION IT: Lazio TV (Lazio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/50625
+#DESCRIPTION IT: Canale 21 Extra (Lazio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53600
+#DESCRIPTION IT: Canale 10 (Lazio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51759
+#DESCRIPTION *======= Liguria =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36143
+#DESCRIPTION IT: Teleliguria Sud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51763
+#DESCRIPTION IT: Entella Tv (Liguria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51762
+#DESCRIPTION IT: Radio JukeBox TV (Liguria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51761
+#DESCRIPTION IT: TeleNord (Liguria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4177
+#DESCRIPTION IT: Primocanale TV (Liguria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53602
+#DESCRIPTION IT: 111 TV (Liguria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51767
+#DESCRIPTION *======= Lombardia =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51787
+#DESCRIPTION IT: Rete 55 (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/35996
+#DESCRIPTION IT: TeleBoario (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51785
+#DESCRIPTION IT: Lombardia TV (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51784
+#DESCRIPTION IT: MAGIC MUSIC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51783
+#DESCRIPTION IT: TeleAmbiente (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51780
+#DESCRIPTION IT: OL3 Radio TV Bergamo (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51777
+#DESCRIPTION IT: Espansione TV (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51772
+#DESCRIPTION IT: TeleMantova (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51771
+#DESCRIPTION IT: Radio Number One TV (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51773
+#DESCRIPTION IT: Onda Novara TV (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51724
+#DESCRIPTION IT: SuperSix (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36149
+#DESCRIPTION IT: Cremona 1 ( Lombardia )
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4619
+#DESCRIPTION IT: TSN TeleSondrioNews (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36050
+#DESCRIPTION IT: TSN TeleSondrio Lecco (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36018
+#DESCRIPTION IT: TSN Visualradio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4641
+#DESCRIPTION IT: TeleMonteNeve (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/8847
+#DESCRIPTION IT: TeleMonteNeve3 (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4728
+#DESCRIPTION IT: SuperTV Brescia (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36059
+#DESCRIPTION IT: Milano Pavia TV Telepavia (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53607
+#DESCRIPTION IT: Antenna 2 (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53606
+#DESCRIPTION IT: Elive TV Brescia (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53605
+#DESCRIPTION IT: Tele Tutto Brescia (Lombardia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51789
+#DESCRIPTION *======= Marche =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51791
+#DESCRIPTION IT: Skyline TV musica (Marche)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51790
+#DESCRIPTION IT: Arancia TV HD (Marche)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4212
+#DESCRIPTION IT: VideoTolentino (Marche)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4199
+#DESCRIPTION IT: eTV Marche (Marche)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4211
+#DESCRIPTION IT: VeraTV (Marche)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4621
+#DESCRIPTION IT: TVRS (Marche)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36034
+#DESCRIPTION IT: Fano TV (Marche)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51795
+#DESCRIPTION *======= Molise =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51796
+#DESCRIPTION IT: Telemolise (Molise)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36051
+#DESCRIPTION IT: TRM TeleRegione Molise (Molise)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53608
+#DESCRIPTION IT: Media TV (Molise)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51797
+#DESCRIPTION *======= Piemonte =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53610
+#DESCRIPTION IT: Rete 7 (Piemonte)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53609
+#DESCRIPTION IT: Retebiella TV (Piemonte)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51881
+#DESCRIPTION *======= Puglia =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51811
+#DESCRIPTION IT: CittaCeleste 85
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51808
+#DESCRIPTION IT: Radio System TV (Puglia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51806
+#DESCRIPTION IT: Telebari (Puglia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51805
+#DESCRIPTION IT: TeleSpazio 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51803
+#DESCRIPTION IT: Telemajg (Puglia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4185
+#DESCRIPTION IT: Antenna Sud 13 (Puglia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51662
+#DESCRIPTION IT: Antenna Sud (Puglia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4160
+#DESCRIPTION IT: Canale 7 (Puglia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51812
+#DESCRIPTION *======= Sardegna =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51816
+#DESCRIPTION IT: RadioLina TV (Sardegna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51815
+#DESCRIPTION IT: Super TV Oristano (Sardegna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dailymotion.com/cdn/live/video/x893du6.m3u8?sec=hBZB6j_xAAVCS4p3l7b2iqy_7vHpBkX6HXxQdFsWlfbuTsBQ-nNi7sY4ViuPmNW0iyGlDFgy64TR2wmNSt6j4Q&dmTs=350892&dmV1st=C46F61F65F671E21C9DA19989D300138&progressive=1
+#DESCRIPTION IT: Sardegna Uno TV (Sardegna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53118
+#DESCRIPTION IT: VIDEOLINA SARDEGNA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53611
+#DESCRIPTION IT: Radio Iglesias (Sardegna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51825
+#DESCRIPTION *======= Sicilia =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53576
+#DESCRIPTION I T : Antenna Sicilia HD `
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51878
+#DESCRIPTION IT: Radio International TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51877
+#DESCRIPTION IT: TVA Tele Video Agrigento (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51871
+#DESCRIPTION IT: Radio Tivù Azzurra Palermo (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51870
+#DESCRIPTION IT: Radio Studio90 (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51867
+#DESCRIPTION IT: TeleSpazio 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51862
+#DESCRIPTION IT: Gold78 Telerent (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51860
+#DESCRIPTION IT: TeleRent 7Gold (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51854
+#DESCRIPTION IT: TelePegaso Caltagirone Catania (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4217
+#DESCRIPTION IT: La Tr3 Marsala (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51848
+#DESCRIPTION IT: Zerouno TV Music (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51846
+#DESCRIPTION IT: RMC 101 TV Trapani musica (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51841
+#DESCRIPTION IT: Prima Tv (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51836
+#DESCRIPTION IT: FM Italia TV (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51833
+#DESCRIPTION IT: TeleMisretta TV (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51831
+#DESCRIPTION IT: Sea Radio TV (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51827
+#DESCRIPTION IT: Globus Radio TV (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51826
+#DESCRIPTION IT: ST Europe Channel (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4196
+#DESCRIPTION IT: TeleRadioSciacca ( Agrigento )
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36016
+#DESCRIPTION IT: Video Star TV Catania (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4626
+#DESCRIPTION IT: RTP Radio Televisione Peloritana Messina (Sicilia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51884
+#DESCRIPTION *======= Toscana =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/8841
+#DESCRIPTION IT: Televaldarno RTV38 (Toscana)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51900
+#DESCRIPTION IT: Lady Radio TV (Toscana)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51899
+#DESCRIPTION IT: TV Prato (Toscana)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36148
+#DESCRIPTION IT: Granducato TV ( Toscana )
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36145
+#DESCRIPTION IT: TSD TV Telesandomenico (Toscana) In questo momento non ci sono trasmissioni in corso.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/35987
+#DESCRIPTION IT: Tele Arena Siena (Toscana)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51909
+#DESCRIPTION *======= Trentino Alto Adige =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51915
+#DESCRIPTION IT: Trentino Tv (Trentino Alto Adige)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51914
+#DESCRIPTION IT: AltoAdige TV  (Trentino Alto Adige)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51911
+#DESCRIPTION IT: RTTR Radio Tele Trentino Regionale (Trentino Alto Adige)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51924
+#DESCRIPTION *======= Umbria =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51758
+#DESCRIPTION IT: ReteSole Tv (Umbria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51926
+#DESCRIPTION IT: TRG Media (Umbria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/8842
+#DESCRIPTION IT: Umbria TV (Umbria)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51935
+#DESCRIPTION *======= Veneto =======*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51933
+#DESCRIPTION IT: Love in Venice TV (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51930
+#DESCRIPTION IT: Radio 51 (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51929
+#DESCRIPTION IT: PiterPan TV musica (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/51928
+#DESCRIPTION IT: TeleChiara (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4216
+#DESCRIPTION IT: Rete Veneta (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4171
+#DESCRIPTION IT: Tva Vicenza (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36002
+#DESCRIPTION IT: TeleVenezia  (Veneto)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/9537
+#DESCRIPTION IT: QVC Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36106
+#DESCRIPTION IT: San Marino RTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36001
+#DESCRIPTION IT: TelePace Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36025
+#DESCRIPTION IT: Orler TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/4627
+#DESCRIPTION IT: RTV SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/77134
+#DESCRIPTION !T: RAI 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60279
+#DESCRIPTION !T: RAI 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30653
+#DESCRIPTION !T: Rai 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30654
+#DESCRIPTION !T: Rai 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30656
+#DESCRIPTION !T: RAI 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30657
+#DESCRIPTION !T: Rai 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30658
+#DESCRIPTION !T: Rai 2 HD +1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30659
+#DESCRIPTION !T: Rai 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30660
+#DESCRIPTION !T: Rai 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30662
+#DESCRIPTION !T: Rete 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30663
+#DESCRIPTION !T: Rete 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30666
+#DESCRIPTION !T: Canale 5 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30667
+#DESCRIPTION !T: Canale 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101805
+#DESCRIPTION !T: CANALE 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101803
+#DESCRIPTION !T: CANALE 20 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101804
+#DESCRIPTION !T: CANALE 20 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101802
+#DESCRIPTION !T: CANALE 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/92209
+#DESCRIPTION !T: MEDIASET EXTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101797
+#DESCRIPTION !T: GRANDE FRATELLO - DIRETTA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101798
+#DESCRIPTION !T: GRANDE FRATELLO - DIRETTA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101800
+#DESCRIPTION !T: GRANDE FRATELLO VIP DIRETTA +1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101799
+#DESCRIPTION !T: GRANDE FRATELLO VIP DIRETTA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101801
+#DESCRIPTION !T: GRANDE FRATELLO VIP DIRETTA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30669
+#DESCRIPTION !T: Italia 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30670
+#DESCRIPTION !T: Italia 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30673
+#DESCRIPTION !T: LA 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30676
+#DESCRIPTION !T: TV8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30688
+#DESCRIPTION !T: Iris HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30692
+#DESCRIPTION !T: Rai Movie FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30694
+#DESCRIPTION !T: Rai Premium FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30696
+#DESCRIPTION !T: Cielo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30698
+#DESCRIPTION !T: LA 7D FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30701
+#DESCRIPTION !T: Real Time HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30707
+#DESCRIPTION !T: Dmax HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30709
+#DESCRIPTION !T: TOPcrime HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30712
+#DESCRIPTION !T: RSI LA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30713
+#DESCRIPTION !T: RSI LA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30957
+#DESCRIPTION !T: Rai Yoyo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30958
+#DESCRIPTION !T: Rai Gulp HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30950
+#DESCRIPTION !T: Frisbee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30953
+#DESCRIPTION !T: Cartoonito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30956
+#DESCRIPTION !T: Super!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30961
+#DESCRIPTION !T: Nick Jr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30963
+#DESCRIPTION !T: K2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30964
+#DESCRIPTION !T: Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30965
+#DESCRIPTION !T: Boing+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30966
+#DESCRIPTION !T: Boing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30967
+#DESCRIPTION !T: Baby TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30808
+#DESCRIPTION !T: Rai Scuola FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30784
+#DESCRIPTION !T: Caccia FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30785
+#DESCRIPTION !T: Pesca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30788
+#DESCRIPTION !T: Discovery Channel FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30789
+#DESCRIPTION !T: Discovery Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30791
+#DESCRIPTION !T: Discovery Science FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30792
+#DESCRIPTION !T: Discovery Science HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30793
+#DESCRIPTION !T: Discovery Science HD +1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30794
+#DESCRIPTION !T: History FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30795
+#DESCRIPTION !T: History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30799
+#DESCRIPTION !T: Nat Geo Wild FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30800
+#DESCRIPTION !T: Nat Geo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30802
+#DESCRIPTION !T: Ci Crime Investigation HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30806
+#DESCRIPTION !T: Focus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30790
+#DESCRIPTION !T: Discovery Channel H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30717
+#DESCRIPTION !T: Sky Cinema Uno FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30719
+#DESCRIPTION !T: Sky Cinema Uno +1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30720
+#DESCRIPTION !T: Sky Cinema Uno +24 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30722
+#DESCRIPTION !T: Sky Cinema Due FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30723
+#DESCRIPTION !T: Sky Cinema Due HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30731
+#DESCRIPTION !T: Sky Cinema Comedy FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30734
+#DESCRIPTION !T: Sky Cinema Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30736
+#DESCRIPTION !T: Sky Cinema Suspence FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30738
+#DESCRIPTION !T: Sky Cinema Romance FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30739
+#DESCRIPTION !T: Sky Cinema Romance HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/15219
+#DESCRIPTION ======== PREMIUM CINEMA ========
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30747
+#DESCRIPTION !T: Sky Cinema Uno H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30711
+#DESCRIPTION !T: Sky Cinema Due H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30706
+#DESCRIPTION !T: Sky Cinema Due +24 H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30702
+#DESCRIPTION !T: Sky Cinema Comedy H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30704
+#DESCRIPTION !T: Sky Cinema Action H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30675
+#DESCRIPTION !T: Sky Cinema Drama H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30681
+#DESCRIPTION !T: Sky Cinema Suspense H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30760
+#DESCRIPTION !T: Sky Uno FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30762
+#DESCRIPTION !T: Sky Uno HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30764
+#DESCRIPTION !T: Sky Atlantic FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30765
+#DESCRIPTION !T: Sky Atlantic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30778
+#DESCRIPTION !T: Comedy Central FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30674
+#DESCRIPTION !T: Sky Uno H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101646
+#DESCRIPTION !T: Rakuten TV THRILLER IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101645
+#DESCRIPTION !T: Rakuten TV ROMANCE IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101644
+#DESCRIPTION !T: Rakuten TV FILM TOP IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101643
+#DESCRIPTION !T: Rakuten TV FILM D'AZIONE IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101642
+#DESCRIPTION !T: Rakuten TV FAMILY IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101641
+#DESCRIPTION !T: Rakuten TV DRAMMATICO IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101640
+#DESCRIPTION !T: Rakuten TV DOCUMENTARI IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101639
+#DESCRIPTION !T: Rakuten TV COMMEDIA IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101638
+#DESCRIPTION !T: Rakuten TV CLASSICO IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30811
+#DESCRIPTION !T: Sky Sport 24 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/87803
+#DESCRIPTION !T: Sky Sport 24 FHD ʜᴇᴠᴄ ²⁶⁵
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30813
+#DESCRIPTION !T: Sky Sport Uno FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30814
+#DESCRIPTION !T: Sky Sport Uno HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30815
+#DESCRIPTION !T: Sky Sport Arena FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30816
+#DESCRIPTION !T: Sky Sport Arena HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30817
+#DESCRIPTION !T: Sky Sport Tennis FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30818
+#DESCRIPTION !T: Sky Sport Tennis HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30819
+#DESCRIPTION !T: Sky Sport NBA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30820
+#DESCRIPTION !T: Sky Sport Max FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86121
+#DESCRIPTION !T: Sky Sport Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30841
+#DESCRIPTION !T: SKY SPORT CALCIO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30823
+#DESCRIPTION !T: Sky Sport MOTO GP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30824
+#DESCRIPTION !T: Sky Sport F1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30825
+#DESCRIPTION !T: Sky Sport F1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30828
+#DESCRIPTION !T: Eurosport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30829
+#DESCRIPTION !T: Eurosport 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30830
+#DESCRIPTION !T: Uniresat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30831
+#DESCRIPTION !T: Rai Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30833
+#DESCRIPTION !T: Sport Italia SoloCalcio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30835
+#DESCRIPTION !T: Sportitalia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30865
+#DESCRIPTION !T: Sky Sport 251 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60040
+#DESCRIPTION !T: Sky Sport 251 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30867
+#DESCRIPTION !T: Sky Sport 252 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30868
+#DESCRIPTION !T: Sky Sport 252 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30869
+#DESCRIPTION !T: Sky Sport 253 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30870
+#DESCRIPTION !T: Sky Sport 253 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30871
+#DESCRIPTION !T: Sky Sport 254 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30872
+#DESCRIPTION !T: Sky Sport 254 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30873
+#DESCRIPTION !T: Sky Sport 255 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60035
+#DESCRIPTION !T: Sky Sport 255 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60036
+#DESCRIPTION !T: Sky Sport 256 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60037
+#DESCRIPTION !T: Sky Sport 256 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60038
+#DESCRIPTION !T: Sky Sport 257 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60039
+#DESCRIPTION !T: Sky Sport 257 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/63016
+#DESCRIPTION !T: Sky Sport Serie A 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30881
+#DESCRIPTION !T: SKY SPORT BAR UNO FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30880
+#DESCRIPTION !T: SKY SPORT BAR DUE FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30879
+#DESCRIPTION !T: Milan Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30878
+#DESCRIPTION !T: Inter Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30882
+#DESCRIPTION !T: Juventus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30876
+#DESCRIPTION !T: Top Calcio 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/63015
+#DESCRIPTION !T: SOLO CALCIO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30877
+#DESCRIPTION !T: Lazio Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75991
+#DESCRIPTION *ᴵᵀ: =====> EAGLE CINEMA FULL ᴴᴰ <======
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76003
+#DESCRIPTION *IT: Eagle Cinema Azione ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75993
+#DESCRIPTION *IT: Eagle Cinema Horror ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75997
+#DESCRIPTION *IT: Eagle Cinema Thriller ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75994
+#DESCRIPTION *IT: Eagle Cinema Drammatico ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75995
+#DESCRIPTION *IT: Eagle Cinema Passione ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/80811
+#DESCRIPTION *ᴵᵀ: Eagle Cinema Romantica ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75996
+#DESCRIPTION *IT: Eagle Cinema Storico ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75998
+#DESCRIPTION *IT: Eagle Cinema Comico Cult ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75999
+#DESCRIPTION *IT: Eagle Cinema Sorriso ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76000
+#DESCRIPTION *IT: Eagle Cinema Commedia ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76001
+#DESCRIPTION *IT: Eagle Cinema Fantastico ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76002
+#DESCRIPTION *IT: Eagle Cinema Avventura ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76004
+#DESCRIPTION *IT: Eagle Cinema Prima Visione ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76007
+#DESCRIPTION *IT: Eagle Cinema Animazione ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/87249
+#DESCRIPTION IT: Eagle Cinema Fast & Furious ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/87248
+#DESCRIPTION IT: Eagle Cinema Spider-Man ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/87247
+#DESCRIPTION IT: Eagle Cinema The Matrix ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/88639
+#DESCRIPTION *ᴵᵀ: Eagle Cinema X-Men ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/88640
+#DESCRIPTION *ᴵᵀ: Eagle Cinema DeadPool ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/89431
+#DESCRIPTION *ᴵᵀ: Eagle Cinema Il Padrino - The Godfather ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/87580
+#DESCRIPTION IT: Eagle Cinema Jackie Chan Film Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/87534
+#DESCRIPTION IT: Eagle Cinema Bruce Lee Film Channel ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/87620
+#DESCRIPTION IT: Eagle Cinema Leonardo DiCaprio Film Channel ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/87533
+#DESCRIPTION IT: Eagle Cinema Beverly Hills Cop Film Channel ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76074
+#DESCRIPTION *ᴵᵀ: Eagle Cinema Avengers Grimm ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76008
+#DESCRIPTION *IT: Eagle Cinema Film in Sala ꜰʜ & ʜᴅ (Qualita Camera Video & Audio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76009
+#DESCRIPTION *IT: Eagle Cinema Mitologia ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76010
+#DESCRIPTION *IT: Eagle Le Fiabe Disney ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76011
+#DESCRIPTION *IT: Eagle Masha e Orso ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76012
+#DESCRIPTION *IT: Eagle Fiabe Magiche ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76013
+#DESCRIPTION *IT: Eagle Peppa Pig ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/36173
+#DESCRIPTION *IT: Eagle Cinema Comico Cult FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/22996
+#DESCRIPTION *IT: Eagle Super Pigiamini FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/68140
+#DESCRIPTION *IT: Eagle Tom e Jerry FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75895
+#DESCRIPTION *IT: Eagle Super Pigiamini ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75932
+#DESCRIPTION *IT: Eagle Fantozzi Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76014
+#DESCRIPTION *IT: Eagle Disney Topolino Paperino e Pippo ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75988
+#DESCRIPTION *IT: Disney Plus Animation ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76019
+#DESCRIPTION *IT: Eagle Looney Toons ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75961
+#DESCRIPTION *ᴵᵀ: Disney Plus Film 1 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76122
+#DESCRIPTION *ᴵᵀ: Disney Plus Film 2 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76031
+#DESCRIPTION *IT: Totò Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76032
+#DESCRIPTION *IT: Eagle Aldo Giovanni e Giacomo Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76033
+#DESCRIPTION *IT: EAGLE 4ᴷ ᵁᴴᴰ (IT-DE-EN-multilanguage)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76034
+#DESCRIPTION *IT: Eagle Cinema Religion ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76035
+#DESCRIPTION *IT: Eagle Cinema Western ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76036
+#DESCRIPTION *IT: Eagle Cinema Spaghetti Western ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76037
+#DESCRIPTION *IT: Eagle Cinema 007 ꜰʜᴅ HEVC H265 (dual audio ITA/ENG)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76038
+#DESCRIPTION *IT: Eagle Cinema Bud Spencer ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76039
+#DESCRIPTION *IT: La Casa di Topolino Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76042
+#DESCRIPTION *IT: Eagle Dragon Ball Z Channel ⁴ᴷ (Audio-1.ITA-2.ENG)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76043
+#DESCRIPTION *IT: Eagle Lupin III Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76044
+#DESCRIPTION *IT: Eagle Nature Discovery 4ᴷ ᵁᴴᴰ (double audio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76045
+#DESCRIPTION *IT: Eagle Nature Explorer ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76052
+#DESCRIPTION *IT: Eagle Brickleberry ꜰʜᴅ 24H
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76053
+#DESCRIPTION *IT: Eagle American Dad 24H
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76054
+#DESCRIPTION *IT: Eagle Peter Griffin 24H
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76055
+#DESCRIPTION *IT: Eagle The Cleveland Show 24H
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76056
+#DESCRIPTION *IT: Eagle Cinepanettone ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76057
+#DESCRIPTION *IT: Eagle Cinema Biografico ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76058
+#DESCRIPTION *IT: Eagle Cinema Famiglia ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76059
+#DESCRIPTION *IT: Eagle Cinema Fantascienza ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76060
+#DESCRIPTION *IT: How i Met You Mother ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76061
+#DESCRIPTION *IT: The Big Bang Theory ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76068
+#DESCRIPTION *IT: Eagle Scooby-Doo ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76069
+#DESCRIPTION *IT: Me-contro-Te Film Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86537
+#DESCRIPTION *IT: Me-contro-Te Serie Stagione 1 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86538
+#DESCRIPTION *IT: Me-contro-Te Serie Stagione 2 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76070
+#DESCRIPTION *IT: Ghost Adventures-Cacciatori di fantasmi channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76071
+#DESCRIPTION *IT: Il Trono di Spade Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76072
+#DESCRIPTION *IT: Eagle 20thCenturyFox ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76073
+#DESCRIPTION IT: Eagle Cinema Marvel Cinematic Universe ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76075
+#DESCRIPTION *IT: G.I.JOE Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76076
+#DESCRIPTION *IT: Harry Potter Channel ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76077
+#DESCRIPTION *IT: Hunger Games Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76078
+#DESCRIPTION *IT: Il Re Scorpione Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76079
+#DESCRIPTION *IT: IL Signore Degli Anelli Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76080
+#DESCRIPTION *IT: Indiana Jones Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76081
+#DESCRIPTION *IT: IP MAN Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76082
+#DESCRIPTION *ᴵᵀ: Karate Kid Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76083
+#DESCRIPTION *ᴵᵀ: Kung Fu Panda Film Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76084
+#DESCRIPTION *ᴵᵀ: Men in Black Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76085
+#DESCRIPTION *ᴵᵀ: Mission impossible Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76086
+#DESCRIPTION *ᴵᵀ: Pirati dei Caraibi Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76087
+#DESCRIPTION *ᴵᵀ: Pirati dei Caraibi Channel 4ᴷ ᵁᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76088
+#DESCRIPTION *ᴵᵀ: Rambo Channel ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76089
+#DESCRIPTION *ᴵᵀ: Rocky Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76090
+#DESCRIPTION *ᴵᵀ: Terminator Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76091
+#DESCRIPTION *ᴵᵀ: The Bourne Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76092
+#DESCRIPTION *ᴵᵀ: Transformers Channel ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76093
+#DESCRIPTION *ᴵᵀ: Twilight Channel ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76094
+#DESCRIPTION *ᴵᵀ: Eagle Cinema Star Wars Channel ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75954
+#DESCRIPTION *IT: Scuola di Polizia Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76099
+#DESCRIPTION *ᴵᵀ: Eagle Bambini Bing ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76101
+#DESCRIPTION *ᴵᵀ: I Mercenari-The Expendables Channel HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76102
+#DESCRIPTION *ᴵᵀ: I Mercenari-The Expendables Channel 4ᴷ ᵁᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76103
+#DESCRIPTION *ᴵᵀ: Jean Claude Van Damme Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76104
+#DESCRIPTION *ᴵᵀ: Underworld  Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76105
+#DESCRIPTION *ᴵᵀ: Kung Fu Panda Series Channel ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76109
+#DESCRIPTION *ᴵᵀ: Eagle DC's Legends of Tomorrow Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76118
+#DESCRIPTION *ᴵᵀ:  Lo Hobbit Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/68141
+#DESCRIPTION *IT: Eagle Leone il Cane Fifone SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/22906
+#DESCRIPTION *IT: SKY SPORT AEW / WWE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/53082
+#DESCRIPTION *IT: Discovery Dmax Sport WWE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76123
+#DESCRIPTION *ᴵᵀ: Disney Plus Nature ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76155
+#DESCRIPTION *ᴵᵀ: Eagle Louis De Funes Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76156
+#DESCRIPTION *ᴵᵀ: Eagle Paolo Villagio Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76157
+#DESCRIPTION *ᴵᵀ: Eagle Nino D'Angelo Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76158
+#DESCRIPTION *ᴵᵀ: Eagle Massimo Troisi Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76159
+#DESCRIPTION *ᴵᵀ: Eagle Gigi Proietti Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76160
+#DESCRIPTION *ᴵᵀ: Eagle Franco e Ciccio Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76161
+#DESCRIPTION *ᴵᵀ: Eagle Adriano Celentano Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76162
+#DESCRIPTION *ᴵᵀ: Eagle Alvaro Vitali-Pierino Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76163
+#DESCRIPTION *ᴵᵀ: Eagle Alessandro Siani Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76164
+#DESCRIPTION *ᴵᵀ: Eagle Jean Reno Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76165
+#DESCRIPTION *ᴵᵀ: Eagle Alberto Sordi Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76194
+#DESCRIPTION *ᴵᵀ: Eagle Diego Abatantuono Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76195
+#DESCRIPTION *ᴵᵀ: Eagle Carlo Verdone Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76196
+#DESCRIPTION *ᴵᵀ: Eagle Checco Zalone Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76197
+#DESCRIPTION *ᴵᵀ: Eagle Christian De Sica Channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76030
+#DESCRIPTION *IT: Eagle Gomorra Stagione 1 ꜰʜᴅ HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76337
+#DESCRIPTION *ᴵᵀ: Eagle Gomorra Stagione 2 ꜰʜᴅ HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76338
+#DESCRIPTION *IT: Eagle Gomorra Stagione 3 ꜰʜᴅ HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76339
+#DESCRIPTION *IT:Eagle Gomorra Stagione 4 ꜰʜᴅ HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76340
+#DESCRIPTION *IT:Eagle Gomorra Stagione 5 ꜰʜᴅ HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86017
+#DESCRIPTION *IT: Eagle Game Of Thrones Stagione 1 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86018
+#DESCRIPTION *IT: Eagle Game Of Thrones Stagione 2 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86019
+#DESCRIPTION *IT: Eagle Game Of Thrones Stagione 3 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86020
+#DESCRIPTION *IT: Eagle Game Of Thrones Stagione 4 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86021
+#DESCRIPTION *IT: Eagle Game Of Thrones Stagione 5 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86022
+#DESCRIPTION *IT: Eagle Game Of Thrones Stagione 6 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86023
+#DESCRIPTION *IT: Eagle Game Of Thrones Stagione 7 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86024
+#DESCRIPTION *IT: Eagle Game Of Thrones Stagione 8 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86517
+#DESCRIPTION *IT: La Casa De Papel Stagione 5 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86516
+#DESCRIPTION *IT: La Casa De Papel Stagione 4 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86515
+#DESCRIPTION *IT: La Casa De Papel Stagione 3 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86514
+#DESCRIPTION *IT: La Casa De Papel Stagione 2 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86513
+#DESCRIPTION *IT: La Casa De Papel Stagione 1 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86264
+#DESCRIPTION *IT: Eagle Breaking Bad Stagione 5 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86263
+#DESCRIPTION *IT: Eagle Breaking Bad Stagione 4 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86262
+#DESCRIPTION *IT: Eagle Breaking Bad Stagione 3 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86261
+#DESCRIPTION *IT: Eagle Breaking Bad Stagione 2 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86260
+#DESCRIPTION *IT: Eagle Breaking Bad Stagione 1 ⁴ᴷ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76346
+#DESCRIPTION *IT: Barbapapa 1970 channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76347
+#DESCRIPTION *IT: Barbapapa 2018 channel ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76348
+#DESCRIPTION *IT: Eagle Jason Statham Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76349
+#DESCRIPTION *ᴵᵀ: Eagle Elvis Presley Channel ꜰʜᴅ (multi-audio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76350
+#DESCRIPTION *IT: Eagle Liam Neeson Channel ꜰʜᴅ (multi-audio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76351
+#DESCRIPTION *IT: Eagle Il capo dei capi Channel ꜰʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75836
+#DESCRIPTION >>>>>> PRIMAFILA <<<<<<
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75806
+#DESCRIPTION *ᴵᵀ: Vetrina Sky Primafila Premiere ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75805
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 1 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75804
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 2 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75803
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 3 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75802
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 4 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75801
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 5 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75800
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 6 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75799
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 7 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75798
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 8 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75797
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 9 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75796
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 10 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75812
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 11 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75811
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 12 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75896
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 13 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75897
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 14 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75898
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 15 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75899
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 16 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75900
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 17 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76124
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 18 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/88344
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 19 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/88345
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 20 ʜᴅ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75956
+#DESCRIPTION *ᴵᵀ: Vetrina Sky Primafila Premiere 4ᴷ ᵁᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75911
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 01 4ᴷ ᵁᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75912
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 02 4ᴷ ᵁᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75913
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 03 4ᴷ ᵁᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75914
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 04 4ᴷ ᵁᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75915
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 05 4ᴷ ᵁᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75916
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 06 4ᴷ ᵁᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75917
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 07 4ᴷ ᵁᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75933
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 08 4ᴷ ᵁᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75934
+#DESCRIPTION *ᴵᵀ: Sky Primafila Premiere 09 4ᴷ ᵁᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/75891
+#DESCRIPTION *ᴵᵀ: SKY SPORT AEW / WWE ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/76198
+#DESCRIPTION *ᴵᵀ: Discovery Dmax Sport WWE ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86553.mp4
+#DESCRIPTION Star Wars: Tales of the Empire -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86554.mp4
+#DESCRIPTION Star Wars: Tales of the Empire -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86555.mp4
+#DESCRIPTION Star Wars: Tales of the Empire -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86556.mp4
+#DESCRIPTION Star Wars: Tales of the Empire -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86557.mp4
+#DESCRIPTION Star Wars: Tales of the Empire -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86558.mp4
+#DESCRIPTION Star Wars: Tales of the Empire -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86184.mkv
+#DESCRIPTION Game of Thrones -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86185.mkv
+#DESCRIPTION Game of Thrones -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86186.mkv
+#DESCRIPTION Game of Thrones -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86187.mkv
+#DESCRIPTION Game of Thrones -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86188.mkv
+#DESCRIPTION Game of Thrones -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86189.mkv
+#DESCRIPTION Game of Thrones -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86190.mkv
+#DESCRIPTION Game of Thrones -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86191.mkv
+#DESCRIPTION Game of Thrones -IT S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86192.mkv
+#DESCRIPTION Game of Thrones -IT S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86193.mkv
+#DESCRIPTION Game of Thrones -IT S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86194.mkv
+#DESCRIPTION Game of Thrones -IT S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86195.mkv
+#DESCRIPTION Game of Thrones -IT S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86196.mkv
+#DESCRIPTION Game of Thrones -IT S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86197.mkv
+#DESCRIPTION Game of Thrones -IT S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86198.mkv
+#DESCRIPTION Game of Thrones -IT S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86199.mkv
+#DESCRIPTION Game of Thrones -IT S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86200.mkv
+#DESCRIPTION Game of Thrones -IT S02 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86201.mkv
+#DESCRIPTION Game of Thrones -IT S02 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86202.mkv
+#DESCRIPTION Game of Thrones -IT S02 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86203.mkv
+#DESCRIPTION Game of Thrones -IT S02 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86204.mkv
+#DESCRIPTION Game of Thrones -IT S03 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86205.mkv
+#DESCRIPTION Game of Thrones -IT S03 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86206.mkv
+#DESCRIPTION Game of Thrones -IT S03 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86207.mkv
+#DESCRIPTION Game of Thrones -IT S03 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86208.mkv
+#DESCRIPTION Game of Thrones -IT S03 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86209.mkv
+#DESCRIPTION Game of Thrones -IT S03 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86210.mkv
+#DESCRIPTION Game of Thrones -IT S03 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86211.mkv
+#DESCRIPTION Game of Thrones -IT S03 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86212.mkv
+#DESCRIPTION Game of Thrones -IT S03 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86213.mkv
+#DESCRIPTION Game of Thrones -IT S03 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86214.mkv
+#DESCRIPTION Game of Thrones -IT S04 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86215.mkv
+#DESCRIPTION Game of Thrones -IT S04 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86216.mkv
+#DESCRIPTION Game of Thrones -IT S04 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86217.mkv
+#DESCRIPTION Game of Thrones -IT S04 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86218.mkv
+#DESCRIPTION Game of Thrones -IT S04 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86219.mkv
+#DESCRIPTION Game of Thrones -IT S04 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86220.mkv
+#DESCRIPTION Game of Thrones -IT S04 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86221.mkv
+#DESCRIPTION Game of Thrones -IT S04 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86222.mkv
+#DESCRIPTION Game of Thrones -IT S04 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86223.mkv
+#DESCRIPTION Game of Thrones -IT S04 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86224.mkv
+#DESCRIPTION Game of Thrones -IT S05 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86225.mkv
+#DESCRIPTION Game of Thrones -IT S05 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86226.mkv
+#DESCRIPTION Game of Thrones -IT S05 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86227.mkv
+#DESCRIPTION Game of Thrones -IT S05 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86228.mkv
+#DESCRIPTION Game of Thrones -IT S05 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86229.mkv
+#DESCRIPTION Game of Thrones -IT S05 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86230.mkv
+#DESCRIPTION Game of Thrones -IT S05 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86231.mkv
+#DESCRIPTION Game of Thrones -IT S05 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86232.mkv
+#DESCRIPTION Game of Thrones -IT S05 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86233.mkv
+#DESCRIPTION Game of Thrones -IT S05 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86234.mkv
+#DESCRIPTION Game of Thrones -IT S06 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86235.mkv
+#DESCRIPTION Game of Thrones -IT S06 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86236.mkv
+#DESCRIPTION Game of Thrones -IT S06 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86237.mkv
+#DESCRIPTION Game of Thrones -IT S06 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86238.mkv
+#DESCRIPTION Game of Thrones -IT S06 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86239.mkv
+#DESCRIPTION Game of Thrones -IT S06 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86240.mkv
+#DESCRIPTION Game of Thrones -IT S06 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86241.mkv
+#DESCRIPTION Game of Thrones -IT S06 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86242.mkv
+#DESCRIPTION Game of Thrones -IT S06 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86243.mkv
+#DESCRIPTION Game of Thrones -IT S06 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86244.mkv
+#DESCRIPTION Game of Thrones -IT S07 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86245.mkv
+#DESCRIPTION Game of Thrones -IT S07 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86246.mkv
+#DESCRIPTION Game of Thrones -IT S07 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86247.mkv
+#DESCRIPTION Game of Thrones -IT S07 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86248.mkv
+#DESCRIPTION Game of Thrones -IT S07 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86249.mkv
+#DESCRIPTION Game of Thrones -IT S07 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86250.mkv
+#DESCRIPTION Game of Thrones -IT S07 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86251.mkv
+#DESCRIPTION Game of Thrones -IT S08 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86252.mkv
+#DESCRIPTION Game of Thrones -IT S08 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86253.mkv
+#DESCRIPTION Game of Thrones -IT S08 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86254.mkv
+#DESCRIPTION Game of Thrones -IT S08 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86255.mkv
+#DESCRIPTION Game of Thrones -IT S08 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86256.mkv
+#DESCRIPTION Game of Thrones -IT S08 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86122.mkv
+#DESCRIPTION Breaking Bad -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86123.mkv
+#DESCRIPTION Breaking Bad -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86124.mkv
+#DESCRIPTION Breaking Bad -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86125.mkv
+#DESCRIPTION Breaking Bad -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86126.mkv
+#DESCRIPTION Breaking Bad -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86127.mkv
+#DESCRIPTION Breaking Bad -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86128.mkv
+#DESCRIPTION Breaking Bad -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86129.mkv
+#DESCRIPTION Breaking Bad -IT S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86130.mkv
+#DESCRIPTION Breaking Bad -IT S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86131.mkv
+#DESCRIPTION Breaking Bad -IT S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86132.mkv
+#DESCRIPTION Breaking Bad -IT S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86133.mkv
+#DESCRIPTION Breaking Bad -IT S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86134.mkv
+#DESCRIPTION Breaking Bad -IT S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86135.mkv
+#DESCRIPTION Breaking Bad -IT S02 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86136.mkv
+#DESCRIPTION Breaking Bad -IT S02 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86137.mkv
+#DESCRIPTION Breaking Bad -IT S02 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86138.mkv
+#DESCRIPTION Breaking Bad -IT S02 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86139.mkv
+#DESCRIPTION Breaking Bad -IT S02 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86140.mkv
+#DESCRIPTION Breaking Bad -IT S02 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86141.mkv
+#DESCRIPTION Breaking Bad -IT S02 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86142.mkv
+#DESCRIPTION Breaking Bad -IT S03 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86143.mkv
+#DESCRIPTION Breaking Bad -IT S03 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86144.mkv
+#DESCRIPTION Breaking Bad -IT S03 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86145.mkv
+#DESCRIPTION Breaking Bad -IT S03 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86146.mkv
+#DESCRIPTION Breaking Bad -IT S03 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86147.mkv
+#DESCRIPTION Breaking Bad -IT S03 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86148.mkv
+#DESCRIPTION Breaking Bad -IT S03 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86149.mkv
+#DESCRIPTION Breaking Bad -IT S03 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86150.mkv
+#DESCRIPTION Breaking Bad -IT S03 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86151.mkv
+#DESCRIPTION Breaking Bad -IT S03 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86152.mkv
+#DESCRIPTION Breaking Bad -IT S03 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86153.mkv
+#DESCRIPTION Breaking Bad -IT S03 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86154.mkv
+#DESCRIPTION Breaking Bad -IT S03 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86155.mkv
+#DESCRIPTION Breaking Bad -IT S04 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86156.mkv
+#DESCRIPTION Breaking Bad -IT S04 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86157.mkv
+#DESCRIPTION Breaking Bad -IT S04 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86158.mkv
+#DESCRIPTION Breaking Bad -IT S04 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86159.mkv
+#DESCRIPTION Breaking Bad -IT S04 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86160.mkv
+#DESCRIPTION Breaking Bad -IT S04 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86161.mkv
+#DESCRIPTION Breaking Bad -IT S04 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86162.mkv
+#DESCRIPTION Breaking Bad -IT S04 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86163.mkv
+#DESCRIPTION Breaking Bad -IT S04 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86164.mkv
+#DESCRIPTION Breaking Bad -IT S04 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86165.mkv
+#DESCRIPTION Breaking Bad -IT S04 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86166.mkv
+#DESCRIPTION Breaking Bad -IT S04 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86167.mkv
+#DESCRIPTION Breaking Bad -IT S04 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86168.mkv
+#DESCRIPTION Breaking Bad -IT S05 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86169.mkv
+#DESCRIPTION Breaking Bad -IT S05 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86170.mkv
+#DESCRIPTION Breaking Bad -IT S05 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86171.mkv
+#DESCRIPTION Breaking Bad -IT S05 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86172.mkv
+#DESCRIPTION Breaking Bad -IT S05 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86173.mkv
+#DESCRIPTION Breaking Bad -IT S05 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86174.mkv
+#DESCRIPTION Breaking Bad -IT S05 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86175.mkv
+#DESCRIPTION Breaking Bad -IT S05 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86176.mkv
+#DESCRIPTION Breaking Bad -IT S05 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86177.mkv
+#DESCRIPTION Breaking Bad -IT S05 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86178.mkv
+#DESCRIPTION Breaking Bad -IT S05 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86179.mkv
+#DESCRIPTION Breaking Bad -IT S05 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86180.mkv
+#DESCRIPTION Breaking Bad -IT S05 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86181.mkv
+#DESCRIPTION Breaking Bad -IT S05 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86182.mkv
+#DESCRIPTION Breaking Bad -IT S05 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/86183.mkv
+#DESCRIPTION Breaking Bad -IT S05 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/85020.mp4
+#DESCRIPTION Alexander: The Making of a God -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/85021.mp4
+#DESCRIPTION Alexander: The Making of a God -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/85022.mp4
+#DESCRIPTION Alexander: The Making of a God -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/85023.mp4
+#DESCRIPTION Alexander: The Making of a God -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/85024.mp4
+#DESCRIPTION Alexander: The Making of a God -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/85025.mp4
+#DESCRIPTION Alexander: The Making of a God -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84941.mp4
+#DESCRIPTION Griselda -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84942.mp4
+#DESCRIPTION Griselda -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84943.mp4
+#DESCRIPTION Griselda -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84944.mp4
+#DESCRIPTION Griselda -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84945.mp4
+#DESCRIPTION Griselda -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84946.mp4
+#DESCRIPTION Griselda -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84784.mp4
+#DESCRIPTION Berlin -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84785.mp4
+#DESCRIPTION Berlin -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84786.mp4
+#DESCRIPTION Berlin -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84787.mp4
+#DESCRIPTION Berlin -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84788.mp4
+#DESCRIPTION Berlin -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84789.mp4
+#DESCRIPTION Berlin -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84790.mp4
+#DESCRIPTION Berlin -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84791.mp4
+#DESCRIPTION Berlin -IT S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84775.mp4
+#DESCRIPTION Wednesday -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84776.mp4
+#DESCRIPTION Wednesday -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84777.mp4
+#DESCRIPTION Wednesday -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84778.mp4
+#DESCRIPTION Wednesday -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84779.mp4
+#DESCRIPTION Wednesday -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84780.mp4
+#DESCRIPTION Wednesday -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84781.mp4
+#DESCRIPTION Wednesday -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84782.mp4
+#DESCRIPTION Wednesday -IT S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84668.mp4
+#DESCRIPTION Narcos -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84669.mp4
+#DESCRIPTION Narcos -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84670.mp4
+#DESCRIPTION Narcos -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84671.mp4
+#DESCRIPTION Narcos -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84672.mp4
+#DESCRIPTION Narcos -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84673.mp4
+#DESCRIPTION Narcos -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84674.mp4
+#DESCRIPTION Narcos -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84675.mp4
+#DESCRIPTION Narcos -IT S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84676.mp4
+#DESCRIPTION Narcos -IT S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84677.mp4
+#DESCRIPTION Narcos -IT S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84678.mp4
+#DESCRIPTION Narcos -IT S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84679.mp4
+#DESCRIPTION Narcos -IT S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84680.mp4
+#DESCRIPTION Narcos -IT S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84681.mp4
+#DESCRIPTION Narcos -IT S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84682.mp4
+#DESCRIPTION Narcos -IT S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84683.mp4
+#DESCRIPTION Narcos -IT S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84684.mp4
+#DESCRIPTION Narcos -IT S02 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84685.mp4
+#DESCRIPTION Narcos -IT S02 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84686.mp4
+#DESCRIPTION Narcos -IT S02 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84687.mp4
+#DESCRIPTION Narcos -IT S02 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84688.mp4
+#DESCRIPTION Narcos -IT S03 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84689.mp4
+#DESCRIPTION Narcos -IT S03 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84690.mp4
+#DESCRIPTION Narcos -IT S03 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84691.mp4
+#DESCRIPTION Narcos -IT S03 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84692.mp4
+#DESCRIPTION Narcos -IT S03 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84693.mp4
+#DESCRIPTION Narcos -IT S03 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84694.mp4
+#DESCRIPTION Narcos -IT S03 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84695.mp4
+#DESCRIPTION Narcos -IT S03 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84696.mp4
+#DESCRIPTION Narcos -IT S03 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84697.mp4
+#DESCRIPTION Narcos -IT S03 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84365.mp4
+#DESCRIPTION Vikings: Valhalla -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84366.mp4
+#DESCRIPTION Vikings: Valhalla -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84367.mp4
+#DESCRIPTION Vikings: Valhalla -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84368.mp4
+#DESCRIPTION Vikings: Valhalla -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84369.mp4
+#DESCRIPTION Vikings: Valhalla -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84370.mp4
+#DESCRIPTION Vikings: Valhalla -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84371.mp4
+#DESCRIPTION Vikings: Valhalla -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84372.mp4
+#DESCRIPTION Vikings: Valhalla -IT S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84373.mp4
+#DESCRIPTION Vikings: Valhalla -IT S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84374.mp4
+#DESCRIPTION Vikings: Valhalla -IT S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84375.mp4
+#DESCRIPTION Vikings: Valhalla -IT S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84376.mp4
+#DESCRIPTION Vikings: Valhalla -IT S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84377.mp4
+#DESCRIPTION Vikings: Valhalla -IT S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84378.mp4
+#DESCRIPTION Vikings: Valhalla -IT S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84379.mp4
+#DESCRIPTION Vikings: Valhalla -IT S02 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84380.mp4
+#DESCRIPTION Vikings: Valhalla -IT S02 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83987.mp4
+#DESCRIPTION The Mandalorian -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83988.mp4
+#DESCRIPTION The Mandalorian -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83989.mp4
+#DESCRIPTION The Mandalorian -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83990.mp4
+#DESCRIPTION The Mandalorian -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83991.mp4
+#DESCRIPTION The Mandalorian -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83992.mp4
+#DESCRIPTION The Mandalorian -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83993.mp4
+#DESCRIPTION The Mandalorian -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83994.mp4
+#DESCRIPTION The Mandalorian -IT S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83995.mp4
+#DESCRIPTION The Mandalorian -IT S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83996.mp4
+#DESCRIPTION The Mandalorian -IT S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83997.mp4
+#DESCRIPTION The Mandalorian -IT S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83998.mp4
+#DESCRIPTION The Mandalorian -IT S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83999.mp4
+#DESCRIPTION The Mandalorian -IT S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84000.mp4
+#DESCRIPTION The Mandalorian -IT S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84001.mp4
+#DESCRIPTION The Mandalorian -IT S02 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84002.mp4
+#DESCRIPTION The Mandalorian -IT S02 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84003.mp4
+#DESCRIPTION The Mandalorian -IT S03 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84004.mp4
+#DESCRIPTION The Mandalorian -IT S03 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84005.mp4
+#DESCRIPTION The Mandalorian -IT S03 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84006.mp4
+#DESCRIPTION The Mandalorian -IT S03 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84007.mp4
+#DESCRIPTION The Mandalorian -IT S03 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84008.mp4
+#DESCRIPTION The Mandalorian -IT S03 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84009.mp4
+#DESCRIPTION The Mandalorian -IT S03 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/84010.mp4
+#DESCRIPTION The Mandalorian -IT S03 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83975.mp4
+#DESCRIPTION Loki -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83976.mp4
+#DESCRIPTION Loki -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83977.mp4
+#DESCRIPTION Loki -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83978.mp4
+#DESCRIPTION Loki -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83979.mp4
+#DESCRIPTION Loki -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83980.mp4
+#DESCRIPTION Loki -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83981.mp4
+#DESCRIPTION Loki -IT S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83982.mp4
+#DESCRIPTION Loki -IT S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83983.mp4
+#DESCRIPTION Loki -IT S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83984.mp4
+#DESCRIPTION Loki -IT S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83985.mp4
+#DESCRIPTION Loki -IT S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83986.mp4
+#DESCRIPTION Loki -IT S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83971.mp4
+#DESCRIPTION Percy Jackson and the Olympians -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83972.mp4
+#DESCRIPTION Percy Jackson and the Olympians -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83973.mp4
+#DESCRIPTION Percy Jackson and the Olympians -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83974.mp4
+#DESCRIPTION Percy Jackson and the Olympians -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83904.mp4
+#DESCRIPTION Ahsoka -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83905.mp4
+#DESCRIPTION Ahsoka -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83906.mp4
+#DESCRIPTION Ahsoka -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83907.mp4
+#DESCRIPTION Ahsoka -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83908.mp4
+#DESCRIPTION Ahsoka -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83909.mp4
+#DESCRIPTION Ahsoka -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83910.mp4
+#DESCRIPTION Ahsoka -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83911.mp4
+#DESCRIPTION Ahsoka -IT S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83892.mp4
+#DESCRIPTION The Santa Clauses -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83893.mp4
+#DESCRIPTION The Santa Clauses -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83894.mp4
+#DESCRIPTION The Santa Clauses -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83895.mp4
+#DESCRIPTION The Santa Clauses -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83896.mp4
+#DESCRIPTION The Santa Clauses -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83897.mp4
+#DESCRIPTION The Santa Clauses -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83898.mp4
+#DESCRIPTION The Santa Clauses -IT S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83899.mp4
+#DESCRIPTION The Santa Clauses -IT S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83900.mp4
+#DESCRIPTION The Santa Clauses -IT S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83901.mp4
+#DESCRIPTION The Santa Clauses -IT S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83902.mp4
+#DESCRIPTION The Santa Clauses -IT S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83903.mp4
+#DESCRIPTION The Santa Clauses -IT S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83836.mp4
+#DESCRIPTION What If...? -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83837.mp4
+#DESCRIPTION What If...? -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83838.mp4
+#DESCRIPTION What If...? -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83839.mp4
+#DESCRIPTION What If...? -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83840.mp4
+#DESCRIPTION What If...? -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83841.mp4
+#DESCRIPTION What If...? -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83842.mp4
+#DESCRIPTION What If...? -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83843.mp4
+#DESCRIPTION What If...? -IT S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83844.mp4
+#DESCRIPTION What If...? -IT S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83845.mp4
+#DESCRIPTION What If...? -IT S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83846.mp4
+#DESCRIPTION What If...? -IT S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83847.mp4
+#DESCRIPTION What If...? -IT S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83848.mp4
+#DESCRIPTION What If...? -IT S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83849.mp4
+#DESCRIPTION What If...? -IT S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83850.mp4
+#DESCRIPTION What If...? -IT S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83851.mp4
+#DESCRIPTION What If...? -IT S02 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83852.mp4
+#DESCRIPTION What If...? -IT S02 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83853.mp4
+#DESCRIPTION What If...? -IT S02 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83776.mp4
+#DESCRIPTION My Life with the Walter Boys -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83777.mp4
+#DESCRIPTION My Life with the Walter Boys -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83778.mp4
+#DESCRIPTION My Life with the Walter Boys -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83779.mp4
+#DESCRIPTION My Life with the Walter Boys -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83780.mp4
+#DESCRIPTION My Life with the Walter Boys -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83781.mp4
+#DESCRIPTION My Life with the Walter Boys -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83782.mp4
+#DESCRIPTION My Life with the Walter Boys -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83783.mp4
+#DESCRIPTION My Life with the Walter Boys -IT S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83784.mp4
+#DESCRIPTION My Life with the Walter Boys -IT S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83785.mp4
+#DESCRIPTION My Life with the Walter Boys -IT S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83768.mp4
+#DESCRIPTION ONE PIECE -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83769.mp4
+#DESCRIPTION ONE PIECE -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83770.mp4
+#DESCRIPTION ONE PIECE -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83771.mp4
+#DESCRIPTION ONE PIECE -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83772.mp4
+#DESCRIPTION ONE PIECE -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83773.mp4
+#DESCRIPTION ONE PIECE -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83774.mp4
+#DESCRIPTION ONE PIECE -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83775.mp4
+#DESCRIPTION ONE PIECE -IT S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83764.mp4
+#DESCRIPTION McGREGOR FOREVER -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83765.mp4
+#DESCRIPTION McGREGOR FOREVER -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83766.mp4
+#DESCRIPTION McGREGOR FOREVER -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83767.mp4
+#DESCRIPTION McGREGOR FOREVER -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83716.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83717.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83718.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83719.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83720.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83721.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83722.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83723.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83724.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83725.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83726.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83727.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83728.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S01 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83729.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83730.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83731.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83732.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83733.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83734.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83735.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S02 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83736.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S02 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83737.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S02 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83738.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S03 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83739.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S03 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83740.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S03 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83741.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S03 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83742.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S03 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83743.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S03 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83744.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S03 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83745.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S03 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83746.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S04 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83747.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S04 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83748.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S04 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83749.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S04 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83750.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S04 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83751.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S04 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83752.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S04 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83753.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S04 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83754.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S05 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83755.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S05 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83756.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S05 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83757.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S05 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83758.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S05 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83759.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S05 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83760.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S05 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83761.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S05 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83762.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S05 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83763.mp4
+#DESCRIPTION La Casa De Papel (Money Heist) -IT S05 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83620.mp4
+#DESCRIPTION Fool Me Once -IT S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83621.mp4
+#DESCRIPTION Fool Me Once -IT S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83622.mp4
+#DESCRIPTION Fool Me Once -IT S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83623.mp4
+#DESCRIPTION Fool Me Once -IT S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83624.mp4
+#DESCRIPTION Fool Me Once -IT S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83625.mp4
+#DESCRIPTION Fool Me Once -IT S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83626.mp4
+#DESCRIPTION Fool Me Once -IT S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/series/adibacitrrah/takBkWqMJ/83627.mp4
+#DESCRIPTION Fool Me Once -IT S01 E08

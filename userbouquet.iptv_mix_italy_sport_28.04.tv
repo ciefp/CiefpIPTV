@@ -1,0 +1,345 @@
+#NAME IPTV Mix Italy Sport 28.04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101779
+#DESCRIPTION !T: Champions Leauge Prime ᴀᴍᴀᴢᴏɴ Blue Sport 1 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101780
+#DESCRIPTION !T: Champions Leauge Prime ᴀᴍᴀᴢᴏɴ Blue Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101781
+#DESCRIPTION !T: Champions Leauge Prime ᴀᴍᴀᴢᴏɴ Blue Sport 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101782
+#DESCRIPTION !T: Champions Leauge Prime ᴀᴍᴀᴢᴏɴ Blue Sport 2 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101783
+#DESCRIPTION !T: Champions Leauge Prime ᴀᴍᴀᴢᴏɴ Blue Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101784
+#DESCRIPTION !T: Champions Leauge Prime ᴀᴍᴀᴢᴏɴ Blue Sport 2 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101548
+#DESCRIPTION !T: SKY DAZN ZONA 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101549
+#DESCRIPTION !T: SKY DAZN ZONA 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101789
+#DESCRIPTION !T: DAZN SPORT SERIE A 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101790
+#DESCRIPTION !T: DAZN SPORT SERIE A 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101796
+#DESCRIPTION !T: DAZN SPORT SERIE A 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101791
+#DESCRIPTION !T: DAZN SPORT SERIE A 2 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101792
+#DESCRIPTION !T: DAZN SPORT SERIE A 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101793
+#DESCRIPTION !T: DAZN SPORT SERIE A 3 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101794
+#DESCRIPTION !T: DAZN SPORT SERIE A 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101795
+#DESCRIPTION !T: DAZN SPORT SERIE A 4 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30837
+#DESCRIPTION !T: VETRINA DAZN SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101580
+#DESCRIPTION !T: DAZN WEB 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101581
+#DESCRIPTION !T: DAZN WEB 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101582
+#DESCRIPTION !T: DAZN WEB 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101583
+#DESCRIPTION !T: DAZN WEB 2 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101584
+#DESCRIPTION !T: DAZN WEB 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101585
+#DESCRIPTION !T: DAZN WEB 3 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101586
+#DESCRIPTION !T: DAZN WEB 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101587
+#DESCRIPTION !T: DAZN WEB 4 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101588
+#DESCRIPTION !T: DAZN WEB 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101589
+#DESCRIPTION !T: DAZN WEB 5 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101590
+#DESCRIPTION !T: DAZN WEB 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101591
+#DESCRIPTION !T: DAZN WEB 6 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101592
+#DESCRIPTION !T: DAZN WEB 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101593
+#DESCRIPTION !T: DAZN WEB 7 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101594
+#DESCRIPTION !T: DAZN WEB 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101595
+#DESCRIPTION !T: DAZN WEB 8 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101596
+#DESCRIPTION !T: DAZN WEB 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101597
+#DESCRIPTION !T: DAZN WEB 9 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101598
+#DESCRIPTION !T: DAZN WEB 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101599
+#DESCRIPTION !T: DAZN WEB 10 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101601
+#DESCRIPTION !T: DAZN WEB 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101600
+#DESCRIPTION !T: DAZN WEB 11 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101603
+#DESCRIPTION !T: DAZN WEB 12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101602
+#DESCRIPTION !T: DAZN WEB 12 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101605
+#DESCRIPTION !T: DAZN WEB 13 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101604
+#DESCRIPTION !T: DAZN WEB 13 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101607
+#DESCRIPTION !T: DAZN WEB 14 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101606
+#DESCRIPTION !T: DAZN WEB 14 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101609
+#DESCRIPTION !T: DAZN WEB 15 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101608
+#DESCRIPTION !T: DAZN WEB 15 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86439
+#DESCRIPTION !T: DAZN Diretta Gol Serie A HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86441
+#DESCRIPTION !T: DAZN Diretta Gol Serie B HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101647
+#DESCRIPTION !T: SKY DAZN ZONA 1 HEVC H.265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101648
+#DESCRIPTION !T: SKY DAZN ZONA 1 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101785
+#DESCRIPTION !T: DAZN SPORT SERIE A 1 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101788
+#DESCRIPTION !T: DAZN SPORT SERIE A 2 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101786
+#DESCRIPTION !T: DAZN SPORT SERIE A 3 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101787
+#DESCRIPTION !T: DAZN SPORT SERIE A 4 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86417
+#DESCRIPTION !T: VETRINA DAZN SPORT H265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101565
+#DESCRIPTION !T: DAZN WEB 1 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101567
+#DESCRIPTION !T: DAZN WEB 2 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101568
+#DESCRIPTION !T: DAZN WEB 3 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101579
+#DESCRIPTION !T: DAZN WEB 4 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101569
+#DESCRIPTION !T: DAZN WEB 5 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101571
+#DESCRIPTION !T: DAZN WEB 7 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101570
+#DESCRIPTION !T: DAZN WEB 6 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101572
+#DESCRIPTION !T: DAZN WEB 8 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101573
+#DESCRIPTION !T: DAZN WEB 9 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101566
+#DESCRIPTION !T: DAZN WEB 10 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101575
+#DESCRIPTION !T: DAZN WEB 11 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101574
+#DESCRIPTION !T: DAZN WEB 12 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101576
+#DESCRIPTION !T: DAZN WEB 13 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101577
+#DESCRIPTION !T: DAZN WEB 14 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101578
+#DESCRIPTION !T: DAZN WEB 15 FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86429
+#DESCRIPTION !T: DAZN Diretta Gol Serie A Full HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86430
+#DESCRIPTION !T: DAZN Diretta Gol Serie B Full HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101535
+#DESCRIPTION !T:  ATP TENNIS PASS LIVE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101536
+#DESCRIPTION !T:  ATP TENNIS PASS LIVE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101537
+#DESCRIPTION !T:  ATP TENNIS PASS LIVE 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101538
+#DESCRIPTION !T:  ATP TENNIS PASS LIVE 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101539
+#DESCRIPTION !T:  ATP TENNIS PASS LIVE 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101522
+#DESCRIPTION !T: SKY SPORT MOTOGP FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101523
+#DESCRIPTION !T: SKY SPORT MOTOGP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101524
+#DESCRIPTION !T: SKY SPORT MOTOGP SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101529
+#DESCRIPTION !T: MOTOGP ON BOARD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101530
+#DESCRIPTION !T: MOTOGP ON BOARD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101531
+#DESCRIPTION !T: MOTOGP ON BOARD 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101532
+#DESCRIPTION !T: MOTOGP ON BOARD 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101528
+#DESCRIPTION !T: MOTOGP 360
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101534
+#DESCRIPTION !T: MOTOGP LIVE TRACKING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101533
+#DESCRIPTION !T: MOTOGP LIVE TIMING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101527
+#DESCRIPTION !T: MOTOGP HELICOPTER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101526
+#DESCRIPTION !T: MOTOGP AMBIENT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101525
+#DESCRIPTION !T: MOTOGP COMMENTARY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101496
+#DESCRIPTION !T: SKY SPORT F1 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101497
+#DESCRIPTION !T: SKY SPORT F1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101498
+#DESCRIPTION !T: SKY SPORT F1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101503
+#DESCRIPTION !T: F1 TV MAIN ENGLISH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101504
+#DESCRIPTION !T: F1 TV DRIVER TRACKER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101519
+#DESCRIPTION !T: F1 DATA CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101502
+#DESCRIPTION !T: F1 CAR ZHOU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101516
+#DESCRIPTION !T: F1 CAR VERSTAPPEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101517
+#DESCRIPTION !T: F1 CAR TSUNODA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101513
+#DESCRIPTION !T: F1 CAR STROLL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101510
+#DESCRIPTION !T: F1 CAR SARGEANT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101518
+#DESCRIPTION !T: F1 CAR SAINZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101515
+#DESCRIPTION !T: F1 CAR RUSSEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101501
+#DESCRIPTION !T: F1 CAR RICCIARDO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101505
+#DESCRIPTION !T: F1 CAR PIASTRI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101511
+#DESCRIPTION !T: F1 CAR PEREZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101520
+#DESCRIPTION !T: F1 CAR OCON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101508
+#DESCRIPTION !T: F1 CAR NORRIS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101514
+#DESCRIPTION !T: F1 CAR MAGNUSSEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101512
+#DESCRIPTION !T: F1 CAR LECLERC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101521
+#DESCRIPTION !T: F1 CAR HULKENBERG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101506
+#DESCRIPTION !T: F1 CAR HAMILTON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101500
+#DESCRIPTION !T: F1 CAR GASLY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101507
+#DESCRIPTION !T: F1 CAR BOTTAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101509
+#DESCRIPTION !T: F1 CAR ALONSO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101499
+#DESCRIPTION !T: F1 CAR ALBON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/78674
+#DESCRIPTION --- Vetrina Serie A ---
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/78653
+#DESCRIPTION --- Vetrina Serie B ---
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/78607
+#DESCRIPTION --- Vetrina LALIGA ---
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30811
+#DESCRIPTION !T: Sky Sport 24 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/87803
+#DESCRIPTION !T: Sky Sport 24 FHD ʜᴇᴠᴄ ²⁶⁵
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30813
+#DESCRIPTION !T: Sky Sport Uno FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30814
+#DESCRIPTION !T: Sky Sport Uno HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30815
+#DESCRIPTION !T: Sky Sport Arena FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30816
+#DESCRIPTION !T: Sky Sport Arena HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30817
+#DESCRIPTION !T: Sky Sport Tennis FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30818
+#DESCRIPTION !T: Sky Sport Tennis HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30819
+#DESCRIPTION !T: Sky Sport NBA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30820
+#DESCRIPTION !T: Sky Sport Max FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/86121
+#DESCRIPTION !T: Sky Sport Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30841
+#DESCRIPTION !T: SKY SPORT CALCIO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30823
+#DESCRIPTION !T: Sky Sport MOTO GP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30824
+#DESCRIPTION !T: Sky Sport F1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30825
+#DESCRIPTION !T: Sky Sport F1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30828
+#DESCRIPTION !T: Eurosport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30829
+#DESCRIPTION !T: Eurosport 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30830
+#DESCRIPTION !T: Uniresat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30831
+#DESCRIPTION !T: Rai Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30833
+#DESCRIPTION !T: Sport Italia SoloCalcio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30835
+#DESCRIPTION !T: Sportitalia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30865
+#DESCRIPTION !T: Sky Sport 251 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60040
+#DESCRIPTION !T: Sky Sport 251 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30867
+#DESCRIPTION !T: Sky Sport 252 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30868
+#DESCRIPTION !T: Sky Sport 252 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30869
+#DESCRIPTION !T: Sky Sport 253 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30870
+#DESCRIPTION !T: Sky Sport 253 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30871
+#DESCRIPTION !T: Sky Sport 254 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30872
+#DESCRIPTION !T: Sky Sport 254 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30873
+#DESCRIPTION !T: Sky Sport 255 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60035
+#DESCRIPTION !T: Sky Sport 255 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60036
+#DESCRIPTION !T: Sky Sport 256 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60037
+#DESCRIPTION !T: Sky Sport 256 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60038
+#DESCRIPTION !T: Sky Sport 257 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/60039
+#DESCRIPTION !T: Sky Sport 257 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/63016
+#DESCRIPTION !T: Sky Sport Serie A 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30881
+#DESCRIPTION !T: SKY SPORT BAR UNO FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30880
+#DESCRIPTION !T: SKY SPORT BAR DUE FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30879
+#DESCRIPTION !T: Milan Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30878
+#DESCRIPTION !T: Inter Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30882
+#DESCRIPTION !T: Juventus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30876
+#DESCRIPTION !T: Top Calcio 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/63015
+#DESCRIPTION !T: SOLO CALCIO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/30877
+#DESCRIPTION !T: Lazio Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101540
+#DESCRIPTION !T: SKY SPORT GOLF FULL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101541
+#DESCRIPTION !T: SKY SPORT GOLF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101542
+#DESCRIPTION !T: SKY SPORT GOLF HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101543
+#DESCRIPTION !T: SPORT GOLF SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101544
+#DESCRIPTION !T: GOLF PGA TOUR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101547
+#DESCRIPTION !T: DAZN PGA TOUR SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101546
+#DESCRIPTION !T: DAZN PGA TOUR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.newborntv.xyz%3a8080/adibacitrrah/takBkWqMJ/101545
+#DESCRIPTION !T: ONE GOLF
