@@ -1,0 +1,989 @@
+#NAME IPTV Mix DE 02.05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=171057&extension=ts
+#DESCRIPTION (DE) Big Brother 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4461&extension=ts
+#DESCRIPTION (DE) Das Erste 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4460&extension=ts
+#DESCRIPTION (DE) ZDF 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4459&extension=ts
+#DESCRIPTION (DE) RTL 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4456&extension=ts
+#DESCRIPTION (DE) RTL 2 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4458&extension=ts
+#DESCRIPTION (DE) Sat 1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4457&extension=ts
+#DESCRIPTION (DE) Prosieben 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4455&extension=ts
+#DESCRIPTION (DE) Vox 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4454&extension=ts
+#DESCRIPTION (DE) Kabel 1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4453&extension=ts
+#DESCRIPTION (DE) Sixx 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4452&extension=ts
+#DESCRIPTION (DE) Tele 5 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4451&extension=ts
+#DESCRIPTION (DE) Nitro 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4469&extension=ts
+#DESCRIPTION (DE) Super RTL 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4444&extension=ts
+#DESCRIPTION (DE) ZDFinfo 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4443&extension=ts
+#DESCRIPTION (DE) ZDFneo 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4449&extension=ts
+#DESCRIPTION (DE) Sat 1 Gold 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4450&extension=ts
+#DESCRIPTION (DE) ProSieben Maxx 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=128150&extension=ts
+#DESCRIPTION (DE) RTLup 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=128151&extension=ts
+#DESCRIPTION (DE) VOXup 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4446&extension=ts
+#DESCRIPTION (DE) 3 Sat 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4445&extension=ts
+#DESCRIPTION (DE) Arte 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=60636&extension=ts
+#DESCRIPTION (DE) One 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4439&extension=ts
+#DESCRIPTION (DE) Mdr 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=89867&extension=ts
+#DESCRIPTION (DE) Anixe+ 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=89868&extension=ts
+#DESCRIPTION (DE) ARD Alpha 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=95041&extension=ts
+#DESCRIPTION (DE) RBB Berlin HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4442&extension=ts
+#DESCRIPTION (DE) BR 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4441&extension=ts
+#DESCRIPTION (DE) HR 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4437&extension=ts
+#DESCRIPTION (DE) SR 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=152467&extension=ts
+#DESCRIPTION (DE) WDR 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=152466&extension=ts
+#DESCRIPTION (DE) NDR 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3273&extension=ts
+#DESCRIPTION (DE) Swr 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=122572&extension=ts
+#DESCRIPTION (DE) QVC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=131808&extension=ts
+#DESCRIPTION (DE) Sat 1 Emotions HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=49113&extension=ts
+#DESCRIPTION (DE) RTL Nitro HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=61335&extension=ts
+#DESCRIPTION (DE) RTL Crime HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3357&extension=ts
+#DESCRIPTION (DE) RTL Living HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3353&extension=ts
+#DESCRIPTION (DE) RTL Passion HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4448&extension=ts
+#DESCRIPTION (DE) Hg TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4440&extension=ts
+#DESCRIPTION (DE) Wdr HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3346&extension=ts
+#DESCRIPTION (DE) ServusTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=89862&extension=ts
+#DESCRIPTION (DE) Welt der Wunder HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=122573&extension=ts
+#DESCRIPTION (DE) Radio Bremen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=89869&extension=ts
+#DESCRIPTION (DE) Channel 21 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=7522&extension=ts
+#DESCRIPTION (DE) National Geographic 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=7523&extension=ts
+#DESCRIPTION (DE) Nat Geo Wild 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=45770&extension=ts
+#DESCRIPTION (DE) Crime + Investigation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3439&extension=ts
+#DESCRIPTION (DE) Animal Planet 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3421&extension=ts
+#DESCRIPTION (DE) Discovery 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=163464&extension=ts
+#DESCRIPTION (DE) Sky Documentaires 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=163463&extension=ts
+#DESCRIPTION (DE) Sky Nature 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=7526&extension=ts
+#DESCRIPTION (DE) DMAX 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=127796&extension=ts
+#DESCRIPTION (DE) DMAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=7527&extension=ts
+#DESCRIPTION (DE) TLC 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=48384&extension=ts
+#DESCRIPTION (DE) Kabel Eins Doku 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=7524&extension=ts
+#DESCRIPTION (DE) History Channel 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=7525&extension=ts
+#DESCRIPTION (DE) Spiegel Geschichte 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184116&extension=ts
+#DESCRIPTION (DE) Waidwerk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184115&extension=ts
+#DESCRIPTION (DE) BonGusto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184114&extension=ts
+#DESCRIPTION (DE) Curiosity Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184113&extension=ts
+#DESCRIPTION (DE) Bergblick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135184&extension=ts
+#DESCRIPTION (DE) GEO Television 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184112&extension=ts
+#DESCRIPTION (DE) GEO Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184102&extension=ts
+#DESCRIPTION (DE) DMF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4463&extension=ts
+#DESCRIPTION (DE) MTV 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3400&extension=ts
+#DESCRIPTION (DE) Jukebox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4462&extension=ts
+#DESCRIPTION (DE) Deluxe Music 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3423&extension=ts
+#DESCRIPTION (DE) Schlager Deluxe HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184103&extension=ts
+#DESCRIPTION (DE) Ballermann TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184105&extension=ts
+#DESCRIPTION (DE) Volksmusik TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184104&extension=ts
+#DESCRIPTION (DE) Schlagerparadies TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184106&extension=ts
+#DESCRIPTION (DE) Folx Music Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184107&extension=ts
+#DESCRIPTION (DE) One Music Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184108&extension=ts
+#DESCRIPTION (DE) Zwei Music Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184109&extension=ts
+#DESCRIPTION (DE) Stingray Classica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184110&extension=ts
+#DESCRIPTION (DE) Stingray iConcerts
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184111&extension=ts
+#DESCRIPTION (DE) Stingray Djazz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184086&extension=ts
+#DESCRIPTION (DE) WDR Fernsehen Wuppertal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184085&extension=ts
+#DESCRIPTION (DE) WDR Fernsehen Siegen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184084&extension=ts
+#DESCRIPTION (DE) WDR Fernsehen Münster
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184083&extension=ts
+#DESCRIPTION (DE) WDR Fernsehen Essen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184082&extension=ts
+#DESCRIPTION (DE) WDR Fernsehen Düsseldorf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184081&extension=ts
+#DESCRIPTION (DE) WDR Fernsehen Duisburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184080&extension=ts
+#DESCRIPTION (DE) WDR Fernsehen Dortmund
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184079&extension=ts
+#DESCRIPTION (DE) WDR Fernsehen Bonn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184078&extension=ts
+#DESCRIPTION (DE) WDR Fernsehen Bielefeld
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184077&extension=ts
+#DESCRIPTION (DE) WDR Fernsehen Aachen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184092&extension=ts
+#DESCRIPTION (DE) SAT.1 Rheinland-Pfalz und Hessen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184076&extension=ts
+#DESCRIPTION (DE) SAT.1 Nordrhein-Westfalen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184071&extension=ts
+#DESCRIPTION (DE) SAT.1 Hamburg und Schleswig-Holstein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184067&extension=ts
+#DESCRIPTION (DE) SAT.1 Niedersachsen und Bremen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184059&extension=ts
+#DESCRIPTION (DE) SAT.1 Bayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184072&extension=ts
+#DESCRIPTION (DE) RTL Hessen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184070&extension=ts
+#DESCRIPTION (DE) RTL Hamburg & Schleswig-Holstein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184066&extension=ts
+#DESCRIPTION (DE) RTL Bremen & Niedersachsen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184075&extension=ts
+#DESCRIPTION (DE) RTL Nordrhein-Westfalen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184058&extension=ts
+#DESCRIPTION (DE) RTL Bayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184047&extension=ts
+#DESCRIPTION (DE) RTL Rhein-Neckar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184097&extension=ts
+#DESCRIPTION (DE) MDR-Fernsehen Thüringen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184094&extension=ts
+#DESCRIPTION (DE) MDR-Fernsehen Sachsen-Anhalt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184073&extension=ts
+#DESCRIPTION (DE) NDR Fernsehen Mecklenburg-Vorpommern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184069&extension=ts
+#DESCRIPTION (DE) NDR Fernsehen Schleswig-Holstein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184068&extension=ts
+#DESCRIPTION (DE) NDR Fernsehen Hamburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184098&extension=ts
+#DESCRIPTION (DE) Salve TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184096&extension=ts
+#DESCRIPTION (DE) Alltenburg TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184095&extension=ts
+#DESCRIPTION (DE) RBW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184093&extension=ts
+#DESCRIPTION (DE) Glück Auf! TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184091&extension=ts
+#DESCRIPTION (DE) OK-TV Mainz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184090&extension=ts
+#DESCRIPTION (DE) OK-TV Ludwigshafen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184089&extension=ts
+#DESCRIPTION (DE) OK Weinstraße
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184088&extension=ts
+#DESCRIPTION (DE) OK54 Trier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184087&extension=ts
+#DESCRIPTION (DE) OK4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184074&extension=ts
+#DESCRIPTION (DE) NRWision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184065&extension=ts
+#DESCRIPTION (DE) rbb Fernsehen Brandenburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184064&extension=ts
+#DESCRIPTION (DE) Lausitz TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184063&extension=ts
+#DESCRIPTION (DE) TVA Ostbayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184062&extension=ts
+#DESCRIPTION (DE) TV Mainfranken
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184061&extension=ts
+#DESCRIPTION (DE) TV Oberfranken
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184060&extension=ts
+#DESCRIPTION (DE) Niederbayern TV Passau
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184051&extension=ts
+#DESCRIPTION (DE) Niederbayern TV Deggendorf - Straubing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184054&extension=ts
+#DESCRIPTION (DE) Niederbayern TV Landshut
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184057&extension=ts
+#DESCRIPTION (DE) RFO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184056&extension=ts
+#DESCRIPTION (DE) Oberpfalz TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184055&extension=ts
+#DESCRIPTION (DE) münchen.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184053&extension=ts
+#DESCRIPTION (DE) tv.ingolstadt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184052&extension=ts
+#DESCRIPTION (DE) Franken Fernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184050&extension=ts
+#DESCRIPTION (DE) BR Fernsehen Nord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184049&extension=ts
+#DESCRIPTION (DE) allgäu.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184048&extension=ts
+#DESCRIPTION (DE) a.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184023&extension=ts
+#DESCRIPTION (DE)⚡️Das Erste ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184019&extension=ts
+#DESCRIPTION (DE)⚡️ZDF ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184009&extension=ts
+#DESCRIPTION (DE)⚡️RTL ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184013&extension=ts
+#DESCRIPTION (DE)⚡️Sat.1 ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184008&extension=ts
+#DESCRIPTION (DE)⚡️ProSieben ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184017&extension=ts
+#DESCRIPTION (DE)⚡️Vox ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184021&extension=ts
+#DESCRIPTION (DE)⚡️Kabel Eins ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184010&extension=ts
+#DESCRIPTION (DE)⚡️RTL Zwei ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184020&extension=ts
+#DESCRIPTION (DE)⚡️ZDFinfo ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184022&extension=ts
+#DESCRIPTION (DE)⚡️Zdf Neo ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184018&extension=ts
+#DESCRIPTION (DE)⚡️Vox Up ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184016&extension=ts
+#DESCRIPTION (DE)⚡️Tele 5 ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184015&extension=ts
+#DESCRIPTION (DE)⚡️Super RTL ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184014&extension=ts
+#DESCRIPTION (DE)⚡️Sixx ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184012&extension=ts
+#DESCRIPTION (DE)⚡️Sat.1 Gold ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184011&extension=ts
+#DESCRIPTION (DE)⚡️RTL Up ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184007&extension=ts
+#DESCRIPTION (DE)⚡️ProSeiben Maxx ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184006&extension=ts
+#DESCRIPTION (DE)⚡️Nitro ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184005&extension=ts
+#DESCRIPTION (DE)⚡️Kika ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184004&extension=ts
+#DESCRIPTION (DE)⚡️Kabel Eins Doku ᵘˡᵗʳᵃ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151348&extension=ts
+#DESCRIPTION (DE)⚡️Das Erste ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151331&extension=ts
+#DESCRIPTION (DE)⚡️Zdf ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151343&extension=ts
+#DESCRIPTION (DE)⚡️RTL ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151339&extension=ts
+#DESCRIPTION (DE)⚡️Sat.1 ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151344&extension=ts
+#DESCRIPTION (DE)⚡️ProSieben ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151334&extension=ts
+#DESCRIPTION (DE)⚡️Vox ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151329&extension=ts
+#DESCRIPTION (DE)⚡️Kabel Eins ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151342&extension=ts
+#DESCRIPTION (DE) RTL⚡️Zwei ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151330&extension=ts
+#DESCRIPTION (DE)⚡️ZDFinfo ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151332&extension=ts
+#DESCRIPTION (DE)⚡️Welt ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151333&extension=ts
+#DESCRIPTION (DE)⚡️Vox Up ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151335&extension=ts
+#DESCRIPTION (DE)⚡️Tele 5 ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151336&extension=ts
+#DESCRIPTION (DE)⚡️Super RTL ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151337&extension=ts
+#DESCRIPTION (DE)⚡️Zdfneo ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151338&extension=ts
+#DESCRIPTION (DE)⚡️Sixx ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151340&extension=ts
+#DESCRIPTION (DE)⚡️Sat.1 Gold ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151341&extension=ts
+#DESCRIPTION (DE)⚡️RTLup ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151345&extension=ts
+#DESCRIPTION (DE)⚡️Pro7 Maxx ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151346&extension=ts
+#DESCRIPTION (DE)⚡️One ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151347&extension=ts
+#DESCRIPTION (DE)⚡️Nitro ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151349&extension=ts
+#DESCRIPTION (DE)⚡️D Max ʰᵉᵛᶜ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3386&extension=ts
+#DESCRIPTION (DE) N24 DOKU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=32692&extension=ts
+#DESCRIPTION (DE) Welt 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=35768&extension=ts
+#DESCRIPTION (DE) N-TV 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=50189&extension=ts
+#DESCRIPTION (DE) Phoenix HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=35767&extension=ts
+#DESCRIPTION (DE) Tagesschau 24 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=104857&extension=ts
+#DESCRIPTION (DE) Nick JR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=111971&extension=ts
+#DESCRIPTION (DE) NickToons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=50076&extension=ts
+#DESCRIPTION (DE) Baby Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=95040&extension=ts
+#DESCRIPTION (DE) Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4467&extension=ts
+#DESCRIPTION (DE) Kika 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3262&extension=ts
+#DESCRIPTION (DE) TOGGO plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3429&extension=ts
+#DESCRIPTION (DE) Boomerang HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4465&extension=ts
+#DESCRIPTION (DE) Disney Junior 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4466&extension=ts
+#DESCRIPTION (DE) Disney Channel 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4468&extension=ts
+#DESCRIPTION (DE) Nickelodeon 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3426&extension=ts
+#DESCRIPTION (DE) Cartoon Network HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183873&extension=ts
+#DESCRIPTION (DE) Micky Maus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183871&extension=ts
+#DESCRIPTION (DE) PAW Patrol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183870&extension=ts
+#DESCRIPTION (DE) Peppa Wutz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183869&extension=ts
+#DESCRIPTION (DE) Rick and Morty
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183868&extension=ts
+#DESCRIPTION (DE) Tom & Jerry TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183867&extension=ts
+#DESCRIPTION (DE) Family Guy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183280&extension=ts
+#DESCRIPTION (DE) Scooby Doo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183890&extension=ts
+#DESCRIPTION (DE) Futurama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183443&extension=ts
+#DESCRIPTION (DE) Animation 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183442&extension=ts
+#DESCRIPTION (DE) Animation 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183441&extension=ts
+#DESCRIPTION (DE) American Dad!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183271&extension=ts
+#DESCRIPTION (DE) Die Simpsons 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183274&extension=ts
+#DESCRIPTION (DE) Die Simpsons 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183891&extension=ts
+#DESCRIPTION (DE) BoJack Horseman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=103293&extension=ts
+#DESCRIPTION (DE) Dragonball Z Sammlung
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183892&extension=ts
+#DESCRIPTION (DE) Death Done
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=57012&extension=ts
+#DESCRIPTION (DE) Sky Cinema Premieren 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4473&extension=ts
+#DESCRIPTION (DE) Sky Cinema Action 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4472&extension=ts
+#DESCRIPTION (DE) Sky Cinema Family 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=57014&extension=ts
+#DESCRIPTION (DE) Sky Cinema Special 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4471&extension=ts
+#DESCRIPTION (DE) Sky Atlantic 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3311&extension=ts
+#DESCRIPTION (DE) Sky Cinema Krimi 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=111970&extension=ts
+#DESCRIPTION (DE) Sky Cinema Classics 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=123447&extension=ts
+#DESCRIPTION (DE) Sky Crime HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=123445&extension=ts
+#DESCRIPTION (DE) Sky Replay HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=137598&extension=ts
+#DESCRIPTION (DE) Sky Select 1 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=137599&extension=ts
+#DESCRIPTION (DE) Sky Select 2 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=137600&extension=ts
+#DESCRIPTION (DE) Sky Select 3 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=137601&extension=ts
+#DESCRIPTION (DE) Sky Select 4 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=137602&extension=ts
+#DESCRIPTION (DE) Sky Select 5 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=137603&extension=ts
+#DESCRIPTION (DE) Sky Select 6 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=137604&extension=ts
+#DESCRIPTION (DE) Sky Select 7 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=137605&extension=ts
+#DESCRIPTION (DE) Sky Select 8 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3444&extension=ts
+#DESCRIPTION (DE) 13th Street 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=170083&extension=ts
+#DESCRIPTION (DE) Axn Black HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3430&extension=ts
+#DESCRIPTION (DE) Axn White HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3271&extension=ts
+#DESCRIPTION (DE) SyFy 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3404&extension=ts
+#DESCRIPTION (DE) Heimatkanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3392&extension=ts
+#DESCRIPTION (DE) Kinowelt TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3370&extension=ts
+#DESCRIPTION (DE) Prosieben Fun HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3363&extension=ts
+#DESCRIPTION (DE) Romance TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=30699&extension=ts
+#DESCRIPTION (DE) WarnerTV Comedy 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3265&extension=ts
+#DESCRIPTION (DE) Warner Film 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3263&extension=ts
+#DESCRIPTION (DE) Warner Serie 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3261&extension=ts
+#DESCRIPTION (DE) Universal TV 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3397&extension=ts
+#DESCRIPTION (DE) Kabel 1 Classics HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=165279&extension=ts
+#DESCRIPTION (DE) PBB Live Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=185519&extension=ts
+#DESCRIPTION (DE) Kino 4K ᵘˡᵗʳᵃ 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=185882&extension=ts
+#DESCRIPTION (DE) Kino 4K ᵘˡᵗʳᵃ 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183219&extension=ts
+#DESCRIPTION (DE) Biosccop 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183220&extension=ts
+#DESCRIPTION (DE) Biosccop 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183221&extension=ts
+#DESCRIPTION (DE) Biosccop 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183222&extension=ts
+#DESCRIPTION (DE) Biosccop 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183223&extension=ts
+#DESCRIPTION (DE) Biosccop 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=182186&extension=ts
+#DESCRIPTION (DE) Biosccop 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183224&extension=ts
+#DESCRIPTION (DE) Biosccop 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183225&extension=ts
+#DESCRIPTION (DE) Biosccop 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183226&extension=ts
+#DESCRIPTION (DE) Biosccop 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183227&extension=ts
+#DESCRIPTION (DE) Biosccop 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183282&extension=ts
+#DESCRIPTION (DE) Kinocinema VIP 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183283&extension=ts
+#DESCRIPTION (DE) Kinocinema VIP 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183284&extension=ts
+#DESCRIPTION (DE) Kinocinema VIP 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183285&extension=ts
+#DESCRIPTION (DE) Kinocinema VIP 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183286&extension=ts
+#DESCRIPTION (DE) Kinocinema VIP 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183287&extension=ts
+#DESCRIPTION (DE) Kinocinema VIP 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183419&extension=ts
+#DESCRIPTION (DE) Kino Premium 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183434&extension=ts
+#DESCRIPTION (DE) Kino Premium 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183435&extension=ts
+#DESCRIPTION (DE) Kino Premium 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183436&extension=ts
+#DESCRIPTION (DE) Kino Premium 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183437&extension=ts
+#DESCRIPTION (DE) Kino Premium 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183288&extension=ts
+#DESCRIPTION (DE) Amazon Prime 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183289&extension=ts
+#DESCRIPTION (DE) Amazon Prime 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183290&extension=ts
+#DESCRIPTION (DE) Amazon Prime 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183439&extension=ts
+#DESCRIPTION (DE) Disney Original
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183901&extension=ts
+#DESCRIPTION (DE) Netflix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183866&extension=ts
+#DESCRIPTION (DE) Weihnachten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184181&extension=ts
+#DESCRIPTION (DE) Marvel 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184182&extension=ts
+#DESCRIPTION (DE) Marvel 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183853&extension=ts
+#DESCRIPTION (DE) Batman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=185507&extension=ts
+#DESCRIPTION (DE) Der Herr der Ringe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183235&extension=ts
+#DESCRIPTION (DE) AL Pacino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183952&extension=ts
+#DESCRIPTION (DE) Andy Serkis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183240&extension=ts
+#DESCRIPTION (DE) Aamir Khan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183828&extension=ts
+#DESCRIPTION (DE) Angelina Jolie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183262&extension=ts
+#DESCRIPTION (DE) Audrey Hepburn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183954&extension=ts
+#DESCRIPTION (DE) Amanda Seyfried
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184036&extension=ts
+#DESCRIPTION (DE) Anthony Hopkins 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184230&extension=ts
+#DESCRIPTION (DE) Anthony Hopkins 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=185736&extension=ts
+#DESCRIPTION (DE) Brad Pitt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184223&extension=ts
+#DESCRIPTION (DE) Brie Larson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183238&extension=ts
+#DESCRIPTION (DE) Bruce Willes 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183239&extension=ts
+#DESCRIPTION (DE) Bruce Willes 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184578&extension=ts
+#DESCRIPTION (DE) Burt Reynolds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184172&extension=ts
+#DESCRIPTION (DE) Chris Pine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184122&extension=ts
+#DESCRIPTION (DE) Cate Blanchett
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183852&extension=ts
+#DESCRIPTION (DE) Christian Bale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183948&extension=ts
+#DESCRIPTION (DE) Cillian Murphy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184038&extension=ts
+#DESCRIPTION (DE) Daniel Craig
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183242&extension=ts
+#DESCRIPTION (DE) Denzel Washington 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183243&extension=ts
+#DESCRIPTION (DE) Denzel Washington 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=185477&extension=ts
+#DESCRIPTION (DE) Dolph Lundgren
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183251&extension=ts
+#DESCRIPTION (DE) DW Johnson 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183252&extension=ts
+#DESCRIPTION (DE) DW Johnson 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184178&extension=ts
+#DESCRIPTION (DE) Eric Bana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183248&extension=ts
+#DESCRIPTION (DE) Fast & Furious
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183823&extension=ts
+#DESCRIPTION (DE) Gary Oldman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184035&extension=ts
+#DESCRIPTION (DE) Gemma Chan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184119&extension=ts
+#DESCRIPTION (DE) Harrison Ford
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=180509&extension=ts
+#DESCRIPTION (DE) Harry Potter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183933&extension=ts
+#DESCRIPTION (DE) Jean Reno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183233&extension=ts
+#DESCRIPTION (DE) James Bond 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183234&extension=ts
+#DESCRIPTION (DE) James Bond 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=182790&extension=ts
+#DESCRIPTION (DE) Jackie Chan 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=182791&extension=ts
+#DESCRIPTION (DE) Jackie Chan 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=182561&extension=ts
+#DESCRIPTION (DE) Jason Statham
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183236&extension=ts
+#DESCRIPTION (DE) J.C Van Damme 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183237&extension=ts
+#DESCRIPTION (DE) J.C Van Damme 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184195&extension=ts
+#DESCRIPTION (DE) John David
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183947&extension=ts
+#DESCRIPTION (DE) Johnny Depp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183956&extension=ts
+#DESCRIPTION (DE) Joel Kinnaman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183279&extension=ts
+#DESCRIPTION (DE) Knight Rider
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183231&extension=ts
+#DESCRIPTION (DE) Keanu Reeves 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=185648&extension=ts
+#DESCRIPTION (DE) Keanu Reeves 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=182623&extension=ts
+#DESCRIPTION (DE) Liam Neeson 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=182760&extension=ts
+#DESCRIPTION (DE) Liam Neeson 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183949&extension=ts
+#DESCRIPTION (DE) Liam Hemsworth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=92912&extension=ts
+#DESCRIPTION (DE) Mel Gibson 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183241&extension=ts
+#DESCRIPTION (DE) Mel Gibson 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183944&extension=ts
+#DESCRIPTION (DE) Morgan Freeman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=182931&extension=ts
+#DESCRIPTION (DE) Nicolas Cage 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183928&extension=ts
+#DESCRIPTION (DE) Nicolas Cage 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183962&extension=ts
+#DESCRIPTION (DE) Odette Annable
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=182822&extension=ts
+#DESCRIPTION (DE) Ron Perlman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184190&extension=ts
+#DESCRIPTION (DE) Russell Crowe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=144867&extension=ts
+#DESCRIPTION (DE) Star Wars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=149517&extension=ts
+#DESCRIPTION (DE) Scott Adkins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183232&extension=ts
+#DESCRIPTION (DE) Steven Seagal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183228&extension=ts
+#DESCRIPTION (DE) Samuel L. Jackson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183229&extension=ts
+#DESCRIPTION (DE) Sylvester Stallone 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183230&extension=ts
+#DESCRIPTION (DE) Sylvester Stallone 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184255&extension=ts
+#DESCRIPTION (DE) Sofia Boutella
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184128&extension=ts
+#DESCRIPTION (DE) Simon Pegg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183249&extension=ts
+#DESCRIPTION (DE) Tom Hanks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183250&extension=ts
+#DESCRIPTION (DE) Vin Diesel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151927&extension=ts
+#DESCRIPTION (DE) Mr Bean
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=168721&extension=ts
+#DESCRIPTION (DE) Saw Sammlung
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=180510&extension=ts
+#DESCRIPTION (DE) UFC Power Slap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=146967&extension=ts
+#DESCRIPTION (DE) Zooey Deschane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178960&extension=ts
+#DESCRIPTION (DE) Kung Fu Sammlung
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151926&extension=ts
+#DESCRIPTION (DE) Hellraiser Sammlung
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=183281&extension=ts
+#DESCRIPTION (DE) Bud Spencer & Terence Hil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=151945&extension=ts
+#DESCRIPTION (DE) Mission Impossible Sammlung
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178719&extension=ts
+#DESCRIPTION (DE) DYN SPORTS INFO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178718&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178717&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 2 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178716&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 3 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178715&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 4 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178714&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 5 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178713&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 6 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178712&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 7 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178711&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 8 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178710&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 9 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178709&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 10 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178708&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 11 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178707&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 12 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178706&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 13 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178705&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 14 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178704&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 15 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178703&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 16 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178702&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 17 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178701&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 18 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178700&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 19 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=178699&extension=ts
+#DESCRIPTION (DE) Dyn Sport Event 20 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175568&extension=ts
+#DESCRIPTION (DE) Dazn Events 1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175569&extension=ts
+#DESCRIPTION (DE) Dazn Events 2 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175570&extension=ts
+#DESCRIPTION (DE) Dazn Events 3 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175571&extension=ts
+#DESCRIPTION (DE) Dazn Events 4 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175572&extension=ts
+#DESCRIPTION (DE) Dazn Events 5 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175573&extension=ts
+#DESCRIPTION (DE) Dazn Events 6 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175574&extension=ts
+#DESCRIPTION (DE) Dazn Events 7 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175575&extension=ts
+#DESCRIPTION (DE) Dazn Events 8 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175576&extension=ts
+#DESCRIPTION (DE) Dazn Events 9 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175577&extension=ts
+#DESCRIPTION (DE) Dazn Events 10 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175578&extension=ts
+#DESCRIPTION (DE) Dazn Events 11 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175579&extension=ts
+#DESCRIPTION (DE) Dazn Events 12 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175556&extension=ts
+#DESCRIPTION (DE) Dazn Events 13 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175557&extension=ts
+#DESCRIPTION (DE) Dazn Events 14 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175558&extension=ts
+#DESCRIPTION (DE) Dazn Events 15 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175559&extension=ts
+#DESCRIPTION (DE) Dazn Events 16 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175560&extension=ts
+#DESCRIPTION (DE) Dazn Events 17 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175561&extension=ts
+#DESCRIPTION (DE) Dazn Events 18 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175562&extension=ts
+#DESCRIPTION (DE) Dazn Events 19 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175563&extension=ts
+#DESCRIPTION (DE) Dazn Events 20 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=11236&extension=ts
+#DESCRIPTION (DE) DAZN 1 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=11237&extension=ts
+#DESCRIPTION (DE) DAZN 2 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=45307&extension=ts
+#DESCRIPTION (DE) DAZN 1 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=45308&extension=ts
+#DESCRIPTION (DE) DAZN 2 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=163987&extension=ts
+#DESCRIPTION (DE) Dazn Boxing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=189610&extension=ts
+#DESCRIPTION (DE) Sportdigital1+ 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=189609&extension=ts
+#DESCRIPTION (DE) Sportdigital Fussball 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=147694&extension=ts
+#DESCRIPTION (DE) Amazon Prime 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4625&extension=ts
+#DESCRIPTION (DE) Sky Sport Austria 1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=119131&extension=ts
+#DESCRIPTION (DE) Sky Sport Austria 2 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=119132&extension=ts
+#DESCRIPTION (DE) Sky Sport Austria 3 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=119133&extension=ts
+#DESCRIPTION (DE) Sky Sport Austria 4 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=119658&extension=ts
+#DESCRIPTION (DE) Sky Sport Austria 5 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=119659&extension=ts
+#DESCRIPTION (DE) Sky Sport Austria 6 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=119660&extension=ts
+#DESCRIPTION (DE) Sky Sport Austria 7 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=175869&extension=ts
+#DESCRIPTION (DE) Rally TV 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=142298&extension=ts
+#DESCRIPTION (DE) Sport1 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4623&extension=ts
+#DESCRIPTION (DE) Sport1+ 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=80305&extension=ts
+#DESCRIPTION (DE) Teleclub Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=80306&extension=ts
+#DESCRIPTION (DE) Teleclub Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=172341&extension=ts
+#DESCRIPTION (DE) Bild Plus Sports 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=89863&extension=ts
+#DESCRIPTION (DE) München TV 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=91386&extension=ts
+#DESCRIPTION (DE) FC Bayern TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4622&extension=ts
+#DESCRIPTION (DE) Eurosport 1 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4621&extension=ts
+#DESCRIPTION (DE) Eurosport 2 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3390&extension=ts
+#DESCRIPTION (DE) Motorvision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=116643&extension=ts
+#DESCRIPTION (DE) Auto motor sport channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=188298&extension=ts
+#DESCRIPTION (DE) Redbull TV 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135183&extension=ts
+#DESCRIPTION (DE) DAZN Event 1 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135182&extension=ts
+#DESCRIPTION (DE) DAZN Event 2 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135181&extension=ts
+#DESCRIPTION (DE) DAZN Event 3 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135180&extension=ts
+#DESCRIPTION (DE) DAZN Event 4 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135179&extension=ts
+#DESCRIPTION (DE) DAZN Event 5 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135178&extension=ts
+#DESCRIPTION (DE) DAZN Event 6 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135177&extension=ts
+#DESCRIPTION (DE) DAZN Event 7 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135176&extension=ts
+#DESCRIPTION (DE) DAZN Event 8 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135175&extension=ts
+#DESCRIPTION (DE) DAZN Event 9 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135174&extension=ts
+#DESCRIPTION (DE) DAZN Event 10 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135173&extension=ts
+#DESCRIPTION (DE) DAZN Event 11 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135172&extension=ts
+#DESCRIPTION (DE) DAZN Event 12 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135171&extension=ts
+#DESCRIPTION (DE) DAZN Event 13 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135170&extension=ts
+#DESCRIPTION (DE) DAZN Event 14 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135169&extension=ts
+#DESCRIPTION (DE) DAZN Event 15 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135168&extension=ts
+#DESCRIPTION (DE) DAZN Event 16 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135167&extension=ts
+#DESCRIPTION (DE) DAZN Event 17 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184253&extension=ts
+#DESCRIPTION (DE) RTL Conference 4K+ (RTL+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135166&extension=ts
+#DESCRIPTION (DE) RTL Event 1 4K+ (RTL+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135165&extension=ts
+#DESCRIPTION (DE) RTL Event 2 4K+ (RTL+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135164&extension=ts
+#DESCRIPTION (DE) RTL Event 3 4K+ (RTL+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135163&extension=ts
+#DESCRIPTION (DE) RTL Event 4 4K+ (RTL+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135162&extension=ts
+#DESCRIPTION (DE) RTL Event 5 4K+ (RTL+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135161&extension=ts
+#DESCRIPTION (DE) RTL Event 6 4K+ (RTL+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135160&extension=ts
+#DESCRIPTION (DE) RTL Event 7 4K+ (RTL+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135159&extension=ts
+#DESCRIPTION (DE) RTL Event 8 4K+ (RTL+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135158&extension=ts
+#DESCRIPTION (DE) RTL Event 9 4K+ (RTL+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=135157&extension=ts
+#DESCRIPTION (DE) RTL Event 10 4K+ (RTL+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=184252&extension=ts
+#DESCRIPTION (DE) RTL Event 11 4K+ (RTL+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=118312&extension=ts
+#DESCRIPTION (DE) Glory / UFC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=168144&extension=ts
+#DESCRIPTION (DE) MS Sport 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=168143&extension=ts
+#DESCRIPTION (DE) Magenta Sport 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=38908&extension=ts
+#DESCRIPTION (DE) Magenta Sport 1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=38907&extension=ts
+#DESCRIPTION (DE) Magenta Sport 2 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=38906&extension=ts
+#DESCRIPTION (DE) Magenta Sport 3 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=38905&extension=ts
+#DESCRIPTION (DE) Magenta Sport 4 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=38904&extension=ts
+#DESCRIPTION (DE) Magenta Sport 5 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=38903&extension=ts
+#DESCRIPTION (DE) Magenta Sport 6 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=47987&extension=ts
+#DESCRIPTION (DE) Magenta Sport 7 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=47988&extension=ts
+#DESCRIPTION (DE) Magenta Sport 8 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=168142&extension=ts
+#DESCRIPTION (DE) Magenta Sport 9 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=168141&extension=ts
+#DESCRIPTION (DE) Magenta Sport 10 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=168140&extension=ts
+#DESCRIPTION (DE) Magenta Sport 11 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=168139&extension=ts
+#DESCRIPTION (DE) Magenta Sport 12 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=168138&extension=ts
+#DESCRIPTION (DE) Magenta Sport 13 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=168137&extension=ts
+#DESCRIPTION (DE) Magenta Sport 14 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=168136&extension=ts
+#DESCRIPTION (DE) Magenta Sport 15 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=168135&extension=ts
+#DESCRIPTION (DE) Magenta Sport 16 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=168134&extension=ts
+#DESCRIPTION (DE) Magenta Sport 17 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4619&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 1 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3336&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 2 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3335&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 3 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3334&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 4 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3333&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 5 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3332&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 6 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3331&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 7 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3330&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 8 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3329&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 9 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=119880&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 10 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3248&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 1 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3247&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 2 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3246&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 3 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3245&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 4 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3244&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 5 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3243&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 6 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3242&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 7 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3241&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 8 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3240&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 9 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3337&extension=ts
+#DESCRIPTION (DE) Sky Bundesliga 10 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4628&extension=ts
+#DESCRIPTION (DE) Sky Sport News 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=132617&extension=ts
+#DESCRIPTION (DE) Sky Sport Top Event 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=132615&extension=ts
+#DESCRIPTION (DE) Sky Sport Premier League 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=132614&extension=ts
+#DESCRIPTION (DE) Sky Sport Tennis 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=132613&extension=ts
+#DESCRIPTION (DE) Sky Sport Golf 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=132612&extension=ts
+#DESCRIPTION (DE) Sky Sport Mix 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=112076&extension=ts
+#DESCRIPTION (DE) Sky Sport F1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=148490&extension=ts
+#DESCRIPTION (DE) Sky Sport F1 4K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=4627&extension=ts
+#DESCRIPTION (DE) Sky Sport 1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3296&extension=ts
+#DESCRIPTION (DE) Sky Sport 2 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3295&extension=ts
+#DESCRIPTION (DE) Sky Sport 3 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3294&extension=ts
+#DESCRIPTION (DE) Sky Sport 4 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3293&extension=ts
+#DESCRIPTION (DE) Sky Sport 5 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3292&extension=ts
+#DESCRIPTION (DE) Sky Sport 6 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3291&extension=ts
+#DESCRIPTION (DE) Sky Sport 7 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3290&extension=ts
+#DESCRIPTION (DE) Sky Sport 8 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=3289&extension=ts
+#DESCRIPTION (DE) Sky Sport 9 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.devtv.biz%3a80/play/live.php?mac=00%3a1A%3a79%3aCF%3aBD%3a96&stream=120293&extension=ts
+#DESCRIPTION (DE) Sky Sport 10 4K
