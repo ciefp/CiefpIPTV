@@ -1,0 +1,2619 @@
+#NAME IPTV Mix TUR,RUS,UKR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2579
+#DESCRIPTION TR: SHOW TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30613
+#DESCRIPTION TR: EXXEN SPORT 8 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42664
+#DESCRIPTION TR: EXXEN SPORT 7 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/615
+#DESCRIPTION Geçmişteki Sır (2017) (TR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42590
+#DESCRIPTION TR: TRT 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50094
+#DESCRIPTION TR: TRT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47383
+#DESCRIPTION TR: SHOW TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46483
+#DESCRIPTION TR: SHOW TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41383
+#DESCRIPTION TR: KANAL D FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36210
+#DESCRIPTION TR: KANAL D HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35999
+#DESCRIPTION TR: ATV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6767
+#DESCRIPTION TR: ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23523
+#DESCRIPTION TR: A HABER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2821
+#DESCRIPTION TR: Mesaj Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49497
+#DESCRIPTION TR: 24 TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23125
+#DESCRIPTION TR: 360 TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28765
+#DESCRIPTION TR: 41 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27950
+#DESCRIPTION TR: A HABER FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50346
+#DESCRIPTION TR: BLOOMBERG HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12554
+#DESCRIPTION TR: 24 KITCHEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49494
+#DESCRIPTION TR: 24 TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53527
+#DESCRIPTION TR: A News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24786
+#DESCRIPTION TR: A PARA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20416
+#DESCRIPTION TR: A SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51025
+#DESCRIPTION TR: A SPOR FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6246
+#DESCRIPTION TR: A SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2992
+#DESCRIPTION TR: A2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24292
+#DESCRIPTION TR: A2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46404
+#DESCRIPTION TR: A9 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32428
+#DESCRIPTION TR: ADA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21502
+#DESCRIPTION TR: ADANA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16986
+#DESCRIPTION TR: AKILLI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30604
+#DESCRIPTION TR: AKIT TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22427
+#DESCRIPTION TR: AKSU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25388
+#DESCRIPTION TR: ANADOLU DERNEK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11383
+#DESCRIPTION TR: ANADULU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16978
+#DESCRIPTION TR: ANIMAL PLANET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13817
+#DESCRIPTION TR: ARTI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51561
+#DESCRIPTION TR: AS TV BURSA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15501
+#DESCRIPTION TR: ATV AVRUPA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52435
+#DESCRIPTION TR: Baby First HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/958
+#DESCRIPTION TR: BABY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46273
+#DESCRIPTION TR: BBC EARTH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8575
+#DESCRIPTION TR: BEIN BOX OFFICE 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26793
+#DESCRIPTION TR: BEIN BOX OFFICE 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/756
+#DESCRIPTION TR: BEIN BOX OFFICE 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28920
+#DESCRIPTION TR: BEIN Gourme HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21789
+#DESCRIPTION TR: BEIN GURME HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24792
+#DESCRIPTION TR: BEIN IZ TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41214
+#DESCRIPTION TR: bein Movies Action 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11477
+#DESCRIPTION TR: bein Movies Action 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52126
+#DESCRIPTION TR: bein Movies Comedy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15332
+#DESCRIPTION TR: bein Movies Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3947
+#DESCRIPTION TR: bein Movies Premier HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45758
+#DESCRIPTION TR: bein Movies Premier 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37128
+#DESCRIPTION TR: bein Movies Stars HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25158
+#DESCRIPTION TR: bein Movies Turk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37112
+#DESCRIPTION TR: beIN Series Comedy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42098
+#DESCRIPTION TR: beIN Series Drama HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26664
+#DESCRIPTION TR: beIN Series Sci-Fi HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34189
+#DESCRIPTION TR: beIN Series Vice HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44285
+#DESCRIPTION TR: BEIN SPORTS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30113
+#DESCRIPTION TR: BEIN SPORTS 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51558
+#DESCRIPTION TR: BEIN SPORTS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43559
+#DESCRIPTION TR: BEIN SPORTS 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22248
+#DESCRIPTION TR: BEIN SPORTS 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37322
+#DESCRIPTION TR: BEIN SPORTS 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4598
+#DESCRIPTION TR: BEIN SPORTS 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18345
+#DESCRIPTION TR: BEIN SPORTS 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43254
+#DESCRIPTION TR: BEIN SPORTS HABER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29271
+#DESCRIPTION TR: BEIN SPORTS MAX 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14158
+#DESCRIPTION TR: BEIN SPORTS MAX 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10227
+#DESCRIPTION TR: BENGU TURK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1615
+#DESCRIPTION TR: BEYAZ TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22526
+#DESCRIPTION TR: BEYAZ TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21258
+#DESCRIPTION TR: BLOOMBERG FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6256
+#DESCRIPTION TR: BOOMERANG HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5248
+#DESCRIPTION TR: BRT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22997
+#DESCRIPTION TR: BRT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47424
+#DESCRIPTION TR: Max Vizyon 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45231
+#DESCRIPTION TR: BURSA SPOR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4903
+#DESCRIPTION TR: Bursa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24309
+#DESCRIPTION TR: CAN TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7157
+#DESCRIPTION TR: CARTOON NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30448
+#DESCRIPTION TR: CAY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10665
+#DESCRIPTION TR: CEM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53630
+#DESCRIPTION TR: CIFTCI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19596
+#DESCRIPTION TR: CNN TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19935
+#DESCRIPTION TR: COCUK SMART HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5496
+#DESCRIPTION TR: DA Vinci Learning HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9420
+#DESCRIPTION TR: DAMAR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19067
+#DESCRIPTION TR: DIGIMAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19323
+#DESCRIPTION TR: DIGIMAX 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12269
+#DESCRIPTION TR: DIGIMAX ANIMASYON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11078
+#DESCRIPTION TR: DIM TV ALANYA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49447
+#DESCRIPTION TR: DISCOVERY CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5181
+#DESCRIPTION TR: DISCOVERY ID HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5395
+#DESCRIPTION TR: DISCOVERY SCIENCE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/417
+#DESCRIPTION TR: DISCOVERY SHOWCASE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37846
+#DESCRIPTION TR: DISNEY CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42845
+#DESCRIPTION TR: DISNEY JUNIOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13397
+#DESCRIPTION TR: Dizismart Premium FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25848
+#DESCRIPTION TR: DMAX FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47531
+#DESCRIPTION TR: DMAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40735
+#DESCRIPTION TR: Docu Box HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29275
+#DESCRIPTION TR: DOST TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22741
+#DESCRIPTION TR: DREAM TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28894
+#DESCRIPTION TR: DREAM TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42257
+#DESCRIPTION TR: DRT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11791
+#DESCRIPTION TR: DRTV DENIZLI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46976
+#DESCRIPTION TR: EGE TV ( World Turk )
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41951
+#DESCRIPTION TR: EKOTURK FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46167
+#DESCRIPTION TR: ER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22214
+#DESCRIPTION TR: ESKISEHIR 26 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49982
+#DESCRIPTION TR: EURO D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36762
+#DESCRIPTION TR: EURO STAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52621
+#DESCRIPTION TR: EUROSPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35559
+#DESCRIPTION TR: EUROSPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41148
+#DESCRIPTION TR: EUROSTAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22267
+#DESCRIPTION TR: FASHION TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14556
+#DESCRIPTION TR: FENERBAHCE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25422
+#DESCRIPTION TR: FilmBOX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38984
+#DESCRIPTION TR: FILMBOX HD ADRENALIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13650
+#DESCRIPTION TR: SINEMA TV AILE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15732
+#DESCRIPTION TR: FILMBOX HD DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28195
+#DESCRIPTION TR: FILMBOX HD KOMEDI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42190
+#DESCRIPTION TR: FILMBOX HD TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30236
+#DESCRIPTION TR: FINEST TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27549
+#DESCRIPTION TR: FLASH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50348
+#DESCRIPTION TR: FOX CRIME HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3118
+#DESCRIPTION TR: FOX LIFE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53578
+#DESCRIPTION TR: NOW TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11609
+#DESCRIPTION TR: FX TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24057
+#DESCRIPTION TR: FX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43327
+#DESCRIPTION TR: FX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39530
+#DESCRIPTION TR: Galatasaray ( GS ) TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44960
+#DESCRIPTION TR: GENC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24246
+#DESCRIPTION TR: GRT GAZIANTEP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19791
+#DESCRIPTION TR: HABER 61
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54779
+#DESCRIPTION TR: Haber Global HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30979
+#DESCRIPTION TR: HABER TURK FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32204
+#DESCRIPTION TR: HABER TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23719
+#DESCRIPTION TR: HALK TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12946
+#DESCRIPTION TR: HALK TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54528
+#DESCRIPTION TR: HISTORY CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34821
+#DESCRIPTION TR: iFlix Animasyon HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49377
+#DESCRIPTION TR: iFlix Boxset HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40301
+#DESCRIPTION TR: KABE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46770
+#DESCRIPTION TR: KANAL 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20604
+#DESCRIPTION TR: Kanal 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31579
+#DESCRIPTION TR: KANAL 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4610
+#DESCRIPTION TR: KANAL 33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13321
+#DESCRIPTION TR: KANAL 58
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29541
+#DESCRIPTION TR: KANAL 68
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7534
+#DESCRIPTION TR: KANAL 7 AVRUPA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27761
+#DESCRIPTION TR: KANAL 7 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16813
+#DESCRIPTION TR: Kanal 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1618
+#DESCRIPTION TR: KANAL AVRUPA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19220
+#DESCRIPTION TR: Kanal B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7306
+#DESCRIPTION TR: Kanal V
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20784
+#DESCRIPTION TR: KARDELEN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41237
+#DESCRIPTION TR: KAY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22239
+#DESCRIPTION TR: KAYSERI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50624
+#DESCRIPTION TR: KEMAL SUNAL 7/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12698
+#DESCRIPTION TR: KON TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25687
+#DESCRIPTION TR: Korkue HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51507
+#DESCRIPTION TR: KOY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20601
+#DESCRIPTION TR: KRAL POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11074
+#DESCRIPTION TR: KRAL POP AKUSTIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45782
+#DESCRIPTION TR: KRAL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4048
+#DESCRIPTION TR: KRT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17084
+#DESCRIPTION TR: KRT KULTUR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28678
+#DESCRIPTION TR: LALEGUL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51131
+#DESCRIPTION TR: LOCA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48709
+#DESCRIPTION TR: LOCA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20466
+#DESCRIPTION TR: LOCA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51189
+#DESCRIPTION TR: MAKINA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21355
+#DESCRIPTION TR: MALATYA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31634
+#DESCRIPTION TR: MAVIKARADENIZ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24645
+#DESCRIPTION TR: MAX 007 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3162
+#DESCRIPTION TR: MAX Animasyon 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49440
+#DESCRIPTION TR: MAX Animasyon 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34466
+#DESCRIPTION TR: MAX Gold HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13569
+#DESCRIPTION TR: MAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14039
+#DESCRIPTION TR: MAX Premier HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/982
+#DESCRIPTION TR: MAX Star Wars HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19991
+#DESCRIPTION TR: MAX Vizyon 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3307
+#DESCRIPTION TR: MAX Vizyon 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21237
+#DESCRIPTION TR: MAX Western HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36114
+#DESCRIPTION TR: MELTEM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22660
+#DESCRIPTION TR: MILYON TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22440
+#DESCRIPTION TR: MINIKA COCUK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5570
+#DESCRIPTION TR: MINIKA GO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20910
+#DESCRIPTION TR: MOVIEMAX FESTIVAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42071
+#DESCRIPTION TR: MOVIEMAX TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46552
+#DESCRIPTION TR: Moviesmart Action HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46311
+#DESCRIPTION TR: Moviesmart Classic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17370
+#DESCRIPTION TR: Moviesmart Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20370
+#DESCRIPTION TR: Moviesmart Festival HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1777
+#DESCRIPTION TR: Moviesmart Gold HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18129
+#DESCRIPTION TR: Moviesmart Platin 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24362
+#DESCRIPTION TR: Moviesmart Platin 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48484
+#DESCRIPTION TR: Moviesmart Premium 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36616
+#DESCRIPTION TR: Moviesmart Turk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31347
+#DESCRIPTION TR: NASRETTIN HOCA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1904
+#DESCRIPTION TR: NATIONAL GEO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50925
+#DESCRIPTION TR: NATIONAL GEO PEOPLE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12524
+#DESCRIPTION TR: NATIONAL GEO WILD FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15078
+#DESCRIPTION TR: NATIONAL GEO WILD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22258
+#DESCRIPTION TR: NBA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33255
+#DESCRIPTION TR: NICK JR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22040
+#DESCRIPTION TR: NICKELODEON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19327
+#DESCRIPTION TR: NILOYA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3275
+#DESCRIPTION TR: NR1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15188
+#DESCRIPTION TR: NR1 TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9812
+#DESCRIPTION TR: NTV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42603
+#DESCRIPTION TR: NTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22473
+#DESCRIPTION TR: Number 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22824
+#DESCRIPTION TR: ON4 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50780
+#DESCRIPTION TR: PEPE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27405
+#DESCRIPTION TR: PLANET COCUK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24665
+#DESCRIPTION TR: PLANET TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36923
+#DESCRIPTION TR: POWER TURK FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30456
+#DESCRIPTION TR: POWER TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39136
+#DESCRIPTION TR: POWERTURK TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32457
+#DESCRIPTION TR: Rehber TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/61
+#DESCRIPTION TR: RTV 23 ELAZIG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28621
+#DESCRIPTION TR: S SPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48183
+#DESCRIPTION TR: S Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36388
+#DESCRIPTION TR: SALON 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16971
+#DESCRIPTION TR: SALON 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4574
+#DESCRIPTION TR: SALON 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2785
+#DESCRIPTION TR: SEMERKAND TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39568
+#DESCRIPTION TR: SHOW MAX FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51278
+#DESCRIPTION TR: SHOW TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8769
+#DESCRIPTION TR: SiNEMA DRAMA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17591
+#DESCRIPTION TR: SiNEMA FAMiLY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11620
+#DESCRIPTION TR: SINEMA KOMEDI 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29470
+#DESCRIPTION TR: SINEMA KOMEDI 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45589
+#DESCRIPTION TR: SiNEMA NOSTALJiA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23136
+#DESCRIPTION TR: SiNEMA TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48384
+#DESCRIPTION TR: Sinema TV 1001 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11742
+#DESCRIPTION TR: SINEMA TV 1002 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45962
+#DESCRIPTION TR: Sinema TV Aile HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21908
+#DESCRIPTION TR: SINEMA TV AKSIYON 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11835
+#DESCRIPTION TR: SINEMA TV AKSIYON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29442
+#DESCRIPTION TR: SINEMA TV YERLI 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5715
+#DESCRIPTION TR: SineTivi HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39312
+#DESCRIPTION TR: SIRINLER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53828
+#DESCRIPTION TR: SLTV ACTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37547
+#DESCRIPTION TR: SLTV GOLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36709
+#DESCRIPTION TR: SLTV KEMAL SUNAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30549
+#DESCRIPTION TR: SLTV KEMAL SUNAL 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44517
+#DESCRIPTION TR: SLTV KEMAL SUNAL 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4704
+#DESCRIPTION TR: SLTV KOMEDI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42372
+#DESCRIPTION TR: SLTV PREMIUM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26457
+#DESCRIPTION TR: SLTV SINEMA TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28386
+#DESCRIPTION TR: SLTV YESILCAM 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20963
+#DESCRIPTION TR: SLTV YESILCAM 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26581
+#DESCRIPTION TR: SLTV YESILCAM 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31646
+#DESCRIPTION TR: SONY CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44716
+#DESCRIPTION TR: SPOR SMART FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16733
+#DESCRIPTION TR: Spor Smart HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39491
+#DESCRIPTION TR: SPORT SMART 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4141
+#DESCRIPTION TR: SPORTS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17374
+#DESCRIPTION TR: STAR TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51705
+#DESCRIPTION TR: STAR TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41652
+#DESCRIPTION TR: TAY TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47230
+#DESCRIPTION TR: Tele 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47334
+#DESCRIPTION TR: TEMPO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26253
+#DESCRIPTION TR: TEVE 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21267
+#DESCRIPTION TR: TGRT BELGESEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17842
+#DESCRIPTION TR: TGRT EU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20038
+#DESCRIPTION TR: TGRT HABER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28690
+#DESCRIPTION TR: TGRT HABER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12545
+#DESCRIPTION TR: TH TURK HABER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27130
+#DESCRIPTION TR: TIVIBU ADRENALiN 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9186
+#DESCRIPTION TR: TIVIBU SPOR 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8059
+#DESCRIPTION TR: TIVIBU SPOR 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5325
+#DESCRIPTION TR: TIVIBU SPOR 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32821
+#DESCRIPTION TR: TIVIBU SPOR 2 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26680
+#DESCRIPTION TR: TIVIBU SPOR 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14902
+#DESCRIPTION TR: TIVIBU SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53913
+#DESCRIPTION TR: TJK FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43802
+#DESCRIPTION TR: TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52686
+#DESCRIPTION TR: TLC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9220
+#DESCRIPTION TR: TON TV CANAKKALE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36455
+#DESCRIPTION TR: TRT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34945
+#DESCRIPTION TR: TRT 3 MECLIS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30987
+#DESCRIPTION TR: TRT 3 SPOR / TBMM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16326
+#DESCRIPTION TR: TRT 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30059
+#DESCRIPTION TR: TRT AVAZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42473
+#DESCRIPTION TR: TRT BELGESEL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11441
+#DESCRIPTION TR: TRT BELGESEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32728
+#DESCRIPTION TR: TRT COCUK FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47908
+#DESCRIPTION TR: TRT COCUK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11649
+#DESCRIPTION TR: TRT DIYANET FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34480
+#DESCRIPTION TR: TRT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5040
+#DESCRIPTION TR: TRT HABER FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21898
+#DESCRIPTION TR: TRT HABER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27145
+#DESCRIPTION TR: TRT MUZIK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21957
+#DESCRIPTION TR: TRT SPOR 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38553
+#DESCRIPTION TR: TRT SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33274
+#DESCRIPTION TR: TRT TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30061
+#DESCRIPTION TR: TRT TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38776
+#DESCRIPTION TR: TRT WORLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20997
+#DESCRIPTION TR: TV 100 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8248
+#DESCRIPTION TR: TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30275
+#DESCRIPTION TR: TV 360 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26487
+#DESCRIPTION TR: TV 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/278
+#DESCRIPTION TR: TV 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40572
+#DESCRIPTION TR: TV 8 INT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8084
+#DESCRIPTION TR: TV 8.5 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20745
+#DESCRIPTION TR: TV 8.5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35290
+#DESCRIPTION TR: TV DEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52246
+#DESCRIPTION TR: TV EM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43745
+#DESCRIPTION TR: TV NET FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43177
+#DESCRIPTION TR: TV NET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36011
+#DESCRIPTION TR: TV2 MOVIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7115
+#DESCRIPTION TR: TV8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14109
+#DESCRIPTION TR: TV8 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45277
+#DESCRIPTION TR: TV8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53529
+#DESCRIPTION TR: UCANKUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46482
+#DESCRIPTION TR: ULKE TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44507
+#DESCRIPTION TR: ULUSAL KANAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40287
+#DESCRIPTION TR: Uzay TV Haber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53148
+#DESCRIPTION TR: VATAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23649
+#DESCRIPTION TR: VIASAT NATURE/HISTORY FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12810
+#DESCRIPTION TR: YABAN TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1708
+#DESCRIPTION TR: YOL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37590
+#DESCRIPTION TR: ZIRAAT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53005
+#DESCRIPTION TR VIP: KANAL 32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48
+#DESCRIPTION TR VIP: MAX Turk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46373
+#DESCRIPTION TR VIP: MAX Vizyon 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17184
+#DESCRIPTION TR: Medine TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34870
+#DESCRIPTION RU: #KtoKuda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25571
+#DESCRIPTION RU: 1HD FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42303
+#DESCRIPTION RU: 1HD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1267
+#DESCRIPTION RU: 1HD SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24059
+#DESCRIPTION RU: 24T
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5598
+#DESCRIPTION RU: 2X2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29680
+#DESCRIPTION RU: 3 PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15384
+#DESCRIPTION RU: 3 PLUS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47597
+#DESCRIPTION RU: 3 PLUS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7702
+#DESCRIPTION RU: 360 NOVOSTI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15662
+#DESCRIPTION RU: 360 NOVOSTI FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45000
+#DESCRIPTION RU: 360 NOVOSTI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36507
+#DESCRIPTION RU: 360 Podmoskovie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5982
+#DESCRIPTION RU: 360TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14395
+#DESCRIPTION RU: 360TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28326
+#DESCRIPTION RU: 360° FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51999
+#DESCRIPTION RU: 365 dnei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32577
+#DESCRIPTION RU: 365 dnei FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43561
+#DESCRIPTION RU: 365 DNEI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14976
+#DESCRIPTION RU: 5 KANAL RU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48538
+#DESCRIPTION RU: 7 Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17314
+#DESCRIPTION RU: 8 KANAL RU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28025
+#DESCRIPTION RU: 8TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47115
+#DESCRIPTION RU: 8TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47868
+#DESCRIPTION RU: Amedia 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17872
+#DESCRIPTION RU: AMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4407
+#DESCRIPTION RU: AMEDIA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28338
+#DESCRIPTION RU: AMEDIA 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35268
+#DESCRIPTION RU: AMEDIA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15666
+#DESCRIPTION RU: AMEDIA 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23965
+#DESCRIPTION RU: AMEDIA 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36609
+#DESCRIPTION RU: AMEDIA Hit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33238
+#DESCRIPTION RU: AMEDIA HIT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39451
+#DESCRIPTION RU: AMEDIA HIT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45169
+#DESCRIPTION RU: AMEDIA PREMIUM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36927
+#DESCRIPTION RU: AMEDIA PREMIUM FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36492
+#DESCRIPTION RU: AMEDIA PREMIUM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10657
+#DESCRIPTION RU: Anekdot TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54542
+#DESCRIPTION RU: ANI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26611
+#DESCRIPTION RU: Animal Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18727
+#DESCRIPTION RU: Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5887
+#DESCRIPTION RU: Animal Planet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32959
+#DESCRIPTION RU: Arsenal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10429
+#DESCRIPTION RU: Arsenal FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2975
+#DESCRIPTION RU: Arsenal HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31001
+#DESCRIPTION RU: AUTO 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25857
+#DESCRIPTION RU: Auto 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3016
+#DESCRIPTION RU: Auto Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47272
+#DESCRIPTION RU: Auto Plus FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9413
+#DESCRIPTION RU: Auto Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18024
+#DESCRIPTION RU: BABY TIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24216
+#DESCRIPTION RU: Balticum Platinum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44990
+#DESCRIPTION RU: Balticum Platinum HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3458
+#DESCRIPTION RU: BCU ACTION FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32900
+#DESCRIPTION RU: BCU CINEMA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22587
+#DESCRIPTION RU: BCU CINEMA PLUS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35874
+#DESCRIPTION RU: BCU COMEDY FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10220
+#DESCRIPTION RU: BCU KIDS+ FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34754
+#DESCRIPTION RU: BCU KINORATING FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/601
+#DESCRIPTION RU: BCU MARVEL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39995
+#DESCRIPTION RU: BCU MULTSERIAL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12678
+#DESCRIPTION RU: BCU PREMIER 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24711
+#DESCRIPTION RU: BCU PREMIER 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31788
+#DESCRIPTION RU: BCU PREMIER 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51648
+#DESCRIPTION RU: BCU ROMANTIC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40639
+#DESCRIPTION RU: BCU RUSSIAN FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46940
+#DESCRIPTION RU: BCU SSSR FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53543
+#DESCRIPTION RU: BCU ULTRA 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5736
+#DESCRIPTION RU: BCU VHS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32095
+#DESCRIPTION RU: Belarus 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3105
+#DESCRIPTION RU: BelRos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2925
+#DESCRIPTION RU: Big Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4886
+#DESCRIPTION RU: Big Planet FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26879
+#DESCRIPTION RU: Big Planet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24925
+#DESCRIPTION RU: BLACK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25802
+#DESCRIPTION RU: BLOKBASTER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47236
+#DESCRIPTION RU: BOBER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9268
+#DESCRIPTION RU: Boks TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31462
+#DESCRIPTION RU: BOKS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18318
+#DESCRIPTION RU: BOKS TV+ FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53123
+#DESCRIPTION RU: BOLLYWOOD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8526
+#DESCRIPTION RU: BOLLYWOOD FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52595
+#DESCRIPTION RU: BOLLYWOOD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30664
+#DESCRIPTION RU: Bolshaya Aziya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54464
+#DESCRIPTION RU: Bolshaya Aziya FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47722
+#DESCRIPTION RU: Bolshaya Aziya HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48395
+#DESCRIPTION RU: BOLT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/403
+#DESCRIPTION RU: BOLT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4637
+#DESCRIPTION RU: BOLT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17007
+#DESCRIPTION RU: Boomerang TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26660
+#DESCRIPTION RU: BRIDGE FRESH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8462
+#DESCRIPTION RU: BRIDGE FRESH FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28230
+#DESCRIPTION RU: BRIDGE FRESH HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36641
+#DESCRIPTION RU: BRIDGE HITS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32393
+#DESCRIPTION RU: BRIDGE HITS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4909
+#DESCRIPTION RU: BRIDGE RUSSKIY HIT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27683
+#DESCRIPTION RU: BRIDGE RUSSKIY HIT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45673
+#DESCRIPTION RU: BRIDGE SHLYAGER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17820
+#DESCRIPTION RU: Bridge Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37126
+#DESCRIPTION RU: Bridge TV Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42871
+#DESCRIPTION RU: BRIDGE TV DANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36260
+#DESCRIPTION RU: Bridge Tv Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5195
+#DESCRIPTION RU: Bridge TV Russkiy Hit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37866
+#DESCRIPTION RU: BRIDGET TV DELUXE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35056
+#DESCRIPTION RU: BRIDGET TV DELUXE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3593
+#DESCRIPTION RU: BRIDGET TV DELUXE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28178
+#DESCRIPTION RU: BSU FANTASTIC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20398
+#DESCRIPTION RU: Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47634
+#DESCRIPTION RU: CCTV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47904
+#DESCRIPTION RU: CEMODAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35876
+#DESCRIPTION RU: CEMODAN TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13927
+#DESCRIPTION RU: CGTN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53948
+#DESCRIPTION RU: Channel One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26474
+#DESCRIPTION RU: CHE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3183
+#DESCRIPTION RU: Chizhik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44274
+#DESCRIPTION RU: Chizhik FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47480
+#DESCRIPTION RU: Chizhik HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16768
+#DESCRIPTION RU: Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47954
+#DESCRIPTION RU: CINEMA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4789
+#DESCRIPTION RU: CINEMA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16536
+#DESCRIPTION RU: Classic Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2302
+#DESCRIPTION RU: Classic Music FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42811
+#DESCRIPTION RU: Classic Music HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52550
+#DESCRIPTION RU: COLB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9862
+#DESCRIPTION RU: COLB TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52403
+#DESCRIPTION RU: CTC KIDS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20144
+#DESCRIPTION RU: CTC LOVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27271
+#DESCRIPTION RU: CTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18167
+#DESCRIPTION RU: Curiosity Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15804
+#DESCRIPTION RU: Curiosity Stream FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2531
+#DESCRIPTION RU: Curiosity Stream HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14477
+#DESCRIPTION RU: CURRENT TIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48930
+#DESCRIPTION RU: Current Time HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27635
+#DESCRIPTION RU: DANGE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5168
+#DESCRIPTION RU: DaVinci Learning
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49237
+#DESCRIPTION RU: Den Pobedy FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37437
+#DESCRIPTION RU: DETSKIJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37802
+#DESCRIPTION RU: DETSKIY MIR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43495
+#DESCRIPTION RU: DIALOGI O RYBALKE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19525
+#DESCRIPTION RU: Dialogi o Rybalke FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40079
+#DESCRIPTION RU: DIALOGI O RYBALKE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8386
+#DESCRIPTION RU: Dikaya Okhota HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43690
+#DESCRIPTION RU: Dikaya Rybalka HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34673
+#DESCRIPTION RU: Discovery Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40372
+#DESCRIPTION RU: Discovery Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33923
+#DESCRIPTION RU: DISCOVERY DTX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40938
+#DESCRIPTION RU: Discovery Science
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6072
+#DESCRIPTION RU: Discovery Science HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41549
+#DESCRIPTION RU: DISCOVERY TURBO XTRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22981
+#DESCRIPTION RU: Disney Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20347
+#DESCRIPTION RU: DIZI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31430
+#DESCRIPTION RU: DIZI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36067
+#DESCRIPTION RU: Doctor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7360
+#DESCRIPTION RU: DocuBox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16833
+#DESCRIPTION RU: DOCUBOX FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47857
+#DESCRIPTION RU: DOCUBOX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40314
+#DESCRIPTION RU: Dojd HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26116
+#DESCRIPTION RU: Doktor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22562
+#DESCRIPTION RU: DOM KINO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36719
+#DESCRIPTION RU: Dom Kino Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42046
+#DESCRIPTION RU: DOM KINO PREMIUM FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32984
+#DESCRIPTION RU: Dom Kino Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47414
+#DESCRIPTION RU: DOMASHNIE JIVOTNIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26225
+#DESCRIPTION RU: Domashniy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29768
+#DESCRIPTION RU: Domashniy +7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6131
+#DESCRIPTION RU: DOMASHNIY FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22565
+#DESCRIPTION RU: DOMASHNIY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51502
+#DESCRIPTION RU: DOMASHNIY+ 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38323
+#DESCRIPTION RU: DORAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24222
+#DESCRIPTION RU: Dozd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42546
+#DESCRIPTION RU: Drayv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41801
+#DESCRIPTION RU: ducktv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7033
+#DESCRIPTION RU: ducktv FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19865
+#DESCRIPTION RU: ducktv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28084
+#DESCRIPTION RU: DUO 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24427
+#DESCRIPTION RU: DUO 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20429
+#DESCRIPTION RU: DUO 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7652
+#DESCRIPTION RU: DUO 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34082
+#DESCRIPTION RU: DUO 6 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40460
+#DESCRIPTION RU: DUO 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28198
+#DESCRIPTION RU: DUO 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49063
+#DESCRIPTION RU: DUO 7 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17910
+#DESCRIPTION RU: DUO 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45519
+#DESCRIPTION RU: E TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45126
+#DESCRIPTION RU: EDA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12199
+#DESCRIPTION RU: Eda FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35539
+#DESCRIPTION RU: EGOIST TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52228
+#DESCRIPTION RU: ENGLISH CLUB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52365
+#DESCRIPTION RU: EPIC DRAMA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7413
+#DESCRIPTION RU: EPIC DRAMA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41769
+#DESCRIPTION RU: Eureka HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25603
+#DESCRIPTION RU: Euronews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39404
+#DESCRIPTION RU: Europa Plus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5703
+#DESCRIPTION RU: Europa Plus Tv FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39999
+#DESCRIPTION RU: Europa Plus Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39805
+#DESCRIPTION RU: EUROSPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37334
+#DESCRIPTION RU: Eurosport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29391
+#DESCRIPTION RU: EUROSPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7596
+#DESCRIPTION RU: EUROSPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49489
+#DESCRIPTION RU: EvroKino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42526
+#DESCRIPTION RU: Evrokino HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20308
+#DESCRIPTION RU: Extreme Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18629
+#DESCRIPTION RU: FAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46017
+#DESCRIPTION RU: FAN FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17907
+#DESCRIPTION RU: FAN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4446
+#DESCRIPTION RU: Fashion & Lifestyle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16761
+#DESCRIPTION RU: Fashion & Lifestyle FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40502
+#DESCRIPTION RU: Fashion & Lifestyle HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32815
+#DESCRIPTION RU: Fashion Television FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38671
+#DESCRIPTION RU: Fashion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34107
+#DESCRIPTION RU: FASHION TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26398
+#DESCRIPTION RU: FashionBox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27941
+#DESCRIPTION RU: FAST AND FUN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43800
+#DESCRIPTION RU: Fast&FunBox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13568
+#DESCRIPTION RU: Fast&FunBox FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48109
+#DESCRIPTION RU: Feniks+ Kino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4097
+#DESCRIPTION RU: Feniks+ Kino FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33653
+#DESCRIPTION RU: FightBox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44599
+#DESCRIPTION RU: FightBox FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13047
+#DESCRIPTION RU: FightBox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28295
+#DESCRIPTION RU: FILM UA DRAMA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44754
+#DESCRIPTION RU: FILM ZONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24148
+#DESCRIPTION RU: FILM ZONE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36851
+#DESCRIPTION RU: FILM ZONE+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39542
+#DESCRIPTION RU: FILM ZONE+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26919
+#DESCRIPTION RU: FILMBOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32680
+#DESCRIPTION ro" tvg-name="RU: FILMBOX ARTHOUSE" tvg-logo="" group-title="RUSIA"
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48345
+#DESCRIPTION RU: First Music Channel 1BY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23101
+#DESCRIPTION RU: Food Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19105
+#DESCRIPTION RU: Food Network HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1883
+#DESCRIPTION RU: Food Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49274
+#DESCRIPTION RU: Food Time FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16357
+#DESCRIPTION RU: Food Time HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53962
+#DESCRIPTION RU: FOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1549
+#DESCRIPTION RU: Fox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41756
+#DESCRIPTION RU: FOX LIFE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7997
+#DESCRIPTION RU: Fox Life HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/929
+#DESCRIPTION RU: Friday! (Пятница)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29149
+#DESCRIPTION RU: FUTBOL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26520
+#DESCRIPTION RU: FUTBOL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10145
+#DESCRIPTION RU: FUTBOL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37291
+#DESCRIPTION RU: FUTBOLNYI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40955
+#DESCRIPTION RU: FUTBOLNYI FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25019
+#DESCRIPTION RU: FUTBOLNYI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48121
+#DESCRIPTION RU: Glazami Turista
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54726
+#DESCRIPTION RU: Glazami Turista FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25562
+#DESCRIPTION RU: Glazami Turista HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29199
+#DESCRIPTION RU: Glazella HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10159
+#DESCRIPTION RU: GOSTIAH U SKAZKI FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44123
+#DESCRIPTION RU: Gulli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11034
+#DESCRIPTION RU: H2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29661
+#DESCRIPTION RU: HD Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3545
+#DESCRIPTION RU: HD Life HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32166
+#DESCRIPTION RU: HDL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52091
+#DESCRIPTION RU: HDL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26788
+#DESCRIPTION RU: HDL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6757
+#DESCRIPTION RU: HGTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5446
+#DESCRIPTION RU: HGTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37306
+#DESCRIPTION RU: History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1226
+#DESCRIPTION RU: HISTORY FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1885
+#DESCRIPTION RU: HISTORY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5521
+#DESCRIPTION RU: HIT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52447
+#DESCRIPTION RU: HIT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36814
+#DESCRIPTION RU: HIT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9108
+#DESCRIPTION RU: Hokkeinyi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/186
+#DESCRIPTION RU: Hokkeinyi FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18102
+#DESCRIPTION RU: Hokkeinyi HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26774
+#DESCRIPTION RU: Hollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33008
+#DESCRIPTION RU: Hollywood FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22764
+#DESCRIPTION RU: Hollywood HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41893
+#DESCRIPTION RU: HTB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18645
+#DESCRIPTION RU: iConcerts
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29510
+#DESCRIPTION RU: ID Investigation Discovery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31155
+#DESCRIPTION RU: ID Investigation Discovery HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38149
+#DESCRIPTION RU: ID XTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54742
+#DESCRIPTION RU: ILLUZION PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53912
+#DESCRIPTION RU: Indijskoe Kino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10972
+#DESCRIPTION RU: Indiya TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46845
+#DESCRIPTION RU: INSIGHT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13923
+#DESCRIPTION RU: INSIGHT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24099
+#DESCRIPTION RU: INSIGHT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53963
+#DESCRIPTION RU: Istoriya HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34609
+#DESCRIPTION RU: Istorya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32161
+#DESCRIPTION RU: Izvestia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26610
+#DESCRIPTION RU: Izvestia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41468
+#DESCRIPTION RU: IZVESTIYA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41326
+#DESCRIPTION RU: Jara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1813
+#DESCRIPTION RU: Jara HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27702
+#DESCRIPTION RU: JARA TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7418
+#DESCRIPTION RU: Jeweler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4627
+#DESCRIPTION RU: Jim Jam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3549
+#DESCRIPTION RU: Jim Jam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5098
+#DESCRIPTION RU: JIVI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19166
+#DESCRIPTION RU: JWL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18878
+#DESCRIPTION RU: Kaleydoskop TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3469
+#DESCRIPTION RU: KAMEDI FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7867
+#DESCRIPTION RU: KAPITAN FANTASTIKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27616
+#DESCRIPTION RU: Kapitan Fantastika FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4498
+#DESCRIPTION RU: KAPITAN FANTASTIKA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10464
+#DESCRIPTION RU: Karusel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/315
+#DESCRIPTION RU: Karusel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19812
+#DESCRIPTION RU: KHL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29527
+#DESCRIPTION RU: KHL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48688
+#DESCRIPTION RU: KHL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44394
+#DESCRIPTION RU: KHL PRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31885
+#DESCRIPTION RU: KHL PRIME FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10147
+#DESCRIPTION RU: KHL PRIME HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6377
+#DESCRIPTION RU: KIDS MINI FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47254
+#DESCRIPTION RU: KIDZONE MAX FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36544
+#DESCRIPTION RU: KIDZONE MINI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44254
+#DESCRIPTION RU: KIDZONE MINI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31387
+#DESCRIPTION RU: KIDZONE MAX TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54648
+#DESCRIPTION RU: KINEKO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37300
+#DESCRIPTION RU: KINEKO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31416
+#DESCRIPTION RU: KINEKO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36805
+#DESCRIPTION RU: KINO 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12793
+#DESCRIPTION RU: KINO 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/681
+#DESCRIPTION RU: KINO POISK K1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14667
+#DESCRIPTION RU: KINO POISK K1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38501
+#DESCRIPTION RU: KINO POISK K1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14219
+#DESCRIPTION RU: Kino TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20824
+#DESCRIPTION RU: Kino Tv FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25714
+#DESCRIPTION RU: KINO TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41517
+#DESCRIPTION RU: KINOHIT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7255
+#DESCRIPTION RU: Kinohit FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3928
+#DESCRIPTION RU: KINOHIT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25481
+#DESCRIPTION RU: KinoKomedia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20041
+#DESCRIPTION RU: KinoKomedia FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44668
+#DESCRIPTION RU: KINOKOMEDIA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17154
+#DESCRIPTION RU: KinoMix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14280
+#DESCRIPTION RU: Kinomix FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7683
+#DESCRIPTION RU: KINOMIX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24430
+#DESCRIPTION RU: Kinopokaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36707
+#DESCRIPTION RU: Kinopokaz 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14863
+#DESCRIPTION RU: KinopremIera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24599
+#DESCRIPTION RU: KINOPREMIERA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9374
+#DESCRIPTION RU: KinopremIera HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34645
+#DESCRIPTION RU: Kinosemya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25755
+#DESCRIPTION RU: Kinosemya FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37939
+#DESCRIPTION RU: Kinosemya HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4592
+#DESCRIPTION RU: Kinoseriya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27400
+#DESCRIPTION RU: Kinoseriya FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2075
+#DESCRIPTION RU: KINOSERIYA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32672
+#DESCRIPTION RU: Kinosvidanie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32436
+#DESCRIPTION RU: KINOSVIDANIE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2384
+#DESCRIPTION RU: Kinosvidanie HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35378
+#DESCRIPTION RU: Kinouzhas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47571
+#DESCRIPTION RU: Kinouzhas FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35825
+#DESCRIPTION RU: KINOUZHAS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26971
+#DESCRIPTION RU: Kitay TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35889
+#DESCRIPTION RU: Kitay TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22749
+#DESCRIPTION RU: Kitay TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37259
+#DESCRIPTION RU: Klyuch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13734
+#DESCRIPTION RU: Klyuch FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3454
+#DESCRIPTION RU: Klyuch HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9686
+#DESCRIPTION RU: KOMEDIA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39337
+#DESCRIPTION RU: KONNIY MIR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49706
+#DESCRIPTION RU: Krasnaya Liniya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16366
+#DESCRIPTION RU: Krik TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47225
+#DESCRIPTION RU: KTNO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30316
+#DESCRIPTION RU: KTO EST KTO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12182
+#DESCRIPTION RU: Kuchnia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52073
+#DESCRIPTION RU: Kuhinya TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38598
+#DESCRIPTION RU: Kukhnya TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30580
+#DESCRIPTION RU: Kukhnya TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2345
+#DESCRIPTION RU: Kukhnya TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9542
+#DESCRIPTION RU: KVN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13648
+#DESCRIPTION RU: La minor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2044
+#DESCRIPTION RU: Leomax24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37735
+#DESCRIPTION RU: Life HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39897
+#DESCRIPTION RU: Liova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34014
+#DESCRIPTION RU: Liova FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51250
+#DESCRIPTION RU: Liova HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16217
+#DESCRIPTION RU: LTV 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10805
+#DESCRIPTION RU: LTV 7 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12796
+#DESCRIPTION RU: LTV 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53278
+#DESCRIPTION RU: Lubimoe Kino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38894
+#DESCRIPTION RU: Luxury HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25947
+#DESCRIPTION RU: LYA MINOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13628
+#DESCRIPTION RU: Lyubimoye Kino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1220
+#DESCRIPTION RU: M1 GLOBAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6639
+#DESCRIPTION RU: Mama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33035
+#DESCRIPTION RU: MATCH ARENA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46959
+#DESCRIPTION RU: MATCH ARENA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9505
+#DESCRIPTION RU: MATCH ARENA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19317
+#DESCRIPTION RU: MATCH BOEC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33599
+#DESCRIPTION RU: MATCH Bоеc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54279
+#DESCRIPTION RU: MATCH FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50488
+#DESCRIPTION RU: Match Football 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4828
+#DESCRIPTION RU: MATCH FOOTBALL 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26642
+#DESCRIPTION RU: MATCH FOOTBALL 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3802
+#DESCRIPTION RU: Match Football 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49401
+#DESCRIPTION RU: MATCH FOOTBALL 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6505
+#DESCRIPTION RU: Match Football 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9948
+#DESCRIPTION RU: Match Football 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52387
+#DESCRIPTION RU: MATCH FOOTBALL 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51475
+#DESCRIPTION RU: Match Football 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2701
+#DESCRIPTION RU: MATCH IGRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12766
+#DESCRIPTION RU: MATCH IGRA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43989
+#DESCRIPTION RU: MATCH IGRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27163
+#DESCRIPTION RU: MATCH NASH SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46615
+#DESCRIPTION RU: Match Nash Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44273
+#DESCRIPTION RU: Match Premier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21497
+#DESCRIPTION RU: Match Premier FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1411
+#DESCRIPTION RU: Match Strana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53173
+#DESCRIPTION RU: Match Strana FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11933
+#DESCRIPTION RU: MATCH STRANA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/890
+#DESCRIPTION RU: MATCH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42933
+#DESCRIPTION RU: MATCH TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27574
+#DESCRIPTION RU: MATCH TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13827
+#DESCRIPTION RU: MATCH! BOEC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54066
+#DESCRIPTION RU: MATCH! BOEC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44357
+#DESCRIPTION RU: MATCH! PREMIER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6388
+#DESCRIPTION RU: MCM TOP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6493
+#DESCRIPTION RU: MEZZO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19131
+#DESCRIPTION RU: MEZZO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45541
+#DESCRIPTION RU: MEZZO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/796
+#DESCRIPTION RU: Mezzo Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16061
+#DESCRIPTION RU: Mezzo Live FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41481
+#DESCRIPTION RU: MEZZO LIVE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22178
+#DESCRIPTION RU: MIR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27422
+#DESCRIPTION RU: MIR 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24288
+#DESCRIPTION RU: MIR BASKETBOLA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37739
+#DESCRIPTION RU: Mir Basketbola FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28408
+#DESCRIPTION RU: MIR BASKETBOLA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12599
+#DESCRIPTION RU: MIR FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30175
+#DESCRIPTION RU: MIR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6610
+#DESCRIPTION RU: Mir Seriala
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27528
+#DESCRIPTION RU: MIR SERIALA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31315
+#DESCRIPTION RU: MIR24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26978
+#DESCRIPTION RU: MIR24 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20206
+#DESCRIPTION RU: MMA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13645
+#DESCRIPTION RU: MMA TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8242
+#DESCRIPTION RU: MMA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36594
+#DESCRIPTION RU: MORSKOI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42788
+#DESCRIPTION RU: Mosfilm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9696
+#DESCRIPTION RU: Mosfilm FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45074
+#DESCRIPTION RU: Mosfilm HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8688
+#DESCRIPTION RU: MOSKVA 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1178
+#DESCRIPTION RU: Moskva 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3489
+#DESCRIPTION RU: Motorsport FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10231
+#DESCRIPTION RU: MOTORSPORT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22532
+#DESCRIPTION RU: MOYA PLANETA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5711
+#DESCRIPTION RU: Moya Stikhiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46579
+#DESCRIPTION RU: Moya Stikhiya FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24190
+#DESCRIPTION RU: Moya Stikhiya HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37416
+#DESCRIPTION RU: MTV 00s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8977
+#DESCRIPTION RU: MTV Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30535
+#DESCRIPTION RU: MTV Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34572
+#DESCRIPTION RU: MTV LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33378
+#DESCRIPTION RU: MTV LIVE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34556
+#DESCRIPTION RU: MULT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13939
+#DESCRIPTION RU: Mult FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21333
+#DESCRIPTION RU: MULT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24316
+#DESCRIPTION RU: MULTILANDIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43184
+#DESCRIPTION RU: Multimania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43394
+#DESCRIPTION RU: MULTIMUZIKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19235
+#DESCRIPTION RU: Museum FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3916
+#DESCRIPTION RU: Music Box GOLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3423
+#DESCRIPTION RU: MUZ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15862
+#DESCRIPTION RU: Muz Tv FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6996
+#DESCRIPTION RU: MUZ TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54467
+#DESCRIPTION RU: Muzhskoe Kino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49033
+#DESCRIPTION RU: Muzhskoe kino HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3832
+#DESCRIPTION RU: Muzhskoy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33507
+#DESCRIPTION RU: Muzyka Pervogo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9191
+#DESCRIPTION RU: MyZen TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4705
+#DESCRIPTION RU: Nano TV (Нано ТВ) HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23051
+#DESCRIPTION RU: NASH KINOPOKAZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42109
+#DESCRIPTION RU: NASHA SIBIR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52079
+#DESCRIPTION RU: NASHA SIBIR FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5481
+#DESCRIPTION RU: NASHA SIBIR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36125
+#DESCRIPTION RU: Nashe Kinoroman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26603
+#DESCRIPTION RU: Nashe Krutoe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17087
+#DESCRIPTION RU: Nashe Liubimoje Kino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46794
+#DESCRIPTION RU: Nashe Novoe Kino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8279
+#DESCRIPTION RU: NASHE NOVOE KINO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21374
+#DESCRIPTION RU: NASHE NOVOE KINO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19108
+#DESCRIPTION RU: NASHE RODNOE KINO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23272
+#DESCRIPTION RU: Nashe Rodnoe_Kino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45681
+#DESCRIPTION RU: Nat Geo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21606
+#DESCRIPTION RU: Nat Geo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43197
+#DESCRIPTION RU: National Geographic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7966
+#DESCRIPTION RU: National Geographic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40483
+#DESCRIPTION RU: Nauka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5627
+#DESCRIPTION RU: Nauka FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54793
+#DESCRIPTION RU: Nauka HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9333
+#DESCRIPTION RU: Nick JR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2273
+#DESCRIPTION RU: NICK JR FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23243
+#DESCRIPTION RU: NICK JR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3671
+#DESCRIPTION RU: Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51067
+#DESCRIPTION RU: Nickelodeon HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46188
+#DESCRIPTION RU: NICKTOONS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1166
+#DESCRIPTION RU: NOSTALGIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24667
+#DESCRIPTION RU: NST TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51655
+#DESCRIPTION RU: NTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5316
+#DESCRIPTION RU: NTV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2471
+#DESCRIPTION RU: NTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5115
+#DESCRIPTION RU: NTV Hit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8010
+#DESCRIPTION RU: NTV HIT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11
+#DESCRIPTION RU: NTV HIT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32493
+#DESCRIPTION RU: NTV PRAVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30885
+#DESCRIPTION RU: NTV Serial
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41669
+#DESCRIPTION RU: NTV SERIAL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31264
+#DESCRIPTION RU: NTV SERIAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49019
+#DESCRIPTION RU: NTV Stil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16764
+#DESCRIPTION RU: NTV STIL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41563
+#DESCRIPTION RU: NTV STIL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15462
+#DESCRIPTION RU: NTV+ 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13206
+#DESCRIPTION RU: NTV+ 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36179
+#DESCRIPTION RU: NTV+ 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47058
+#DESCRIPTION RU: NTV+ 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2533
+#DESCRIPTION RU: O!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27324
+#DESCRIPTION RU: O! HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20351
+#DESCRIPTION RU: O!2 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13013
+#DESCRIPTION RU: O!2 TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28843
+#DESCRIPTION RU: O!2 TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6401
+#DESCRIPTION RU: Ocean Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44336
+#DESCRIPTION RU: Okhota i Rybalka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3767
+#DESCRIPTION RU: Okhotnik i Rybolov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19755
+#DESCRIPTION RU: Okhotnik i Rybolov FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40611
+#DESCRIPTION RU: Okhotnik i Rybolov HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3198
+#DESCRIPTION RU: OKKO SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32852
+#DESCRIPTION RU: OKKO SPORT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14003
+#DESCRIPTION RU: OKKO SPORT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/555
+#DESCRIPTION RU: One Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49442
+#DESCRIPTION RU: ORUZHIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12001
+#DESCRIPTION RU: Ostrosyuzhetnoye Kino HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52115
+#DESCRIPTION RU: OTR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17876
+#DESCRIPTION RU: OTR FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44553
+#DESCRIPTION RU: OTR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12449
+#DESCRIPTION RU: PARAMOUNT CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3476
+#DESCRIPTION RU: PARAMOUNT CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11038
+#DESCRIPTION RU: PARAMOUNT COMEDY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43908
+#DESCRIPTION RU: PARAMOUNT COMEDY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9716
+#DESCRIPTION RU: PEH TB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50371
+#DESCRIPTION RU: Perviy Avtomobilniy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/306
+#DESCRIPTION RU: PERVIY KANAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15095
+#DESCRIPTION RU: Perviy Kanal Europe (Perviy Baltic)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11854
+#DESCRIPTION RU: PERVIY KANAL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37074
+#DESCRIPTION RU: PERVIY KANAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38575
+#DESCRIPTION RU: Pervyy Kosmicheskiy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15915
+#DESCRIPTION RU: Pervyy Kosmicheskiy FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20943
+#DESCRIPTION RU: Pervyy Kosmicheskiy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39522
+#DESCRIPTION RU: PLAN B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37806
+#DESCRIPTION RU: Pobeda !
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8216
+#DESCRIPTION RU: Poyekhali!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31948
+#DESCRIPTION RU: PRAVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52384
+#DESCRIPTION RU: Priklyucheniya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18826
+#DESCRIPTION RU: Priklyucheniya FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21941
+#DESCRIPTION RU: Priklyucheniya HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32810
+#DESCRIPTION RU: PRO Biznes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45207
+#DESCRIPTION RU: PRO LUBOV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36619
+#DESCRIPTION RU: PRODVIJENIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31132
+#DESCRIPTION RU: Psihologia 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40835
+#DESCRIPTION RU: Pyatit Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36565
+#DESCRIPTION RU: PYATNICA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10859
+#DESCRIPTION RU: PYATNICA!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43220
+#DESCRIPTION RU: Pyatnica! FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28496
+#DESCRIPTION RU: PYATNICA+ 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22598
+#DESCRIPTION RU: PYATNICA+ 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10361
+#DESCRIPTION RU: PYATNICA+ 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54712
+#DESCRIPTION RU: PYATNICA+ 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39845
+#DESCRIPTION RU: PYATNICA+ 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39558
+#DESCRIPTION RU: PYATNICA+ 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28221
+#DESCRIPTION RU: PYATNICA+ 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44729
+#DESCRIPTION RU: PYATNICA+ 7 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30359
+#DESCRIPTION RU: PYATNICA+ 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41329
+#DESCRIPTION RU: Radost Moya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38580
+#DESCRIPTION RU: Ratnik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1387
+#DESCRIPTION RU: Ratnik FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32999
+#DESCRIPTION RU: Ratnik HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26331
+#DESCRIPTION RU: RBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54262
+#DESCRIPTION RU: RBC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54363
+#DESCRIPTION RU: RBC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5975
+#DESCRIPTION RU: RBK TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10071
+#DESCRIPTION RU: RBK-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23058
+#DESCRIPTION RU: Red
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54675
+#DESCRIPTION RU: RED FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6121
+#DESCRIPTION RU: RED HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32306
+#DESCRIPTION RU: REN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10443
+#DESCRIPTION RU: REN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3620
+#DESCRIPTION RU: REN TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52881
+#DESCRIPTION RU: RETRO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43725
+#DESCRIPTION RU: RIJIY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37068
+#DESCRIPTION RU: ROSSIYA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35605
+#DESCRIPTION RU: ROSSIYA 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42042
+#DESCRIPTION RU: ROSSIYA 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/728
+#DESCRIPTION RU: Rossiya Kultura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41975
+#DESCRIPTION RU: Rossiya Planeta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51423
+#DESCRIPTION RU: Rossiya-24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10121
+#DESCRIPTION RU: RT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52021
+#DESCRIPTION RU: RT Doc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41578
+#DESCRIPTION RU: RT Doc FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6592
+#DESCRIPTION RU: RT Doc HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24210
+#DESCRIPTION RU: RT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28954
+#DESCRIPTION RU: RT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28651
+#DESCRIPTION RU: RTG FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50222
+#DESCRIPTION RU: RTG HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22696
+#DESCRIPTION RU: RTG TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1702
+#DESCRIPTION RU: RTR PLANETA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4087
+#DESCRIPTION RU: RTVI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40173
+#DESCRIPTION RU: RU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42641
+#DESCRIPTION RU: RU TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49786
+#DESCRIPTION RU: RU TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35152
+#DESCRIPTION RU: Russia K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54306
+#DESCRIPTION RU: RUSSIAN ILLUZION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36736
+#DESCRIPTION RU: RUSSIAN MUSIC BOX FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32547
+#DESCRIPTION RU: RUSSIAN MUSIC BOX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44121
+#DESCRIPTION RU: RUSSIAN MUSICBOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36809
+#DESCRIPTION RU: Russkaya Komedia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3853
+#DESCRIPTION RU: RUSSKIJ BESTSELLER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41040
+#DESCRIPTION RU: RUSSKIJ ROMAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45412
+#DESCRIPTION RU: Russkiy Detektiv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16727
+#DESCRIPTION RU: Russkiy Extrim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27386
+#DESCRIPTION RU: Russkiy Extrim FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13274
+#DESCRIPTION RU: RUSSKIY EXTRIM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46950
+#DESCRIPTION RU: Russkiy Extrim UFHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14777
+#DESCRIPTION RU: Russkiy Roman FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14707
+#DESCRIPTION RU: RUSSKIY ROMAN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32143
+#DESCRIPTION RU: Rybolov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37897
+#DESCRIPTION RU: Ryzhiy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5355
+#DESCRIPTION RU: SAINT PETERBURG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28064
+#DESCRIPTION RU: SAPFIR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25132
+#DESCRIPTION RU: Sapfir FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31078
+#DESCRIPTION RU: SAPFIR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34080
+#DESCRIPTION RU: SARAFAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37785
+#DESCRIPTION RU: SCARRY MOVIE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49423
+#DESCRIPTION RU: SCI-FI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18607
+#DESCRIPTION RU: Sci-Fi FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43919
+#DESCRIPTION RU: Science 2.0 (Наука 2.0)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23570
+#DESCRIPTION RU: SET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22483
+#DESCRIPTION RU: SETANTA EVENT 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22626
+#DESCRIPTION RU: SETANTA EVENT 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8419
+#DESCRIPTION RU: SETANTA EVENT 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13614
+#DESCRIPTION RU: SETANTA EVENT 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4597
+#DESCRIPTION RU: SETANTA EVENT 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5824
+#DESCRIPTION RU: SETANTA EVENT 12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19674
+#DESCRIPTION RU: SETANTA EVENT 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/447
+#DESCRIPTION RU: SETANTA EVENT 13 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48693
+#DESCRIPTION RU: SETANTA EVENT 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16806
+#DESCRIPTION RU: SETANTA EVENT 14 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27648
+#DESCRIPTION RU: SETANTA EVENT 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19795
+#DESCRIPTION RU: SETANTA EVENT 15 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43588
+#DESCRIPTION RU: SETANTA EVENT 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28240
+#DESCRIPTION RU: SETANTA EVENT 16 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51094
+#DESCRIPTION RU: SETANTA EVENT 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24373
+#DESCRIPTION RU: SETANTA EVENT 17 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38191
+#DESCRIPTION RU: SETANTA EVENT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9802
+#DESCRIPTION RU: SETANTA EVENT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27973
+#DESCRIPTION RU: SETANTA EVENT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24509
+#DESCRIPTION RU: SETANTA EVENT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2866
+#DESCRIPTION RU: SETANTA EVENT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22511
+#DESCRIPTION RU: SETANTA EVENT 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4112
+#DESCRIPTION RU: SETANTA EVENT 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53496
+#DESCRIPTION RU: SETANTA EVENT 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45689
+#DESCRIPTION RU: SETANTA EVENT 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8916
+#DESCRIPTION RU: SETANTA EVENT 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27770
+#DESCRIPTION RU: SETANTA EVENT 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5588
+#DESCRIPTION RU: SETANTA EVENT 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31993
+#DESCRIPTION RU: SETANTA EVENT 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5908
+#DESCRIPTION RU: SETANTA EVENT 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36893
+#DESCRIPTION RU: SETANTA EVENT 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20273
+#DESCRIPTION RU: SETANTA EVENT 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45631
+#DESCRIPTION RU: SETANTA SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53042
+#DESCRIPTION RU: SETANTA SPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32951
+#DESCRIPTION RU: Setanta Sport 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23525
+#DESCRIPTION RU: SETANTA SPORTS 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3657
+#DESCRIPTION RU: Shanson TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15476
+#DESCRIPTION RU: SHANT MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46944
+#DESCRIPTION RU: SHANT MUSIC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34919
+#DESCRIPTION RU: SHANT MUSIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33566
+#DESCRIPTION RU: Shokiruyuschee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48848
+#DESCRIPTION RU: Shopping Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13504
+#DESCRIPTION RU: SHOT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5749
+#DESCRIPTION RU: SHOT TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3205
+#DESCRIPTION RU: SMART ZONE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4843
+#DESCRIPTION RU: SMARTZONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9927
+#DESCRIPTION RU: SNE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27983
+#DESCRIPTION RU: Sochi Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2720
+#DESCRIPTION RU: Sochi Live FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50386
+#DESCRIPTION RU: Sochi Live HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8249
+#DESCRIPTION RU: Solntse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43935
+#DESCRIPTION RU: Sony Red
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28645
+#DESCRIPTION RU: SONY TURBO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30602
+#DESCRIPTION RU: Sony Turbo Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14753
+#DESCRIPTION RU: Sovershenno Sekretno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12756
+#DESCRIPTION RU: SOVSEC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7815
+#DESCRIPTION RU: Soyuz HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1884
+#DESCRIPTION RU: SPAS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7993
+#DESCRIPTION RU: SPORT 2 BALTIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13394
+#DESCRIPTION RU: SPORTIVNYI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48819
+#DESCRIPTION RU: SPORTIVNYI FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47328
+#DESCRIPTION RU: SPORTIVNYI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48574
+#DESCRIPTION RU: STAR CINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38086
+#DESCRIPTION RU: STAR CINEMA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21644
+#DESCRIPTION RU: STAR CINEMA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29931
+#DESCRIPTION RU: STAR FAMILY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40713
+#DESCRIPTION RU: STAR FAMILY FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1856
+#DESCRIPTION RU: STAR FAMILY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20371
+#DESCRIPTION RU: START
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31107
+#DESCRIPTION RU: START AIR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15746
+#DESCRIPTION RU: START AIR FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27393
+#DESCRIPTION RU: START AIR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13574
+#DESCRIPTION RU: START HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17725
+#DESCRIPTION RU: START TRIUMF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37388
+#DESCRIPTION RU: START TRIUMF FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17115
+#DESCRIPTION RU: START TRIUMF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35484
+#DESCRIPTION RU: Start Tv FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5604
+#DESCRIPTION RU: START WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17793
+#DESCRIPTION RU: START WORLD FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12833
+#DESCRIPTION RU: START WORLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35901
+#DESCRIPTION RU: Strana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27106
+#DESCRIPTION RU: Strashnoe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19556
+#DESCRIPTION RU: STS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1706
+#DESCRIPTION RU: STS BALTIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43023
+#DESCRIPTION RU: STS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39825
+#DESCRIPTION RU: STS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32110
+#DESCRIPTION RU: STS Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20596
+#DESCRIPTION RU: STS Kids FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47284
+#DESCRIPTION RU: STS KIDS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16564
+#DESCRIPTION RU: STS LOVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13236
+#DESCRIPTION RU: STS+ 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19098
+#DESCRIPTION RU: STS+ 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21825
+#DESCRIPTION RU: Subbota
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44073
+#DESCRIPTION RU: Subbota! FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5847
+#DESCRIPTION RU: Subbota! HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33108
+#DESCRIPTION RU: SUPER+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36815
+#DESCRIPTION RU: SUPER+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5279
+#DESCRIPTION RU: Superheroi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1603
+#DESCRIPTION RU: Tantsuy!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1457
+#DESCRIPTION RU: Tantsuy! FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20738
+#DESCRIPTION RU: Tayny Galaktiki
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17113
+#DESCRIPTION RU: Teatr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34747
+#DESCRIPTION RU: Teatr FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23246
+#DESCRIPTION RU: Telekafe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4012
+#DESCRIPTION RU: Telekanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29808
+#DESCRIPTION RU: TELEKANAL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1527
+#DESCRIPTION RU: TELEKANAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8407
+#DESCRIPTION RU: Terra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22095
+#DESCRIPTION RU: Terra FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23023
+#DESCRIPTION RU: TERRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53150
+#DESCRIPTION RU: TIJI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4124
+#DESCRIPTION RU: Timeless Dizi Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46264
+#DESCRIPTION RU: Timeless Dizi Channel FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18049
+#DESCRIPTION RU: Tip-Top
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13625
+#DESCRIPTION RU: Tip-Top FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2372
+#DESCRIPTION RU: TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52134
+#DESCRIPTION RU: TLC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7188
+#DESCRIPTION RU: TLUM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42221
+#DESCRIPTION RU: TNT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52433
+#DESCRIPTION RU: TNT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40002
+#DESCRIPTION RU: TNT 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11769
+#DESCRIPTION RU: TNT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/27785
+#DESCRIPTION RU: TNT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10186
+#DESCRIPTION RU: TNT 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17470
+#DESCRIPTION RU: TNT 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19539
+#DESCRIPTION RU: TNT 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32912
+#DESCRIPTION RU: TNT 7 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34434
+#DESCRIPTION RU: TNT 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12248
+#DESCRIPTION RU: TNT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44865
+#DESCRIPTION RU: TNT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22868
+#DESCRIPTION RU: TNT Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26636
+#DESCRIPTION RU: Tnt Music FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1759
+#DESCRIPTION RU: TNT MUSIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50300
+#DESCRIPTION RU: TNV Tatarstan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17632
+#DESCRIPTION RU: TOCHKA OTRIVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10293
+#DESCRIPTION RU: Trace Sport Stars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12351
+#DESCRIPTION RU: Trace Sport Stars FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43653
+#DESCRIPTION RU: TRASH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34116
+#DESCRIPTION RU: TRASH FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53813
+#DESCRIPTION RU: TRAVEL CH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37857
+#DESCRIPTION RU: Travel CH HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33508
+#DESCRIPTION RU: TRAVEL&ADVENTURE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9624
+#DESCRIPTION RU: Travel+Adventure FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43810
+#DESCRIPTION RU: Travel+Adventure HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34803
+#DESCRIPTION RU: TV XXI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47114
+#DESCRIPTION RU: TV1000 ACTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9309
+#DESCRIPTION RU: TV1000 Russkiy KINO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18324
+#DESCRIPTION RU: TV1000 RUSSKOE KINO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22152
+#DESCRIPTION RU: TV3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16446
+#DESCRIPTION RU: TV3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21320
+#DESCRIPTION RU: GO3 FILM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36458
+#DESCRIPTION RU: TV3 FILM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2175
+#DESCRIPTION RU: TV3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18462
+#DESCRIPTION RU: TV3+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35965
+#DESCRIPTION RU: TV3+ 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41049
+#DESCRIPTION RU: TV3+ 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33584
+#DESCRIPTION RU: TV3+ 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14253
+#DESCRIPTION RU: TV3+ 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33401
+#DESCRIPTION RU: TV3+ 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28232
+#DESCRIPTION RU: TV3+ 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/8988
+#DESCRIPTION RU: TV3+ 7 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22944
+#DESCRIPTION RU: TV3+ 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23093
+#DESCRIPTION RU: TV3+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17787
+#DESCRIPTION RU: TV5 MONDE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30190
+#DESCRIPTION RU: TVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3191
+#DESCRIPTION RU: TVC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38522
+#DESCRIPTION RU: TVC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31237
+#DESCRIPTION RU: Udar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50295
+#DESCRIPTION RU: Udar FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42145
+#DESCRIPTION RU: UDAR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49898
+#DESCRIPTION RU: UNIKOM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3823
+#DESCRIPTION RU: UNIKUM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17987
+#DESCRIPTION RU: USADBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20253
+#DESCRIPTION RU: UTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9598
+#DESCRIPTION RU: UTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30244
+#DESCRIPTION RU: V Gostyakh u Skazki
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22383
+#DESCRIPTION RU: V Mire Zhivotnykh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45186
+#DESCRIPTION RU: V Mire Zhivotnykh FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41667
+#DESCRIPTION RU: V Mire Zhivotnykh HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36283
+#DESCRIPTION RU: VH1 Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1042
+#DESCRIPTION RU: VH1 Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12205
+#DESCRIPTION RU: VHS-KA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15721
+#DESCRIPTION RU: VHS-KA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50378
+#DESCRIPTION RU: VIASAT EXPLORE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50237
+#DESCRIPTION RU: VIASAT EXPLORE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47325
+#DESCRIPTION RU: VIASAT EXPLORE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/12159
+#DESCRIPTION RU: VIASAT HISTORY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41404
+#DESCRIPTION RU: VIASAT HISTORY FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25175
+#DESCRIPTION RU: VIASAT HISTORY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48389
+#DESCRIPTION RU: VIASAT KINO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2425
+#DESCRIPTION RU: VIASAT KINO ACTION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47499
+#DESCRIPTION RU: VIASAT KINO COMEDY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15587
+#DESCRIPTION RU: VIASAT KINO COMEDY FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37703
+#DESCRIPTION RU: VIASAT KINO COMEDY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/37613
+#DESCRIPTION RU: VIASAT NATURE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46406
+#DESCRIPTION RU: VIASAT NATURE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/13268
+#DESCRIPTION RU: VIASAT NATURE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32303
+#DESCRIPTION RU: Viju Explore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40010
+#DESCRIPTION RU: Viju Explore FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48020
+#DESCRIPTION RU: Viju Explore HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53459
+#DESCRIPTION RU: Viju History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16131
+#DESCRIPTION RU: Viju History FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10957
+#DESCRIPTION RU: Viju History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46539
+#DESCRIPTION RU: Viju Nature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39073
+#DESCRIPTION RU: Viju Nature FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35586
+#DESCRIPTION RU: Viju Nature HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31706
+#DESCRIPTION RU: VIJU TV1000 Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32908
+#DESCRIPTION RU: Viju TV1000 Action FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46540
+#DESCRIPTION RU: Viju Tv1000 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24019
+#DESCRIPTION RU: Viju TV1000 Russkoje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30816
+#DESCRIPTION RU: Viju TV1000 Russkoje FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48412
+#DESCRIPTION RU: Viju TV1000 Russkoje HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42585
+#DESCRIPTION RU: VIJU+ COMEDY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47186
+#DESCRIPTION RU: Viju+ COMEDY FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2672
+#DESCRIPTION RU: VIJU+ COMEDY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2447
+#DESCRIPTION RU: Viju+ Megahit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40283
+#DESCRIPTION RU: Viju+ MEGAHIT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24534
+#DESCRIPTION RU: VIJU+ MEGAHIT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/34247
+#DESCRIPTION RU: VIJU+ PLANET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38326
+#DESCRIPTION RU: Viju+ Planet FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/19678
+#DESCRIPTION RU: VIJU+ PLANET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/29516
+#DESCRIPTION RU: VIJU+ Premiere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26283
+#DESCRIPTION RU: Viju+ Premiere FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/25007
+#DESCRIPTION RU: VIJU+ PREMIERE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41883
+#DESCRIPTION RU: VIJU+ SERIAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11734
+#DESCRIPTION RU: Viju+ Serial FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33842
+#DESCRIPTION RU: VIJU+ SERIAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50982
+#DESCRIPTION RU: Viju+ Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2139
+#DESCRIPTION RU: Viju+ Sport FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/960
+#DESCRIPTION RU: VIJU+ SPORT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43499
+#DESCRIPTION RU: Viju+ TV1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/582
+#DESCRIPTION RU: VIJU+ TV1000 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21251
+#DESCRIPTION RU: Vitrina TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46981
+#DESCRIPTION RU: Voprosi i Otveti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33000
+#DESCRIPTION RU: Vostok TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40099
+#DESCRIPTION RU: Vremya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/254
+#DESCRIPTION RU: Women's Magazine HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46553
+#DESCRIPTION RU: Women's Magazine FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17468
+#DESCRIPTION RU: Women's Magazine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48255
+#DESCRIPTION RU: World Fashion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2145
+#DESCRIPTION RU: World Fashion FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/3815
+#DESCRIPTION RU: World Fashion HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39035
+#DESCRIPTION RU: Zagorodnaya Zhizn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7016
+#DESCRIPTION RU: Zagorodnaya Zhizn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35161
+#DESCRIPTION RU: Zagorodniy HD Int
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20435
+#DESCRIPTION RU: Zagorodniy Int
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/35422
+#DESCRIPTION RU: Zagorodnyi Int FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40716
+#DESCRIPTION RU: Zar Ptica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/882
+#DESCRIPTION RU: Zdorovoye TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22
+#DESCRIPTION RU: ZEE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52350
+#DESCRIPTION RU: Zhivaia Planeta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51392
+#DESCRIPTION RU: Zhivaya Priroda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1170
+#DESCRIPTION RU: Zhivaya Priroda FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53525
+#DESCRIPTION RU: ZHIVI!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31310
+#DESCRIPTION RU: Zoo Park
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4788
+#DESCRIPTION RU: ZOO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21245
+#DESCRIPTION RU: ZVEZDA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6157
+#DESCRIPTION RU: ZVEZDA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46665
+#DESCRIPTION RU: ZVEZDA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10867
+#DESCRIPTION RU: Zvezda Plyus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2536
+#DESCRIPTION RU: Zvezda Plyus FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24382
+#DESCRIPTION RU: ZVEZDA PLYUS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45318
+#DESCRIPTION RU: Živi!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/44433
+#DESCRIPTION RU: СТС
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5798
+#DESCRIPTION RU: ТNV Planeta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26100
+#DESCRIPTION RU: ТPO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39124
+#DESCRIPTION RU: Ю TB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30622
+#DESCRIPTION RU: SHANT Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/23130
+#DESCRIPTION RU: SHANT Kids FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21522
+#DESCRIPTION RU: SHANT Kids HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49688
+#DESCRIPTION RU: SHANT Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/22021
+#DESCRIPTION RU: SHANT Premium FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/47374
+#DESCRIPTION RU: SHANT Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2599
+#DESCRIPTION RU: SHANT Serial
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/43738
+#DESCRIPTION RU: SHANT Serial FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31421
+#DESCRIPTION RU: SHANT Serial HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14938
+#DESCRIPTION UA: 1+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28278
+#DESCRIPTION UA: 1+1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54031
+#DESCRIPTION UA: 1+2 INT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31326
+#DESCRIPTION UA: 36.6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/39167
+#DESCRIPTION UA: 36.6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11523
+#DESCRIPTION UA: AMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/36172
+#DESCRIPTION UA: BOLT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/10833
+#DESCRIPTION UA: BOLT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32404
+#DESCRIPTION UA: DACA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18832
+#DESCRIPTION UA: DACA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/52319
+#DESCRIPTION UA: FILM UA LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/38431
+#DESCRIPTION UA: FILM UA LIVE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/40757
+#DESCRIPTION UA: FREEDOM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/9768
+#DESCRIPTION UA: FREEDOM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/31598
+#DESCRIPTION UA: INTER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18640
+#DESCRIPTION UA: QUIZ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46619
+#DESCRIPTION UA: QUIZ TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/30888
+#DESCRIPTION UA: STAR CINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15163
+#DESCRIPTION UA: STAR CINEMA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7075
+#DESCRIPTION UA: UKRAINE 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/48105
+#DESCRIPTION UA: 1+1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32371
+#DESCRIPTION UA: 1+1 INT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28104
+#DESCRIPTION UA: 1+1 INT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/20899
+#DESCRIPTION UA: 2 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45329
+#DESCRIPTION UA: 24 Kanal HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/5949
+#DESCRIPTION UA: 2PLUS2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24501
+#DESCRIPTION UA: 5 chanel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41168
+#DESCRIPTION UA: 5KANAL UKRAINA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28835
+#DESCRIPTION UA: 7 Kanal HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/53413
+#DESCRIPTION UA: ATR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/6228
+#DESCRIPTION UA: Comedy Central FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/26455
+#DESCRIPTION UA: ENTERFILM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/41626
+#DESCRIPTION UA: ESPRESOTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32988
+#DESCRIPTION UA: ICTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/696
+#DESCRIPTION UA: INDIGO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46598
+#DESCRIPTION UA: INTER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/2962
+#DESCRIPTION UA: K1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/32472
+#DESCRIPTION UA: K2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/50959
+#DESCRIPTION UA: Kvartal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11334
+#DESCRIPTION UA: M1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33727
+#DESCRIPTION UA: M2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/21581
+#DESCRIPTION UA: M2 Estrada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11560
+#DESCRIPTION UA: MAXXI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/1786
+#DESCRIPTION UA: MEGA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/45832
+#DESCRIPTION UA: MILADY TELEVISION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11175
+#DESCRIPTION ro" tvg-name="UA: Filmbox Arthouse FHD" tvg-logo="" group-title="Ucraina"
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46830
+#DESCRIPTION UA: NIKI Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/24479
+#DESCRIPTION UA: NOVY KANAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/18152
+#DESCRIPTION UA: NTN (HTH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/16134
+#DESCRIPTION UA: Peshiy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/15708
+#DESCRIPTION UA: PIKSELTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17817
+#DESCRIPTION UA: Plus Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/11269
+#DESCRIPTION UA: Rada HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/17536
+#DESCRIPTION UA: SETANTA SPORT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/54036
+#DESCRIPTION UA: SETANTA SPORT PLUS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/28451
+#DESCRIPTION UA: SONCE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14684
+#DESCRIPTION UA: Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/42702
+#DESCRIPTION UA: Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/14255
+#DESCRIPTION UA: STB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4296
+#DESCRIPTION UA: TET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/51972
+#DESCRIPTION UA: UA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/33671
+#DESCRIPTION UA: UKRAINA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/46409
+#DESCRIPTION UA: Unian TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/49780
+#DESCRIPTION UA: VINTAGE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/4796
+#DESCRIPTION UA: X Sport  FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//squid.game-tv.org%3a8080/Cost_dani/ufsJslMq2x/7715
+#DESCRIPTION UA: ZOOM
