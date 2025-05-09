@@ -1,0 +1,2251 @@
+#NAME IPTV Mix EXYU 9.5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4682
+#DESCRIPTION ##### SRBIJA #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/295
+#DESCRIPTION RTS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23053
+#DESCRIPTION RTS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/296
+#DESCRIPTION RTS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/589
+#DESCRIPTION RTS 1 HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23079
+#DESCRIPTION RTS 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/609
+#DESCRIPTION RTS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/297
+#DESCRIPTION RTS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22890
+#DESCRIPTION RTS 2 HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23399
+#DESCRIPTION RTS 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/298
+#DESCRIPTION RTS 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13999
+#DESCRIPTION RTS 3.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20303
+#DESCRIPTION RTS 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/605
+#DESCRIPTION RTV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/612
+#DESCRIPTION RTV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23262
+#DESCRIPTION RTV VOJVODINA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20572
+#DESCRIPTION RTV VOJVODINA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22865
+#DESCRIPTION RTS KLASIKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/303
+#DESCRIPTION RTS POLET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18511
+#DESCRIPTION RTS NAUKA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23070
+#DESCRIPTION RTS SVET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/294
+#DESCRIPTION RTS SVET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/302
+#DESCRIPTION RTS TREZOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13151
+#DESCRIPTION RTS MUZIKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/301
+#DESCRIPTION RTS DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/300
+#DESCRIPTION RTS ZIVOT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/304
+#DESCRIPTION RTS KOLO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21541
+#DESCRIPTION K1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23211
+#DESCRIPTION K1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23526
+#DESCRIPTION BLIC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23409
+#DESCRIPTION BLIC TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13998
+#DESCRIPTION B92 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/507
+#DESCRIPTION B92 TV.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4670
+#DESCRIPTION B92. TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4734
+#DESCRIPTION PRVA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3533
+#DESCRIPTION PRVA .TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4717
+#DESCRIPTION PRVA TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22891
+#DESCRIPTION PRVA .HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/511
+#DESCRIPTION PRVA PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22892
+#DESCRIPTION PRVA PLUS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3540
+#DESCRIPTION PRVA KICK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21558
+#DESCRIPTION PRVA KICK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21557
+#DESCRIPTION PRVA LIFE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21559
+#DESCRIPTION PRVA FILES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23210
+#DESCRIPTION PRVA MAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4915
+#DESCRIPTION PRVA WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/539
+#DESCRIPTION PRVA WORLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3893
+#DESCRIPTION NOVA S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17982
+#DESCRIPTION NOVA S FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/512
+#DESCRIPTION nOVA S Hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23436
+#DESCRIPTION NOVA MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23470
+#DESCRIPTION NOVA MAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23437
+#DESCRIPTION NOVA SERIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23441
+#DESCRIPTION NOVA SERIES.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23321
+#DESCRIPTION EURONEWS SRBIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23218
+#DESCRIPTION INSAJDER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23279
+#DESCRIPTION TANJUG TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23472
+#DESCRIPTION KURIR  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23473
+#DESCRIPTION KURIR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23395
+#DESCRIPTION UNA TV SRBIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23263
+#DESCRIPTION HYPE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23322
+#DESCRIPTION HYPE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23204
+#DESCRIPTION TV DR FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21695
+#DESCRIPTION TV DR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23229
+#DESCRIPTION FRONT TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/509
+#DESCRIPTION STUDIO B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/613
+#DESCRIPTION STUDIO B.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/608
+#DESCRIPTION HAPPY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22893
+#DESCRIPTION HAPPY.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23378
+#DESCRIPTION HAPPY ZIVOT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23379
+#DESCRIPTION HAPPY MUZIKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23380
+#DESCRIPTION HAPPY ZEMLJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23381
+#DESCRIPTION HAPPY DRUSTVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1105
+#DESCRIPTION HAPPY REALITY 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3040
+#DESCRIPTION HAPPY REALITY 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20299
+#DESCRIPTION INFORMER TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23471
+#DESCRIPTION INFORMER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22895
+#DESCRIPTION NOVOSADSKA TV.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20316
+#DESCRIPTION BALKAN TRIP TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23428
+#DESCRIPTION BALKAN TRIP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3417
+#DESCRIPTION NOVI PAZAR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20533
+#DESCRIPTION PALMA PLUS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23087
+#DESCRIPTION VESTI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23417
+#DESCRIPTION ECO VIZIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23418
+#DESCRIPTION CITY TV UB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23085
+#DESCRIPTION RT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23527
+#DESCRIPTION TV KISS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23050
+#DESCRIPTION TV APATIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23486
+#DESCRIPTION TV KRAGUJEVAC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23335
+#DESCRIPTION NEWSMAX BALKANS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21193
+#DESCRIPTION TV GEM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23284
+#DESCRIPTION SUPER SAT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23394
+#DESCRIPTION PTV VIENNA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22158
+#DESCRIPTION TV LOTEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23257
+#DESCRIPTION TV PANCEVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23269
+#DESCRIPTION LESKOVAC TV.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23273
+#DESCRIPTION TV CARIBROD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23271
+#DESCRIPTION TV GM PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23261
+#DESCRIPTION TV TRSTENIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22236
+#DESCRIPTION RTV HERC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23300
+#DESCRIPTION TV BOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23227
+#DESCRIPTION NISKA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23228
+#DESCRIPTION ZDRAVLJE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1422
+#DESCRIPTION DUNAV  TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20534
+#DESCRIPTION PI PIROT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23258
+#DESCRIPTION TV PIROT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22896
+#DESCRIPTION DUNAV TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/600
+#DESCRIPTION AGRO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22897
+#DESCRIPTION AGRO TV.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23270
+#DESCRIPTION KANAL M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20535
+#DESCRIPTION TV POZEGA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23083
+#DESCRIPTION KCN ZAPAD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1092
+#DESCRIPTION HRAM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20536
+#DESCRIPTION KCN K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23075
+#DESCRIPTION VTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23202
+#DESCRIPTION KORENI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23048
+#DESCRIPTION MIS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21449
+#DESCRIPTION TV OK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21652
+#DESCRIPTION TV RAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22154
+#DESCRIPTION KTV ZRENJANIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22041
+#DESCRIPTION TV K-1 Leskovac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23253
+#DESCRIPTION TV PLUS KRUSEVAC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1096
+#DESCRIPTION TV SUPER SMEDEREVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20537
+#DESCRIPTION SUPER D+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20302
+#DESCRIPTION TV BELLE AMIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20265
+#DESCRIPTION TV KLADOVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20361
+#DESCRIPTION TV VITEZEVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/604
+#DESCRIPTION TV SUMADIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/14004
+#DESCRIPTION TV KIKINDA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23260
+#DESCRIPTION TV BUJANOVAC.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20301
+#DESCRIPTION TV BUJANOVAC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2887
+#DESCRIPTION TV SRPSKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22155
+#DESCRIPTION TV DISKOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/14000
+#DESCRIPTION TV DELTA.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4803
+#DESCRIPTION TV ISTOK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15506
+#DESCRIPTION TV ISTOK 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20295
+#DESCRIPTION SANTOS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20284
+#DESCRIPTION TV 4S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/14001
+#DESCRIPTION TV9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23276
+#DESCRIPTION RTV 101
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23086
+#DESCRIPTION KAROLINA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/14002
+#DESCRIPTION TV M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20267
+#DESCRIPTION RTV VRANJE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23084
+#DESCRIPTION SLOBODNA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20294
+#DESCRIPTION TV VRANJSKA PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2231
+#DESCRIPTION TV MOST
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22150
+#DESCRIPTION MREZA MOST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22152
+#DESCRIPTION RTV PODRINJE (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23259
+#DESCRIPTION RTV BAP.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4732
+#DESCRIPTION RTV BAP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21686
+#DESCRIPTION RTV MIR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1881
+#DESCRIPTION NTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2929
+#DESCRIPTION TESLAVISION TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2877
+#DESCRIPTION TRAVEL RS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2206
+#DESCRIPTION PESTER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2230
+#DESCRIPTION BNV TV.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2228
+#DESCRIPTION SANDZAK TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2229
+#DESCRIPTION SANDZAK TV SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15413
+#DESCRIPTION N1 INFO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2875
+#DESCRIPTION N1 INFO SRBIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4681
+#DESCRIPTION ##### PINKOVI #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22171
+#DESCRIPTION PINK FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23502
+#DESCRIPTION PINK.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1084
+#DESCRIPTION PINK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/327
+#DESCRIPTION PINK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22899
+#DESCRIPTION PINK HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/329
+#DESCRIPTION RED TV.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22900
+#DESCRIPTION RED TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/330
+#DESCRIPTION VESTI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22901
+#DESCRIPTION VESTI.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22902
+#DESCRIPTION PINK ACTIONHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/333
+#DESCRIPTION PINK ACTION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/334
+#DESCRIPTION PINK MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22903
+#DESCRIPTION PINK MOVIES.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22904
+#DESCRIPTION PINK PREMIUM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/339
+#DESCRIPTION PINK PREMIUM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/335
+#DESCRIPTION PINK THRILLER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22905
+#DESCRIPTION PINK THRILLER.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22906
+#DESCRIPTION PINK COMEDY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/337
+#DESCRIPTION PINK COMEDY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/338
+#DESCRIPTION PINK HORROR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22907
+#DESCRIPTION PINK HORROR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22908
+#DESCRIPTION PINK WESTERN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4914
+#DESCRIPTION PINK WESTERN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3422
+#DESCRIPTION PINK FAMILY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22909
+#DESCRIPTION PINK FAMILY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22910
+#DESCRIPTION PINK STYLE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/390
+#DESCRIPTION PINK STYLE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3426
+#DESCRIPTION PINK PEDIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22911
+#DESCRIPTION PINK PEDIA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22912
+#DESCRIPTION PINK SOAP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/391
+#DESCRIPTION PINK SOAP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/392
+#DESCRIPTION PINK SERIJE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22913
+#DESCRIPTION PINK SERIJE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22914
+#DESCRIPTION PINK FILM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1368
+#DESCRIPTION PINK FILM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3419
+#DESCRIPTION PINK ZABAVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22915
+#DESCRIPTION PINK ZABAVA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3420
+#DESCRIPTION PINK ROMANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22916
+#DESCRIPTION PINK ROMANCE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22918
+#DESCRIPTION PINK KUVAR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/332
+#DESCRIPTION PINK KUVAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/336
+#DESCRIPTION PINK SCI-FI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/340
+#DESCRIPTION PINK EXTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1086
+#DESCRIPTION PINK PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1104
+#DESCRIPTION PINK BIH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23464
+#DESCRIPTION PINK BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1402
+#DESCRIPTION PINK SHOW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1403
+#DESCRIPTION PINK REALITY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3424
+#DESCRIPTION PINK WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13132
+#DESCRIPTION PINK CLASSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3425
+#DESCRIPTION PINK WORLD CINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21564
+#DESCRIPTION PINK CRIME MYSTERY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21563
+#DESCRIPTION PINK CRIME & MYSTERY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13143
+#DESCRIPTION PINK SCI-FI&FANTASY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3080
+#DESCRIPTION PINK HA HA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13136
+#DESCRIPTION PINK HA HA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3081
+#DESCRIPTION PINK LOL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22917
+#DESCRIPTION PINK LOL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13138
+#DESCRIPTION PINK KONCERT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22920
+#DESCRIPTION PINK FOLK 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/237
+#DESCRIPTION PINK FOLK 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1369
+#DESCRIPTION PINK FOLK 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22921
+#DESCRIPTION PINK FOLK 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4901
+#DESCRIPTION PINK KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/331
+#DESCRIPTION PINK SUPER KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22919
+#DESCRIPTION PINK SUPER KIDS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3429
+#DESCRIPTION PINK HITS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1371
+#DESCRIPTION PINK HITS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22922
+#DESCRIPTION PINK HITS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4906
+#DESCRIPTION PINK MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3035
+#DESCRIPTION PINK MUSIC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3036
+#DESCRIPTION PINK BRAVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22924
+#DESCRIPTION PINK BRAVO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22925
+#DESCRIPTION PINK AND ROLL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3428
+#DESCRIPTION PINK AND ROLL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3423
+#DESCRIPTION PINK FASHION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23415
+#DESCRIPTION NARODNA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23423
+#DESCRIPTION NARODNA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23509
+#DESCRIPTION NARODNA TV HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23198
+#DESCRIPTION ELITA LIVE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23199
+#DESCRIPTION ELITA LIVE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23200
+#DESCRIPTION ELITA LIVE 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23201
+#DESCRIPTION ELITA LIVE 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21657
+#DESCRIPTION ELITA 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21658
+#DESCRIPTION ELITA 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21659
+#DESCRIPTION ELITA 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21660
+#DESCRIPTION ELITA 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20259
+#DESCRIPTION ^^^^ INFO KANAL ^^^^
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4679
+#DESCRIPTION ##### HRVATSKA #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/166
+#DESCRIPTION HRT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/167
+#DESCRIPTION HRT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/168
+#DESCRIPTION HRT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/169
+#DESCRIPTION HRT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/239
+#DESCRIPTION HRT 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1070
+#DESCRIPTION HRT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/524
+#DESCRIPTION HRT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/525
+#DESCRIPTION HRT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/526
+#DESCRIPTION HRT 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20337
+#DESCRIPTION HRT INT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20681
+#DESCRIPTION RTL ADRIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21446
+#DESCRIPTION RTL ADRIA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22877
+#DESCRIPTION RTL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/170
+#DESCRIPTION RTL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3552
+#DESCRIPTION RTL 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21560
+#DESCRIPTION RTL 2 HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23510
+#DESCRIPTION RTL+ HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2977
+#DESCRIPTION RTL PLAY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23389
+#DESCRIPTION RTL WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/268
+#DESCRIPTION RTL CRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23400
+#DESCRIPTION RTL CRIME HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/269
+#DESCRIPTION RTL LIVING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21561
+#DESCRIPTION RTL LIVING HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/272
+#DESCRIPTION RTL PASSION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/174
+#DESCRIPTION DOMA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3350
+#DESCRIPTION DOMA HD TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/173
+#DESCRIPTION NOVA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3351
+#DESCRIPTION NOVA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20262
+#DESCRIPTION NOVA FAMILY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22878
+#DESCRIPTION NOVA FAMILY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20263
+#DESCRIPTION NOVA CINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22879
+#DESCRIPTION NOVA CINEMA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21759
+#DESCRIPTION NOVA WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3909
+#DESCRIPTION SLAVONSKA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3433
+#DESCRIPTION NARODNA - TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21627
+#DESCRIPTION PRIGORSKA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3910
+#DESCRIPTION OSIJECKA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3551
+#DESCRIPTION LAUDATO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/344
+#DESCRIPTION LTV TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/193
+#DESCRIPTION OTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/187
+#DESCRIPTION SBTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21957
+#DESCRIPTION KLAPE I TAMBURE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/202
+#DESCRIPTION MREZA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1132
+#DESCRIPTION TREND TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/190
+#DESCRIPTION PLAVA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/567
+#DESCRIPTION DOX TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4932
+#DESCRIPTION DIZI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2975
+#DESCRIPTION MEDJUGORJE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22870
+#DESCRIPTION VTV VARAZDIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22594
+#DESCRIPTION MARY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23529
+#DESCRIPTION TV ZELINA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2980
+#DESCRIPTION MREZA SPLIT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2979
+#DESCRIPTION HAJDUK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23224
+#DESCRIPTION DMC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/238
+#DESCRIPTION Z1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4711
+#DESCRIPTION N1 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22887
+#DESCRIPTION N1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23330
+#DESCRIPTION BLOOMBERG ADRIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4680
+#DESCRIPTION ##### BIH #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/230
+#DESCRIPTION OBN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22880
+#DESCRIPTION OBN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22881
+#DESCRIPTION O.B.N
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22956
+#DESCRIPTION OBN1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23323
+#DESCRIPTION MG TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3522
+#DESCRIPTION BHT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4923
+#DESCRIPTION BHT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20958
+#DESCRIPTION BHT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20956
+#DESCRIPTION FEDERALNA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/552
+#DESCRIPTION FTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22883
+#DESCRIPTION FTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/311
+#DESCRIPTION ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22882
+#DESCRIPTION ATV. HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23347
+#DESCRIPTION ATV (BIH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/557
+#DESCRIPTION RTRS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1893
+#DESCRIPTION RTRS.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4723
+#DESCRIPTION RTRS PLUS.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1142
+#DESCRIPTION RTRS PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3075
+#DESCRIPTION SARAJEVO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/11668
+#DESCRIPTION RTV HB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21751
+#DESCRIPTION RTV HB.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23332
+#DESCRIPTION RTV IS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/533
+#DESCRIPTION FACE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4708
+#DESCRIPTION FACE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3523
+#DESCRIPTION HAYAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4725
+#DESCRIPTION HAYAT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3078
+#DESCRIPTION HAYAT PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/231
+#DESCRIPTION BN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23001
+#DESCRIPTION BN TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20342
+#DESCRIPTION BN 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23002
+#DESCRIPTION BN 2HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23061
+#DESCRIPTION BN 2 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21436
+#DESCRIPTION BN MUSIC HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/538
+#DESCRIPTION 0 KANAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1891
+#DESCRIPTION 0 KANAL HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13125
+#DESCRIPTION 0 KANAL MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23342
+#DESCRIPTION TATABRADA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23333
+#DESCRIPTION HISTORIJA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21542
+#DESCRIPTION BPK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1409
+#DESCRIPTION NOVA BH HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/310
+#DESCRIPTION NOVA BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22105
+#DESCRIPTION NOVA BH.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22106
+#DESCRIPTION NOVA BIH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21450
+#DESCRIPTION NEON TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23285
+#DESCRIPTION TV ZENICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22468
+#DESCRIPTION ELTA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22467
+#DESCRIPTION ELTA 2 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23037
+#DESCRIPTION BUJRUM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/321
+#DESCRIPTION JABLANICA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3524
+#DESCRIPTION RTV 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1892
+#DESCRIPTION RTV TK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22591
+#DESCRIPTION ALFA TV (BH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13153
+#DESCRIPTION RTV HIT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13152
+#DESCRIPTION KAKANJ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18010
+#DESCRIPTION RTV SANA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21014
+#DESCRIPTION RTV PODRINJE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5257
+#DESCRIPTION TV MAGLAJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5255
+#DESCRIPTION TV VISOKO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13155
+#DESCRIPTION TV SLON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21448
+#DESCRIPTION TV BIR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13123
+#DESCRIPTION CITY PLAY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3431
+#DESCRIPTION IZVORNA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20338
+#DESCRIPTION HERCEG TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13462
+#DESCRIPTION PRVA BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13126
+#DESCRIPTION MY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23528
+#DESCRIPTION MY TV_23528
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2970
+#DESCRIPTION AMNA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1087
+#DESCRIPTION HEMA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13121
+#DESCRIPTION RTV PLUS BRCKO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2964
+#DESCRIPTION K3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3073
+#DESCRIPTION MTV IGMAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1393
+#DESCRIPTION RTV CAZIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2205
+#DESCRIPTION RTV KRAJINA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2969
+#DESCRIPTION RTV BUGOJNO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23040
+#DESCRIPTION RTV VOGOSCA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2971
+#DESCRIPTION SMART TV TESANJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2207
+#DESCRIPTION SUPER TV MEDIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21024
+#DESCRIPTION TOK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22885
+#DESCRIPTION KANAL 5 HD BiH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1884
+#DESCRIPTION KANAL 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1419
+#DESCRIPTION B1 TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22886
+#DESCRIPTION USK HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1365
+#DESCRIPTION USK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5170
+#DESCRIPTION ISLAM  TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21955
+#DESCRIPTION SEHARA ONLINE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/233
+#DESCRIPTION AL JAZEERA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22464
+#DESCRIPTION QURAN TV.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22465
+#DESCRIPTION SUNNAH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/234
+#DESCRIPTION POSAVINA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4710
+#DESCRIPTION N1 BIH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20565
+#DESCRIPTION N1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4683
+#DESCRIPTION ##### MAKEDONIJA #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17550
+#DESCRIPTION MRT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/279
+#DESCRIPTION MRT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/283
+#DESCRIPTION MRT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23116
+#DESCRIPTION MRT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17549
+#DESCRIPTION MRT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/349
+#DESCRIPTION MRT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20952
+#DESCRIPTION MRT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15521
+#DESCRIPTION MRT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20951
+#DESCRIPTION MRT 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17538
+#DESCRIPTION MRT 5 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22926
+#DESCRIPTION MRT SOBRANISKI.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21599
+#DESCRIPTION MRT SOBRANISKI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/348
+#DESCRIPTION KANAL 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/515
+#DESCRIPTION KANAL 5 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17531
+#DESCRIPTION KANAL 5 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/514
+#DESCRIPTION KANAL 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1071
+#DESCRIPTION SITEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/280
+#DESCRIPTION SITEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1377
+#DESCRIPTION SITEL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2945
+#DESCRIPTION SITEL TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/290
+#DESCRIPTION TELMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1376
+#DESCRIPTION TELMA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17984
+#DESCRIPTION TELMA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1374
+#DESCRIPTION ALFA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17174
+#DESCRIPTION ALFA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1095
+#DESCRIPTION 24 VESTI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22927
+#DESCRIPTION Televizija 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23469
+#DESCRIPTION VISTEL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/291
+#DESCRIPTION EDO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17532
+#DESCRIPTION EDO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17536
+#DESCRIPTION MTM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23429
+#DESCRIPTION MDC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23059
+#DESCRIPTION TV SVET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3092
+#DESCRIPTION TV Sonce
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23341
+#DESCRIPTION TV ORBIS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23117
+#DESCRIPTION VARDAR TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21188
+#DESCRIPTION NOVA S MK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15472
+#DESCRIPTION NOVA 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23508
+#DESCRIPTION NOVA 12 MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21761
+#DESCRIPTION SPEKTRA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17524
+#DESCRIPTION KANAL RAB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23465
+#DESCRIPTION KANAL V HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23115
+#DESCRIPTION KANAL 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2169
+#DESCRIPTION TERA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21654
+#DESCRIPTION NASA TV (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23069
+#DESCRIPTION TV STAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1098
+#DESCRIPTION TV PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/292
+#DESCRIPTION Shutel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23206
+#DESCRIPTION M>NET INFO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21565
+#DESCRIPTION M>NET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23222
+#DESCRIPTION M>NET KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23221
+#DESCRIPTION M>NET SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23500
+#DESCRIPTION M>NET GOURMET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3016
+#DESCRIPTION HUGO 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3015
+#DESCRIPTION HUGO 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3014
+#DESCRIPTION HUGO 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23041
+#DESCRIPTION HUGO 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23042
+#DESCRIPTION HUGO 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3923
+#DESCRIPTION HBO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22928
+#DESCRIPTION HBO 2 (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3925
+#DESCRIPTION HBO 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23208
+#DESCRIPTION CINESTAR TV 1 (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23209
+#DESCRIPTION CINESTAR TV ACTION (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23207
+#DESCRIPTION CINESTAR FANTASY HD (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23103
+#DESCRIPTION CINESTAR PREMIERE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20283
+#DESCRIPTION CINESTAR PREMIERE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17515
+#DESCRIPTION CINEMANIA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23392
+#DESCRIPTION CINEMAX HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23393
+#DESCRIPTION CINEMAX HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22933
+#DESCRIPTION STAR MOVIES (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/285
+#DESCRIPTION STAR CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22931
+#DESCRIPTION STAR CRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22932
+#DESCRIPTION STAR LIFE (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22929
+#DESCRIPTION M1 FILM FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20282
+#DESCRIPTION M1 GOLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22930
+#DESCRIPTION TV 1000 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2897
+#DESCRIPTION SCI FI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4878
+#DESCRIPTION AXN MK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4854
+#DESCRIPTION AMC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2202
+#DESCRIPTION Diva HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17527
+#DESCRIPTION FILMBOX STARS MK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/287
+#DESCRIPTION FILMBOX EXTRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17514
+#DESCRIPTION EPIC DRAMA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23336
+#DESCRIPTION DIZI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/288
+#DESCRIPTION HISTORY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23432
+#DESCRIPTION HISTORY II HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22934
+#DESCRIPTION NATIONAL GEOGRAPHIC (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22993
+#DESCRIPTION DISCOVERY CHANNEL (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17520
+#DESCRIPTION DISCOVERY ID
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17519
+#DESCRIPTION CRIME & INVES NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/286
+#DESCRIPTION TLC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21869
+#DESCRIPTION Luxe TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23430
+#DESCRIPTION TRAVEL XP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3038
+#DESCRIPTION BBC EARTH HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22937
+#DESCRIPTION DOCUBOX (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17530
+#DESCRIPTION TRAVEL CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23067
+#DESCRIPTION E! ENTERTANMENT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22938
+#DESCRIPTION 24 KITCHEN (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17529
+#DESCRIPTION FOOD NETWORK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17537
+#DESCRIPTION VIASAT EXPLORER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4844
+#DESCRIPTION VIASAT HISTORY .HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4843
+#DESCRIPTION VIASAT NATURE.HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22936
+#DESCRIPTION ANIMAL PLANET (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22935
+#DESCRIPTION BLOOMBERG ADRIA MK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23063
+#DESCRIPTION CARTOONITO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22939
+#DESCRIPTION JIM JAM SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17540
+#DESCRIPTION PIKABOO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17541
+#DESCRIPTION VAVOOM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23476
+#DESCRIPTION TOXIC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23491
+#DESCRIPTION TOXIC FOLK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23490
+#DESCRIPTION TOXIC RAP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3467
+#DESCRIPTION FOLK MELODY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23549
+#DESCRIPTION ExYU MELODY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23550
+#DESCRIPTION POP MELODY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23062
+#DESCRIPTION BALKAN MUSIC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/599
+#DESCRIPTION STAR FOLK 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1375
+#DESCRIPTION FOLK CLUB  MK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/307
+#DESCRIPTION SKY FOLK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/308
+#DESCRIPTION IN TV MKD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17535
+#DESCRIPTION FEN TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23411
+#DESCRIPTION PLANETA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23431
+#DESCRIPTION LOVE TV (MK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23304
+#DESCRIPTION TV USKANA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23492
+#DESCRIPTION VIZION PLUS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4856
+#DESCRIPTION KLAN MACEDONIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22741
+#DESCRIPTION RTV 21 M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3079
+#DESCRIPTION SHENJA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3037
+#DESCRIPTION ALSAT M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4857
+#DESCRIPTION ERA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4853
+#DESCRIPTION TOP CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4678
+#DESCRIPTION ##### CRNA GORA #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1094
+#DESCRIPTION 777
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15498
+#DESCRIPTION TEUTA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3536
+#DESCRIPTION RTCG SAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1318
+#DESCRIPTION RTCG 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1319
+#DESCRIPTION RTCG 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22940
+#DESCRIPTION RTCG 1. (CG)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22941
+#DESCRIPTION RTCG 2 (CG)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2974
+#DESCRIPTION PRVA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2888
+#DESCRIPTION NOVA M HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3538
+#DESCRIPTION NOVA M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3539
+#DESCRIPTION PINK M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2874
+#DESCRIPTION TV VIJESTI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23345
+#DESCRIPTION TV BUDVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23420
+#DESCRIPTION ULQINI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2883
+#DESCRIPTION TV PLJEVLJA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2880
+#DESCRIPTION TV NIKSIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2882
+#DESCRIPTION TV ROZAJE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23302
+#DESCRIPTION GRADSKA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23294
+#DESCRIPTION PARLAMENTARNI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2884
+#DESCRIPTION A+ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15497
+#DESCRIPTION HERCEG NOVI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23308
+#DESCRIPTION ADRIA TV CG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15742
+#DESCRIPTION TV BOIN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3546
+#DESCRIPTION TV BOIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3082
+#DESCRIPTION TV SUN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23421
+#DESCRIPTION TV E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23422
+#DESCRIPTION WOW MONTENEGRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2889
+#DESCRIPTION MONTE LUX TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4684
+#DESCRIPTION ##### SLOVENIA #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/345
+#DESCRIPTION SLO 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/346
+#DESCRIPTION SLO 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/347
+#DESCRIPTION SLO 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/367
+#DESCRIPTION KANAL A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/369
+#DESCRIPTION PLANET TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/372
+#DESCRIPTION PLANET 2 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/371
+#DESCRIPTION PLANET PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23439
+#DESCRIPTION PLANET EVA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/368
+#DESCRIPTION POP TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/384
+#DESCRIPTION POP BRIO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/388
+#DESCRIPTION POP OTO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/389
+#DESCRIPTION POP KINO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/374
+#DESCRIPTION MINIMAX SLO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/375
+#DESCRIPTION VESELJAK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/373
+#DESCRIPTION HBO SLOVENIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22828
+#DESCRIPTION NOVA 24 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22829
+#DESCRIPTION GOLICA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/205
+#DESCRIPTION ##### FILMSKI #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23039
+#DESCRIPTION HBO MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21862
+#DESCRIPTION HBO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3914
+#DESCRIPTION HBO 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21172
+#DESCRIPTION HBO 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17992
+#DESCRIPTION HBO 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22942
+#DESCRIPTION HBO 2 HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3917
+#DESCRIPTION HBO 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22943
+#DESCRIPTION HBO 3 HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20969
+#DESCRIPTION KINO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/513
+#DESCRIPTION KINO TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5929
+#DESCRIPTION M1 FILM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1423
+#DESCRIPTION M1 FILM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2968
+#DESCRIPTION M1 FILM GOLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22944
+#DESCRIPTION M1 FILM GOLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21719
+#DESCRIPTION M1 FAMILY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23266
+#DESCRIPTION SUPERSTAR 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1069
+#DESCRIPTION SUPERSTAR 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13467
+#DESCRIPTION SUPERSTAR 2.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23505
+#DESCRIPTION SUPERSTAR 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1067
+#DESCRIPTION SUPERSTAR 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22945
+#DESCRIPTION SUPERSTAR 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23499
+#DESCRIPTION SUPERSTAR 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/251
+#DESCRIPTION CINESTAR TV 1 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4840
+#DESCRIPTION CINESTAR TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21018
+#DESCRIPTION CINESTAR TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20385
+#DESCRIPTION CINESTAR TV ACTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/252
+#DESCRIPTION CINESTAR TV ACTION (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22946
+#DESCRIPTION CINESTAR TV ACTION. (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3544
+#DESCRIPTION CINESTAR TV COMEDY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20317
+#DESCRIPTION CINESTAR TV COMEDY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23303
+#DESCRIPTION CINESTAR FANTASY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/253
+#DESCRIPTION CINESTAR TV FANTASY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18012
+#DESCRIPTION CINESTAR TV FANTASY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22995
+#DESCRIPTION CINESTAR TV PREMIERE 1.HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22996
+#DESCRIPTION CINESTAR TV PREMIERE 2.HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3099
+#DESCRIPTION CINESTAR TV PREMIERE 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3100
+#DESCRIPTION CINESTAR TV PREMIERE 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1102
+#DESCRIPTION CINESTAR TV PREMIERE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1103
+#DESCRIPTION CINESTAR TV PREMIERE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3090
+#DESCRIPTION PICKBOX TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23301
+#DESCRIPTION PICKBOX 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21682
+#DESCRIPTION PICKBOX 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21683
+#DESCRIPTION PICKBOX 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22947
+#DESCRIPTION CINEMANIA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1878
+#DESCRIPTION CINEMAX 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1879
+#DESCRIPTION CINEMAX 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21684
+#DESCRIPTION CHARLIE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/206
+#DESCRIPTION STAR CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20980
+#DESCRIPTION STAR CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4716
+#DESCRIPTION STAR LIFE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3920
+#DESCRIPTION STAR LIFE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22948
+#DESCRIPTION STAR CRIME HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23000
+#DESCRIPTION STAR CRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/273
+#DESCRIPTION STAR MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/312
+#DESCRIPTION STAR MOVIES HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22949
+#DESCRIPTION STAR MOVIES HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22951
+#DESCRIPTION TV 1000.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2878
+#DESCRIPTION TV 1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1066
+#DESCRIPTION EPIC DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22950
+#DESCRIPTION FILMBOX EXTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3921
+#DESCRIPTION FILM BOX PREMIUM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21762
+#DESCRIPTION FILM BOX STARS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1065
+#DESCRIPTION FILM KLUB EXTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4722
+#DESCRIPTION FILM KLUB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/270
+#DESCRIPTION KLASIK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/254
+#DESCRIPTION AXN SPIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/244
+#DESCRIPTION AXN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23498
+#DESCRIPTION AMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3908
+#DESCRIPTION SCI-FI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5927
+#DESCRIPTION SCI-FI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20959
+#DESCRIPTION DIVA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2967
+#DESCRIPTION DIVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23424
+#DESCRIPTION EURO CINEMA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23425
+#DESCRIPTION EURO CINEMA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23426
+#DESCRIPTION EURO CINEMA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23427
+#DESCRIPTION EURO CINEMA 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21677
+#DESCRIPTION PRO CINEMA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21678
+#DESCRIPTION PRO CINEMA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21679
+#DESCRIPTION PRO CINEMA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21680
+#DESCRIPTION PRO CINEMA 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21681
+#DESCRIPTION PRO CINEMA 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21676
+#DESCRIPTION PRO CINEMA 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23408
+#DESCRIPTION TOTAL CINEMA 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23407
+#DESCRIPTION TOTAL CINEMA 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21685
+#DESCRIPTION TOTAL CINEMA 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15204
+#DESCRIPTION MAXCRO SELECT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15205
+#DESCRIPTION MAXCRO SELECT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15206
+#DESCRIPTION MAXCRO SELECT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15207
+#DESCRIPTION MAXCRO SELECT 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15208
+#DESCRIPTION MAXCRO SELECT 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15209
+#DESCRIPTION MAXCRO SELECT 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15210
+#DESCRIPTION MAXCRO SELECT 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15211
+#DESCRIPTION MAXCRO SELECT 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15212
+#DESCRIPTION MAXCRO SELECT 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15213
+#DESCRIPTION MAXCRO SELECT 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15214
+#DESCRIPTION MAXCRO SELECT 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15217
+#DESCRIPTION MAXCRO SELECT KIDS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15218
+#DESCRIPTION MAXCRO SELECT KIDS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23531
+#DESCRIPTION BALKAN SKY ACTION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23532
+#DESCRIPTION BALKAN SKY ADVENTURE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23533
+#DESCRIPTION BALKAN SKY COMEDY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23534
+#DESCRIPTION BALKAN SKY CRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23535
+#DESCRIPTION BALKAN SKY DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23536
+#DESCRIPTION BALKAN SKY EXYU SERIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23537
+#DESCRIPTION BALKAN SKY FANTASY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23538
+#DESCRIPTION BALKAN SKY FILM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23539
+#DESCRIPTION BALKAN SKY HORROR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23540
+#DESCRIPTION BALKAN SKY MARVEL UNIVERSE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23541
+#DESCRIPTION BALKAN SKY MISTERY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23542
+#DESCRIPTION BALKAN SKY PREMIERE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23543
+#DESCRIPTION BALKAN SKY PREMIERE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23544
+#DESCRIPTION BALKAN SKY ROMANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23545
+#DESCRIPTION BALKAN SKY SCI-FI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23546
+#DESCRIPTION BALKAN SKY THRILLER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23547
+#DESCRIPTION BALKAN SKY WAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23548
+#DESCRIPTION BALKAN SKY WESTERN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4685
+#DESCRIPTION ##### DOKUMENTARNI #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22178
+#DESCRIPTION HGTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/241
+#DESCRIPTION HGTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20965
+#DESCRIPTION DISCOVERY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/245
+#DESCRIPTION DISCOVERY CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13464
+#DESCRIPTION DISCOVERY CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/246
+#DESCRIPTION NATIONAL GEOGRAPHIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20973
+#DESCRIPTION NATIONAL GEOGRAPHIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/250
+#DESCRIPTION NATIONAL GEOGRAPHIC WILD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20384
+#DESCRIPTION NATIONAL GEOGRAPHIC WILD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3071
+#DESCRIPTION CRIME & INVESTIGATION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/256
+#DESCRIPTION TURIZAM +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21962
+#DESCRIPTION HISTORY CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22952
+#DESCRIPTION HISTORY CHANNEL.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22953
+#DESCRIPTION HISTORY 2.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20308
+#DESCRIPTION HISTORY 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22166
+#DESCRIPTION HISTORY 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/11659
+#DESCRIPTION ID XTRA EUROPE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/517
+#DESCRIPTION ID XTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/249
+#DESCRIPTION ID
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15280
+#DESCRIPTION OUTDOOR CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22169
+#DESCRIPTION VIASAT EXPLORE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22167
+#DESCRIPTION VIASAT NATURE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/11674
+#DESCRIPTION VIASAT NATURE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23251
+#DESCRIPTION VIASAT HISTORY.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/11673
+#DESCRIPTION VIASAT HISTORY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22168
+#DESCRIPTION VIASAT HISTORY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3894
+#DESCRIPTION TRAVEL CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21443
+#DESCRIPTION TRAVEL CHANNEL.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/243
+#DESCRIPTION ANIMAL PLANET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23249
+#DESCRIPTION ANIMAL PLANET.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22954
+#DESCRIPTION ANIMAL PLANET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22957
+#DESCRIPTION LOV I RIBOLOV.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1895
+#DESCRIPTION LOV I RIBOLOV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/366
+#DESCRIPTION LOV RIBOLOV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/258
+#DESCRIPTION BBC EARTH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23327
+#DESCRIPTION PLANET EARTH HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2993
+#DESCRIPTION FOOD NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20276
+#DESCRIPTION KITCHEN TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4729
+#DESCRIPTION 24 KITCHEN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3010
+#DESCRIPTION 24 KITCHEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23268
+#DESCRIPTION DOCUBOX HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3434
+#DESCRIPTION DOCUBOX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1101
+#DESCRIPTION DOKU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21440
+#DESCRIPTION DOKU .TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20274
+#DESCRIPTION Yachting TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20289
+#DESCRIPTION DR. FIT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23255
+#DESCRIPTION TLC. HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22958
+#DESCRIPTION TLC.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/242
+#DESCRIPTION TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2892
+#DESCRIPTION E!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20272
+#DESCRIPTION LIFE AND HOLIDAY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2997
+#DESCRIPTION FISHING and HUNTING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3456
+#DESCRIPTION XOBI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/219
+#DESCRIPTION TRAVEL XP 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20953
+#DESCRIPTION FASHION TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21437
+#DESCRIPTION ID FASHION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20954
+#DESCRIPTION FASHION BOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21867
+#DESCRIPTION RTR PLANETA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21868
+#DESCRIPTION CNBC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23065
+#DESCRIPTION DW TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20277
+#DESCRIPTION RT DOCU HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4686
+#DESCRIPTION ##### MUZICKI #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23328
+#DESCRIPTION OKK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17516
+#DESCRIPTION DRPOS MAKEDONIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21896
+#DESCRIPTION AMARI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21898
+#DESCRIPTION JEKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23377
+#DESCRIPTION MUZZIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22273
+#DESCRIPTION POP STAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23272
+#DESCRIPTION ELECTRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21598
+#DESCRIPTION WWM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23325
+#DESCRIPTION BMC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23386
+#DESCRIPTION FLASHBACK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23387
+#DESCRIPTION TIK TAK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23388
+#DESCRIPTION ZZ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22959
+#DESCRIPTION DM SAT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/236
+#DESCRIPTION DM SAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2890
+#DESCRIPTION IDJ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1136
+#DESCRIPTION KCN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22994
+#DESCRIPTION KCN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1133
+#DESCRIPTION KCN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/351
+#DESCRIPTION GRAND
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22961
+#DESCRIPTION GRAND.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22997
+#DESCRIPTION GRAND TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23225
+#DESCRIPTION GRAND 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/352
+#DESCRIPTION GRAND NOSTALGIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23203
+#DESCRIPTION IMPERIA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18009
+#DESCRIPTION BALKAN TVS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23348
+#DESCRIPTION FOLK TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20296
+#DESCRIPTION BN MUSIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13122
+#DESCRIPTION BN MUSIC Hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/235
+#DESCRIPTION BN MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23264
+#DESCRIPTION TV KRISTAL HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23036
+#DESCRIPTION O MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23277
+#DESCRIPTION CITY PLAY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20285
+#DESCRIPTION TOXIC TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23475
+#DESCRIPTION TOXIC FOLK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23315
+#DESCRIPTION BMC ETNO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15496
+#DESCRIPTION TOP SOUND HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/305
+#DESCRIPTION ROMA MUSIC SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/306
+#DESCRIPTION ROMA MUSIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5180
+#DESCRIPTION VALENTINO MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5184
+#DESCRIPTION VALENTINO ETNO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3494
+#DESCRIPTION OTV VALENTINO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/532
+#DESCRIPTION HAYAT FOLK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1890
+#DESCRIPTION HAYAT MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/556
+#DESCRIPTION HAYAT FOLK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1373
+#DESCRIPTION SEVDAH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1137
+#DESCRIPTION GLAS DRINE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1089
+#DESCRIPTION TV SEHARA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1088
+#DESCRIPTION BANOVINA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/232
+#DESCRIPTION YU PLANET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1097
+#DESCRIPTION VIKOM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20357
+#DESCRIPTION DUGA PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/309
+#DESCRIPTION DUGA+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/289
+#DESCRIPTION BALKANIKA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15406
+#DESCRIPTION BALKANIKA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1378
+#DESCRIPTION PLANETA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1379
+#DESCRIPTION CITY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22960
+#DESCRIPTION MEZZO LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/175
+#DESCRIPTION CMC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/178
+#DESCRIPTION JUGOTON TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22962
+#DESCRIPTION JUGOTON TV.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23286
+#DESCRIPTION DJ TELEVEZIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13124
+#DESCRIPTION MTV ADRIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21445
+#DESCRIPTION MTV HITS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/356
+#DESCRIPTION MTV HITS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/355
+#DESCRIPTION MTV CLASIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/586
+#DESCRIPTION CLUB MTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/357
+#DESCRIPTION MTV 80S.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4719
+#DESCRIPTION MTV 00.s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/354
+#DESCRIPTION MTV 00s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/358
+#DESCRIPTION MTV 90s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/598
+#DESCRIPTION MTV 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23240
+#DESCRIPTION DELUXE MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21866
+#DESCRIPTION MCM TOP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20948
+#DESCRIPTION TRACE MZIKI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1292
+#DESCRIPTION KRONE  HIT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1408
+#DESCRIPTION MEZZO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23350
+#DESCRIPTION COOL TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23349
+#DESCRIPTION LOVE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22866
+#DESCRIPTION ROCK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23035
+#DESCRIPTION /9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUQExIWFhURFxgVGBcVFRYRGBgVFhUXGhYXFhUYHiggGhooHhYVITEhJSorLi4uGCAzODMsNygtLisBCgoKDg0OGhAQGjIlHyU3Ny0uNzUrNzAwLS4rNzAxMTcuLjc3OCsuLTMtNzEvNystMS0tLS0vNTcrLS0tKy4tLf/AABEIAJEBXAMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcBBQgEAwL/xABSEAABAwIBBgUMDgkEAQUAAAABAAIDBBEFBgcSITFREyJBYZMIFhc1cXJzdIGSs+IUMjQ2U1WRlKGxstHS0xUjQlJUYoLBwyQzQ6LwGCVjhKP/xAAbAQEAAwEBAQEAAAAAAAAAAAAAAwQFAgYBB//EACkRAQACAQMCBAYDAAAAAAAAAAABAgMEETEFEiFhcfAiQVGBobEykdH/2gAMAwEAAhEDEQA/ALxRFi6DKIiAiIgIiICLF0ugyiIgIsXS6DKIiAiLF0GUREBFglZQEREBERAREQEREBERAREQF5q6vihYZJZGxsbte9wY0d1x1KN5w8tYsLh4R1nSyXEUV7aZG0k8jBcXPk2lQDCMhK7GHNrsXnexh40dO3iEN2jUbiJvkLiNpCCR45npwyAlsZkqHD4Ntm+e+1+6LrSHO/Xya6fBZnNOsE8LJcch4kX9ypZBHg2FcSNkLHtFjot4aX+p2t3LynlXxqM59ONTIZXc50GD67/Qo7ZaV5lbxaHUZY3pSdkZ7K2Kt1yYHNbvZ2fSYyvZh+fKk0uDqqWencNR2Shp5/au5f3VtYs6MX7VPIB/K5jvrsvb114XWDg52ssf2aiIFvnG7R8qRmpPEusnTdVjje2Of23uA5U0da3SpqhktgCWg2e0H96M2c3yhbgFVPlBmhp3n2Vhkxpp28Zmi8mInk0XC7mX3gkcy++b/OBP7IOFYo3g6ph0WSEBol3N" group-title="MUZICKI"
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23346
+#DESCRIPTION ROCK TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23390
+#DESCRIPTION SENSE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23391
+#DESCRIPTION SEE MUZZIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4688
+#DESCRIPTION ##### DJECIJI #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23474
+#DESCRIPTION NICKTOONS.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20803
+#DESCRIPTION KAZBUKA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20575
+#DESCRIPTION BABY TV SL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/248
+#DESCRIPTION BABY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4674
+#DESCRIPTION MINI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23082
+#DESCRIPTION MINI.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4886
+#DESCRIPTION MINIMAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22593
+#DESCRIPTION TNT KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23250
+#DESCRIPTION DEXY TV.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23410
+#DESCRIPTION IDJ KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/263
+#DESCRIPTION DUCK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1064
+#DESCRIPTION DISNEY XD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23385
+#DESCRIPTION DISNEY JUNIOR (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1894
+#DESCRIPTION HAYATOVCI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15414
+#DESCRIPTION VAVOOM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4728
+#DESCRIPTION BOOMERANG TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/262
+#DESCRIPTION NICKELODEON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22963
+#DESCRIPTION NICKELODEON.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1366
+#DESCRIPTION NICKELODEON SR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23383
+#DESCRIPTION NICKELODEON (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23254
+#DESCRIPTION DA VINCI LEARNING.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1367
+#DESCRIPTION DA VINCI LEARNING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/359
+#DESCRIPTION CARTOON NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4924
+#DESCRIPTION CARTOON NETWORK HU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23384
+#DESCRIPTION CARTOON NETWORK (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4928
+#DESCRIPTION NICKELODEON EUROPE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/172
+#DESCRIPTION RTL KOCKICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21439
+#DESCRIPTION TOON KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/363
+#DESCRIPTION JIM JAM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4883
+#DESCRIPTION NICK JR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23382
+#DESCRIPTION NICK JR (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/255
+#DESCRIPTION NICK JR (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4724
+#DESCRIPTION NICK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4721
+#DESCRIPTION NICK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4727
+#DESCRIPTION CN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/192
+#DESCRIPTION ###### SPORT ######
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23338
+#DESCRIPTION ARENA PREMIUM 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23339
+#DESCRIPTION ARENA PREMIUM 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23340
+#DESCRIPTION ARENA PREMIUM 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23433
+#DESCRIPTION ARENA PREMIUM 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23434
+#DESCRIPTION ARENA PREMIUM 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23435
+#DESCRIPTION ARENA PREMIUM 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23463
+#DESCRIPTION ARENA PREMIUM 1-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23466
+#DESCRIPTION ARENA PREMIUM 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23467
+#DESCRIPTION ARENA PREMIUM 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23468
+#DESCRIPTION ARENA PREMIUM 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23493
+#DESCRIPTION BALKAN SPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23494
+#DESCRIPTION BALKAN SPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23495
+#DESCRIPTION BALKAN SPORT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21578
+#DESCRIPTION ARENA SPORT 1x2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23419
+#DESCRIPTION ARENA SPORT 1X2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23412
+#DESCRIPTION ARENA FIGHT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/611
+#DESCRIPTION ARENA ESPORTS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23252
+#DESCRIPTION EUROSPORT 1.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20339
+#DESCRIPTION EUROSPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20340
+#DESCRIPTION EUROSPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/240
+#DESCRIPTION EUROSPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/247
+#DESCRIPTION EUROSPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22964
+#DESCRIPTION EUROSPORT 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22965
+#DESCRIPTION EUROSPORT 2 HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22998
+#DESCRIPTION NOVA SPORT HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1063
+#DESCRIPTION NOVA SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23404
+#DESCRIPTION MAX SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23405
+#DESCRIPTION MAX SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23403
+#DESCRIPTION MNE SPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23402
+#DESCRIPTION MNE SPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23401
+#DESCRIPTION MNE SPORT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20801
+#DESCRIPTION PARTIZAN TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13640
+#DESCRIPTION ZVEZDA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17996
+#DESCRIPTION SOS KANAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23438
+#DESCRIPTION KUVO TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23265
+#DESCRIPTION KUVO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/176
+#DESCRIPTION SPTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20962
+#DESCRIPTION SK 1  HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20968
+#DESCRIPTION SK 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20967
+#DESCRIPTION SK 1 HD CG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22592
+#DESCRIPTION SPORT KLUB 1 (SLO)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21582
+#DESCRIPTION SPORT KLUB 2 (SLO)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21583
+#DESCRIPTION SPORT KLUB 3 (SLO)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/184
+#DESCRIPTION SPORT KLUB 1 SD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15416
+#DESCRIPTION SPORT KLUB SD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/186
+#DESCRIPTION SPORT KLUB 2 SD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4718
+#DESCRIPTION SPORT KLUB 3 SD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15415
+#DESCRIPTION SPORT KLUB HD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20961
+#DESCRIPTION SK 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17534
+#DESCRIPTION SK Esports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20275
+#DESCRIPTION SPORT KLUB GOLF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1078
+#DESCRIPTION SPORT KLUB 1 HD (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1079
+#DESCRIPTION SPORT KLUB 2 HD (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1080
+#DESCRIPTION SPORT KLUB 3 HD (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/11671
+#DESCRIPTION SPORT KLUB 4 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/11672
+#DESCRIPTION SPORT KLUB 5 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17543
+#DESCRIPTION SPORT KLUB 6 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/17544
+#DESCRIPTION SK SPORTS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/183
+#DESCRIPTION SPORT KLUB 1 HD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/185
+#DESCRIPTION SPORT KLUB 2 HD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/277
+#DESCRIPTION SPORT KLUB 3 HD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/325
+#DESCRIPTION SPORT KLUB 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/324
+#DESCRIPTION SPORT KLUB 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/326
+#DESCRIPTION SPORT KLUB 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/323
+#DESCRIPTION SPORT KLUB 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3006
+#DESCRIPTION SPORT KLUB 1 (SRB)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3005
+#DESCRIPTION SPORT KLUB 2 (SRB)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3004
+#DESCRIPTION SPORT KLUB 3 (SRB)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1081
+#DESCRIPTION SPORT KLUB 4 HD (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1082
+#DESCRIPTION SPORT KLUB 5 HD (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1083
+#DESCRIPTION SPORT KLUB 6 HD (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2932
+#DESCRIPTION SPORT KLUB 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2933
+#DESCRIPTION SPORT KLUB 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2934
+#DESCRIPTION SPORT KLUB 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2935
+#DESCRIPTION SPORT KLUB 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1068
+#DESCRIPTION ARENA ESPORT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/221
+#DESCRIPTION ARENA SPORT 1 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/223
+#DESCRIPTION ARENA SPORT 2 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/225
+#DESCRIPTION ARENA SPORT 3 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/227
+#DESCRIPTION ARENA SPORT 4 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/229
+#DESCRIPTION ARENA SPORT 5 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23213
+#DESCRIPTION ARENA SPORT 6 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23214
+#DESCRIPTION ARENA SPORT 7 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23215
+#DESCRIPTION ARENA SPORT 8 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23216
+#DESCRIPTION ARENA SPORT 9 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23217
+#DESCRIPTION ARENA SPORT 10 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22966
+#DESCRIPTION Arena Esport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/220
+#DESCRIPTION ARENA SPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/222
+#DESCRIPTION ARENA SPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3556
+#DESCRIPTION ARENA SPORT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/226
+#DESCRIPTION ARENA SPORT 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/228
+#DESCRIPTION ARENA SPORT 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23280
+#DESCRIPTION ARENA SPORT 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/265
+#DESCRIPTION ARENA SPORT 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/266
+#DESCRIPTION ARENA SPORT 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3084
+#DESCRIPTION ARENA SPORT 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/521
+#DESCRIPTION ARENA SPORT 1 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/519
+#DESCRIPTION ARENA SPORT 2 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/520
+#DESCRIPTION ARENA SPORT 3 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/518
+#DESCRIPTION ARENA SPORT 4 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/522
+#DESCRIPTION ARENA SPORT 5 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23193
+#DESCRIPTION ARENA SPORT 6 HD (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3023
+#DESCRIPTION ARENA SPORT 1 (SRB)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3024
+#DESCRIPTION ARENA SPORT 2 (SRB)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3025
+#DESCRIPTION ARENA SPORT 3 (SRB)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3026
+#DESCRIPTION ARENA SPORT 4 (SRB)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3027
+#DESCRIPTION ARENA SPORT 5 (SRB)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4657
+#DESCRIPTION ARENA 1 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4660
+#DESCRIPTION ARENA 4 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4661
+#DESCRIPTION ARENA 5 (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4884
+#DESCRIPTION ARENA SPORT 1 (BIH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4920
+#DESCRIPTION ARENA SPORT 2 (BIH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4921
+#DESCRIPTION ARENA SPORT 3 (BIH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4922
+#DESCRIPTION ARENA SPORT 4 (BIH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5209
+#DESCRIPTION ARENA SPORT 5 (BIH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5211
+#DESCRIPTION ARENA SPORT 6 (BIH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13117
+#DESCRIPTION ARENA SPORT 1 HD (BIH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13118
+#DESCRIPTION ARENA SPORT 2 HD (BIH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13119
+#DESCRIPTION ARENA SPORT 3 HD (BIH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/13120
+#DESCRIPTION ARENA SPORT 4 HD (BIH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23334
+#DESCRIPTION PREMIER LEAGUE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/385
+#DESCRIPTION SPORT TV 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/386
+#DESCRIPTION SPORT TV 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/387
+#DESCRIPTION SPORT TV 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23460
+#DESCRIPTION COSMOTE SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23461
+#DESCRIPTION COSMOTE SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23462
+#DESCRIPTION COSMOTE SPORT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21577
+#DESCRIPTION SUPER SPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21579
+#DESCRIPTION SUPER SPORT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21580
+#DESCRIPTION SUPER SPORT 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21581
+#DESCRIPTION SUPER SPORT 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21584
+#DESCRIPTION SUPER SPORT 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21586
+#DESCRIPTION CANAL+ SPORT 2 PL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23038
+#DESCRIPTION POL SPORT PREMIUM 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22976
+#DESCRIPTION POL SPORT PREMIUM 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4998
+#DESCRIPTION ZIGGO SPORT SELECT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5001
+#DESCRIPTION ZIGGO SPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5004
+#DESCRIPTION ZIGGO SPORT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5005
+#DESCRIPTION ZIGGO SPORT 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3525
+#DESCRIPTION ESPN 1 HD (NL)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3526
+#DESCRIPTION ESPN 2 HD (NL)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3527
+#DESCRIPTION ESPN 3 HD (NL)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3528
+#DESCRIPTION ESPN 4 HD (NL)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4796
+#DESCRIPTION BT SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4797
+#DESCRIPTION BT SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4798
+#DESCRIPTION BT SPORT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3069
+#DESCRIPTION UK SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3070
+#DESCRIPTION UK SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5021
+#DESCRIPTION UK SPORTS PREMIER LEAGUE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5024
+#DESCRIPTION UK SPORTS FOOTBALL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4879
+#DESCRIPTION TELEKOM SPORT 1 (ROM)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4880
+#DESCRIPTION TELEKOM SPORT 2 (ROM)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4881
+#DESCRIPTION TELEKOM SPORT 3 (ROM)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22817
+#DESCRIPTION ELEVEN SPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22818
+#DESCRIPTION ELEVEN SPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22819
+#DESCRIPTION ELEVEN SPORT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2949
+#DESCRIPTION DIGI SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4858
+#DESCRIPTION DIGI SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4859
+#DESCRIPTION DIGI SPORT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2961
+#DESCRIPTION MAX SPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2960
+#DESCRIPTION MAX SPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2959
+#DESCRIPTION MAX SPORT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2958
+#DESCRIPTION MAX SPORT 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1398
+#DESCRIPTION BEINSPORTS_1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1399
+#DESCRIPTION BEINSPORTS_2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1400
+#DESCRIPTION BEINSPORTS_3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1394
+#DESCRIPTION RMC_SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1395
+#DESCRIPTION RMC_SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1396
+#DESCRIPTION RMC_SPORT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1397
+#DESCRIPTION RMC_SPORT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1390
+#DESCRIPTION SPORTTV-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1391
+#DESCRIPTION SPORTTV-2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1392
+#DESCRIPTION SPORTTV-3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/1401
+#DESCRIPTION SPORTTV-4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5286
+#DESCRIPTION BEINSPORTs_NEWS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5274
+#DESCRIPTION BEINSPORTS-1-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5275
+#DESCRIPTION BEINSPORTS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5276
+#DESCRIPTION BEINSPORTS 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5277
+#DESCRIPTION BEINSPORTS 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5278
+#DESCRIPTION BEINSPORTS 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5279
+#DESCRIPTION BEINSPORTS 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5280
+#DESCRIPTION BEINSPORTS 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5281
+#DESCRIPTION BEINSPORTS 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5282
+#DESCRIPTION BEINSPORTS 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/5283
+#DESCRIPTION BEINSPORTS 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3455
+#DESCRIPTION BEIN SPORTS 1 HD TR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3454
+#DESCRIPTION BEIN SPORTS 2 HD TR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3453
+#DESCRIPTION BEIN SPORTS 3 HD TR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3437
+#DESCRIPTION K SPORT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/4995
+#DESCRIPTION SPORT F1 IT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23219
+#DESCRIPTION F1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23485
+#DESCRIPTION SPORT F1 EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3032
+#DESCRIPTION DAZN F1 Portugal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21835
+#DESCRIPTION MOVIESTAR GP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/3493
+#DESCRIPTION NBA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2919
+#DESCRIPTION NBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23275
+#DESCRIPTION FIGHT BOX.HD.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15595
+#DESCRIPTION FIGHT BOX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22967
+#DESCRIPTION SK FIGHT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/2973
+#DESCRIPTION FIGHT CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23267
+#DESCRIPTION TRACE SPORTS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/15594
+#DESCRIPTION EXTREAM SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23220
+#DESCRIPTION MU TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23060
+#DESCRIPTION REAL MADRID TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23256
+#DESCRIPTION Liverpool TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23080
+#DESCRIPTION LFCTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/22172
+#DESCRIPTION UFC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18029
+#DESCRIPTION ###### ADULTS +18 ######
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18014
+#DESCRIPTION XXX: PINK EROTIC 1 +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18015
+#DESCRIPTION XXX: PINK EROTIC 2 +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18016
+#DESCRIPTION XXX: PINK EROTIC 3 +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18017
+#DESCRIPTION XXX: PINK EROTIC 4 +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18018
+#DESCRIPTION XXX: PINK EROTIC 5 +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18019
+#DESCRIPTION XXX: PINK EROTIC 6 +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23496
+#DESCRIPTION XXX: PINK EROTIC 7 +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23497
+#DESCRIPTION XXX: PINK EROTIC 8 +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18026
+#DESCRIPTION XXX: HUSTLER HD +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20710
+#DESCRIPTION XXX: BRAZZERS TV + 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20716
+#DESCRIPTION XXX: EROXXX HD + 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21570
+#DESCRIPTION XXX: ADULT CHANNEL 1 (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21572
+#DESCRIPTION XXX: ADULT CHANNEL 3 (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21573
+#DESCRIPTION XXX: ADULT CHANNEL 4 (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21574
+#DESCRIPTION XXX: ADULT CHANNEL 5 (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21575
+#DESCRIPTION XXX: ADULT CHANNEL 6 (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21576
+#DESCRIPTION XXX: ADULT CHANNEL 7 (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20053
+#DESCRIPTION XXX: ADULTS 1  (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18020
+#DESCRIPTION XXX: ADULTS 1 HD +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20054
+#DESCRIPTION XXX: ADULTS 2 1980 +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18021
+#DESCRIPTION XXX: ADULTS 2 HD +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18022
+#DESCRIPTION XXX: ADULTS 3 HD +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20055
+#DESCRIPTION XXX: ADULTS 3 PLUS (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18023
+#DESCRIPTION XXX: ADULTS 4 HD +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18027
+#DESCRIPTION XXX: ADULTS 5 HD +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18028
+#DESCRIPTION XXX: ADULTS 6 HD +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18024
+#DESCRIPTION XXX: BALKAN EROTIC  +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21571
+#DESCRIPTION XXX: EROX (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20718
+#DESCRIPTION XXX: CANDY MAN (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/18025
+#DESCRIPTION XXX: DORCEL +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21567
+#DESCRIPTION XXX: HAPPY GAY (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20712
+#DESCRIPTION XXX: ASIAN PORN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20711
+#DESCRIPTION XXX: MILF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20714
+#DESCRIPTION XXX: PLAYEROTIC (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20719
+#DESCRIPTION XXX: PRIVATE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21566
+#DESCRIPTION XXX: REALITY KINGS (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/20717
+#DESCRIPTION XXX: REDLIGHT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/21569
+#DESCRIPTION XXX: X - DREAMBABES TV (+18)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//client.bitkananeretvi.co%3a80/VceTatko@freemail.com/rrYEbWp0kH/23034
+#DESCRIPTION XXX: VISIT X TV + 18
