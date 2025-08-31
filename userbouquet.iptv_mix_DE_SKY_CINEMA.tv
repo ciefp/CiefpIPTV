@@ -1,0 +1,55 @@
+#NAME IPTV Mix  DE | SKY CINEMA 31.8
+#SERVICE 4097:0:1:99:1:1:225C2:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140738:#### DEUTSCH SKY CINEMA ####
+#DESCRIPTION #### DEUTSCH SKY CINEMA ####
+#SERVICE 4097:0:1:99:2:2:225C6:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140742:DE: Sky Cinema Premieren HD
+#DESCRIPTION DE: Sky Cinema Premieren HD
+#SERVICE 4097:0:1:99:3:3:225C8:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140744:DE: Sky Cinema Premieren +24 HD
+#DESCRIPTION DE: Sky Cinema Premieren +24 HD
+#SERVICE 4097:0:1:99:4:4:225CA:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140746:DE: Sky Cinema Action HD
+#DESCRIPTION DE: Sky Cinema Action HD
+#SERVICE 4097:0:1:99:5:5:225C4:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140740:DE: Sky Cinema Thriller HD
+#DESCRIPTION DE: Sky Cinema Thriller HD
+#SERVICE 4097:0:1:99:6:6:225CC:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140748:DE: Sky Cinema Family HD
+#DESCRIPTION DE: Sky Cinema Family HD
+#SERVICE 4097:0:1:99:7:7:225CE:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140750:DE: Sky Cinema Best Of HD
+#DESCRIPTION DE: Sky Cinema Best Of HD
+#SERVICE 4097:0:1:99:8:8:225D0:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140752:DE: Sky Cinema Special HD
+#DESCRIPTION DE: Sky Cinema Special HD
+#SERVICE 4097:0:1:99:9:9:225D1:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140753:DE: Sky Cinema Fun
+#DESCRIPTION DE: Sky Cinema Fun
+#SERVICE 4097:0:1:99:A:A:225D8:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140760:DE: Sky Atlantic HD
+#DESCRIPTION DE: Sky Atlantic HD
+#SERVICE 4097:0:1:99:B:B:225DA:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140762:DE: Sky Krimi HD
+#DESCRIPTION DE: Sky Krimi HD
+#SERVICE 4097:0:1:99:C:C:225D3:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140755:DE: Sky  Serien & Shows HD
+#DESCRIPTION DE: Sky  Serien & Shows HD
+#SERVICE 4097:0:1:99:D:D:225D4:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140756:DE: Sky Cinema Classics
+#DESCRIPTION DE: Sky Cinema Classics
+#SERVICE 4097:0:1:99:E:E:225D6:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140758:DE: Sky One HD
+#DESCRIPTION DE: Sky One HD
+#SERVICE 4097:0:1:99:F:F:225E1:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140769:DE: 13th Street HD
+#DESCRIPTION DE: 13th Street HD
+#SERVICE 4097:0:1:99:10:10:225E4:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140772:DE: SYFY HD
+#DESCRIPTION DE: SYFY HD
+#SERVICE 4097:0:1:99:11:11:225E6:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140774:DE: Universal TV HD
+#DESCRIPTION DE: Universal TV HD
+#SERVICE 4097:0:1:99:12:12:225E7:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140775:DE: Kinowelt TV
+#DESCRIPTION DE: Kinowelt TV
+#SERVICE 4097:0:1:99:13:13:225E8:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140776:DE: SONY CHANNEL HD+
+#DESCRIPTION DE: SONY CHANNEL HD+
+#SERVICE 4097:0:1:99:14:14:225E9:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140777:DE: Sony AXN HD
+#DESCRIPTION DE: Sony AXN HD
+#SERVICE 4097:0:1:99:15:15:225EA:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140778:DE: Silverline
+#DESCRIPTION DE: Silverline
+#SERVICE 4097:0:1:99:16:16:225DE:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140766:DE: WB Film HD
+#DESCRIPTION DE: WB Film HD
+#SERVICE 4097:0:1:99:17:17:225DC:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140764:DE: WB Serie HD
+#DESCRIPTION DE: WB Serie HD
+#SERVICE 4097:0:1:99:18:18:225E0:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140768:DE: WB Comedy HD
+#DESCRIPTION DE: WB Comedy HD
+#SERVICE 4097:0:1:99:19:19:225A9:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140713:DE: Fox HD
+#DESCRIPTION DE: Fox HD
+#SERVICE 4097:0:1:99:1A:1A:225BA:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140730:DE: Heimatkanal
+#DESCRIPTION DE: Heimatkanal
+#SERVICE 4097:0:1:99:1B:1B:225BB:0:0:0:http%3a//tv1.site%3a8080/julven/knEZf26Tr3/140731:DE: Romance TV
+#DESCRIPTION DE: Romance TV
