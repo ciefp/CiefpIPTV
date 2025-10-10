@@ -1,0 +1,467 @@
+#NAME IPTV MIX Movies1 10.10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/47.Meters.Down.2017.HDRip.XViD.600MB.MkvCage/47.Meters.Down.2017.HDRip.XViD.600MB.MkvCage.mkv:47.Meters.Down.2017.HDRip.XViD.600MB.MkvCage.mkv
+#DESCRIPTION 47.Meters.Down.2017.HDRip.XViD.600MB.MkvCage.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/A.Guy.Thing.2003.TV.BGAUDIO.5rFF/5rFF-guything.mkv:5rFFguything.mkv
+#DESCRIPTION 5rFFguything.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/A.Man.Called.Otto.2022.576p.BDRip.x265.AC3-TuKCo/A.Man.Called.Otto.2022.576p.BDRip.x265.AC3-TuKCo.mkv:A.Man.Called.Otto.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION A.Man.Called.Otto.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Ambulance.2022.576p.BDRip.x265.AC3-TuKCo/Ambulance.2022.576p.BDRip.x265.AC3-TuKCo.mkv:Ambulance.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Ambulance.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Anti.Matter.2016.576p.WEBRip.x265.AC3-TuKCo/Anti.Matter.2016.576p.WEBRip.x265.AC3-TuKCo.mkv:Anti.Matter.2016.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Anti.Matter.2016.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Avarice.2022.576p.BDRip.x265.AC3-TuKCo/Avarice.2022.576p.BDRip.x265.AC3-TuKCo.mkv:Avarice.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Avarice.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Babysitting.2014.BRRip.x264-WAR/wbabys.mkv:wbabys.mkv
+#DESCRIPTION wbabys.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Black.Adam.2022.576p.BDRip.x265.AC3-TuKCo/Black.Adam.2022.576p.BDRip.x265.AC3-TuKCo.mkv:Black.Adam.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Black.Adam.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Black.Lotus.2023.576p.WEBRip.x265.AC3-TuKCo/Black.Lotus.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:Black.Lotus.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Black.Lotus.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Book.Club.The.Next.Chapter.2023.576p.WEBRip.x265.AC3-TuKCo/Book.Club.The.Next.Chapter.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:Book.Club.The.Next.Chapter.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Book.Club.The.Next.Chapter.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Captain.Nova.2021.576p.WEBRip.x265.AC3-TuKCo/Captain.Nova.2021.576p.WEBRip.x265.AC3-TuKCo.mkv:Captain.Nova.2021.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Captain.Nova.2021.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Charlie's.Angels.2019.BRRip.x265.BGAUDiO-ZmN/Charlie's.Angels.2019.BRRip.x265.BGAUDiO-ZmN.mkv:Charlie's.Angels.2019.BRRip.x265.BGAUDiOZmN.mkv
+#DESCRIPTION Charlie's.Angels.2019.BRRip.x265.BGAUDiOZmN.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/City.of.Ember.2008.BRRip.x264.DUAL-REFLUX/rflx-coember-dual.mkv:rflxcoemberdual.mkv
+#DESCRIPTION rflxcoemberdual.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Due.Date.2010.576p.BRRip.x264.AAC.DUAL-REFLUX/rflx-ddate_dual.mkv:rflxddate_dual.mkv
+#DESCRIPTION rflxddate_dual.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Dungeons.and.Dragons.Honor.Among.Thieves.2023.BRRip.x264.AC3.BGAUDiO-SLSS/Dungeons.and.Dragons.Honor.Among.Thieves.2023.BRRip.x264.AC3.BGAUDiO-SLSS.mkv:Dungeons.and.Dragons.Honor.Among.Thieves.2023.BRRip.x264.AC3.BGAUDiOSLSS.mkv
+#DESCRIPTION Dungeons.and.Dragons.Honor.Among.Thieves.2023.BRRip.x264.AC3.BGAUDiOSLSS.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Eraser.Reborn.2022.576p.BDRip.x265.AC3-TuKCo/Eraser.Reborn.2022.576p.BDRip.x265.AC3-TuKCo.mkv:Eraser.Reborn.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Eraser.Reborn.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Every.Breath.You.Take.2021.576p.BDRip.x265.AC3-TuKCo/Every.Breath.You.Take.2021.576p.BDRip.x265.AC3-TuKCo.mkv:Every.Breath.You.Take.2021.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Every.Breath.You.Take.2021.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Extraction.2.2023.576p.WEBRip.x265.AC3-TuKCo/Extraction.2.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:Extraction.2.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Extraction.2.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Extraction.2020.576p.WEBRip.x265.AC3-TuKCo/Extraction.2020.576p.WEBRip.x265.AC3-TuKCo.mkv:Extraction.2020.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Extraction.2020.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Fantasy.Island.2020.UNRATED.576p.BDRip.x265.AC3-TuKCo/Fantasy.Island.2020.UNRATED.576p.BDRip.x265.AC3-TuKCo.mkv:Fantasy.Island.2020.UNRATED.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Fantasy.Island.2020.UNRATED.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Frozen.2013.BRRip.x264-EBX/Frozen.2013.BRRip.x264-EBX.mkv:Frozen.2013.BRRip.x264EBX.mkv
+#DESCRIPTION Frozen.2013.BRRip.x264EBX.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Frozen.2013.BRRip.x264-EBX/frozen-ebx-sample.mkv:frozenebxsample.mkv
+#DESCRIPTION frozenebxsample.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Get.A.Job.2016.576p.BDRip.x265.AC3-TuKCo/Get.A.Job.2016.576p.BDRip.x265.AC3-TuKCo.mkv:Get.A.Job.2016.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Get.A.Job.2016.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/G-Force.2009.BGAUDiO.720p.BluRay.x264.AC3/gforce-bgaudio.mkv:gforcebgaudio.mkv
+#DESCRIPTION gforcebgaudio.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Godzilla.vs.Kong.2021.576p.BDRip.x265.AC3-TuKCo/Godzilla.vs.Kong.2021.576p.BDRip.x265.AC3-TuKCo.mkv:Godzilla.vs.Kong.2021.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Godzilla.vs.Kong.2021.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Going.in.Style.2017.WEBRip.x264-DiN/gist-din.mkv:gistdin.mkv
+#DESCRIPTION gistdin.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Going.in.Style.2017.WEBRip.x264-DiN/sample.mkv:sample.mkv
+#DESCRIPTION sample.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Guardians.of.the.Galaxy.Vol.3.2023.HDRip.x264.AC3-ZmN/Guardians.of.the.Galaxy.Vol.3.2023.HDRip.x264.AC3-ZmN.mkv:Guardians.of.the.Galaxy.Vol.3.2023.HDRip.x264.AC3ZmN.mkv
+#DESCRIPTION Guardians.of.the.Galaxy.Vol.3.2023.HDRip.x264.AC3ZmN.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Hangar.1-The.UFO.Files.S01E01.Presidential.Encounters.HDTV.x264-tNe/Hangar.1-The.UFO.Files.S01E01.Presidential.Encounters.HDTV.x264-tNe.mp4:Hangar.1The.UFO.Files.S01E01.Presidential.Encounters.HDTV.x264tNe.mp4
+#DESCRIPTION Hangar.1The.UFO.Files.S01E01.Presidential.Encounters.HDTV.x264tNe.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Hangar.1-The.UFO.Files.S01E02.Underground.Bases.HDTV.x264-tNe/Hangar.1-The.UFO.Files.S01E02.Underground.Bases.HDTV.x264-tNe.mp4:Hangar.1The.UFO.Files.S01E02.Underground.Bases.HDTV.x264tNe.mp4
+#DESCRIPTION Hangar.1The.UFO.Files.S01E02.Underground.Bases.HDTV.x264tNe.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Hangar.1-The.UFO.Files.S01E03.Alien.Technology.HDTV.x264-tNe/Hangar.1-The.UFO.Files.S01E03.Alien.Technology.HDTV.x264-tNe.mp4:Hangar.1The.UFO.Files.S01E03.Alien.Technology.HDTV.x264tNe.mp4
+#DESCRIPTION Hangar.1The.UFO.Files.S01E03.Alien.Technology.HDTV.x264tNe.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Hangar.1-The.UFO.Files.S01E04.Crashes.and.Cover-Ups.HDTV.x264-tNe/Hangar.1-The.UFO.Files.S01E04.Crashes.and.Cover-Ups.HDTV.x264-tNe.mp4:Hangar.1The.UFO.Files.S01E04.Crashes.and.CoverUps.HDTV.x264tNe.mp4
+#DESCRIPTION Hangar.1The.UFO.Files.S01E04.Crashes.and.CoverUps.HDTV.x264tNe.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Heart.of.Stone.2023.WEB.H264-ZmN/Heart.of.Stone.2023.WEB.H264-ZmN.mkv:Heart.of.Stone.2023.WEB.H264ZmN.mkv
+#DESCRIPTION Heart.of.Stone.2023.WEB.H264ZmN.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Hidden.Strike.2023.720p.WEBRip.x264-ZmN/Hidden.Strike.2023.720p.WEBRip.x264-ZmN.mkv:Hidden.Strike.2023.720p.WEBRip.x264ZmN.mkv
+#DESCRIPTION Hidden.Strike.2023.720p.WEBRip.x264ZmN.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Home.Alone.The.Holiday.Heist.2012.WEB-DL.XviD.BGAUDiO-SLSS/Home.Alone.The.Holiday.Heist.2012.WEB-DL.XviD.BGAUDiO-SLSS.avi:Home.Alone.The.Holiday.Heist.2012.WEBDL.XviD.BGAUDiOSLSS.avi
+#DESCRIPTION Home.Alone.The.Holiday.Heist.2012.WEBDL.XviD.BGAUDiOSLSS.avi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Hot.Pursuit.BRRip.x264-LDS/lhp.mkv:lhp.mkv
+#DESCRIPTION lhp.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Hot.Pursuit.BRRip.x264-LDS/Sample/Sample.mkv:Sample.mkv
+#DESCRIPTION Sample.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/I.Am.a.Hero.2015.576p.BDRip.x265.AC3-TuKCo/I.Am.a.Hero.2015.576p.BDRip.x265.AC3-TuKCo.mkv:I.Am.a.Hero.2015.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION I.Am.a.Hero.2015.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Ice.Age.Collision.Course.2016.BRRip.x265.BGAudio-REFLUX/rflx-iacc.mkv:rflxiacc.mkv
+#DESCRIPTION rflxiacc.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/In.The.Name.Of.The.King.A.Dungeon.Siege.Tale.2007.DC.576p.BDRip.x265.AC3-TuKCo/In.The.Name.Of.The.King.A.Dungeon.Siege.Tale.2007.DC.576p.BDRip.x265.AC3-TuKCo.mkv:In.The.Name.Of.The.King.A.Dungeon.Siege.Tale.2007.DC.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION In.The.Name.Of.The.King.A.Dungeon.Siege.Tale.2007.DC.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Independence.Day.Resurgence.2016.720p.HC.HDRip.X264.AC3-EVO%5bSN%5d/Independence.Day.Resurgence.2016.720p.HC.HDRip.X264.AC3-EVO.mkv:Independence.Day.Resurgence.2016.720p.HC.HDRip.X264.AC3EVO.mkv
+#DESCRIPTION Independence.Day.Resurgence.2016.720p.HC.HDRip.X264.AC3EVO.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Inside.Out.2015.720p.HDRip.X264.AC3-EVO/Inside.Out.2015.720p.HDRip.X264.AC3-EVO.mkv:Inside.Out.2015.720p.HDRip.X264.AC3EVO.mkv
+#DESCRIPTION Inside.Out.2015.720p.HDRip.X264.AC3EVO.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Inside.Out.2015.720p.HDRip.X264.AC3-EVO/sample.mkv:sample.mkv
+#DESCRIPTION sample.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Jack.the.Giant.Slayer.2013.BRRip.XviD-S4A/s4a-jack.the.giant.slayer.2013.brrip.xvid.avi:s4ajack.the.giant.slayer.2013.brrip.xvid.avi
+#DESCRIPTION s4ajack.the.giant.slayer.2013.brrip.xvid.avi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/John.Wick.Chapter.4.2023.576p..WEBRip.x265.AC3-TuKCo/John.Wick.Chapter.4.2023.576p..WEBRip.x265.AC3-TuKCo.mkv:John.Wick.Chapter.4.2023.576p..WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION John.Wick.Chapter.4.2023.576p..WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Jupiter.Ascending.2015.BRRip.x264.AC3-iFT/Jupiter.Ascending.2015.BRRip.x264.AC3-iFT.mkv:Jupiter.Ascending.2015.BRRip.x264.AC3iFT.mkv
+#DESCRIPTION Jupiter.Ascending.2015.BRRip.x264.AC3iFT.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Knight.and.Day.2010.BRRip.x264.Hi10P-DiN/knad-din.mkv:knaddin.mkv
+#DESCRIPTION knaddin.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Knight.and.Day.2010.BRRip.x264.Hi10P-DiN/sample.mkv:sample.mkv
+#DESCRIPTION sample.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Land.Of.The.Lost.2009.BDRip.x265.AAC.BGaudio-tgBG/Land.Of.The.Lost.2009.BDRip.x265.AAC.BGaudio-tgBG.mkv:Land.Of.The.Lost.2009.BDRip.x265.AAC.BGaudiotgBG.mkv
+#DESCRIPTION Land.Of.The.Lost.2009.BDRip.x265.AAC.BGaudiotgBG.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Les.Trois.Mousquetaires.DArtagnan.2023.576p.WEBRip.x265.AC3-TuKCo/Les.Trois.Mousquetaires.DArtagnan.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:Les.Trois.Mousquetaires.DArtagnan.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Les.Trois.Mousquetaires.DArtagnan.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Love.Again.2023.576p.WEBRip.x265.AC3-TuKCo/Love.Again.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:Love.Again.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Love.Again.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Made.For.Each.Other.2009.DVDRip.XviD-VoMiT/vmt-made4eo-xvid.avi:vmtmade4eoxvid.avi
+#DESCRIPTION vmtmade4eoxvid.avi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Made.of.Honor.2008.BDRip.XviD.BGAUDiO-SiSO/Made.of.Honor.2008.BDRip.XviD.BGAUDiO-SiSO.avi:Made.of.Honor.2008.BDRip.XviD.BGAUDiOSiSO.avi
+#DESCRIPTION Made.of.Honor.2008.BDRip.XviD.BGAUDiOSiSO.avi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Mafia.Mamma.2023.576p.BDRip.265.AC3-TuKCo/Mafia.Mamma.2023.576p.BDRip.265.AC3-TuKCo.mkv:Mafia.Mamma.2023.576p.BDRip.265.AC3TuKCo.mkv
+#DESCRIPTION Mafia.Mamma.2023.576p.BDRip.265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Mercy.2023.576p.WEBRip.x265.AC3-TuKCo/Mercy.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:Mercy.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Mercy.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Minions.2015.720p.HDRip.X264.AC3-EVO/Minions.2015.720p.HDRip.X264.AC3-EVO.mkv:Minions.2015.720p.HDRip.X264.AC3EVO.mkv
+#DESCRIPTION Minions.2015.720p.HDRip.X264.AC3EVO.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Mortal%20Kombat%201995%20BRRip.BG.Audio.mp4:Mortal Kombat BRRip.BG.Audio.mp4
+#DESCRIPTION Mortal Kombat BRRip.BG.Audio.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Moving.On.2022.576p.BDRip.x265.AC3-TuKCo/Moving.On.2022.576p.BDRip.x265.AC3-TuKCo.mkv:Moving.On.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Moving.On.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Mr.%20Troop%20Mom%20(2009)%20WEBRip.x264-BGAudio.mp4:Mr. Troop Mom (2009) WEBRip.x264BGAudio.mp4
+#DESCRIPTION Mr. Troop Mom (2009) WEBRip.x264BGAudio.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Mr.Right.2015.BDRip.x265.AAC-WAR/sample.mkv:sample.mkv
+#DESCRIPTION sample.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Mr.Right.2015.BDRip.x265.AAC-WAR/wmrr.mkv:wmrr.mkv
+#DESCRIPTION wmrr.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/nauchni/Hangar.1-The.UFO.Files.S01E01.Presidential.Encounters.HDTV.x264-tNe/Hangar.1-The.UFO.Files.S01E01.Presidential.Encounters.HDTV.x264-tNe.mp4:Hangar.1The.UFO.Files.S01E01.Presidential.Encounters.HDTV.x264tNe.mp4
+#DESCRIPTION Hangar.1The.UFO.Files.S01E01.Presidential.Encounters.HDTV.x264tNe.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Night.Of.The.Sicario.2021.576p.BDRip.x265.AC3-TuKCo/Night.Of.The.Sicario.2021.576p.BDRip.x265.AC3-TuKCo.mkv:Night.Of.The.Sicario.2021.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Night.Of.The.Sicario.2021.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/No.Hard.Feelings.2023.576p.WEBRip.x265.AC3-TuKCo/No.Hard.Feelings.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:No.Hard.Feelings.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION No.Hard.Feelings.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Office.Christmas.Party.2016.Unrated.BRRip.x265.AAC/Office.Christmas.Party.2016.Unrated.BRRip.x265.AAC.mkv:Office.Christmas.Party.2016.Unrated.BRRip.x265.AAC.mkv
+#DESCRIPTION Office.Christmas.Party.2016.Unrated.BRRip.x265.AAC.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Old.Dogs.DVDRip.XviD-DiAMOND/dmd-od.avi:dmdod.avi
+#DESCRIPTION dmdod.avi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/One.Day.as.a.Lion.2023.576p.WEBRip.x265.AC3-TuKCo/One.Day.as.a.Lion.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:One.Day.as.a.Lion.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION One.Day.as.a.Lion.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Orbiter.9.2017.576p.BDRip.x265.AC3-TuKCo/Orbiter.9.2017.576p.BDRip.x265.AC3-TuKCo.mkv:Orbiter.9.2017.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Orbiter.9.2017.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Pirates%20of%20the%20Caribbean%20-%20At%20World's%20End%20%5b2007%5d.:Pirates of the Caribbean  At World's End [2007].mp4
+#DESCRIPTION Pirates of the Caribbean  At World's End [2007].mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Play.Dead.2022.576p.WEBRip.x265.AC3-TuKCo/Play.Dead.2022.576p.WEBRip.x265.AC3-TuKCo.mkv:Play.Dead.2022.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Play.Dead.2022.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Predators.2010.720p.BluRay.BG.DD5.1.x264-smsliverpool/Predators.2010.720p.BluRay.BG.DD5.1.x264-smsliverpool.mkv:Predators.2010.720p.BluRay.BG.DD5.1.x264smsliverpool.mkv
+#DESCRIPTION Predators.2010.720p.BluRay.BG.DD5.1.x264smsliverpool.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Primer.2004.576p.BDRip.x265.AC3-TuKCo/Primer.2004.576p.BDRip.x265.AC3-TuKCo.mkv:Primer.2004.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Primer.2004.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/R.I.P.D..2013.BDRip.10bit.x264-WAR/R.I.P.D..2013.BDRip.10bit.x264-WAR.mkv:R.I.P.D..2013.BDRip.10bit.x264WAR.mkv
+#DESCRIPTION R.I.P.D..2013.BDRip.10bit.x264WAR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Ride.On.2023.576p.WEBRip.x265.AC3-TuKCo/Ride.On.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:Ride.On.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Ride.On.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/San.Andreas.2015.BDRip.x265.AAC-WAR/wsanandreass.mkv:wsanandreass.mkv
+#DESCRIPTION wsanandreass.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Scream.VI.2023.576p.BDRip.x265.AC3-TuKCo/Scream.VI.2023.576p.BDRip.x265.AC3-TuKCo.mkv:Scream.VI.2023.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Scream.VI.2023.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Shotgun.Wedding.2022.576p.BDRip.x265.AC3-TuKCo/Shotgun.Wedding.2022.576p.BDRip.x265.AC3-TuKCo.mkv:Shotgun.Wedding.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Shotgun.Wedding.2022.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Simulant.2023.576p.WEBRip.x265.AC3-TuKCo/Simulant.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:Simulant.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Simulant.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Snag.2023.576p.WEBRip.x265.AC3-TuKCo/Snag.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:Snag.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Snag.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The%20Hunger%20Games%20Mockingjay%20Part%201%20(2014)%20Telesync%20HDCam%20(Full%20Movie)/The%20Hunger%20Games%20The%20Mockingjay%20Part%201.mp4:The Hunger Games The Mockingjay Part 1.mp4
+#DESCRIPTION The Hunger Games The Mockingjay Part 1.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The%20Huntsman%20Winters%20War%202016%20HDTS%20x264%20MP3%20MAXPRO/The%20Huntsman%20Winters%20War%202016%20HDTS%20x264%20MP3%20MAXPRO.mkv:The Huntsman Winters War HDTS xMPMAXPRO.mkv
+#DESCRIPTION The Huntsman Winters War HDTS xMPMAXPRO.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Fifth.Element.1997.1080p.BluRay.x265-DiN/The.Fifth.Element.1997.1080p.BluRay.x265-DiN.mkv:The.Fifth.Element.1997.1080p.BluRay.x265DiN.mkv
+#DESCRIPTION The.Fifth.Element.1997.1080p.BluRay.x265DiN.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Final.Girls.2015.HDRip.x264-WAR/Sample.mkv:Sample.mkv
+#DESCRIPTION Sample.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Final.Girls.2015.HDRip.x264-WAR/The.Final.Girls.2015.HDRip.x264-WAR.mkv:The.Final.Girls.2015.HDRip.x264WAR.mkv
+#DESCRIPTION The.Final.Girls.2015.HDRip.x264WAR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Flash.2023.HDRip.x264.AC3-ZmN/The.Flash.2023.HDRip.x264.AC3-ZmN.mkv:The.Flash.2023.HDRip.x264.AC3ZmN.mkv
+#DESCRIPTION The.Flash.2023.HDRip.x264.AC3ZmN.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Great.Wall.2016.BRRip.x265-DiN/tgrw-din.mkv:tgrwdin.mkv
+#DESCRIPTION tgrwdin.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Heat.UNRATED.BDRip.x264.AAC-WAR/Sample/wheat.sample.mkv:wheat.sample.mkv
+#DESCRIPTION wheat.sample.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Heat.UNRATED.BDRip.x264.AAC-WAR/wheat.mkv:wheat.mkv
+#DESCRIPTION wheat.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Intern.2015.BRRip.x264-DiN/tint-din.mkv:tintdin.mkv
+#DESCRIPTION tintdin.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Island.2023.576p.WEBRip.x265.AC3-TuKCo/The.Island.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:The.Island.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION The.Island.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Jungle.Book.2016.1080p.TC.X264.Masteredition.AC3-1.9GB-%20MAX/The.Jungle.Book.2016.1080p.TC.X264.Masteredition.AC3-1.9GB-%20MAX.mkv:The.Jungle.Book.2016.1080p.TC.X264.Masteredition.AC31.9GB MAX.mkv
+#DESCRIPTION The.Jungle.Book.2016.1080p.TC.X264.Masteredition.AC31.9GB MAX.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Marksman.2021.BDRip.x265.BGAUDiO-ZmN/The.Marksman.2021.BDRip.x265.BGAUDiO-ZmN.mkv:The.Marksman.2021.BDRip.x265.BGAUDiOZmN.mkv
+#DESCRIPTION The.Marksman.2021.BDRip.x265.BGAUDiOZmN.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Martian.2015.576p.BDRIP.x264.AAC-GOD/The.Martian.2015.576p.BDRIP.x264.AAC-GOD.mkv:The.Martian.2015.576p.BDRIP.x264.AACGOD.mkv
+#DESCRIPTION The.Martian.2015.576p.BDRIP.x264.AACGOD.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Mother.2023.HDRip.x264.AC3-ZmN/The.Mother.2023.HDRip.x264.AC3-ZmN.mkv:The.Mother.2023.HDRip.x264.AC3ZmN.mkv
+#DESCRIPTION The.Mother.2023.HDRip.x264.AC3ZmN.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Nice.Guys.2016.WEBRip.x264.AAC-WAR/wtng.mkv:wtng.mkv
+#DESCRIPTION wtng.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Retirement.Plan.2023/The.Retirement.Plan.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv:The.Retirement.Plan.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264GalaxyRG.mkv
+#DESCRIPTION The.Retirement.Plan.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264GalaxyRG.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Superdeep.2020.576p.BDRip.x265.AC3-TuKCo/The.Superdeep.2020.576p.BDRip.x265.AC3-TuKCo.mkv:The.Superdeep.2020.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION The.Superdeep.2020.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Wandering.Earth.2.2023.576p.WEBRip.x265.AC3-TuKCo/The.Wandering.Earth.2.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:The.Wandering.Earth.2.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION The.Wandering.Earth.2.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/The.Weapon.2023.576p.WEBRip.x265.AC3-TuKCo/The.Weapon.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:The.Weapon.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION The.Weapon.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Those.Who.Wish.Me.Dead.2021.576p.BDRip.x265.AC3-TuKCo/Those.Who.Wish.Me.Dead.2021.576p.BDRip.x265.AC3-TuKCo.mkv:Those.Who.Wish.Me.Dead.2021.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Those.Who.Wish.Me.Dead.2021.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Till.Death.2021.576p.BDRip.x265.AC3-TuKCo/Till.Death.2021.576p.BDRip.x265.AC3-TuKCo.mkv:Till.Death.2021.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Till.Death.2021.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Universal.Soldier.1992.720p.BluRay.x264.BG.AUDiO-ZmN/Universal.Soldier.1992.720p.BluRay.x264.BG.AUDiO-ZmN.mkv:Universal.Soldier.1992.720p.BluRay.x264.BG.AUDiOZmN.mkv
+#DESCRIPTION Universal.Soldier.1992.720p.BluRay.x264.BG.AUDiOZmN.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Universal.Soldier.Day.of.Reckoning.2012.720p.BluRay.x264.BG.AUDiO-ZmN/Universal.Soldier.Day.of.Reckoning.2012.720p.BluRay.x264.BG.AUDiO-ZmN.mkv:Universal.Soldier.Day.of.Reckoning.2012.720p.BluRay.x264.BG.AUDiOZmN.mkv
+#DESCRIPTION Universal.Soldier.Day.of.Reckoning.2012.720p.BluRay.x264.BG.AUDiOZmN.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Universal.Soldier.Regeneration.2009.720p.BluRay.x264.BG.AUDiO-ZmN/Universal.Soldier.Regeneration.2009.720p.BluRay.x264.BG.AUDiO-ZmN.mkv:Universal.Soldier.Regeneration.2009.720p.BluRay.x264.BG.AUDiOZmN.mkv
+#DESCRIPTION Universal.Soldier.Regeneration.2009.720p.BluRay.x264.BG.AUDiOZmN.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Universal.Soldier.The.Return.1999.720p.BluRay.x264.BG.AUDiO-ZmN/Universal.Soldier.The.Return.1999.720p.BluRay.x264.BG.AUDiO-ZmN.mkv:Universal.Soldier.The.Return.1999.720p.BluRay.x264.BG.AUDiOZmN.mkv
+#DESCRIPTION Universal.Soldier.The.Return.1999.720p.BluRay.x264.BG.AUDiOZmN.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Vacation.Friends.2021.576p.WEBRip.x265.AC3-TuKCo/Vacation.Friends.2021.576p.WEBRip.x265.AC3-TuKCo.mkv:Vacation.Friends.2021.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Vacation.Friends.2021.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Violent.Night.2022.576p.WEBRip.x265.AC3-TuKCo/Violent.Night.2022.576p.WEBRip.x265.AC3-TuKCo.mkv:Violent.Night.2022.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Violent.Night.2022.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Voice.from.the.Stone.2017.BRRip.x265-DiN/sample.mkv:sample.mkv
+#DESCRIPTION sample.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Voice.from.the.Stone.2017.BRRip.x265-DiN/vfts-din.mkv:vftsdin.mkv
+#DESCRIPTION vftsdin.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Voyagers.2021.576p.BDRip.x265.AC3-TuKCo/Voyagers.2021.576p.BDRip.x265.AC3-TuKCo.mkv:Voyagers.2021.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Voyagers.2021.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Wifelike.2022.576p.WEBRip.x265.AC3-TuKCo/Wifelike.2022.576p.WEBRip.x265.AC3-TuKCo.mkv:Wifelike.2022.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Wifelike.2022.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/X.Men.Apocalypse.2016.720p.HDTC.PINK.EDITION.X264-BOLACHASNUKU/X.Men.Apocalypse.2016.720p.HDTC.PINK.EDITION.X264-BOLACHASNUKU.mkv:X.Men.Apocalypse.2016.720p.HDTC.PINK.EDITION.X264BOLACHASNUKU.mkv
+#DESCRIPTION X.Men.Apocalypse.2016.720p.HDTC.PINK.EDITION.X264BOLACHASNUKU.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/xXx.2002.BRRip.x265-LDS/lxxx.mkv:lxxx.mkv
+#DESCRIPTION lxxx.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/xXx.2002.BRRip.x265-LDS/Sample/Sample.mkv:Sample.mkv
+#DESCRIPTION Sample.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves/Your.Place.or.Mine.2023.576p.WEBRip.x265.AC3-TuKCo/Your.Place.or.Mine.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:Your.Place.or.Mine.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Your.Place.or.Mine.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/1992%20(2022)%20%5b720p%5d%20%5bWEBRip%5d/1992.2022.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4:1992.2022.720p.WEBRip.x264.AAC[YTS.MX].mp4
+#DESCRIPTION 1992.2022.720p.WEBRip.x264.AAC[YTS.MX].mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/A%20Day%20To%20Die%202022%201080p%20Bluray%20x265%2010bit%20DTS-HD-MA%205%201-Unkn0wn/A%20Day%20To%20Die%202022%201080p%20Bluray%20x265%2010bit%20DTS-HD-MA%205%201-Unkn0wn.mkv:A Day To Die 1080p Bluray x10bit DTSHDMA 1Unkn0wn.mkv
+#DESCRIPTION A Day To Die 1080p Bluray x10bit DTSHDMA 1Unkn0wn.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/A%20Minecraft%20Movie%20(2025)%20WP%20Zelka/A%20Minecraft%20Movie%20(2025)%20WP%20Zelka.mp4:A Minecraft Movie (2025) WP Zelka.mp4
+#DESCRIPTION A Minecraft Movie (2025) WP Zelka.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/A%20Working%20Man%20(2025)%20V1%20HDRip%20Zelka.mkv:A Working Man (2025) VHDRip Zelka.mkv
+#DESCRIPTION A Working Man (2025) VHDRip Zelka.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/A.Quiet.Place.Day.One.2024.576p.WEBRip.x265.AC3-TuKCo/A.Quiet.Place.Day.One.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:A.Quiet.Place.Day.One.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION A.Quiet.Place.Day.One.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/A.Real.Pain.2024.720p.BluRay.x264.AC3-seleZen/A.Real.Pain.2024.720p.BluRay.x264.AC3-seleZen.mkv:A.Real.Pain.2024.720p.BluRay.x264.AC3seleZen.mkv
+#DESCRIPTION A.Real.Pain.2024.720p.BluRay.x264.AC3seleZen.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/A.Working.Man.2025.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-BYNDR.mkv:A.Working.Man.2025.2160p.AMZN.WEBDL.DDP5.1.Atmos.H.265BYNDR.mkv
+#DESCRIPTION A.Working.Man.2025.2160p.AMZN.WEBDL.DDP5.1.Atmos.H.265BYNDR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Acide.2023.720p.BluRay.DD.5.1.x264-MegaPeer/Acide.2023.720p.BluRay.DD.5.1.x264-MegaPeer.mkv:Acide.2023.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#DESCRIPTION Acide.2023.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Act%20of%20Valor%202012%20BluRay%201080p%20DTS-HD%20MA%205%201%20AVC%20REMUX-FraMeSToR/Act%20of%20Valor%202012%20BluRay%201080p%20DTS-HD%20MA%205%201%20AVC%20REMUX-FraMeSToR.mkv:Act of Valor BluRay 1080p DTSHD MA AVC REMUXFraMeSToR.mkv
+#DESCRIPTION Act of Valor BluRay 1080p DTSHD MA AVC REMUXFraMeSToR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Aftermath.2024.576p.WEBRip.x265.AC3-TuKCo/Aftermath.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Aftermath.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Aftermath.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Alien.Romulus.2024.576p.WEBRip.x265.AC3-TuKCo/Alien.Romulus.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Alien.Romulus.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Alien.Romulus.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Alien.Romulus.2024.720p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Alien.Romulus.2024.720p.AMZN.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Alien.Romulus.2024.720p.AMZN.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Annihilation.2018.576p.BDRip.x265.AC3-TuKCo/Annihilation.2018.576p.BDRip.x265.AC3-TuKCo.mkv:Annihilation.2018.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Annihilation.2018.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Armor_2024_BGSub_Zelka.mp4:Armor_2024_BGSub_Zelka.mp4
+#DESCRIPTION Armor_2024_BGSub_Zelka.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Atlas.2024.576p.WEBRip.x265.AC3-TuKCo/Atlas.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Atlas.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Atlas.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Avatar.The.Way.of.Water.2022.BDRip.x265.AC3.BGAUDiO-SiSO/Avatar.The.Way.of.Water.2022.BDRip.x265.AC3.BGAUDiO-SiSO.mkv:Avatar.The.Way.of.Water.2022.BDRip.x265.AC3.BGAUDiOSiSO.mkv
+#DESCRIPTION Avatar.The.Way.of.Water.2022.BDRip.x265.AC3.BGAUDiOSiSO.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Bad.Boys.Ride.or.Die.2024.720p.BluRay.x265.AC3-TuKCo/Bad.Boys.Ride.or.Die.2024.720p.BluRay.x265.AC3-TuKCo.mkv:Bad.Boys.Ride.or.Die.2024.720p.BluRay.x265.AC3TuKCo.mkv
+#DESCRIPTION Bad.Boys.Ride.or.Die.2024.720p.BluRay.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Black%20Bag%20(2025)%20(1080p%20MA%20WEB-DL%20x265%2010bit%20EAC3%205.1%20Ghost)/Black%20Bag%20(2025)%20(1080p%20MA%20WEB-DL%20x265%20Ghost).mkv:Black Bag (2025) (1080p MA WEBDL xGhost).mkv
+#DESCRIPTION Black Bag (2025) (1080p MA WEBDL xGhost).mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Black.Bag.2025.WEB-DLRip.AVC-seleZen/Black.Bag.2025.WEB-DLRip.AVC-seleZen.mkv:Black.Bag.2025.WEBDLRip.AVCseleZen.mkv
+#DESCRIPTION Black.Bag.2025.WEBDLRip.AVCseleZen.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/CARJACKERS/Carjackers.2025.720p.ITA-FRE.WEBRip.x264.AAC-V3SP4EV3R.mkv:Carjackers.2025.720p.ITAFRE.WEBRip.x264.AACV3SP4EV3R.mkv
+#DESCRIPTION Carjackers.2025.720p.ITAFRE.WEBRip.x264.AACV3SP4EV3R.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Catch.The.Fair.One.2021.1080p.BluRay.x264.AC3-seleZen/Catch.The.Fair.One.2021.1080p.BluRay.x264.AC3-seleZen.mkv:Catch.The.Fair.One.2021.1080p.BluRay.x264.AC3seleZen.mkv
+#DESCRIPTION Catch.The.Fair.One.2021.1080p.BluRay.x264.AC3seleZen.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Chief.of.Station.2024.576p.WEBRip.x265.AC3-TuKCo/Chief.of.Station.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Chief.of.Station.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Chief.of.Station.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Classified.2024.576p.WEBRip.x265.AC3-TuKCo/Classified.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Classified.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Classified.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Classified.2024.720p.BluRay.DD.5.1.x264-MegaPeer/Classified.2024.720p.BluRay.DD.5.1.x264-MegaPeer.mkv:Classified.2024.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#DESCRIPTION Classified.2024.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Cleaner%202025%201080p%20AMZN%20WEB-DL%20DDP5%201%20H%20264-BYNDR/Cleaner%202025%201080p%20AMZN%20WEB-DL%20DDP5%201%20H%20264-BYNDR.mkv:Cleaner 1080p AMZN WEBDL DDPH 264BYNDR.mkv
+#DESCRIPTION Cleaner 1080p AMZN WEBDL DDPH 264BYNDR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Cleaner.2025.WEB-DLRip.x264-NewTeam/Cleaner.2025.WEB-DLRip.x264-NewTeam.mkv:Cleaner.2025.WEBDLRip.x264NewTeam.mkv
+#DESCRIPTION Cleaner.2025.WEBDLRip.x264NewTeam.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/College%20Road%20Trip%202008%20HD%20Bulgarian%20Audio%20HRK/College%20Road%20Trip%202008%20HD%20Bulgarian%20Audio%20HRK.mkv:College Road Trip HD Bulgarian Audio HRK.mkv
+#DESCRIPTION College Road Trip HD Bulgarian Audio HRK.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Companion%202025%202160p%20BluRay%20x265%2010bit%20Atmos%20TrueHD7%201-WiKi/Companion%202025%202160p%20BluRay%20x265%2010bit%20Atmos%20TrueHD7%201-WiKi.mkv:Companion 2160p BluRay x10bit Atmos TrueHD1WiKi.mkv
+#DESCRIPTION Companion 2160p BluRay x10bit Atmos TrueHD1WiKi.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Confidential.Informant.2023.576p.BDRip.x265.AC3-TuKCo/Confidential.Informant.2023.576p.BDRip.x265.AC3-TuKCo.mkv:Confidential.Informant.2023.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Confidential.Informant.2023.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Dead.Sea.2024.576p.WEBRip.x265.AC3-TuKCo/Dead.Sea.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Dead.Sea.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Dead.Sea.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Deadpool.and.Wolverine.2024.576p.WEBRip.x265.AC3-TuKCo/Deadpool.and.Wolverine.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Deadpool.and.Wolverine.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Deadpool.and.Wolverine.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Deadpool.and.Wolverine.2024.720p.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Deadpool.and.Wolverine.2024.720p.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Deadpool.and.Wolverine.2024.720p.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Deep.Evil.2004.576p.WEBRip.x265.AC3-TuKCo/Deep.Evil.2004.576p.WEBRip.x265.AC3-TuKCo.mkv:Deep.Evil.2004.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Deep.Evil.2004.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Deepwater%20Horizon%202016%20REPACK%202160p%20UHD%20BluRay%20TrueHD%207%201%20HDR%20x265-CtrlHD/Deepwater%20Horizon%202016%20REPACK%202160p%20UHD%20BluRay%20TrueHD%207%201%20HDR%20x265-CtrlHD.mkv:Deepwater Horizon REPACK 2160p UHD BluRay TrueHD HDR x265CtrlHD.mkv
+#DESCRIPTION Deepwater Horizon REPACK 2160p UHD BluRay TrueHD HDR x265CtrlHD.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Deva.2025.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4:Deva.2025.1080p.WEBRip.x264.AAC5.1[YTS.MX].mp4
+#DESCRIPTION Deva.2025.1080p.WEBRip.x264.AAC5.1[YTS.MX].mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Die.Alone.2024.576p.WEBRip.x265.AC3-TuKCo/Die.Alone.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Die.Alone.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Die.Alone.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Die.Alone.2024.720p.BluRay.DD.5.1.x264-MegaPeer/Die.Alone.2024.720p.BluRay.DD.5.1.x264-MegaPeer.mkv:Die.Alone.2024.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#DESCRIPTION Die.Alone.2024.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Dominique.2024.576p.WEBRip.x265.AC3-TuKCo/Dominique.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Dominique.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Dominique.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Duchess.2024.720p.BluRay.DD.5.1.x264-MegaPeer/Duchess.2024.720p.BluRay.DD.5.1.x264-MegaPeer.mkv:Duchess.2024.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#DESCRIPTION Duchess.2024.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Due.Justice.2023.576p.BDRip.x265.AC3-TuKCo/Due.Justice.2023.576p.BDRip.x265.AC3-TuKCo.mkv:Due.Justice.2023.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Due.Justice.2023.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Enola.Holmes.2020.NF.WEB-DLRip.x264-seleZen/Enola.Holmes.2020.NF.WEB-DLRip.x264-seleZen.mkv:Enola.Holmes.2020.NF.WEBDLRip.x264seleZen.mkv
+#DESCRIPTION Enola.Holmes.2020.NF.WEBDLRip.x264seleZen.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Escape.from.Pretoria.2020.BDRip.x264-seleZen/Escape.from.Pretoria.2020.BDRip.x264-seleZen.mkv:Escape.from.Pretoria.2020.BDRip.x264seleZen.mkv
+#DESCRIPTION Escape.from.Pretoria.2020.BDRip.x264seleZen.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Fall.2022.BDRip.x264.AC3.BGAUDiO-SiSO/Fall.2022.BDRip.x264.AC3.BGAUDiO-SiSO.mkv:Fall.2022.BDRip.x264.AC3.BGAUDiOSiSO.mkv
+#DESCRIPTION Fall.2022.BDRip.x264.AC3.BGAUDiOSiSO.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Fast.X.2023.576p.WEBRip.x265.AC3-TuKCo/Fast.X.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:Fast.X.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Fast.X.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Fired%20Up%202009%20Unrated%20Cut%20BluRay%201080p%20DTS-HD%20MA%205%201%20AVC%20REMUX-FraMeSToR/Fired%20Up%202009%20Unrated%20Cut%20BluRay%201080p%20DTS-HD%20MA%205%201%20AVC%20REMUX-FraMeSToR.mkv:Fired Up Unrated Cut BluRay 1080p DTSHD MA AVC REMUXFraMeSToR.mkv
+#DESCRIPTION Fired Up Unrated Cut BluRay 1080p DTSHD MA AVC REMUXFraMeSToR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Flight%20Risk%202025%201080p%20BluRay%20REMUX%20AVC%20TrueHD%207%201-UnKn0wn/Flight%20Risk%202025%201080p%20BluRay%20REMUX%20AVC%20TrueHD%207%201-UnKn0wn.mkv:Flight Risk 1080p BluRay REMUX AVC TrueHD 1UnKn0wn.mkv
+#DESCRIPTION Flight Risk 1080p BluRay REMUX AVC TrueHD 1UnKn0wn.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Fountain.of.Youth.2025.720p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Fountain.of.Youth.2025.720p.ATVP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Fountain.of.Youth.2025.720p.ATVP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/G20%20(2025)%20%5b720p%5d%20%5bWEBRip%5d/G20.2025.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4:G20.2025.720p.WEBRip.x264.AAC[YTS.MX].mp4
+#DESCRIPTION G20.2025.720p.WEBRip.x264.AAC[YTS.MX].mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Gretel%20and%20Hansel%202020%20UHD%20BluRay%202160p%20DTS-HD%20MA%205%201%20HEVC%20REMUX-FraMeSToR/Gretel%20and%20Hansel%202020%20UHD%20BluRay%202160p%20DTS-HD%20MA%205%201%20HEVC%20REMUX-FraMeSToR.mkv:Gretel and Hansel UHD BluRay 2160p DTSHD MA HEVC REMUXFraMeSToR.mkv
+#DESCRIPTION Gretel and Hansel UHD BluRay 2160p DTSHD MA HEVC REMUXFraMeSToR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Gunslingers.2025.WEB-DLRip.720p.x264.seleZen/Gunslingers.2025.WEB-DLRip.720p.x264.seleZen.mkv:Gunslingers.2025.WEBDLRip.720p.x264.seleZen.mkv
+#DESCRIPTION Gunslingers.2025.WEBDLRip.720p.x264.seleZen.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Havoc.2025.WEB.DLRip.AVC.seleZen/Havoc.2025.WEB.DLRip.AVC.seleZen.mkv:Havoc.2025.WEB.DLRip.AVC.seleZen.mkv
+#DESCRIPTION Havoc.2025.WEB.DLRip.AVC.seleZen.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/High.Ground.2025.1080p.AMZN.WEB-DL.H264.DDP5.1/High.Ground.2025.1080p.AMZN.WEB-DL.H264.DDP5.1-BYNDR.mkv:High.Ground.2025.1080p.AMZN.WEBDL.H264.DDP5.1BYNDR.mkv
+#DESCRIPTION High.Ground.2025.1080p.AMZN.WEBDL.H264.DDP5.1BYNDR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/High.Rollers.2025.720p.AMZN.WEB-DL.H264-/High.Rollers.2025.720p.AMZN.WEB-DL.H264-.mkv:High.Rollers.2025.720p.AMZN.WEBDL.H264.mkv
+#DESCRIPTION High.Rollers.2025.720p.AMZN.WEBDL.H264.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Hit.Man.2023.720p.BluRay.DD.5.1.x264-seleZen/Hit.Man.2023.720p.BluRay.DD.5.1.x264-seleZen.mkv:Hit.Man.2023.720p.BluRay.DD.5.1.x264seleZen.mkv
+#DESCRIPTION Hit.Man.2023.720p.BluRay.DD.5.1.x264seleZen.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/I.See.You.2019.BDRip.x264-stillet/I.See.You.2019.BDRip.x264-stillet.mkv:I.See.You.2019.BDRip.x264stillet.mkv
+#DESCRIPTION I.See.You.2019.BDRip.x264stillet.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Ice%20Planet%20(2001)%20HDRip.XviD-WKD/Ice%20Planet%20(2001)%20HDRip.XviD-WKD.avi:Ice Planet (2001) HDRip.XviDWKD.avi
+#DESCRIPTION Ice Planet (2001) HDRip.XviDWKD.avi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/In%20the%20Heart%20of%20the%20Sea%202015%20UHD%20BluRay%202160p%20TrueHD%20Atmos%207%201%20HEVC%20REMUX-FraMeSToR/In%20the%20Heart%20of%20the%20Sea%202015%20UHD%20BluRay%202160p%20TrueHD%20Atmos%207%201%20HEVC%20REMUX-FraMeSToR.mkv:In the Heart of the Sea UHD BluRay 2160p TrueHD Atmos HEVC REMUXFraMeSToR.mkv
+#DESCRIPTION In the Heart of the Sea UHD BluRay 2160p TrueHD Atmos HEVC REMUXFraMeSToR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/In%20the%20Lost%20Lands%20(2025)%20HDRip%20Zelka.mkv:In the Lost Lands (2025) HDRip Zelka.mkv
+#DESCRIPTION In the Lost Lands (2025) HDRip Zelka.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/In%20the%20Lost%20Lands%202025%201080p%20AMZN%20WEB-DL%20DDP5%201%20H%20264-BYNDR/In%20the%20Lost%20Lands%202025%201080p%20AMZN%20WEB-DL%20DDP5%201%20H%20264-BYNDR.mkv:In the Lost Lands 1080p AMZN WEBDL DDPH 264BYNDR.mkv
+#DESCRIPTION In the Lost Lands 1080p AMZN WEBDL DDPH 264BYNDR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Inheritance.2020.BDRip.x264-stillet/Inheritance.2020.BDRip.x264-stillet.mkv:Inheritance.2020.BDRip.x264stillet.mkv
+#DESCRIPTION Inheritance.2020.BDRip.x264stillet.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Inside%20Out%202%202024%20%5bBG%20Audio%5d%20%5bZelka%5d.mp4:Inside Out [BG Audio] [Zelka].mp4
+#DESCRIPTION Inside Out [BG Audio] [Zelka].mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/It.Ends.With.Us.2024.576p.WEBRip.x265.AC3-TuKCo/It.Ends.With.Us.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:It.Ends.With.Us.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION It.Ends.With.Us.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Joker.Folie.a.Deux.2024.720p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv:Joker.Folie.a.Deux.2024.720p.AMZN.WEBDL.DDP5.1.H.264FLUX.mkv
+#DESCRIPTION Joker.Folie.a.Deux.2024.720p.AMZN.WEBDL.DDP5.1.H.264FLUX.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Jolt.2021.720p.BluRay.DD.5.1.x264-MegaPeer/Jolt.2021.720p.BluRay.DD.5.1.x264-MegaPeer.mkv:Jolt.2021.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#DESCRIPTION Jolt.2021.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Joy.Ride.2001.HDRip.x264.BGAUDiO-ZmN/Joy.Ride.2001.HDRip.x264.BGAUDiO-ZmN.mp4:Joy.Ride.2001.HDRip.x264.BGAUDiOZmN.mp4
+#DESCRIPTION Joy.Ride.2001.HDRip.x264.BGAUDiOZmN.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Kill%20Bill%20-%20Vol.%201%20(2003)%20(2160p%20BluRay%20x265%2010bit%20DV%20HDR%20DTS-HD%20MA%205.1%20r00t)/Kill%20Bill%20-%20Vol.%201%20(2003)%20(2160p%20BluRay%20x265%2010bit%20DV%20HDR%20r00t).mkv:Kill Bill  Vol. (2003) (2160p BluRay x10bit DV HDR r00t).mkv
+#DESCRIPTION Kill Bill  Vol. (2003) (2160p BluRay x10bit DV HDR r00t).mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Kill%20Bill%20Vol.%202%20(2004)%20(1080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20Silence)/Featurettes/Chingon%20Performance%20from%20the%20Kill%20Bill%20Volume%202%20Premiere.mkv:Chingon Performance from the Kill Bill Volume Premiere.mkv
+#DESCRIPTION Chingon Performance from the Kill Bill Volume Premiere.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Kill%20Bill%20Vol.%202%20(2004)%20(1080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20Silence)/Featurettes/Damoe%20-%20Deleted%20Scene.mkv:Damoe  Deleted Scene.mkv
+#DESCRIPTION Damoe  Deleted Scene.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Kill%20Bill%20Vol.%202%20(2004)%20(1080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20Silence)/Featurettes/Menu%20Art.mkv:Menu Art.mkv
+#DESCRIPTION Menu Art.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Kill%20Bill%20Vol.%202%20(2004)%20(1080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20Silence)/Featurettes/The%20Making%20of%20Kill%20Bill%20Volume%202.mkv:The Making of Kill Bill Volume 2.mkv
+#DESCRIPTION The Making of Kill Bill Volume 2.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Kill%20Bill%20Vol.%202%20(2004)%20(1080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20Silence)/Kill%20Bill%20Vol.%202%20(2004)%20(1080p%20BluRay%20x265%20Silence).mkv:Kill Bill Vol. (2004) (1080p BluRay xSilence).mkv
+#DESCRIPTION Kill Bill Vol. (2004) (1080p BluRay xSilence).mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Kill.Em.All.2.2024.720p.WEBRip.x265.AC3-TuKCo/Kill.Em.All.2.2024.720p.WEBRip.x265.AC3-TuKCo.mkv:Kill.Em.All.2.2024.720p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Kill.Em.All.2.2024.720p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Kingdom.Of.The.Planet.Of.The.Apes.2024/Kingdom.Of.The.Planet.Of.The.Apes.2024.720p.WEB.h264-EDITH.mkv:Kingdom.Of.The.Planet.Of.The.Apes.2024.720p.WEB.h264EDITH.mkv
+#DESCRIPTION Kingdom.Of.The.Planet.Of.The.Apes.2024.720p.WEB.h264EDITH.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Kung%20Fu%20Traveler%20(2017)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/Kung.Fu.Traveler.2017.720p.WEBRip.x264-%5bYTS.AM%5d.mp4:Kung.Fu.Traveler.2017.720p.WEBRip.x264[YTS.AM].mp4
+#DESCRIPTION Kung.Fu.Traveler.2017.720p.WEBRip.x264[YTS.AM].mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Last.Breath.2025.720p.AMZN.WEB-DL.DDP5.1.H.264-APEX.mkv:Last.Breath.2025.720p.AMZN.WEBDL.DDP5.1.H.264APEX.mkv
+#DESCRIPTION Last.Breath.2025.720p.AMZN.WEBDL.DDP5.1.H.264APEX.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Meander.2020.720p.BluRay.DD.5.1.x264-seleZen/Meander.2020.720p.BluRay.DD.5.1.x264-seleZen.mkv:Meander.2020.720p.BluRay.DD.5.1.x264seleZen.mkv
+#DESCRIPTION Meander.2020.720p.BluRay.DD.5.1.x264seleZen.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Mickey%2017%20(2025)%20HDRip%20Zelka.mkv:Mickey (2025) HDRip Zelka.mkv
+#DESCRIPTION Mickey (2025) HDRip Zelka.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Monster.Summer.2024.576p.WEBRip.x265.AC3-TuKCo/Monster.Summer.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Monster.Summer.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Monster.Summer.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/My.Big.Fat.Greek.Wedding.3.2023.576p.WEBRip.x265.AC3-TuKCo/My.Big.Fat.Greek.Wedding.3.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:My.Big.Fat.Greek.Wedding.3.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION My.Big.Fat.Greek.Wedding.3.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Novocaine%20(2025)%20HDRip%20Zelka.mp4:Novocaine (2025) HDRip Zelka.mp4
+#DESCRIPTION Novocaine (2025) HDRip Zelka.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Parthenope.2024.576p.WEBRip.x265.AC3-TuKCo/Parthenope.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Parthenope.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Parthenope.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Paycheck%202003%201080p%20BluRay%20DTS%20x264-CtrlHD/Paycheck%202003%201080p%20BluRay%20DTS%20x264-CtrlHD.mkv:Paycheck 1080p BluRay DTS x264CtrlHD.mkv
+#DESCRIPTION Paycheck 1080p BluRay DTS x264CtrlHD.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Pegasus.Pony.With.A.Broken.Wing.2019.1080p.WEBRip.x265.AAC.DUAL-SiSO/Pegasus.Pony.With.A.Broken.Wing.2019.1080p.WEBRip.x265.AAC.DUAL-SiSO.mkv:Pegasus.Pony.With.A.Broken.Wing.2019.1080p.WEBRip.x265.AAC.DUALSiSO.mkv
+#DESCRIPTION Pegasus.Pony.With.A.Broken.Wing.2019.1080p.WEBRip.x265.AAC.DUALSiSO.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Pineapple%20Express%202008%20Hybrid%201080p%20BluRay%20DD5%201%20x264-DON/Pineapple%20Express%202008%20Hybrid%201080p%20BluRay%20DD5%201%20x264-DON.mkv:Pineapple Express Hybrid 1080p BluRay DDx264DON.mkv
+#DESCRIPTION Pineapple Express Hybrid 1080p BluRay DDx264DON.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Precious%20Find%201996.J.DVDRip.BG%20Audio.MadMax%20&amp;%20Goredolo.mkv:Precious Find 1996.J.DVDRip.BG Audio.MadMax &amp; Goredolo.mkv
+#DESCRIPTION Precious Find 1996.J.DVDRip.BG Audio.MadMax &amp; Goredolo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Safe%20House%202012%201080p%20BluRay%20DTS%20x264-CtrlHD/Safe%20House%202012%201080p%20BluRay%20DTS%20x264-CtrlHD.mkv:Safe House 1080p BluRay DTS x264CtrlHD.mkv
+#DESCRIPTION Safe House 1080p BluRay DTS x264CtrlHD.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/San.Andreas.2015.2160p.BluRay.REMUX.HEVC.HDR10.DTS-HD.MA.TrueHD.7.1.Atmos-ASA.mkv:San.Andreas.2015.2160p.BluRay.REMUX.HEVC.HDR10.DTSHD.MA.TrueHD.7.1.AtmosASA.mkv
+#DESCRIPTION San.Andreas.2015.2160p.BluRay.REMUX.HEVC.HDR10.DTSHD.MA.TrueHD.7.1.AtmosASA.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Seven.Cemeteries.2024.576p.WEBRip.x265.AC3-TuKCo/Seven.Cemeteries.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Seven.Cemeteries.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Seven.Cemeteries.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Slingshot.2024.576p.WEBRip.x265.AC3-TuKCo/Slingshot.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Slingshot.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Slingshot.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Sniper.The.Last.Stand.2025.576p.WEBRip.x265.AC3-TuKCo/Sniper.The.Last.Stand.2025.576p.WEBRip.x265.AC3-TuKCo.mkv:Sniper.The.Last.Stand.2025.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Sniper.The.Last.Stand.2025.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Sonic.The.Hedgehog.3.2024.1080p.WEBRip.x265.AC3.DUAL-SiSO/Sonic.The.Hedgehog.3.2024.1080p.WEBRip.x265.AC3.DUAL-SiSO.mkv:Sonic.The.Hedgehog.3.2024.1080p.WEBRip.x265.AC3.DUALSiSO.mkv
+#DESCRIPTION Sonic.The.Hedgehog.3.2024.1080p.WEBRip.x265.AC3.DUALSiSO.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Sonic.The.Hedgehog.3.2024.WEBRip.x264.AC3.BGAUDiO-SiSO/sample.mkv:sample.mkv
+#DESCRIPTION sample.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Sonic.The.Hedgehog.3.2024.WEBRip.x264.AC3.BGAUDiO-SiSO/Sonic.The.Hedgehog.3.2024.WEBRip.x264.AC3.BGAUDiO-SiSO.mkv:Sonic.The.Hedgehog.3.2024.WEBRip.x264.AC3.BGAUDiOSiSO.mkv
+#DESCRIPTION Sonic.The.Hedgehog.3.2024.WEBRip.x264.AC3.BGAUDiOSiSO.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Stealth%202005%201080p%20BluRay%20DTS%20x264-CtrlHD/Stealth%202005%201080p%20BluRay%20DTS%20x264-CtrlHD.mkv:Stealth 1080p BluRay DTS x264CtrlHD.mkv
+#DESCRIPTION Stealth 1080p BluRay DTS x264CtrlHD.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Subservience_2024_BGSub_Zelka.mp4:Subservience_2024_BGSub_Zelka.mp4
+#DESCRIPTION Subservience_2024_BGSub_Zelka.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Take.Cover.2024.576p.WEBRip.x265.AC3-TuKCo/Take.Cover.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Take.Cover.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Take.Cover.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Terminator.Salvation.2009.1080p.WEBRip.h264.BGAUDIO.L7.mp4:Terminator.Salvation.2009.1080p.WEBRip.h264.BGAUDIO.L7.mp4
+#DESCRIPTION Terminator.Salvation.2009.1080p.WEBRip.h264.BGAUDIO.L7.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The%20Alto%20Knights%20(2025)%20BG%20Subs%20Zelka.mp4:The Alto Knights (2025) BG Subs Zelka.mp4
+#DESCRIPTION The Alto Knights (2025) BG Subs Zelka.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The%20Animal%20Kingdom%202023%20UHD%20BluRay%202160p%20DTS-HD%20MA%205%201%20DV%20HEVC%20REMUX-FraMeSToR/The%20Animal%20Kingdom%202023%20UHD%20BluRay%202160p%20DTS-HD%20MA%205%201%20DV%20HEVC%20REMUX-FraMeSToR.mkv:The Animal Kingdom UHD BluRay 2160p DTSHD MA DV HEVC REMUXFraMeSToR.mkv
+#DESCRIPTION The Animal Kingdom UHD BluRay 2160p DTSHD MA DV HEVC REMUXFraMeSToR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The%20Forbidden%20Kingdom%20(2008)%20(2160p%20BluRay%20x265%2010bit%20DV%20HDR%20TrueHD%20Atmos%207.1%20r00t)/The%20Forbidden%20Kingdom%20(2008)%20(2160p%20BluRay%20x265%2010bit%20DV%20HDR%20r00t).mkv:The Forbidden Kingdom (2008) (2160p BluRay x10bit DV HDR r00t).mkv
+#DESCRIPTION The Forbidden Kingdom (2008) (2160p BluRay x10bit DV HDR r00t).mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The%20Mexican%202001%20BluRay%201080p%20DTS-HD%20MA%205%201%20AVC%20REMUX-FraMeSToR/The%20Mexican%202001%20BluRay%201080p%20DTS-HD%20MA%205%201%20AVC%20REMUX-FraMeSToR.mkv:The Mexican BluRay 1080p DTSHD MA AVC REMUXFraMeSToR.mkv
+#DESCRIPTION The Mexican BluRay 1080p DTSHD MA AVC REMUXFraMeSToR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The%20Pelican%20Brief%201993%20BluRay%201080p%20DTS-HD%20MA%205%201%20VC-1%20REMUX-FraMeSToR/The%20Pelican%20Brief%201993%20BluRay%201080p%20DTS-HD%20MA%205%201%20VC-1%20REMUX-FraMeSToR.mkv:The Pelican Brief BluRay 1080p DTSHD MA VCREMUXFraMeSToR.mkv
+#DESCRIPTION The Pelican Brief BluRay 1080p DTSHD MA VCREMUXFraMeSToR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The%20Real%20McCoy%201993.J.DVDRip.BG%20Audio.Mad%20Max%20&amp;%20Goredol%d0%b5.mkv:The Real McCoy 1993.J.DVDRip.BG Audio.Mad Max &amp; Goredolе.mkv
+#DESCRIPTION The Real McCoy 1993.J.DVDRip.BG Audio.Mad Max &amp; Goredolе.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The%20Rock%201996%20BluRay%201080p%20DTS-HD%20MA%205%201%20AVC%20REMUX-FraMeSToR/The%20Rock%201996%20BluRay%201080p%20DTS-HD%20MA%205%201%20AVC%20REMUX-FraMeSToR.mkv:The Rock BluRay 1080p DTSHD MA AVC REMUXFraMeSToR.mkv
+#DESCRIPTION The Rock BluRay 1080p DTSHD MA AVC REMUXFraMeSToR.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The.Crow.2024.576p.WEBRip.x265.AC3-TuKCo/The.Crow.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:The.Crow.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION The.Crow.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The.Crow.2024.720p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:The.Crow.2024.720p.AMZN.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION The.Crow.2024.720p.AMZN.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The.Electric.State.2025.WEB-DLRip.720p.x264.seleZen/The.Electric.State.2025.WEB-DLRip.720p.x264.seleZen.mkv:The.Electric.State.2025.WEBDLRip.720p.x264.seleZen.mkv
+#DESCRIPTION The.Electric.State.2025.WEBDLRip.720p.x264.seleZen.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The.Killers.Game.2024.576p.WEBRip.x265.AC3-TuKCo/The.Killers.Game.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:The.Killers.Game.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION The.Killers.Game.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The.Killers.Game.2024.720p.BluRay.DD.5.1.x264-MegaPeer/The.Killers.Game.2024.720p.BluRay.DD.5.1.x264-MegaPeer.mkv:The.Killers.Game.2024.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#DESCRIPTION The.Killers.Game.2024.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The.Little.Mermaid.2023.BDRip.x265.AC3.BGAUDiO-SiSO/The.Little.Mermaid.2023.BDRip.x265.AC3.BGAUDiO-SiSO.mkv:The.Little.Mermaid.2023.BDRip.x265.AC3.BGAUDiOSiSO.mkv
+#DESCRIPTION The.Little.Mermaid.2023.BDRip.x265.AC3.BGAUDiOSiSO.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The.Old.Guard.2020.WEB-DLRip.x264.seleZen/The.Old.Guard.2020.WEB-DLRip.x264.seleZen.mkv:The.Old.Guard.2020.WEBDLRip.x264.seleZen.mkv
+#DESCRIPTION The.Old.Guard.2020.WEBDLRip.x264.seleZen.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The.Out.Laws.2023.576p.WEBRip.x265.AC3-TuKCo/The.Out.Laws.2023.576p.WEBRip.x265.AC3-TuKCo.mkv:The.Out.Laws.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION The.Out.Laws.2023.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The.Owners.2020.720p.BluRay.x264.DTS-LION/The.Owners.2020.720p.BluRay.x264.DTS-LION.mkv:The.Owners.2020.720p.BluRay.x264.DTSLION.mkv
+#DESCRIPTION The.Owners.2020.720p.BluRay.x264.DTSLION.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The.Present.2024.720p.BluRay.DD.5.1.x264-MegaPeer/The.Present.2024.720p.BluRay.DD.5.1.x264-MegaPeer.mkv:The.Present.2024.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#DESCRIPTION The.Present.2024.720p.BluRay.DD.5.1.x264MegaPeer.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The.Quiet.Ones.2024.1080p.BluRay.x.265.AC3-HUD/The.Quiet.Ones.2024.1080p.BluRay.x.265.AC3-HUD.mkv:The.Quiet.Ones.2024.1080p.BluRay.x.265.AC3HUD.mkv
+#DESCRIPTION The.Quiet.Ones.2024.1080p.BluRay.x.265.AC3HUD.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/The.Silent.Hour.2024.576p.WEBRip.x265.AC3-TuKCo/The.Silent.Hour.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:The.Silent.Hour.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION The.Silent.Hour.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Triangle.2009.576p.BDRip.x265.AC3-TuKCo/Triangle.2009.576p.BDRip.x265.AC3-TuKCo.mkv:Triangle.2009.576p.BDRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Triangle.2009.576p.BDRip.x265.AC3TuKCo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022/new%20moves%202/Trigger.Warning.2024.576p.WEBRip.x265.AC3-TuKCo/Trigger.Warning.2024.576p.WEBRip.x265.AC3-TuKCo.mkv:Trigger.Warning.2024.576p.WEBRip.x265.AC3TuKCo.mkv
+#DESCRIPTION Trigger.Warning.2024.576p.WEBRip.x265.AC3TuKCo.mkv
