@@ -1,4 +1,4 @@
-#NAME IPTV OPD 03.11.25 Blindspot 
+#NAME IPTV OPD 03.11.2025 Blindspot 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a%2f%2fdl2.netpaak.ir%2fmedia%2fserial%2fBlindspot%2f1%2f720%2fnoghtekoor.S01E01.720p.farsi.mkv:noghtekoor.S01E01.720p.farsi.mkv
 #DESCRIPTION noghtekoor.S01E01.720p.farsi.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a%2f%2fdl2.netpaak.ir%2fmedia%2fserial%2fBlindspot%2f1%2f720%2fnoghtekoor.S01E02.720p.farsi.mkv:noghtekoor.S01E02.720p.farsi.mkv

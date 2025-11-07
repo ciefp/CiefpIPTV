@@ -1,4 +1,4 @@
-#NAME IPTV MIX OPD 03.11.2025_Fargo
+#NAME IPTV OPD 03.11.2025_Fargo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a%2f%2fdl2.netpaak.ir%2fmedia%2fserial%2ffargo%2fS1.Sub%2f1080P%2fFargo.S01E01.1080p.BluRay.6CH.x264.mkv:Fargo.S01E01.1080p.BluRay.6CH.x264.mkv
 #DESCRIPTION Fargo.S01E01.1080p.BluRay.6CH.x264.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a%2f%2fdl2.netpaak.ir%2fmedia%2fserial%2ffargo%2fS1.Sub%2f1080P%2fFargo.S01E02.1080p.BluRay.6CH.x264.mkv:Fargo.S01E02.1080p.BluRay.6CH.x264.mkv
