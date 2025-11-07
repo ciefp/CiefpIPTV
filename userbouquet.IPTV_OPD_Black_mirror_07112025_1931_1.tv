@@ -1,0 +1,109 @@
+#NAME IPTV OPD Black mirror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1%2f1080P%2fBlack.Mirror.S01E01.1080p.BluRay.SoftSub.mkv:Black.Mirror.S01E01.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S01E01.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1%2f1080P%2fBlack.Mirror.S01E02.1080p.BluRay.SoftSub.mkv:Black.Mirror.S01E02.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S01E02.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1%2f1080P%2fBlack.Mirror.S01E03.1080p.BluRay.SoftSub.mkv:Black.Mirror.S01E03.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S01E03.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1%2f720p%2fBlack.Mirror.S01E01.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S01E01.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S01E01.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1%2f720p%2fBlack.Mirror.S01E02.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S01E02.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S01E02.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1%2f720p%2fBlack.Mirror.S01E03.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S01E03.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S01E03.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1-dob%2fBlack%20Mirror%20S01E01.720p.mkv:Black Mirror S01E01.720p.mkv
+#DESCRIPTION Black Mirror S01E01.720p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1-dob%2fBlack%20Mirror%20S01E02.720p.mkv:Black Mirror S01E02.720p.mkv
+#DESCRIPTION Black Mirror S01E02.720p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1-dob%2fBlack%20Mirror%20S01E03.720.mkv:Black Mirror S01E03.720.mkv
+#DESCRIPTION Black Mirror S01E03.720.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1-dob%2fBlack%20Mirror%20S01E04.720.mkv:Black Mirror S01E04.720.mkv
+#DESCRIPTION Black Mirror S01E04.720.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1-dob%2fBlack%20Mirror%20S01E05.720.mkv:Black Mirror S01E05.720.mkv
+#DESCRIPTION Black Mirror S01E05.720.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1-dob%2fBlack%20Mirror%20S01E06.720.mkv:Black Mirror S01E06.720.mkv
+#DESCRIPTION Black Mirror S01E06.720.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1-dob%2fBlack%20Mirror%20S01E07.720.mkv:Black Mirror S01E07.720.mkv
+#DESCRIPTION Black Mirror S01E07.720.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1-dob%2fBlack%20Mirror%20S01E08.720.mkv:Black Mirror S01E08.720.mkv
+#DESCRIPTION Black Mirror S01E08.720.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1-dob%2fBlack%20Mirror%20S01E09.720.mkv:Black Mirror S01E09.720.mkv
+#DESCRIPTION Black Mirror S01E09.720.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS1-dob%2fBlack%20Mirror%20S01E10.720.mkv:Black Mirror S01E10.720.mkv
+#DESCRIPTION Black Mirror S01E10.720.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS2%2f1080P%2fBlack.Mirror.S02E01.1080p.BluRay.SoftSub.mkv:Black.Mirror.S02E01.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S02E01.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS2%2f1080P%2fBlack.Mirror.S02E02.1080p.BluRay.SoftSub.mkv:Black.Mirror.S02E02.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S02E02.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS2%2f1080P%2fBlack.Mirror.S02E03.1080p.BluRay.SoftSub.mkv:Black.Mirror.S02E03.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S02E03.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS2%2f1080P%2fBlack.Mirror.S02E04.1080p.BluRay.SoftSub.mkv:Black.Mirror.S02E04.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S02E04.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS2%2f720p%2fBlack.Mirror.S02E01.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S02E01.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S02E01.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS2%2f720p%2fBlack.Mirror.S02E02.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S02E02.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S02E02.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS2%2f720p%2fBlack.Mirror.S02E03.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S02E03.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S02E03.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS2%2f720p%2fBlack.Mirror.S02E04.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S02E04.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S02E04.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS3%2f1080P%2fBlack.Mirror.S03E01.1080p.BluRay.SoftSub.mkv:Black.Mirror.S03E01.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S03E01.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS3%2f1080P%2fBlack.Mirror.S03E02.1080p.BluRay.SoftSub.mkv:Black.Mirror.S03E02.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S03E02.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS3%2f1080P%2fBlack.Mirror.S03E03.1080p.BluRay.SoftSub.mkv:Black.Mirror.S03E03.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S03E03.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS3%2f1080P%2fBlack.Mirror.S03E04.1080p.BluRay.SoftSub.mkv:Black.Mirror.S03E04.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S03E04.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS3%2f1080P%2fBlack.Mirror.S03E05.1080p.BluRay.SoftSub.mkv:Black.Mirror.S03E05.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S03E05.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS3%2f1080P%2fBlack.Mirror.S03E06.1080p.BluRay.SoftSub.mkv:Black.Mirror.S03E06.1080p.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S03E06.1080p.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS3%2f720p%2fBlack.Mirror.S03E01.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S03E01.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S03E01.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS3%2f720p%2fBlack.Mirror.S03E02.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S03E02.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S03E02.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS3%2f720p%2fBlack.Mirror.S03E03.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S03E03.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S03E03.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS3%2f720p%2fBlack.Mirror.S03E04.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S03E04.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S03E04.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS3%2f720p%2fBlack.Mirror.S03E05.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S03E05.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S03E05.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS3%2f720p%2fBlack.Mirror.S03E06.720p.x265.BluRay.SoftSub.mkv:Black.Mirror.S03E06.720p.x265.BluRay.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S03E06.720p.x265.BluRay.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS4%2f1080P%2fBlack.Mirror.S04E01.1080p.Web-DL.SoftSub.mkv:Black.Mirror.S04E01.1080p.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S04E01.1080p.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS4%2f1080P%2fBlack.Mirror.S04E02.1080p.Web-DL.SoftSub.mkv:Black.Mirror.S04E02.1080p.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S04E02.1080p.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS4%2f1080P%2fBlack.Mirror.S04E03.1080p.Web-DL.SoftSub.mkv:Black.Mirror.S04E03.1080p.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S04E03.1080p.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS4%2f1080P%2fBlack.Mirror.S04E04.1080p.Web-DL.SoftSub.mkv:Black.Mirror.S04E04.1080p.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S04E04.1080p.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS4%2f1080P%2fBlack.Mirror.S04E05.1080p.Web-DL.SoftSub.mkv:Black.Mirror.S04E05.1080p.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S04E05.1080p.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS4%2f1080P%2fBlack.Mirror.S04E06.1080p.Web-DL.SoftSub.mkv:Black.Mirror.S04E06.1080p.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S04E06.1080p.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS4%2f720p%2fBlack.Mirror.S04E01.720p.x265.Web-DL.SoftSub.mkv:Black.Mirror.S04E01.720p.x265.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S04E01.720p.x265.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS4%2f720p%2fBlack.Mirror.S04E02.720p.x265.Web-DL.SoftSub.mkv:Black.Mirror.S04E02.720p.x265.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S04E02.720p.x265.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS4%2f720p%2fBlack.Mirror.S04E03.720p.x265.Web-DL.SoftSub.mkv:Black.Mirror.S04E03.720p.x265.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S04E03.720p.x265.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS4%2f720p%2fBlack.Mirror.S04E04.720p.x265.Web-DL.SoftSub.mkv:Black.Mirror.S04E04.720p.x265.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S04E04.720p.x265.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS4%2f720p%2fBlack.Mirror.S04E05.720p.x265.Web-DL.SoftSub.mkv:Black.Mirror.S04E05.720p.x265.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S04E05.720p.x265.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS4%2f720p%2fBlack.Mirror.S04E06.720p.x265.Web-DL.SoftSub.mkv:Black.Mirror.S04E06.720p.x265.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S04E06.720p.x265.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS5%2f1080P%2fBlack.Mirror.S05E01.1080p.Web-DL.SoftSub.mkv:Black.Mirror.S05E01.1080p.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S05E01.1080p.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS5%2f1080P%2fBlack.Mirror.S05E02.1080p.Web-DL.SoftSub.mkv:Black.Mirror.S05E02.1080p.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S05E02.1080p.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS5%2f1080P%2fBlack.Mirror.S05E03.1080p.Web-DL.SoftSub.mkv:Black.Mirror.S05E03.1080p.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S05E03.1080p.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS5%2f720p%2fBlack.Mirror.S05E01.720p.x265.Web-DL.SoftSub.mkv:Black.Mirror.S05E01.720p.x265.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S05E01.720p.x265.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS5%2f720p%2fBlack.Mirror.S05E02.720p.x265.Web-DL.SoftSub.mkv:Black.Mirror.S05E02.720p.x265.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S05E02.720p.x265.Web-DL.SoftSub.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl2.netpaak.ir%2fmedia%2fserial%2fBlack.Mirror%2fS5%2f720p%2fBlack.Mirror.S05E03.720p.x265.Web-DL.SoftSub.mkv:Black.Mirror.S05E03.720p.x265.Web-DL.SoftSub.mkv
+#DESCRIPTION Black.Mirror.S05E03.720p.x265.Web-DL.SoftSub.mkv

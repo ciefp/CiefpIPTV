@@ -1,0 +1,61 @@
+#NAME IPTV OPD movies audio mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fStar%20Wars%2fStar%20Wars%201%20The%20Phantom%20Menace.mp3:Star Wars 1 The Phantom Menace.mp3
+#DESCRIPTION Star Wars 1 The Phantom Menace.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fStar%20Wars%2fStar%20Wars%202%20Attack_of_the_Clones.mp3:Star Wars 2 Attack_of_the_Clones.mp3
+#DESCRIPTION Star Wars 2 Attack_of_the_Clones.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fStar%20Wars%2fStar%20Wars%203%20Revenge_of_the_Sith.mp3:Star Wars 3 Revenge_of_the_Sith.mp3
+#DESCRIPTION Star Wars 3 Revenge_of_the_Sith.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fStar%20Wars%2fStar%20Wars%204%20A_New_Hope.mp3:Star Wars 4 A_New_Hope.mp3
+#DESCRIPTION Star Wars 4 A_New_Hope.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fStar%20Wars%2fStar%20Wars%205%20The%20Empire%20Strikes%20Back.mp3:Star Wars 5 The Empire Strikes Back.mp3
+#DESCRIPTION Star Wars 5 The Empire Strikes Back.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fStar%20Wars%2fStar%20Wars%206%20Return_of_the_Jedi.mp3:Star Wars 6 Return_of_the_Jedi.mp3
+#DESCRIPTION Star Wars 6 Return_of_the_Jedi.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fStar%20Wars%2fStar%20Wars%207%20The%20Force%20Awakens.mp3:Star Wars 7 The Force Awakens.mp3
+#DESCRIPTION Star Wars 7 The Force Awakens.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fStar%20Wars%2fStar%20Wars%208%20The%20Last%20Jedi.mp3:Star Wars 8 The Last Jedi.mp3
+#DESCRIPTION Star Wars 8 The Last Jedi.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fStar%20Wars%2fStar%20Wars%209%20Rise%20of%20Skywalker.mp3:Star Wars 9 Rise of Skywalker.mp3
+#DESCRIPTION Star Wars 9 Rise of Skywalker.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fMen%20in%20Black%2fMen_in_Black.mp3:Men_in_Black.mp3
+#DESCRIPTION Men_in_Black.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fMen%20in%20Black%2fMen_in_Black_2.mp3:Men_in_Black_2.mp3
+#DESCRIPTION Men_in_Black_2.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fCasino_Royale.mp3:Casino_Royale.mp3
+#DESCRIPTION Casino_Royale.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fDiamonds_Are_Forever.mp3:Diamonds_Are_Forever.mp3
+#DESCRIPTION Diamonds_Are_Forever.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fDie_Another_Day.mp3:Die_Another_Day.mp3
+#DESCRIPTION Die_Another_Day.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fDr_No.mp3:Dr_No.mp3
+#DESCRIPTION Dr_No.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fFor_Your_Eyes_Only.mp3:For_Your_Eyes_Only.mp3
+#DESCRIPTION For_Your_Eyes_Only.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fFrom_Russia_with_Love.mp3:From_Russia_with_Love.mp3
+#DESCRIPTION From_Russia_with_Love.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fGoldenEye.mp3:GoldenEye.mp3
+#DESCRIPTION GoldenEye.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fGoldfinger.mp3:Goldfinger.mp3
+#DESCRIPTION Goldfinger.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fLicence_to_Kill.mp3:Licence_to_Kill.mp3
+#DESCRIPTION Licence_to_Kill.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fLive_and_Let_Die.mp3:Live_and_Let_Die.mp3
+#DESCRIPTION Live_and_Let_Die.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fMoonraker.mp3:Moonraker.mp3
+#DESCRIPTION Moonraker.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fNever_Say_Never_Again.mp3:Never_Say_Never_Again.mp3
+#DESCRIPTION Never_Say_Never_Again.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fOctopussy.mp3:Octopussy.mp3
+#DESCRIPTION Octopussy.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fThe_Living_Daylights.mp3:The_Living_Daylights.mp3
+#DESCRIPTION The_Living_Daylights.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fThe_Man_with_the_Golden_Gun.mp3:The_Man_with_the_Golden_Gun.mp3
+#DESCRIPTION The_Man_with_the_Golden_Gun.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fJames%20Bond%2fThunderball.mp3:Thunderball.mp3
+#DESCRIPTION Thunderball.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fThe%20Matrix%2fThe_Matrix.mp3:The_Matrix.mp3
+#DESCRIPTION The_Matrix.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fThe%20Matrix%2fThe_Matrix_Reloaded.mp3:The_Matrix_Reloaded.mp3
+#DESCRIPTION The_Matrix_Reloaded.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashcentral.duckdns.org%3a8100%2fmedia%2fmovies%2fDVS%20Movies%2fThe%20Matrix%2fThe_Matrix_Revolutions.mp3:The_Matrix_Revolutions.mp3
+#DESCRIPTION The_Matrix_Revolutions.mp3
