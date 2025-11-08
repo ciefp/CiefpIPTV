@@ -1,0 +1,579 @@
+#NAME IPTV OPD Mythbusters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202003%2fMythBusters%20-%20S2003E01%20-%20Jet%20Assisted%20Chevy%20SDTV.mp4:MythBusters - S2003E01 - Jet Assisted Chevy SDTV.mp4
+#DESCRIPTION MythBusters - S2003E01 - Jet Assisted Chevy SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202003%2fMythBusters%20-%20S2003E02%20-%20Biscuit%20Bazooka%20SDTV.mp4:MythBusters - S2003E02 - Biscuit Bazooka SDTV.mp4
+#DESCRIPTION MythBusters - S2003E02 - Biscuit Bazooka SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202003%2fMythBusters%20-%20S2003E03%20-%20Poppy-Seed%20Drug%20Test%20SDTV.mp4:MythBusters - S2003E03 - Poppy-Seed Drug Test SDTV.mp4
+#DESCRIPTION MythBusters - S2003E03 - Poppy-Seed Drug Test SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202003%2fMythBusters%20-%20S2003E04%20-%20Exploding%20Toilet%20SDTV.mp4:MythBusters - S2003E04 - Exploding Toilet SDTV.mp4
+#DESCRIPTION MythBusters - S2003E04 - Exploding Toilet SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202003%2fMythBusters%20-%20S2003E05%20-%20Cell%20Phone%20Destroys%20Gas%20Station%20SDTV.mp4:MythBusters - S2003E05 - Cell Phone Destroys Gas Station SDTV.mp4
+#DESCRIPTION MythBusters - S2003E05 - Cell Phone Destroys Gas Station SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202003%2fMythBusters%20-%20S2003E06%20-%20Barrel%20of%20Bricks%20SDTV.mp4:MythBusters - S2003E06 - Barrel of Bricks SDTV.mp4
+#DESCRIPTION MythBusters - S2003E06 - Barrel of Bricks SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202003%2fMythBusters%20-%20S2003E07%20-%20Penny%20Drop%20HDTV-720p.mp4:MythBusters - S2003E07 - Penny Drop HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2003E07 - Penny Drop HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202003%2fMythBusters%20-%20S2003E08%20-%20Buried%20Alive%20SDTV.mp4:MythBusters - S2003E08 - Buried Alive SDTV.mp4
+#DESCRIPTION MythBusters - S2003E08 - Buried Alive SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202003%2fMythBusters%20-%20S2003E09%20-%20Lightning%20Strikes%20%2B%20Tongue%20Piercing%20SDTV.mp4:MythBusters - S2003E09 - Lightning Strikes + Tongue Piercing SDTV.mp4
+#DESCRIPTION MythBusters - S2003E09 - Lightning Strikes + Tongue Piercing SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202003%2fMythBusters%20-%20S2003E10%20-%20Stinky%20Car%2C%20Raccoon%20Rocket%20SDTV.mp4:MythBusters - S2003E10 - Stinky Car, Raccoon Rocket SDTV.mp4
+#DESCRIPTION MythBusters - S2003E10 - Stinky Car, Raccoon Rocket SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202003%2fMythBusters%20-%20S2003E11%20-%20Alcatraz%20Escape%20SDTV.mp4:MythBusters - S2003E11 - Alcatraz Escape SDTV.mp4
+#DESCRIPTION MythBusters - S2003E11 - Alcatraz Escape SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E01%20-%20Explosive%20Decompression%2C%20Frog%20Giggin%27%2C%20Rear%20Axle%20SDTV.mp4:MythBusters - S2004E01 - Explosive Decompression, Frog Giggin', Rear Axle SDTV.mp4
+#DESCRIPTION MythBusters - S2004E01 - Explosive Decompression, Frog Giggin', Rear Axle SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E02%20-%20Chicken%20Gun%20SDTV.mp4:MythBusters - S2004E02 - Chicken Gun SDTV.mp4
+#DESCRIPTION MythBusters - S2004E02 - Chicken Gun SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E03%20-%20Sinking%20Titanic%2C%20Goldfish%20Memory%2C%20Trombone%20Explosion%20SDTV.mp4:MythBusters - S2004E03 - Sinking Titanic, Goldfish Memory, Trombone Explosion SDTV.mp4
+#DESCRIPTION MythBusters - S2004E03 - Sinking Titanic, Goldfish Memory, Trombone Explosion SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E04%20-%20Breakstep%20Bridge%20SDTV.mp4:MythBusters - S2004E04 - Breakstep Bridge SDTV.mp4
+#DESCRIPTION MythBusters - S2004E04 - Breakstep Bridge SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E05%20-%20Buried%20in%20Concrete%20SDTV.mp4:MythBusters - S2004E05 - Buried in Concrete SDTV.mp4
+#DESCRIPTION MythBusters - S2004E05 - Buried in Concrete SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E08%20-%20Myths%20Revisited%20SDTV.mp4:MythBusters - S2004E08 - Myths Revisited SDTV.mp4
+#DESCRIPTION MythBusters - S2004E08 - Myths Revisited SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E09%20-%20Best%20Explosions%20DVD.mkv:MythBusters - S2004E09 - Best Explosions DVD.mkv
+#DESCRIPTION MythBusters - S2004E09 - Best Explosions DVD.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E10%20-%20Scuba%20Diver%2C%20Car%20Capers%20SDTV.mp4:MythBusters - S2004E10 - Scuba Diver, Car Capers SDTV.mp4
+#DESCRIPTION MythBusters - S2004E10 - Scuba Diver, Car Capers SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E11%20-%20Ancient%20Death%20Ray%20HDTV-720p.mp4:MythBusters - S2004E11 - Ancient Death Ray HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2004E11 - Ancient Death Ray HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E12%20-%20Elevator%20of%20Death%2C%20Levitation%20Machine%20SDTV.mp4:MythBusters - S2004E12 - Elevator of Death, Levitation Machine SDTV.mp4
+#DESCRIPTION MythBusters - S2004E12 - Elevator of Death, Levitation Machine SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E13%20-%20Beat%20the%20Radar%20Detector%20SDTV.mp4:MythBusters - S2004E13 - Beat the Radar Detector SDTV.mp4
+#DESCRIPTION MythBusters - S2004E13 - Beat the Radar Detector SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E14%20-%20Quicksand%2C%20Bathtub%20Electrocution%2C%20MRI%20Rays%20and%20Tattoos%20SDTV.mp4:MythBusters - S2004E14 - Quicksand, Bathtub Electrocution, MRI Rays and Tattoos SDTV.mp4
+#DESCRIPTION MythBusters - S2004E14 - Quicksand, Bathtub Electrocution, MRI Rays and Tattoos SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E15%20-%20Exploding%20Jawbreaker%20HDTV-720p.mp4:MythBusters - S2004E15 - Exploding Jawbreaker HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2004E15 - Exploding Jawbreaker HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E16%20-%20Pingpong%20Rescue%20SDTV.mp4:MythBusters - S2004E16 - Pingpong Rescue SDTV.mp4
+#DESCRIPTION MythBusters - S2004E16 - Pingpong Rescue SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E17%20-%20Boom%20Lift%20Catapult%20SDTV.mp4:MythBusters - S2004E17 - Boom Lift Catapult SDTV.mp4
+#DESCRIPTION MythBusters - S2004E17 - Boom Lift Catapult SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E18%20-%20Exploding%20House%20HDTV-1080p.mp4:MythBusters - S2004E18 - Exploding House HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2004E18 - Exploding House HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E19%20-%20Ming%20Dynasty%20Astronaut%20HDTV-1080p.mp4:MythBusters - S2004E19 - Ming Dynasty Astronaut HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2004E19 - Ming Dynasty Astronaut HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202004%2fMythBusters%20-%20S2004E20%20-%20Christmas%20Special%20SDTV.mp4:MythBusters - S2004E20 - Christmas Special SDTV.mp4
+#DESCRIPTION MythBusters - S2004E20 - Christmas Special SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E02%20-%20Ultimate%20MythBusters%20HDTV-1080p.mp4:MythBusters - S2005E02 - Ultimate MythBusters HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2005E02 - Ultimate MythBusters HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E03%20-%20Brown%20Note%20HDTV-1080p.mp4:MythBusters - S2005E03 - Brown Note HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2005E03 - Brown Note HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E04%20-%20Salsa%20Escape%20SDTV.mp4:MythBusters - S2005E04 - Salsa Escape SDTV.mp4
+#DESCRIPTION MythBusters - S2005E04 - Salsa Escape SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E05%20-%20Exploding%20Port-a-Potty%20SDTV.mp4:MythBusters - S2005E05 - Exploding Port-a-Potty SDTV.mp4
+#DESCRIPTION MythBusters - S2005E05 - Exploding Port-a-Potty SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E06%20-%20Is%20Yawning%20Contagious%20SDTV.mp4:MythBusters - S2005E06 - Is Yawning Contagious SDTV.mp4
+#DESCRIPTION MythBusters - S2005E06 - Is Yawning Contagious SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E07%20-%20MythBusters%20Outtakes%20HDTV-1080p.mp4:MythBusters - S2005E07 - MythBusters Outtakes HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2005E07 - MythBusters Outtakes HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E08%20-%20Cooling%20a%20Six-Pack%20SDTV.mp4:MythBusters - S2005E08 - Cooling a Six-Pack SDTV.mp4
+#DESCRIPTION MythBusters - S2005E08 - Cooling a Six-Pack SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E09%20-%20Son%20of%20a%20Gun%20SDTV.mp4:MythBusters - S2005E09 - Son of a Gun SDTV.mp4
+#DESCRIPTION MythBusters - S2005E09 - Son of a Gun SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E10%20-%20Shop%20%27til%20You%20Drop%20SDTV.mp4:MythBusters - S2005E10 - Shop 'til You Drop SDTV.mp4
+#DESCRIPTION MythBusters - S2005E10 - Shop 'til You Drop SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E11%20-%20MythBusters%20-%20Revealed%20SDTV.mp4:MythBusters - S2005E11 - MythBusters - Revealed SDTV.mp4
+#DESCRIPTION MythBusters - S2005E11 - MythBusters - Revealed SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E12%20-%20Hollywood%20On%20Trial%20SDTV.mp4:MythBusters - S2005E12 - Hollywood On Trial SDTV.mp4
+#DESCRIPTION MythBusters - S2005E12 - Hollywood On Trial SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E13%20-%20Breaking%20Glass%20SDTV.mp4:MythBusters - S2005E13 - Breaking Glass SDTV.mp4
+#DESCRIPTION MythBusters - S2005E13 - Breaking Glass SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E14%20-%20Jet%20Pack%20HDTV-1080p.mp4:MythBusters - S2005E14 - Jet Pack HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2005E14 - Jet Pack HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E15%20-%20Killer%20Brace%20Position%20SDTV.mp4:MythBusters - S2005E15 - Killer Brace Position SDTV.mp4
+#DESCRIPTION MythBusters - S2005E15 - Killer Brace Position SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E16%20-%20Bullet%20Proof%20Water%20HDTV-720p.mp4:MythBusters - S2005E16 - Bullet Proof Water HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2005E16 - Bullet Proof Water HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E17%20-%20MythBusters%20Jaws%20Special%20SDTV.mp4:MythBusters - S2005E17 - MythBusters Jaws Special SDTV.mp4
+#DESCRIPTION MythBusters - S2005E17 - MythBusters Jaws Special SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E18%20-%20Border%20Slingshot%20SDTV.mp4:MythBusters - S2005E18 - Border Slingshot SDTV.mp4
+#DESCRIPTION MythBusters - S2005E18 - Border Slingshot SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E19%20-%20Killer%20Tissue%20Box%20HDTV-1080p.mp4:MythBusters - S2005E19 - Killer Tissue Box HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2005E19 - Killer Tissue Box HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E20%20-%20Escape%20Slide%20Parachute%20SDTV.mp4:MythBusters - S2005E20 - Escape Slide Parachute SDTV.mp4
+#DESCRIPTION MythBusters - S2005E20 - Escape Slide Parachute SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E21%20-%20MythBusters%20Revisited%20HDTV-1080p.mp4:MythBusters - S2005E21 - MythBusters Revisited HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2005E21 - MythBusters Revisited HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E22%20-%20Chinese%20Invasion%20Alarm%20HDTV-1080p.mp4:MythBusters - S2005E22 - Chinese Invasion Alarm HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2005E22 - Chinese Invasion Alarm HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E23%20-%20Confederate%20Rocket%20HDTV-1080p.mp4:MythBusters - S2005E23 - Confederate Rocket HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2005E23 - Confederate Rocket HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E24%20-%20Vodka%20Myths%20HDTV-1080p.mp4:MythBusters - S2005E24 - Vodka Myths HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2005E24 - Vodka Myths HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E25%20-%20Steel%20Toe%20Amputation%20HDTV-1080p.mp4:MythBusters - S2005E25 - Steel Toe Amputation HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2005E25 - Steel Toe Amputation HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202005%2fMythBusters%20-%20S2005E26%20-%20Seasickness%20-%20Kill%20or%20Cure%20HDTV-1080p.mp4:MythBusters - S2005E26 - Seasickness - Kill or Cure HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2005E26 - Seasickness - Kill or Cure HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E01%20-%20Paper%20Crossbow%20HDTV-1080p.mp4:MythBusters - S2006E01 - Paper Crossbow HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E01 - Paper Crossbow HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E02%20-%20Shredded%20Plane%20HDTV-1080p.mp4:MythBusters - S2006E02 - Shredded Plane HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E02 - Shredded Plane HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E03%20-%20Archimedes%20Death%20Ray%20Revisited%20HDTV-720p.mp4:MythBusters - S2006E03 - Archimedes Death Ray Revisited HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2006E03 - Archimedes Death Ray Revisited HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E04%20-%20Helium%20Football%20SDTV.mp4:MythBusters - S2006E04 - Helium Football SDTV.mp4
+#DESCRIPTION MythBusters - S2006E04 - Helium Football SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E05%20-%20Franklin%27s%20Kite%20HDTV-1080p.mp4:MythBusters - S2006E05 - Franklin's Kite HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E05 - Franklin's Kite HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E06%20-%20Cell%20Phones%20on%20Planes%20HDTV-1080p.mp4:MythBusters - S2006E06 - Cell Phones on Planes HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E06 - Cell Phones on Planes HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E07%20-%20Bullets%20Fired%20Up%20SDTV.mp4:MythBusters - S2006E07 - Bullets Fired Up SDTV.mp4
+#DESCRIPTION MythBusters - S2006E07 - Bullets Fired Up SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E08%20-%20Myths%20Reopened%20HDTV-1080p.mp4:MythBusters - S2006E08 - Myths Reopened HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E08 - Myths Reopened HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E09%20-%20Mind%20Control%20HDTV-1080p.mp4:MythBusters - S2006E09 - Mind Control HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E09 - Mind Control HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E10%20-%20Exploding%20Pants%20SDTV.mp4:MythBusters - S2006E10 - Exploding Pants SDTV.mp4
+#DESCRIPTION MythBusters - S2006E10 - Exploding Pants SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E11%20-%20Crimes%20and%20Myth-demeanors%20SDTV.mp4:MythBusters - S2006E11 - Crimes and Myth-demeanors SDTV.mp4
+#DESCRIPTION MythBusters - S2006E11 - Crimes and Myth-demeanors SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E12%20-%20Steam%20Cannon%20HDTV-1080p.mp4:MythBusters - S2006E12 - Steam Cannon HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E12 - Steam Cannon HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E13%20-%20Killer%20Whirlpool%20SDTV.mp4:MythBusters - S2006E13 - Killer Whirlpool SDTV.mp4
+#DESCRIPTION MythBusters - S2006E13 - Killer Whirlpool SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E14%20-%20Diet%20Coke%20and%20Mentos%20HDTV-720p.mp4:MythBusters - S2006E14 - Diet Coke and Mentos HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2006E14 - Diet Coke and Mentos HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E15%20-%20Shattering%20Subwoofer%20HDTV-1080p.mp4:MythBusters - S2006E15 - Shattering Subwoofer HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E15 - Shattering Subwoofer HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E16%20-%20Crimes%20and%20Myth-demeanors%202%20HDTV-1080p.mp4:MythBusters - S2006E16 - Crimes and Myth-demeanors 2 HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E16 - Crimes and Myth-demeanors 2 HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E17%20-%20Earthquake%20Machine%20HDTV-1080p.mp4:MythBusters - S2006E17 - Earthquake Machine HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E17 - Earthquake Machine HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E18%20-%20Deadly%20Straw%20HDTV-1080p.mp4:MythBusters - S2006E18 - Deadly Straw HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E18 - Deadly Straw HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E19%20-%20Mega%20Movie%20Myths%20HDTV-1080p.mp4:MythBusters - S2006E19 - Mega Movie Myths HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E19 - Mega Movie Myths HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E20%20-%20Killer%20Cable%20Snaps%20HDTV-1080p.mp4:MythBusters - S2006E20 - Killer Cable Snaps HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E20 - Killer Cable Snaps HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E21%20-%20Air%20Cylinder%20Rocket%20HDTV-1080p.mp4:MythBusters - S2006E21 - Air Cylinder Rocket HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E21 - Air Cylinder Rocket HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E22%20-%20More%20Myths%20Revisited%20HDTV-720p.mp4:MythBusters - S2006E22 - More Myths Revisited HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2006E22 - More Myths Revisited HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E23%20-%20Exploding%20Lighter%20HDTV-720p.mp4:MythBusters - S2006E23 - Exploding Lighter HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2006E23 - Exploding Lighter HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E24%20-%20Concrete%20Glider%20HDTV-1080p.mp4:MythBusters - S2006E24 - Concrete Glider HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E24 - Concrete Glider HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E25%20-%20Firearms%20Folklore%20HDTV-1080p.mp4:MythBusters - S2006E25 - Firearms Folklore HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E25 - Firearms Folklore HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E26%20-%20Anti-Gravity%20Device%20HDTV-1080p.mp4:MythBusters - S2006E26 - Anti-Gravity Device HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E26 - Anti-Gravity Device HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E27%20-%20Holiday%20Special%20HDTV-1080p.mp4:MythBusters - S2006E27 - Holiday Special HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E27 - Holiday Special HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202006%2fMythBusters%20-%20S2006E28%20-%2022%2C000%20Foot%20Fall%20HDTV-1080p.mp4:MythBusters - S2006E28 - 22,000 Foot Fall HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2006E28 - 22,000 Foot Fall HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E01%20-%20Hindenburg%20Mystery%20HDTV-1080p.mp4:MythBusters - S2007E01 - Hindenburg Mystery HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E01 - Hindenburg Mystery HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E02%20-%20Pirate%20Special%20HDTV-1080p.mp4:MythBusters - S2007E02 - Pirate Special HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E02 - Pirate Special HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E03%20-%20Underwater%20Car%20Escape%20HDTV-720p.mp4:MythBusters - S2007E03 - Underwater Car Escape HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2007E03 - Underwater Car Escape HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E04%20-%20Speed%20Cameras%20HDTV-1080p.mp4:MythBusters - S2007E04 - Speed Cameras HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E04 - Speed Cameras HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E05%20-%20Dog%20Myths%20HDTV-1080p.mp4:MythBusters - S2007E05 - Dog Myths HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E05 - Dog Myths HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E06%20-%20More%20Myths%20Reopened%20HDTV-720p.mp4:MythBusters - S2007E06 - More Myths Reopened HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2007E06 - More Myths Reopened HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E07%20-%20Voice%20Flame%20Extinguisher%20HDTV-1080p.mp4:MythBusters - S2007E07 - Voice Flame Extinguisher HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E07 - Voice Flame Extinguisher HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E08%20-%20Birds%20in%20a%20Truck%20HDTV-720p.mp4:MythBusters - S2007E08 - Birds in a Truck HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2007E08 - Birds in a Truck HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E09%20-%20Walking%20On%20Water%20HDTV-1080p.mp4:MythBusters - S2007E09 - Walking On Water HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E09 - Walking On Water HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E10%20-%20Western%20Myths%20HDTV-1080p.mp4:MythBusters - S2007E10 - Western Myths HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E10 - Western Myths HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E11%20-%20Big%20Rig%20Myths%20HDTV-1080p.mp4:MythBusters - S2007E11 - Big Rig Myths HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E11 - Big Rig Myths HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E12%20-%20Grenades%20and%20Guts%20HDTV-1080p.mp4:MythBusters - S2007E12 - Grenades and Guts HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E12 - Grenades and Guts HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E13%20-%20Snow%20Special%20HDTV-1080p.mp4:MythBusters - S2007E13 - Snow Special HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E13 - Snow Special HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E14%20-%20Baseball%20Myths%20HDTV-1080p.mp4:MythBusters - S2007E14 - Baseball Myths HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E14 - Baseball Myths HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E15%20-%20Viewer%20Special%20HDTV-1080p.mp4:MythBusters - S2007E15 - Viewer Special HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E15 - Viewer Special HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E16%20-%20Red%20Flag%20to%20a%20Bull%20HDTV-1080p.mp4:MythBusters - S2007E16 - Red Flag to a Bull HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E16 - Red Flag to a Bull HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E17%20-%20Superhero%20Hour%20HDTV-1080p.mp4:MythBusters - S2007E17 - Superhero Hour HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E17 - Superhero Hour HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E18%20-%20Myth%20Evolution%21%20HDTV-1080p.mp4:MythBusters - S2007E18 - Myth Evolution! HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E18 - Myth Evolution! HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E19%20-%20Trail%20Blazers%20HDTV-720p.mp4:MythBusters - S2007E19 - Trail Blazers HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2007E19 - Trail Blazers HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E20%20-%20Exploding%20Water%20Heater%20SDTV.mp4:MythBusters - S2007E20 - Exploding Water Heater SDTV.mp4
+#DESCRIPTION MythBusters - S2007E20 - Exploding Water Heater SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E21%20-%20Super%20Sized%20Myths%21%20SDTV.mp4:MythBusters - S2007E21 - Super Sized Myths! SDTV.mp4
+#DESCRIPTION MythBusters - S2007E21 - Super Sized Myths! SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E22%20-%20Shooting%20Fish%20in%20a%20Barrel%20HDTV-1080p.mp4:MythBusters - S2007E22 - Shooting Fish in a Barrel HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E22 - Shooting Fish in a Barrel HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E23%20-%20Pirates%202%20HDTV-720p.mp4:MythBusters - S2007E23 - Pirates 2 HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2007E23 - Pirates 2 HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E24%20-%20Confederate%20Steam%20Gun%20HDTV-1080p.mp4:MythBusters - S2007E24 - Confederate Steam Gun HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E24 - Confederate Steam Gun HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202007%2fMythBusters%20-%20S2007E25%20-%20Air%20Plane%20Hour%20HDTV-1080p.mp4:MythBusters - S2007E25 - Air Plane Hour HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2007E25 - Air Plane Hour HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E01%20-%20James%20Bond%20Special%20-%20Part%201%20HDTV-1080p.mp4:MythBusters - S2008E01 - James Bond Special - Part 1 HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E01 - James Bond Special - Part 1 HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E02%20-%20Lead%20Balloon%20HDTV-1080p.mp4:MythBusters - S2008E02 - Lead Balloon HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E02 - Lead Balloon HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E03%20-%20Airplane%20on%20a%20Conveyor%20Belt%20HDTV-1080p.mp4:MythBusters - S2008E03 - Airplane on a Conveyor Belt HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E03 - Airplane on a Conveyor Belt HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E04%20-%20James%20Bond%20Special%20-%20Part%202%20HDTV-1080p.mp4:MythBusters - S2008E04 - James Bond Special - Part 2 HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E04 - James Bond Special - Part 2 HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E05%20-%20Viewers%20Special%202%20SDTV.mp4:MythBusters - S2008E05 - Viewers Special 2 SDTV.mp4
+#DESCRIPTION MythBusters - S2008E05 - Viewers Special 2 SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E06%20-%20MacGyver%20Myths%20HDTV-1080p.mp4:MythBusters - S2008E06 - MacGyver Myths HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E06 - MacGyver Myths HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E07%20-%20Alaska%20Special%20HDTV-1080p.mp4:MythBusters - S2008E07 - Alaska Special HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E07 - Alaska Special HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E08%20-%20Shark%20Week%202008%20SDTV.mp4:MythBusters - S2008E08 - Shark Week 2008 SDTV.mp4
+#DESCRIPTION MythBusters - S2008E08 - Shark Week 2008 SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E09%20-%20Exploding%20Steak%20HDTV-1080p.mp4:MythBusters - S2008E09 - Exploding Steak HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E09 - Exploding Steak HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E10%20-%20NASA%20Moon%20Landing%20HDTV-1080p.mp4:MythBusters - S2008E10 - NASA Moon Landing HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E10 - NASA Moon Landing HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E11%20-%20Viral%20Hour%20HDTV-1080p.mp4:MythBusters - S2008E11 - Viral Hour HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E11 - Viral Hour HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E12%20-%20Phone%20Book%20Friction%20HDTV-720p.mp4:MythBusters - S2008E12 - Phone Book Friction HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2008E12 - Phone Book Friction HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E13%20-%20Water%20Stun%20Gun%20HDTV-720p.mp4:MythBusters - S2008E13 - Water Stun Gun HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2008E13 - Water Stun Gun HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E14%20-%20Blind%20Driving%20HDTV-1080p.mp4:MythBusters - S2008E14 - Blind Driving HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E14 - Blind Driving HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E15%20-%20Ninjas%202%20HDTV-1080p.mp4:MythBusters - S2008E15 - Ninjas 2 HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E15 - Ninjas 2 HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E16%20-%20Alcohol%20Myths%20HDTV-1080p.mp4:MythBusters - S2008E16 - Alcohol Myths HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E16 - Alcohol Myths HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E17%20-%20Motorcycle%20Flip%20HDTV-720p.mp4:MythBusters - S2008E17 - Motorcycle Flip HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2008E17 - Motorcycle Flip HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E18%20-%20Coffin%20Punch%20HDTV-720p.mp4:MythBusters - S2008E18 - Coffin Punch HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2008E18 - Coffin Punch HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E19%20-%20End%20With%20A%20Bang%20HDTV-1080p.mp4:MythBusters - S2008E19 - End With A Bang HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2008E19 - End With A Bang HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202008%2fMythBusters%20-%20S2008E20%20-%20Viewer%20Special%20Threequel%20HDTV-720p.mp4:MythBusters - S2008E20 - Viewer Special Threequel HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2008E20 - Viewer Special Threequel HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E01%20-%20Demolition%20Derby%20Special%20SDTV.mp4:MythBusters - S2009E01 - Demolition Derby Special SDTV.mp4
+#DESCRIPTION MythBusters - S2009E01 - Demolition Derby Special SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E02%20-%20Alaska%20Special%202%20HDTV-720p.mp4:MythBusters - S2009E02 - Alaska Special 2 HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2009E02 - Alaska Special 2 HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E03%20-%20Banana%20Slip%2C%20Double%20Dip%20HDTV-720p.mp4:MythBusters - S2009E03 - Banana Slip, Double Dip HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2009E03 - Banana Slip, Double Dip HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E04%20-%20YouTube%20Special%21%20HDTV-720p.mp4:MythBusters - S2009E04 - YouTube Special! HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2009E04 - YouTube Special! HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E05%20-%20Swimming%20in%20Syrup%20HDTV-720p.mp4:MythBusters - S2009E05 - Swimming in Syrup HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2009E05 - Swimming in Syrup HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E06%20-%20Exploding%20Bumper%20HDTV-1080p.mp4:MythBusters - S2009E06 - Exploding Bumper HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E06 - Exploding Bumper HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E07%20-%20Seesaw%20Saga%20HDTV-720p.mp4:MythBusters - S2009E07 - Seesaw Saga HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2009E07 - Seesaw Saga HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E08%20-%20Thermite%20vs.%20Ice%20HDTV-720p.mp4:MythBusters - S2009E08 - Thermite vs. Ice HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2009E08 - Thermite vs. Ice HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E09%20-%20Prison%20Escape%20HDTV-1080p.mp4:MythBusters - S2009E09 - Prison Escape HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E09 - Prison Escape HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E10%20-%20Curving%20Bullets%20HDTV-1080p.mp4:MythBusters - S2009E10 - Curving Bullets HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E10 - Curving Bullets HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E11%20-%20Car%20vs.%20Rain%20HDTV-720p.mp4:MythBusters - S2009E11 - Car vs. Rain HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2009E11 - Car vs. Rain HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E12%20-%20Knock%20Your%20Socks%20Off%20HDTV-1080p.mp4:MythBusters - S2009E12 - Knock Your Socks Off HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E12 - Knock Your Socks Off HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E13%20-%20Duct%20Tape%20Hour%20HDTV-1080p.mp4:MythBusters - S2009E13 - Duct Tape Hour HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E13 - Duct Tape Hour HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E14%20-%20Dirty%20vs.%20Clean%20Car%20HDTV-1080p.mp4:MythBusters - S2009E14 - Dirty vs. Clean Car HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E14 - Dirty vs. Clean Car HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E15%20-%20Greased%20Lightning%20HDTV-1080p.mp4:MythBusters - S2009E15 - Greased Lightning HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E15 - Greased Lightning HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E16%20-%20Hurricane%20Windows%20HDTV-1080p.mp4:MythBusters - S2009E16 - Hurricane Windows HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E16 - Hurricane Windows HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E17%20-%20Crash%20and%20Burn%20HDTV-1080p.mp4:MythBusters - S2009E17 - Crash and Burn HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E17 - Crash and Burn HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E18%20-%20Myth%20Evolution%202%20HDTV-1080p.mp4:MythBusters - S2009E18 - Myth Evolution 2 HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E18 - Myth Evolution 2 HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E19%20-%20Dumpster%20Diving%20HDTV-1080p.mp4:MythBusters - S2009E19 - Dumpster Diving HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E19 - Dumpster Diving HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E20%20-%20Antacid%20Jail%20Break%20HDTV-1080p.mp4:MythBusters - S2009E20 - Antacid Jail Break HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E20 - Antacid Jail Break HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E21%20-%20Unarmed%20and%20Unharmed%20HDTV-1080p.mp4:MythBusters - S2009E21 - Unarmed and Unharmed HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E21 - Unarmed and Unharmed HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E22%20-%20Hidden%20Nasties%20HDTV-1080p.mp4:MythBusters - S2009E22 - Hidden Nasties HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E22 - Hidden Nasties HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202009%2fMythBusters%20-%20S2009E23%20-%20Mini%20Myth%20Mayhem%20HDTV-1080p.mp4:MythBusters - S2009E23 - Mini Myth Mayhem HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2009E23 - Mini Myth Mayhem HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E01%20-%20Boomerang%20Bullet%20HDTV-1080p.mp4:MythBusters - S2010E01 - Boomerang Bullet HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2010E01 - Boomerang Bullet HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E02%20-%20Soda%20Cup%20Killer%20HDTV-720p.mp4:MythBusters - S2010E02 - Soda Cup Killer HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2010E02 - Soda Cup Killer HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E03%20-%20Dive%20to%20Survive%20HDTV-720p.mp4:MythBusters - S2010E03 - Dive to Survive HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2010E03 - Dive to Survive HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E04%20-%20Spy%20Car%20Escape%20HDTV-720p.mp4:MythBusters - S2010E04 - Spy Car Escape HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2010E04 - Spy Car Escape HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E05%20-%20Bottle%20Bash%20HDTV-720p.mp4:MythBusters - S2010E05 - Bottle Bash HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2010E05 - Bottle Bash HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E06%20-%20No%20Pain%20No%20Gain%2C%20Propane%20Tank%20Rocket%20HDTV-720p.mp4:MythBusters - S2010E06 - No Pain No Gain, Propane Tank Rocket HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2010E06 - No Pain No Gain, Propane Tank Rocket HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E07%20-%20Mythssion%20Control%20HDTV-720p.mp4:MythBusters - S2010E07 - Mythssion Control HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2010E07 - Mythssion Control HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E08%20-%20Duct%20Tape%20Hour%202%20HDTV-720p.mp4:MythBusters - S2010E08 - Duct Tape Hour 2 HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2010E08 - Duct Tape Hour 2 HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E09%20-%20Waterslide%20Wipeout%20HDTV-1080p.mp4:MythBusters - S2010E09 - Waterslide Wipeout HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2010E09 - Waterslide Wipeout HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E10%20-%20Fireball%20Stun%20Gun%20HDTV-720p.mp4:MythBusters - S2010E10 - Fireball Stun Gun HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2010E10 - Fireball Stun Gun HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E11%20-%20Flu%20Fiction%20HDTV-1080p.mp4:MythBusters - S2010E11 - Flu Fiction HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2010E11 - Flu Fiction HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E12%20-%20Hair%20of%20the%20Dog%20WEBDL-1080p.mkv:MythBusters - S2010E12 - Hair of the Dog WEBDL-1080p.mkv
+#DESCRIPTION MythBusters - S2010E12 - Hair of the Dog WEBDL-1080p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E13%20-%20Storm%20Chasing%20Myths%20WEBDL-1080p.mkv:MythBusters - S2010E13 - Storm Chasing Myths WEBDL-1080p.mkv
+#DESCRIPTION MythBusters - S2010E13 - Storm Chasing Myths WEBDL-1080p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E14%20-%20Cold%20Feet%20WEBDL-1080p.mkv:MythBusters - S2010E14 - Cold Feet WEBDL-1080p.mkv
+#DESCRIPTION MythBusters - S2010E14 - Cold Feet WEBDL-1080p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E15%20-%20Table%20Cloth%20Chaos%20WEBDL-1080p.mkv:MythBusters - S2010E15 - Table Cloth Chaos WEBDL-1080p.mkv
+#DESCRIPTION MythBusters - S2010E15 - Table Cloth Chaos WEBDL-1080p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E16%20-%20Arrow%20Machine%20Gun%20WEBDL-1080p.mkv:MythBusters - S2010E16 - Arrow Machine Gun WEBDL-1080p.mkv
+#DESCRIPTION MythBusters - S2010E16 - Arrow Machine Gun WEBDL-1080p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E17%20-%20Mini%20Myth%20Madness%20WEBDL-1080p.mkv:MythBusters - S2010E17 - Mini Myth Madness WEBDL-1080p.mkv
+#DESCRIPTION MythBusters - S2010E17 - Mini Myth Madness WEBDL-1080p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E18%20-%20Reverse%20Engineering%20WEBDL-1080p.mkv:MythBusters - S2010E18 - Reverse Engineering WEBDL-1080p.mkv
+#DESCRIPTION MythBusters - S2010E18 - Reverse Engineering WEBDL-1080p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E19%20-%20Inverted%20Underwater%20Car%20HDTV-1080p.mp4:MythBusters - S2010E19 - Inverted Underwater Car HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2010E19 - Inverted Underwater Car HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E20%20-%20Bug%20Special%20HDTV-720p.mp4:MythBusters - S2010E20 - Bug Special HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2010E20 - Bug Special HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E21%20-%20President%27s%20Challenge%20HDTV-720p.mp4:MythBusters - S2010E21 - President's Challenge HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2010E21 - President's Challenge HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E22%20-%20Green%20Hornet%20Special%20HDTV-720p.mp4:MythBusters - S2010E22 - Green Hornet Special HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2010E22 - Green Hornet Special HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fMythBusters%20-%20S2010E23%20-%20Operation%20Valkyrie%20HDTV-1080p.mp4:MythBusters - S2010E23 - Operation Valkyrie HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2010E23 - Operation Valkyrie HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fSmyth%20S2010E24%20Mini%20Myth%20Madness.mp4:Smyth S2010E24 Mini Myth Madness.mp4
+#DESCRIPTION Smyth S2010E24 Mini Myth Madness.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fSmyth%20S2010E25%20Reverse%20Engineering.mp4:Smyth S2010E25 Reverse Engineering.mp4
+#DESCRIPTION Smyth S2010E25 Reverse Engineering.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fSmyth%20S2010E26%20Inverted%20Underwater%20Car.mp4:Smyth S2010E26 Inverted Underwater Car.mp4
+#DESCRIPTION Smyth S2010E26 Inverted Underwater Car.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fSmyth%20S2010E27%20Bug%20Special.mp4:Smyth S2010E27 Bug Special.mp4
+#DESCRIPTION Smyth S2010E27 Bug Special.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fSmyth%20S2010E28%20President%27s%20Challenge.mp4:Smyth S2010E28 President's Challenge.mp4
+#DESCRIPTION Smyth S2010E28 President's Challenge.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fSmyth%20S2010E29%20Green%20Hornet%20Special.mp4:Smyth S2010E29 Green Hornet Special.mp4
+#DESCRIPTION Smyth S2010E29 Green Hornet Special.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202010%2fSmyth%20S2010E30%20Operation%20Valkyrie.mp4:Smyth S2010E30 Operation Valkyrie.mp4
+#DESCRIPTION Smyth S2010E30 Operation Valkyrie.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E01%20-%20Mission%20Impossible%20Face%20Off%20HDTV-1080p.mp4:MythBusters - S2011E01 - Mission Impossible Face Off HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2011E01 - Mission Impossible Face Off HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E02%20-%20Blue%20Ice%20HDTV-1080p.mp4:MythBusters - S2011E02 - Blue Ice HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2011E02 - Blue Ice HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E03%20-%20Running%20on%20Water%20HDTV-720p.mp4:MythBusters - S2011E03 - Running on Water HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E03 - Running on Water HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E04%20-%20Bubble%20Trouble%20HDTV-720p.mp4:MythBusters - S2011E04 - Bubble Trouble HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E04 - Bubble Trouble HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E05%20-%20Torpedo%20Tastic%20HDTV-720p.mp4:MythBusters - S2011E05 - Torpedo Tastic HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E05 - Torpedo Tastic HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E06%20-%20Blow%20Your%20Own%20Sail%20HDTV-720p.mp4:MythBusters - S2011E06 - Blow Your Own Sail HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E06 - Blow Your Own Sail HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E07%20-%20Spy%20Car%202%20HDTV-720p.mp4:MythBusters - S2011E07 - Spy Car 2 HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E07 - Spy Car 2 HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E08%20-%20Dodge%20a%20Bullet%20HDTV-720p.mp4:MythBusters - S2011E08 - Dodge a Bullet HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E08 - Dodge a Bullet HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E09%20-%20Fixing%20a%20Flat%20HDTV-720p.mp4:MythBusters - S2011E09 - Fixing a Flat HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E09 - Fixing a Flat HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E10%20-%20Planes%2C%20Trains%20and%20Automobiles%20WEBDL-1080p.mkv:MythBusters - S2011E10 - Planes, Trains and Automobiles WEBDL-1080p.mkv
+#DESCRIPTION MythBusters - S2011E10 - Planes, Trains and Automobiles WEBDL-1080p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E11%20-%20Let%20There%20Be%20Light%20HDTV-720p.mp4:MythBusters - S2011E11 - Let There Be Light HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E11 - Let There Be Light HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E12%20-%20Paper%20Armor%20HDTV-720p.mp4:MythBusters - S2011E12 - Paper Armor HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E12 - Paper Armor HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E13%20-%20Bikes%20and%20Bazookas%20HDTV-720p.mp4:MythBusters - S2011E13 - Bikes and Bazookas HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E13 - Bikes and Bazookas HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E14%20-%20Newton%27s%20Crane%20Cradle%20HDTV-720p.mp4:MythBusters - S2011E14 - Newton's Crane Cradle HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E14 - Newton's Crane Cradle HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E15%20-%20Walk%20a%20Straight%20Line%20HDTV-720p.mp4:MythBusters - S2011E15 - Walk a Straight Line HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E15 - Walk a Straight Line HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E16%20-%20Duct%20Tape%20Plane%20HDTV-720p.mp4:MythBusters - S2011E16 - Duct Tape Plane HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E16 - Duct Tape Plane HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E17%20-%20Flying%20Guillotine%20HDTV-720p.mp4:MythBusters - S2011E17 - Flying Guillotine HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E17 - Flying Guillotine HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E18%20-%20Drain%20Disaster%20HDTV-720p.mp4:MythBusters - S2011E18 - Drain Disaster HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E18 - Drain Disaster HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E19%20-%20Location%2C%20Location%2C%20Location%20HDTV-1080p.mp4:MythBusters - S2011E19 - Location, Location, Location HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2011E19 - Location, Location, Location HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E20%20-%20Wet%20and%20Wild%20WEBDL-1080p.mkv:MythBusters - S2011E20 - Wet and Wild WEBDL-1080p.mkv
+#DESCRIPTION MythBusters - S2011E20 - Wet and Wild WEBDL-1080p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E21%20-%20Wheel%20of%20Mythfortune%20HDTV-720p.mp4:MythBusters - S2011E21 - Wheel of Mythfortune HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E21 - Wheel of Mythfortune HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202011%2fMythBusters%20-%20S2011E22%20-%20Toilet%20Bomb%20HDTV-720p.mp4:MythBusters - S2011E22 - Toilet Bomb HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2011E22 - Toilet Bomb HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E01%20-%20Duct%20Tape%20Island%20HDTV-1080p.mp4:MythBusters - S2012E01 - Duct Tape Island HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E01 - Duct Tape Island HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E02%20-%20Fire%20vs%20Ice%20HDTV-1080p.mp4:MythBusters - S2012E02 - Fire vs Ice HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E02 - Fire vs Ice HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E03%20-%20Square%20Wheels%20HDTV-1080p.mp4:MythBusters - S2012E03 - Square Wheels HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E03 - Square Wheels HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E04%20-%20Swinging%20Pirates%20HDTV-1080p.mp4:MythBusters - S2012E04 - Swinging Pirates HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E04 - Swinging Pirates HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E05%20-%20Battle%20of%20the%20Sexes%20HDTV-1080p.mp4:MythBusters - S2012E05 - Battle of the Sexes HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E05 - Battle of the Sexes HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E06%20-%20Driving%20in%20Heels%20HDTV-1080p.mp4:MythBusters - S2012E06 - Driving in Heels HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E06 - Driving in Heels HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E07%20-%20Revenge%20of%20the%20Myth%20HDTV-1080p.mp4:MythBusters - S2012E07 - Revenge of the Myth HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E07 - Revenge of the Myth HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E08%20-%20Bouncing%20Bullet%20HDTV-1080p.mp4:MythBusters - S2012E08 - Bouncing Bullet HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E08 - Bouncing Bullet HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E09%20-%20Mailbag%20Special%20HDTV-1080p.mp4:MythBusters - S2012E09 - Mailbag Special HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E09 - Mailbag Special HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E10%20-%20Bubble%20Pack%20Plunge%20HDTV-1080p.mp4:MythBusters - S2012E10 - Bubble Pack Plunge HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E10 - Bubble Pack Plunge HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E11%20-%20Duel%20Dilemmas%20SDTV.mp4:MythBusters - S2012E11 - Duel Dilemmas SDTV.mp4
+#DESCRIPTION MythBusters - S2012E11 - Duel Dilemmas SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E12%20-%20Hollywood%20Gunslingers%20HDTV-1080p.mp4:MythBusters - S2012E12 - Hollywood Gunslingers HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E12 - Hollywood Gunslingers HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E13%20-%20Jawsome%20Shark%20Special%20WEBRip-720p.mkv:MythBusters - S2012E13 - Jawsome Shark Special WEBRip-720p.mkv
+#DESCRIPTION MythBusters - S2012E13 - Jawsome Shark Special WEBRip-720p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E14%20-%20Titanic%20Survival%20HDTV-720p.mp4:MythBusters - S2012E14 - Titanic Survival HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2012E14 - Titanic Survival HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E15%20-%20Trench%20Torpedo%20HDTV-720p.mp4:MythBusters - S2012E15 - Trench Torpedo HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2012E15 - Trench Torpedo HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E16%20-%20Hail%20Hijinx%20HDTV-720p.mp4:MythBusters - S2012E16 - Hail Hijinx HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2012E16 - Hail Hijinx HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E17%20-%20Fright%20Night%20HDTV-1080p.mp4:MythBusters - S2012E17 - Fright Night HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E17 - Fright Night HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E18%20-%20Mini%20Myth%20Medley%20SDTV.mp4:MythBusters - S2012E18 - Mini Myth Medley SDTV.mp4
+#DESCRIPTION MythBusters - S2012E18 - Mini Myth Medley SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E19%20-%20Cannonball%20Chemistry%20SDTV.mp4:MythBusters - S2012E19 - Cannonball Chemistry SDTV.mp4
+#DESCRIPTION MythBusters - S2012E19 - Cannonball Chemistry SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E20%20-%20Food%20Fables%20HDTV-1080p.mp4:MythBusters - S2012E20 - Food Fables HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2012E20 - Food Fables HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202012%2fMythBusters%20-%20S2012E21%20-%20Explosions%20A%20to%20Z%20WEBRip-1080p.mkv:MythBusters - S2012E21 - Explosions A to Z WEBRip-1080p.mkv
+#DESCRIPTION MythBusters - S2012E21 - Explosions A to Z WEBRip-1080p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202013%2fMythBusters%20-%20S2013E01%20-%20JATO%20Rocket%20Car%20-%20Mission%20Accomplished%20HDTV-720p.mp4:MythBusters - S2013E01 - JATO Rocket Car - Mission Accomplished HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2013E01 - JATO Rocket Car - Mission Accomplished HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202013%2fMythBusters%20-%20S2013E02%20-%20Deadliest%20Catch%20Crabtastic%20Special%20HDTV-720p.mp4:MythBusters - S2013E02 - Deadliest Catch Crabtastic Special HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2013E02 - Deadliest Catch Crabtastic Special HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202013%2fMythBusters%20-%20S2013E03%20-%20Down%20and%20Dirty%20%2B%20Earthquake%20Survival%20HDTV-720p.mp4:MythBusters - S2013E03 - Down and Dirty + Earthquake Survival HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2013E03 - Down and Dirty + Earthquake Survival HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202013%2fMythBusters%20-%20S2013E04%20-%20Indy%20Car%20Special%20HDTV-720p.mp4:MythBusters - S2013E04 - Indy Car Special HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2013E04 - Indy Car Special HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202013%2fMythBusters%20-%20S2013E05%20-%20Battle%20of%20the%20Sexes%20-%20Round%202%20HDTV-720p.mp4:MythBusters - S2013E05 - Battle of the Sexes - Round 2 HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2013E05 - Battle of the Sexes - Round 2 HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202013%2fMythBusters%20-%20S2013E06%20-%20Motorcycle%20Water%20Ski%20HDTV-720p.mp4:MythBusters - S2013E06 - Motorcycle Water Ski HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2013E06 - Motorcycle Water Ski HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202013%2fMythBusters%20-%20S2013E07%20-%20Hypermiling%20%2B%20Crash%20Cushion%20HDTV-720p.mp4:MythBusters - S2013E07 - Hypermiling + Crash Cushion HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2013E07 - Hypermiling + Crash Cushion HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202013%2fMythBusters%20-%20S2013E08%20-%20Duct%20Tape%20Canyon%20HDTV-720p.mp4:MythBusters - S2013E08 - Duct Tape Canyon HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2013E08 - Duct Tape Canyon HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202013%2fMythBusters%20-%20S2013E09%20-%20Painting%20with%20Explosives%20%2B%20Bifurcated%20Boat%20HDTV-720p.mp4:MythBusters - S2013E09 - Painting with Explosives + Bifurcated Boat HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2013E09 - Painting with Explosives + Bifurcated Boat HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202013%2fMythBusters%20-%20S2013E10%20-%20Breaking%20Bad%20Special%20HDTV-720p.mp4:MythBusters - S2013E10 - Breaking Bad Special HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2013E10 - Breaking Bad Special HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202013%2fMythBusters%20-%20S2013E11%20-%20Zombie%20Special%20HDTV-720p.mp4:MythBusters - S2013E11 - Zombie Special HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2013E11 - Zombie Special HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E01%20-%20Star%20Wars%20-%20Revenge%20of%20the%20Myth%20HDTV-1080p.mp4:MythBusters - S2014E01 - Star Wars - Revenge of the Myth HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E01 - Star Wars - Revenge of the Myth HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E02%20-%20Moonshiner%20Myths%20HDTV-720p.mp4:MythBusters - S2014E02 - Moonshiner Myths HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2014E02 - Moonshiner Myths HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E03%20-%20Hollywood%20Car%20Crash%20Cliches%20HDTV-720p.mp4:MythBusters - S2014E03 - Hollywood Car Crash Cliches HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2014E03 - Hollywood Car Crash Cliches HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E04%20-%20Car%20Chase%20Chaos%20%2B%20Animal%20Antics%20HDTV-1080p.mp4:MythBusters - S2014E04 - Car Chase Chaos + Animal Antics HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E04 - Car Chase Chaos + Animal Antics HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E05%20-%20Do%20Try%20This%20At%20Home%20HDTV-1080p.mp4:MythBusters - S2014E05 - Do Try This At Home HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E05 - Do Try This At Home HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E06%20-%20Mythssion%20Impossible%20HDTV-1080p.mp4:MythBusters - S2014E06 - Mythssion Impossible HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E06 - Mythssion Impossible HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E07%20-%20Bullet%20Baloney%20HDTV-1080p.mp4:MythBusters - S2014E07 - Bullet Baloney HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E07 - Bullet Baloney HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E08%20-%20Supersonic%20Ping%20Pong%20%2B%20Ice%20Cannon%20HDTV-1080p.mp4:MythBusters - S2014E08 - Supersonic Ping Pong + Ice Cannon HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E08 - Supersonic Ping Pong + Ice Cannon HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E09%20-%20Fire%20in%20the%20Hole%20HDTV-1080p.mp4:MythBusters - S2014E09 - Fire in the Hole HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E09 - Fire in the Hole HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E10%20-%20Household%20Disasters%20HDTV-1080p.mp4:MythBusters - S2014E10 - Household Disasters HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E10 - Household Disasters HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E11%20-%20Commercial%20Myths%20HDTV-1080p.mp4:MythBusters - S2014E11 - Commercial Myths HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E11 - Commercial Myths HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E12%20-%20Road%20Rage%20HDTV-1080p.mp4:MythBusters - S2014E12 - Road Rage HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E12 - Road Rage HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E13%20-%20Laws%20of%20Attraction%20HDTV-1080p.mp4:MythBusters - S2014E13 - Laws of Attraction HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E13 - Laws of Attraction HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E14%20-%20Traffic%20Tricks%20HDTV-1080p.mp4:MythBusters - S2014E14 - Traffic Tricks HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E14 - Traffic Tricks HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202014%2fMythBusters%20-%20S2014E15%20-%20Plane%20Boarding%20%2B%20Bite%20the%20Bullet%20HDTV-1080p.mp4:MythBusters - S2014E15 - Plane Boarding + Bite the Bullet HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2014E15 - Plane Boarding + Bite the Bullet HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E01%20-%20The%20Simpsons%20Special%20HDTV-720p.mp4:MythBusters - S2015E01 - The Simpsons Special HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E01 - The Simpsons Special HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E02%20-%20The%20Busters%20of%20the%20Lost%20Myths%20HDTV-720p.mp4:MythBusters - S2015E02 - The Busters of the Lost Myths HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E02 - The Busters of the Lost Myths HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E03%20-%20The%20A-Team%20Special%20HDTV-720p.mp4:MythBusters - S2015E03 - The A-Team Special HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E03 - The A-Team Special HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E04%20-%20Video%20Games%20Special%20HDTV-720p.mp4:MythBusters - S2015E04 - Video Games Special HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E04 - Video Games Special HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E05%20-%20Transformers%20HDTV-720p.mp4:MythBusters - S2015E05 - Transformers HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E05 - Transformers HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E06%20-%20San%20Francisco%20Drift%20HDTV-1080p.mp4:MythBusters - S2015E06 - San Francisco Drift HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2015E06 - San Francisco Drift HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E07%20-%20Blow%20It%20Out%20of%20the%20Water%20HDTV-720p.mp4:MythBusters - S2015E07 - Blow It Out of the Water HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E07 - Blow It Out of the Water HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E08%20-%20Flights%20of%20Fantasy%20HDTV-720p.mp4:MythBusters - S2015E08 - Flights of Fantasy HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E08 - Flights of Fantasy HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E09%20-%20Accidental%20Ammo%20HDTV-720p.mp4:MythBusters - S2015E09 - Accidental Ammo HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E09 - Accidental Ammo HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E10%20-%20Dangerous%20Driving%20HDTV-720p.mp4:MythBusters - S2015E10 - Dangerous Driving HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E10 - Dangerous Driving HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E11%20-%20Supernatural%20Shooters%20HDTV-720p.mp4:MythBusters - S2015E11 - Supernatural Shooters HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E11 - Supernatural Shooters HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E12%20-%20Unfinished%20Business%20HDTV-720p.mp4:MythBusters - S2015E12 - Unfinished Business HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E12 - Unfinished Business HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E13%20-%20Mythbusters%20vs.%20Jaws%20HDTV-720p.mp4:MythBusters - S2015E13 - Mythbusters vs. Jaws HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E13 - Mythbusters vs. Jaws HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202015%2fMythBusters%20-%20S2015E14%20-%20Star%20Wars%20-%20The%20Myths%20Strike%20Back%20HDTV-720p.mp4:MythBusters - S2015E14 - Star Wars - The Myths Strike Back HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2015E14 - Star Wars - The Myths Strike Back HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202016%2fMythBusters%20-%20S2016E01%20-%20MythBusters%20Revealed%20-%20The%20Behind%20the%20Scenes%20Season%20Opener%20HDTV-1080p.mp4:MythBusters - S2016E01 - MythBusters Revealed - The Behind the Scenes Season Opener HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2016E01 - MythBusters Revealed - The Behind the Scenes Season Opener HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202016%2fMythBusters%20-%20S2016E02%20-%20The%20Explosion%20Special%20HDTV-1080p.mp4:MythBusters - S2016E02 - The Explosion Special HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2016E02 - The Explosion Special HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202016%2fMythBusters%20-%20S2016E03%20-%20Tanker%20Crush%20HDTV-1080p.mp4:MythBusters - S2016E03 - Tanker Crush HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2016E03 - Tanker Crush HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202016%2fMythBusters%20-%20S2016E04%20-%20Cooking%20Chaos%20HDTV-1080p.mp4:MythBusters - S2016E04 - Cooking Chaos HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2016E04 - Cooking Chaos HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202016%2fMythBusters%20-%20S2016E05%20-%20Driven%20to%20Destruction%20HDTV-1080p.mp4:MythBusters - S2016E05 - Driven to Destruction HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2016E05 - Driven to Destruction HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202016%2fMythBusters%20-%20S2016E06%20-%20Volunteer%20Special%20HDTV-1080p.mp4:MythBusters - S2016E06 - Volunteer Special HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2016E06 - Volunteer Special HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202016%2fMythBusters%20-%20S2016E07%20-%20Failure%20Is%20Not%20an%20Option%21%20HDTV-1080p.mp4:MythBusters - S2016E07 - Failure Is Not an Option! HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2016E07 - Failure Is Not an Option! HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202016%2fMythBusters%20-%20S2016E08%20-%20Rocketmen%20HDTV-1080p.mp4:MythBusters - S2016E08 - Rocketmen HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2016E08 - Rocketmen HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202016%2fMythBusters%20-%20S2016E09%20-%20The%20Reddit%20Special%20HDTV-1080p.mp4:MythBusters - S2016E09 - The Reddit Special HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2016E09 - The Reddit Special HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202016%2fMythBusters%20-%20S2016E10%20-%20Grand%20Finale%20HDTV-1080p.mp4:MythBusters - S2016E10 - Grand Finale HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2016E10 - Grand Finale HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202016%2fMythBusters%20-%20S2016E11%20-%20The%20Reunion%20HDTV-1080p.mp4:MythBusters - S2016E11 - The Reunion HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2016E11 - The Reunion HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202017%2fMythBusters%20-%20S2017E01%20-%20Heads%20Will%20Roll%20HDTV-1080p.mp4:MythBusters - S2017E01 - Heads Will Roll HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2017E01 - Heads Will Roll HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202017%2fMythBusters%20-%20S2017E02%20-%20Chimney%20Cannon%20HDTV-1080p.mp4:MythBusters - S2017E02 - Chimney Cannon HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2017E02 - Chimney Cannon HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202017%2fMythBusters%20-%20S2017E03%20-%20Earthquake%20Water%20Heater%20HDTV-1080p.mp4:MythBusters - S2017E03 - Earthquake Water Heater HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2017E03 - Earthquake Water Heater HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202017%2fMythBusters%20-%20S2017E04%20-%20Rock%20%27n%27%20Roll%20Road%20Rage%20HDTV-720p.mp4:MythBusters - S2017E04 - Rock 'n' Roll Road Rage HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2017E04 - Rock 'n' Roll Road Rage HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202017%2fMythBusters%20-%20S2017E05%20-%20Invisible%20Assassins%20HDTV-1080p.mp4:MythBusters - S2017E05 - Invisible Assassins HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2017E05 - Invisible Assassins HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202017%2fMythBusters%20-%20S2017E06%20-%20Dead%20Body%20Double%20HDTV-1080p.mp4:MythBusters - S2017E06 - Dead Body Double HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2017E06 - Dead Body Double HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202018%2fMythBusters%20-%20S2018E01%20-%20Fire%20Arrow%20vs.%20Gas%20Tank%20HDTV-1080p.mp4:MythBusters - S2018E01 - Fire Arrow vs. Gas Tank HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2018E01 - Fire Arrow vs. Gas Tank HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202018%2fMythBusters%20-%20S2018E02%20-%20Pane%20in%20the%20Glass%20SDTV.avi:MythBusters - S2018E02 - Pane in the Glass SDTV.avi
+#DESCRIPTION MythBusters - S2018E02 - Pane in the Glass SDTV.avi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202018%2fMythBusters%20-%20S2018E03%20-%20Wild%20Wild%20West%20SDTV.mkv:MythBusters - S2018E03 - Wild Wild West SDTV.mkv
+#DESCRIPTION MythBusters - S2018E03 - Wild Wild West SDTV.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202018%2fMythBusters%20-%20S2018E04%20-%20Spike%20in%20the%20Road%20SDTV.mp4:MythBusters - S2018E04 - Spike in the Road SDTV.mp4
+#DESCRIPTION MythBusters - S2018E04 - Spike in the Road SDTV.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202018%2fMythBusters%20-%20S2018E05%20-%20Dynamite%20Deposit%20HDTV-1080p.mp4:MythBusters - S2018E05 - Dynamite Deposit HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S2018E05 - Dynamite Deposit HDTV-1080p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202018%2fMythBusters%20-%20S2018E06%20-%20Backseat%20Getaway%20Driver%20HDTV-720p.mp4:MythBusters - S2018E06 - Backseat Getaway Driver HDTV-720p.mp4
+#DESCRIPTION MythBusters - S2018E06 - Backseat Getaway Driver HDTV-720p.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202018%2fMythBusters%20-%20S2018E07%20-%20Electrified%20Escape%20WEBDL-1080p.mkv:MythBusters - S2018E07 - Electrified Escape WEBDL-1080p.mkv
+#DESCRIPTION MythBusters - S2018E07 - Electrified Escape WEBDL-1080p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSeason%202018%2fMythBusters%20-%20S2018E08%20-%20Dropping%20a%20Bomb%20WEBDL-1080p.mkv:MythBusters - S2018E08 - Dropping a Bomb WEBDL-1080p.mkv
+#DESCRIPTION MythBusters - S2018E08 - Dropping a Bomb WEBDL-1080p.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mirror.hep.gg%2fMedia%2fTV_Shows%2fMythbusters%2fSpecials%2fMythBusters%20-%20S00E08%20-%20Duct%20Tape%20-%20The%20Return%20HDTV-1080p.mp4:MythBusters - S00E08 - Duct Tape - The Return HDTV-1080p.mp4
+#DESCRIPTION MythBusters - S00E08 - Duct Tape - The Return HDTV-1080p.mp4
