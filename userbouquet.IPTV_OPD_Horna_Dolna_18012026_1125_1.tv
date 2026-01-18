@@ -1,0 +1,25 @@
+#NAME IPTV OPD Horna Dolna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2ffilm%2fibm%2fnew%2fHorna%20dolna%20S14E02.mp4:Horna dolna S14E02.mp4
+#DESCRIPTION Horna dolna S14E02.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2ffilm%2fibm%2fnew%2fHorna%20dolna%20S14E05.mp4:Horna dolna S14E05.mp4
+#DESCRIPTION Horna dolna S14E05.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2ffilm%2fibm%2fnew%2fHorna%20dolna%20S14E06.mp4:Horna dolna S14E06.mp4
+#DESCRIPTION Horna dolna S14E06.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2ffilm%2fibm%2fnew%2fHorna%20dolna%20S14E07.mp4:Horna dolna S14E07.mp4
+#DESCRIPTION Horna dolna S14E07.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2ffilm%2fibm%2fnew%2fHorna%20Dolna%20S14e08.mp4:Horna Dolna S14e08.mp4
+#DESCRIPTION Horna Dolna S14e08.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2ffilm%2fibm%2fnew%2fHorna%20dolna%20S14e10.mp4:Horna dolna S14e10.mp4
+#DESCRIPTION Horna dolna S14e10.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2ffilm%2fibm%2fnew%2fHorn%C3%A1%20Doln%C3%A1%203%20S01E03%20Rybnik.mkv:Horná Dolná 3 S01E03 Rybnik.mkv
+#DESCRIPTION Horná Dolná 3 S01E03 Rybnik.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2ffilm%2fibm%2fnew%2fHorn%C3%A1%20Doln%C3%A1%204%20S01E04%20Diviak.mkv:Horná Dolná 4 S01E04 Diviak.mkv
+#DESCRIPTION Horná Dolná 4 S01E04 Diviak.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2ffilm%2fibm%2fnew%2fHorn%C3%A1%20Doln%C3%A1%2075%20-%20T%C3%BAra%20Horn%C3%A1%20Doln%C3%A1.HD%20Sk%20ewp.mp4:Horná Dolná 75 - Túra Horná Dolná.HD Sk ewp.mp4
+#DESCRIPTION Horná Dolná 75 - Túra Horná Dolná.HD Sk ewp.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2ffilm%2fibm%2fnew%2fHorn%C3%A1%20Doln%C3%A1%2085%20S09E10%20Dar%C4%8Dek.mp4:Horná Dolná 85 S09E10 Darček.mp4
+#DESCRIPTION Horná Dolná 85 S09E10 Darček.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2ffilm%2fibm%2fnew%2fHorn%C3%A1%20Doln%C3%A1%2088%20S09E13%20Magazin.mkv:Horná Dolná 88 S09E13 Magazin.mkv
+#DESCRIPTION Horná Dolná 88 S09E13 Magazin.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.167.170.226%2fweb%2ffilm%2fibm%2fnew%2fHorn%C3%A1%20Doln%C3%A1%2089%20S09E14%20Poistka.mp4:Horná Dolná 89 S09E14 Poistka.mp4
+#DESCRIPTION Horná Dolná 89 S09E14 Poistka.mp4
