@@ -1,0 +1,447 @@
+#NAME CiefpSettings IPTV xxx 06.04.26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185515.m3u8:DE | Das Erste
+#DESCRIPTION DE | Das Erste
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185516.m3u8:DE | ZDF
+#DESCRIPTION DE | ZDF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185517.m3u8:DE | RTL
+#DESCRIPTION DE | RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185518.m3u8:DE | SAT.1
+#DESCRIPTION DE | SAT.1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185519.m3u8:DE | ProSieben
+#DESCRIPTION DE | ProSieben
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185520.m3u8:DE | VOX
+#DESCRIPTION DE | VOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185521.m3u8:DE | Kabel Eins
+#DESCRIPTION DE | Kabel Eins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185522.m3u8:DE | RTLZWEI
+#DESCRIPTION DE | RTLZWEI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185523.m3u8:DE | Super RTL
+#DESCRIPTION DE | Super RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185524.m3u8:DE | KiKA
+#DESCRIPTION DE | KiKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185525.m3u8:DE | NickComedy Central+1
+#DESCRIPTION DE | NickComedy Central+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185526.m3u8:DE | 3sat
+#DESCRIPTION DE | 3sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185527.m3u8:DE | WELT
+#DESCRIPTION DE | WELT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185528.m3u8:DE | ntv
+#DESCRIPTION DE | ntv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185529.m3u8:DE | phoenix
+#DESCRIPTION DE | phoenix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185530.m3u8:DE | TELE 5
+#DESCRIPTION DE | TELE 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185531.m3u8:DE | ZDFneo
+#DESCRIPTION DE | ZDFneo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185532.m3u8:DE | #dabeiTV
+#DESCRIPTION DE | #dabeiTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185533.m3u8:DE | BR Fernsehen Süd
+#DESCRIPTION DE | BR Fernsehen Süd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185534.m3u8:DE | hrfernsehen
+#DESCRIPTION DE | hrfernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185535.m3u8:DE | MDRFernsehen Sachsen
+#DESCRIPTION DE | MDRFernsehen Sachsen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185536.m3u8:DE | NDR Fernsehen Niedersachsen
+#DESCRIPTION DE | NDR Fernsehen Niedersachsen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185537.m3u8:DE | Radio Bremen TV
+#DESCRIPTION DE | Radio Bremen TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185538.m3u8:DE | rbb fernsehen Berlin
+#DESCRIPTION DE | rbb fernsehen Berlin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185539.m3u8:DE | SR Fernsehen
+#DESCRIPTION DE | SR Fernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185540.m3u8:DE | SWR Fernsehen BW
+#DESCRIPTION DE | SWR Fernsehen BW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185541.m3u8:DE | SWR Fernsehen RP
+#DESCRIPTION DE | SWR Fernsehen RP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185542.m3u8:DE | WDR Fernsehen Köln
+#DESCRIPTION DE | WDR Fernsehen Köln
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185543.m3u8:DE | More Than Sports TV
+#DESCRIPTION DE | More Than Sports TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185544.m3u8:DE | MS Sport
+#DESCRIPTION DE | MS Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185545.m3u8:DE | Eurosport 1
+#DESCRIPTION DE | Eurosport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185546.m3u8:DE | Red Bull TV
+#DESCRIPTION DE | Red Bull TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185547.m3u8:DE | Servus TV Motorsport
+#DESCRIPTION DE | Servus TV Motorsport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185548.m3u8:DE | SPORT1
+#DESCRIPTION DE | SPORT1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185549.m3u8:DE | ARTE
+#DESCRIPTION DE | ARTE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185550.m3u8:DE | ONE
+#DESCRIPTION DE | ONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185551.m3u8:DE | ANIXE+
+#DESCRIPTION DE | ANIXE+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185552.m3u8:DE | ANIXE HD Serie
+#DESCRIPTION DE | ANIXE HD Serie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185553.m3u8:DE | Comedy Central
+#DESCRIPTION DE | Comedy Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185554.m3u8:DE | Disney Channel
+#DESCRIPTION DE | Disney Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185555.m3u8:DE | DMAX
+#DESCRIPTION DE | DMAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185556.m3u8:DE | Fashion TV
+#DESCRIPTION DE | Fashion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185557.m3u8:DE | HGTV
+#DESCRIPTION DE | HGTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185558.m3u8:DE | INPLUS
+#DESCRIPTION DE | INPLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185559.m3u8:DE | OUTtv
+#DESCRIPTION DE | OUTtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185560.m3u8:DE | ProSieben MAXX
+#DESCRIPTION DE | ProSieben MAXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185561.m3u8:DE | NITRO
+#DESCRIPTION DE | NITRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185562.m3u8:DE | RTLup
+#DESCRIPTION DE | RTLup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185563.m3u8:DE | RiC
+#DESCRIPTION DE | RiC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185564.m3u8:DE | SAT.GOLD
+#DESCRIPTION DE | SAT.GOLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185565.m3u8:DE | DF1
+#DESCRIPTION DE | DF1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185566.m3u8:DE | sixx
+#DESCRIPTION DE | sixx
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185567.m3u8:DE | TLC
+#DESCRIPTION DE | TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185568.m3u8:DE | TOGGO plus
+#DESCRIPTION DE | TOGGO plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185569.m3u8:DE | VOXup
+#DESCRIPTION DE | VOXup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185570.m3u8:DE | wedo movies
+#DESCRIPTION DE | wedo movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185571.m3u8:DE | ARDalpha
+#DESCRIPTION DE | ARDalpha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185572.m3u8:DE | ZDFinfo
+#DESCRIPTION DE | ZDFinfo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185573.m3u8:DE | Imearth
+#DESCRIPTION DE | Imearth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185574.m3u8:DE | Bibel TV
+#DESCRIPTION DE | Bibel TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185575.m3u8:DE | Travelxp
+#DESCRIPTION DE | Travelxp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185576.m3u8:DE | KTV
+#DESCRIPTION DE | KTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185577.m3u8:DE | Kabel Eins Doku
+#DESCRIPTION DE | Kabel Eins Doku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185578.m3u8:DE | Marco Polo TV
+#DESCRIPTION DE | Marco Polo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185579.m3u8:DE | NDoku
+#DESCRIPTION DE | NDoku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185580.m3u8:DE | tagesschau24
+#DESCRIPTION DE | tagesschau24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185581.m3u8:DE | Welt der Wunder
+#DESCRIPTION DE | Welt der Wunder
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185582.m3u8:DE | SCHLAGER DELUXE
+#DESCRIPTION DE | SCHLAGER DELUXE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185583.m3u8:DE | DELUXE MUSIC
+#DESCRIPTION DE | DELUXE MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185584.m3u8:DE | MTV
+#DESCRIPTION DE | MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185585.m3u8:DE | DMF
+#DESCRIPTION DE | DMF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185586.m3u8:DE | Ballermann TV
+#DESCRIPTION DE | Ballermann TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185587.m3u8:DE | Schlagerparadies.TV
+#DESCRIPTION DE | Schlagerparadies.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185588.m3u8:DE | Volksmusik.TV
+#DESCRIPTION DE | Volksmusik.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185589.m3u8:DE | FOLX MUSIC TELEVISION
+#DESCRIPTION DE | FOLX MUSIC TELEVISION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185590.m3u8:DE | ONE MUSIC TELEVISION
+#DESCRIPTION DE | ONE MUSIC TELEVISION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185591.m3u8:DE | ZWEI MUSIC TELEVISION
+#DESCRIPTION DE | ZWEI MUSIC TELEVISION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185592.m3u8:DE | Stingray Classica
+#DESCRIPTION DE | Stingray Classica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185593.m3u8:DE | Stingray iConcerts
+#DESCRIPTION DE | Stingray iConcerts
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185594.m3u8:DE | Stingray DJAZZ
+#DESCRIPTION DE | Stingray DJAZZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185595.m3u8:DE | 123.tv
+#DESCRIPTION DE | 123.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185596.m3u8:DE | CHANNEL21
+#DESCRIPTION DE | CHANNEL21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185597.m3u8:DE | HSE
+#DESCRIPTION DE | HSE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185598.m3u8:DE | QVC
+#DESCRIPTION DE | QVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185599.m3u8:DE | Shop LC
+#DESCRIPTION DE | Shop LC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185600.m3u8:DE | sonnenklar.TV
+#DESCRIPTION DE | sonnenklar.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185601.m3u8:DE | AXN Black
+#DESCRIPTION DE | AXN Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185602.m3u8:DE | Jukebox
+#DESCRIPTION DE | Jukebox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185603.m3u8:DE | MagentaSport
+#DESCRIPTION DE | MagentaSport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185604.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185605.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185606.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185607.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185608.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185609.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185610.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185611.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185612.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185613.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185614.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185615.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185616.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185617.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185618.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185619.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185620.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185621.m3u8:DE | Sport  myTeamTV
+#DESCRIPTION DE | Sport  myTeamTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185622.m3u8:DE | SPORTDIGITAL FUSSBALL
+#DESCRIPTION DE | SPORTDIGITAL FUSSBALL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185623.m3u8:DE | RTL RheinNeckar
+#DESCRIPTION DE | RTL RheinNeckar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185624.m3u8:DE | a.tv
+#DESCRIPTION DE | a.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185625.m3u8:DE | allgäu.tv
+#DESCRIPTION DE | allgäu.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185626.m3u8:DE | BR Fernsehen Nord
+#DESCRIPTION DE | BR Fernsehen Nord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185627.m3u8:DE | NIEDERBAYERN TV Deggendorf  Straubing
+#DESCRIPTION DE | NIEDERBAYERN TV Deggendorf  Straubing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185628.m3u8:DE | Franken Fernsehen
+#DESCRIPTION DE | Franken Fernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185629.m3u8:DE | tv.ingolstadt
+#DESCRIPTION DE | tv.ingolstadt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185630.m3u8:DE | NIEDERBAYERN TV Landshut
+#DESCRIPTION DE | NIEDERBAYERN TV Landshut
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185631.m3u8:DE | münchen.tv
+#DESCRIPTION DE | münchen.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185632.m3u8:DE | Oberpfalz TV
+#DESCRIPTION DE | Oberpfalz TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185633.m3u8:DE | RFO
+#DESCRIPTION DE | RFO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185634.m3u8:DE | RTL Bayern
+#DESCRIPTION DE | RTL Bayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185635.m3u8:DE | SAT.Bayern
+#DESCRIPTION DE | SAT.Bayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185636.m3u8:DE | NIEDERBAYERN TV Passau
+#DESCRIPTION DE | NIEDERBAYERN TV Passau
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185637.m3u8:DE | TV Oberfranken
+#DESCRIPTION DE | TV Oberfranken
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185638.m3u8:DE | TV Mainfranken
+#DESCRIPTION DE | TV Mainfranken
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185639.m3u8:DE | TVA Ostbayern
+#DESCRIPTION DE | TVA Ostbayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185640.m3u8:DE | lausitz.tv
+#DESCRIPTION DE | lausitz.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185641.m3u8:DE | rbb fernsehen Brandenburg
+#DESCRIPTION DE | rbb fernsehen Brandenburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185642.m3u8:DE | RTL Bremen & Niedersachsen
+#DESCRIPTION DE | RTL Bremen & Niedersachsen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185643.m3u8:DE | SAT.Niedersachsen und Bremen
+#DESCRIPTION DE | SAT.Niedersachsen und Bremen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185644.m3u8:DE | NDR Fernsehen Hamburg
+#DESCRIPTION DE | NDR Fernsehen Hamburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185645.m3u8:DE | NDR Fernsehen SchleswigHolstein
+#DESCRIPTION DE | NDR Fernsehen SchleswigHolstein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185646.m3u8:DE | RTL Hamburg & SchleswigHolstein
+#DESCRIPTION DE | RTL Hamburg & SchleswigHolstein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185647.m3u8:DE | SAT.Hamburg und SchleswigHolstein
+#DESCRIPTION DE | SAT.Hamburg und SchleswigHolstein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185648.m3u8:DE | RTL Hessen
+#DESCRIPTION DE | RTL Hessen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185649.m3u8:DE | NDR Fernsehen MecklenburgVorpommern
+#DESCRIPTION DE | NDR Fernsehen MecklenburgVorpommern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185650.m3u8:DE | NRWision
+#DESCRIPTION DE | NRWision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185651.m3u8:DE | RTL NordrheinWestfalen
+#DESCRIPTION DE | RTL NordrheinWestfalen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185652.m3u8:DE | SAT.NordrheinWestfalen
+#DESCRIPTION DE | SAT.NordrheinWestfalen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185653.m3u8:DE | WDR Fernsehen Aachen
+#DESCRIPTION DE | WDR Fernsehen Aachen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185654.m3u8:DE | WDR Fernsehen Bielefeld
+#DESCRIPTION DE | WDR Fernsehen Bielefeld
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185655.m3u8:DE | WDR Fernsehen Bonn
+#DESCRIPTION DE | WDR Fernsehen Bonn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185656.m3u8:DE | WDR Fernsehen Dortmund
+#DESCRIPTION DE | WDR Fernsehen Dortmund
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185657.m3u8:DE | WDR Fernsehen Duisburg
+#DESCRIPTION DE | WDR Fernsehen Duisburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185658.m3u8:DE | WDR Fernsehen Düsseldorf
+#DESCRIPTION DE | WDR Fernsehen Düsseldorf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185659.m3u8:DE | WDR Fernsehen Essen
+#DESCRIPTION DE | WDR Fernsehen Essen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185660.m3u8:DE | WDR Fernsehen Münster
+#DESCRIPTION DE | WDR Fernsehen Münster
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185661.m3u8:DE | WDR Fernsehen Siegen
+#DESCRIPTION DE | WDR Fernsehen Siegen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185662.m3u8:DE | WDR Fernsehen Wuppertal
+#DESCRIPTION DE | WDR Fernsehen Wuppertal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185663.m3u8:DE | OK4
+#DESCRIPTION DE | OK4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185664.m3u8:DE | OKTrier
+#DESCRIPTION DE | OKTrier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185665.m3u8:DE | OK Weinstraße
+#DESCRIPTION DE | OK Weinstraße
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185666.m3u8:DE | OKTV Ludwigshafen
+#DESCRIPTION DE | OKTV Ludwigshafen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185667.m3u8:DE | OKTV Mainz
+#DESCRIPTION DE | OKTV Mainz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185668.m3u8:DE | SAT.RheinlandPfalz und Hessen
+#DESCRIPTION DE | SAT.RheinlandPfalz und Hessen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185669.m3u8:DE | Glück Auf! TV
+#DESCRIPTION DE | Glück Auf! TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185670.m3u8:DE | MDRFernsehen SachsenAnhalt
+#DESCRIPTION DE | MDRFernsehen SachsenAnhalt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185671.m3u8:DE | RBW
+#DESCRIPTION DE | RBW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185672.m3u8:DE | Romance TV
+#DESCRIPTION DE | Romance TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185673.m3u8:DE | MDRFernsehen Thüringen
+#DESCRIPTION DE | MDRFernsehen Thüringen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185674.m3u8:DE | salve.tv
+#DESCRIPTION DE | salve.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185675.m3u8:DE | teltOwkanal
+#DESCRIPTION DE | teltOwkanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185676.m3u8:DE | altenburg.tv
+#DESCRIPTION DE | altenburg.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185677.m3u8:DE | TOP SERIEN
+#DESCRIPTION DE | TOP SERIEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185678.m3u8:DE | Rtl Living
+#DESCRIPTION DE | Rtl Living
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185679.m3u8:DE | Animal Planet
+#DESCRIPTION DE | Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185680.m3u8:DE | Bergblick
+#DESCRIPTION DE | Bergblick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185681.m3u8:DE | Axn White
+#DESCRIPTION DE | Axn White
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185682.m3u8:DE | eSports1
+#DESCRIPTION DE | eSports1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185683.m3u8:DE | auto motor und sport
+#DESCRIPTION DE | auto motor und sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185684.m3u8:DE | Spiegel Geschichte
+#DESCRIPTION DE | Spiegel Geschichte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185685.m3u8:DE | Curiosity Channel
+#DESCRIPTION DE | Curiosity Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185686.m3u8:DE | GEO Television
+#DESCRIPTION DE | GEO Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185687.m3u8:DE | BonGusto
+#DESCRIPTION DE | BonGusto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185688.m3u8:DE | Kinowelt
+#DESCRIPTION DE | Kinowelt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185689.m3u8:DE | Sky Sports News
+#DESCRIPTION DE | Sky Sports News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185690.m3u8:DE | Sky Showcase
+#DESCRIPTION DE | Sky Showcase
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185691.m3u8:DE | Sky One
+#DESCRIPTION DE | Sky One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185692.m3u8:DE | Sky Reply
+#DESCRIPTION DE | Sky Reply
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185693.m3u8:DE | Sky Krimi
+#DESCRIPTION DE | Sky Krimi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185694.m3u8:DE | Sky Atlantic
+#DESCRIPTION DE | Sky Atlantic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185695.m3u8:DE | Sky Crime
+#DESCRIPTION DE | Sky Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185696.m3u8:DE | Sky Documentaries
+#DESCRIPTION DE | Sky Documentaries
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185697.m3u8:DE | Sky Nature
+#DESCRIPTION DE | Sky Nature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185698.m3u8:DE | Syfy
+#DESCRIPTION DE | Syfy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185699.m3u8:DE | 13th Street
+#DESCRIPTION DE | 13th Street
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185700.m3u8:DE | Universal TV
+#DESCRIPTION DE | Universal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185701.m3u8:DE | Warner TV Series
+#DESCRIPTION DE | Warner TV Series
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185702.m3u8:DE | Warner TV Comedy
+#DESCRIPTION DE | Warner TV Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185703.m3u8:DE | History
+#DESCRIPTION DE | History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185704.m3u8:DE | Discovery
+#DESCRIPTION DE | Discovery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185705.m3u8:DE | Crime + Investigation
+#DESCRIPTION DE | Crime + Investigation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185706.m3u8:DE | SKY Premieren
+#DESCRIPTION DE | SKY Premieren
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185707.m3u8:DE | Warner Film
+#DESCRIPTION DE | Warner Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185708.m3u8:DE | Sky Cinema Action
+#DESCRIPTION DE | Sky Cinema Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185709.m3u8:DE | Sjy Cinema Family
+#DESCRIPTION DE | Sjy Cinema Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185710.m3u8:DE | Sky Cinema Highlights
+#DESCRIPTION DE | Sky Cinema Highlights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185711.m3u8:DE | Sky Cinema Classic
+#DESCRIPTION DE | Sky Cinema Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185712.m3u8:DE | Sky Sport Top Event
+#DESCRIPTION DE | Sky Sport Top Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185713.m3u8:DE | Sky Sport F1
+#DESCRIPTION DE | Sky Sport F1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185714.m3u8:DE | Sky Sport Tennis
+#DESCRIPTION DE | Sky Sport Tennis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185715.m3u8:SKE De| Sky Sports Mix
+#DESCRIPTION SKE De| Sky Sports Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185716.m3u8:DE | Sky Sport Golf
+#DESCRIPTION DE | Sky Sport Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185717.m3u8:DE | Sky Sport
+#DESCRIPTION DE | Sky Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185718.m3u8:DE | Bundesliga 1
+#DESCRIPTION DE | Bundesliga 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185719.m3u8:DE | Bundesliga 2
+#DESCRIPTION DE | Bundesliga 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185720.m3u8:DE | Bundesliga 3
+#DESCRIPTION DE | Bundesliga 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185721.m3u8:DE | Bundesliga 4
+#DESCRIPTION DE | Bundesliga 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185722.m3u8:DE | Bundesliga 5
+#DESCRIPTION DE | Bundesliga 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185723.m3u8:DE | Bundesliga 6
+#DESCRIPTION DE | Bundesliga 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185724.m3u8:DE | Bundesliga 7
+#DESCRIPTION DE | Bundesliga 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185725.m3u8:DE | Bundesliga 8
+#DESCRIPTION DE | Bundesliga 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185726.m3u8:DE | Bundesliga 9
+#DESCRIPTION DE | Bundesliga 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185727.m3u8:DE | Bundesliga 10
+#DESCRIPTION DE | Bundesliga 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185728.m3u8:DE | Sport 1
+#DESCRIPTION DE | Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185729.m3u8:DE | Sport 2
+#DESCRIPTION DE | Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185730.m3u8:DE | Sport 3
+#DESCRIPTION DE | Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185731.m3u8:DE | Sport 4
+#DESCRIPTION DE | Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185732.m3u8:DE | Sport 5
+#DESCRIPTION DE | Sport 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185733.m3u8:DE | Sport 6
+#DESCRIPTION DE | Sport 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185734.m3u8:DE | Sport 7
+#DESCRIPTION DE | Sport 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185735.m3u8:DE | Sport 8
+#DESCRIPTION DE | Sport 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185736.m3u8:DE | Sport9
+#DESCRIPTION DE | Sport9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/185737.m3u8:DE | Sport 10
+#DESCRIPTION DE | Sport 10

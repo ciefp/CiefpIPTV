@@ -1,0 +1,517 @@
+#NAME CiefpSettings IPTV mix Polish
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105345.m3u8:TVP HD
+#DESCRIPTION TVP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105346.m3u8:TVP HD
+#DESCRIPTION TVP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105347.m3u8:TVP HD
+#DESCRIPTION TVP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105348.m3u8:TVP HD
+#DESCRIPTION TVP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105349.m3u8:Polsat HD
+#DESCRIPTION Polsat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105350.m3u8:Polsat HD
+#DESCRIPTION Polsat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105351.m3u8:Super Polsat HD
+#DESCRIPTION Super Polsat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105352.m3u8:TVN HD
+#DESCRIPTION TVN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105353.m3u8:TTV HD
+#DESCRIPTION TTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105354.m3u8:TVHD
+#DESCRIPTION TVHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105355.m3u8:TVHD
+#DESCRIPTION TVHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105356.m3u8:TVN HD
+#DESCRIPTION TVN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105357.m3u8:TV Puls HD
+#DESCRIPTION TV Puls HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105358.m3u8:Puls HD
+#DESCRIPTION Puls HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105385.m3u8:Comedy Central HD
+#DESCRIPTION Comedy Central HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105386.m3u8:Polsat Comedy Central Extra HD
+#DESCRIPTION Polsat Comedy Central Extra HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105393.m3u8:TVN Fabula HD
+#DESCRIPTION TVN Fabula HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105398.m3u8:TVP Seriale HD
+#DESCRIPTION TVP Seriale HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105399.m3u8:Metro HD
+#DESCRIPTION Metro HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105400.m3u8:Adventure HD
+#DESCRIPTION Adventure HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105401.m3u8:Animal Planet HD
+#DESCRIPTION Animal Planet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105402.m3u8:BBC First HD
+#DESCRIPTION BBC First HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105404.m3u8:BBC Lifestyle HD
+#DESCRIPTION BBC Lifestyle HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105405.m3u8:BBC Earth HD
+#DESCRIPTION BBC Earth HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105407.m3u8:CBS Reality HD
+#DESCRIPTION CBS Reality HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105408.m3u8:CI Polsat HD
+#DESCRIPTION CI Polsat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105409.m3u8:Canal+ Dokument HD
+#DESCRIPTION Canal+ Dokument HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105410.m3u8:Discovery HD
+#DESCRIPTION Discovery HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105411.m3u8:Discovery Historia
+#DESCRIPTION Discovery Historia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105412.m3u8:Discovery Life HD
+#DESCRIPTION Discovery Life HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105413.m3u8:Discovery Science HD
+#DESCRIPTION Discovery Science HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105414.m3u8:ID HD
+#DESCRIPTION ID HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105416.m3u8:Canal+ Domo HD
+#DESCRIPTION Canal+ Domo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105417.m3u8:Epic Drama HD
+#DESCRIPTION Epic Drama HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105418.m3u8:E! Entertainment HD
+#DESCRIPTION E! Entertainment HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/134089.m3u8:Show TV HD
+#DESCRIPTION Show TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105419.m3u8:Food Network HD
+#DESCRIPTION Food Network HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105420.m3u8:Fokus TV HD
+#DESCRIPTION Fokus TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105421.m3u8:History HD
+#DESCRIPTION History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105422.m3u8:History HD
+#DESCRIPTION History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105423.m3u8:National Geographic HD
+#DESCRIPTION National Geographic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105424.m3u8:National Geographic Wild HD
+#DESCRIPTION National Geographic Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105425.m3u8:Nat Geo People HD
+#DESCRIPTION Nat Geo People HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105426.m3u8:Planete+ HD
+#DESCRIPTION Planete+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105427.m3u8:Water Planet
+#DESCRIPTION Water Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105428.m3u8:Polsat Doku HD
+#DESCRIPTION Polsat Doku HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105429.m3u8:Polsat Viasat History HD
+#DESCRIPTION Polsat Viasat History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105430.m3u8:Polsat Viasat Explore HD
+#DESCRIPTION Polsat Viasat Explore HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105431.m3u8:Polsat Viasat Nature HD
+#DESCRIPTION Polsat Viasat Nature HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105432.m3u8:Polsat Cafe HD
+#DESCRIPTION Polsat Cafe HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105433.m3u8:Polsat Rodzina HD
+#DESCRIPTION Polsat Rodzina HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105434.m3u8:Polsat Seriale HD
+#DESCRIPTION Polsat Seriale HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105435.m3u8:Polsat Play HD
+#DESCRIPTION Polsat Play HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105437.m3u8:Nuta Gold
+#DESCRIPTION Nuta Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105438.m3u8:Canal+ Kuchnia HD
+#DESCRIPTION Canal+ Kuchnia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105440.m3u8:StudioMed TV HD
+#DESCRIPTION StudioMed TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105441.m3u8:TVN Style HD
+#DESCRIPTION TVN Style HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105444.m3u8:TVS
+#DESCRIPTION TVS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105445.m3u8:TVC Polska
+#DESCRIPTION TVC Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105446.m3u8:TLC HD
+#DESCRIPTION TLC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/134088.m3u8:TBN Polska HD
+#DESCRIPTION TBN Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105447.m3u8:TELE HD
+#DESCRIPTION TELE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/135978.m3u8:Novelas+
+#DESCRIPTION Novelas+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105448.m3u8:Novela TV
+#DESCRIPTION Novela TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105449.m3u8:Polonia 1
+#DESCRIPTION Polonia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105450.m3u8:TVP Polonia
+#DESCRIPTION TVP Polonia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105451.m3u8:TVP Kultura HD
+#DESCRIPTION TVP Kultura HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105452.m3u8:TVP Rozrywka HD
+#DESCRIPTION TVP Rozrywka HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105453.m3u8:TVP Historia
+#DESCRIPTION TVP Historia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/134087.m3u8:TVP Dokument HD
+#DESCRIPTION TVP Dokument HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105455.m3u8:Nowa TV HD
+#DESCRIPTION Nowa TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105456.m3u8:Travel Channel HD
+#DESCRIPTION Travel Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105457.m3u8:HGTV HD
+#DESCRIPTION HGTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/120417.m3u8:Home TV
+#DESCRIPTION Home TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105458.m3u8:Zoom TV
+#DESCRIPTION Zoom TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105459.m3u8:TV Okazje
+#DESCRIPTION TV Okazje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105519.m3u8:TVT
+#DESCRIPTION TVT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105460.m3u8:WP
+#DESCRIPTION WP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105461.m3u8:TV Trwam HD
+#DESCRIPTION TV Trwam HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105462.m3u8:TVP Info HD
+#DESCRIPTION TVP Info HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105463.m3u8:TV Republika
+#DESCRIPTION TV Republika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105464.m3u8:wPolsce24
+#DESCRIPTION wPolsce24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/119834.m3u8:BiznesHD
+#DESCRIPTION BiznesHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105465.m3u8:Polsat News HD
+#DESCRIPTION Polsat News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105466.m3u8:Polsat News 2
+#DESCRIPTION Polsat News 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105467.m3u8:TVN HD
+#DESCRIPTION TVN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105468.m3u8:TVN BiS HD
+#DESCRIPTION TVN BiS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/151847.m3u8:Antena
+#DESCRIPTION Antena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/151853.m3u8:Wydarzenia HD
+#DESCRIPTION Wydarzenia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105469.m3u8:TVP Bialystok
+#DESCRIPTION TVP Bialystok
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105470.m3u8:TVP Bydgoszcz
+#DESCRIPTION TVP Bydgoszcz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105471.m3u8:TVP Gdansk
+#DESCRIPTION TVP Gdansk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105472.m3u8:TVP Gorzów Wielkopolski
+#DESCRIPTION TVP Gorzów Wielkopolski
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105473.m3u8:TVP Katowice
+#DESCRIPTION TVP Katowice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105474.m3u8:TVP Kielce
+#DESCRIPTION TVP Kielce
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105475.m3u8:TVP Kraków
+#DESCRIPTION TVP Kraków
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105476.m3u8:TVP Lublin
+#DESCRIPTION TVP Lublin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105477.m3u8:TVP Lódz
+#DESCRIPTION TVP Lódz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105478.m3u8:TVP Olsztyn
+#DESCRIPTION TVP Olsztyn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105479.m3u8:TVP Opole
+#DESCRIPTION TVP Opole
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105480.m3u8:TVP Poznan
+#DESCRIPTION TVP Poznan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105481.m3u8:TVP Rzeszów
+#DESCRIPTION TVP Rzeszów
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105482.m3u8:TVP Szczecin
+#DESCRIPTION TVP Szczecin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105483.m3u8:TVP Warszawa
+#DESCRIPTION TVP Warszawa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105484.m3u8:TVP Wroclaw
+#DESCRIPTION TVP Wroclaw
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105485.m3u8:BBC CBeebies HD
+#DESCRIPTION BBC CBeebies HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105486.m3u8:Nick Jr Polska
+#DESCRIPTION Nick Jr Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105487.m3u8:Nickelodeon
+#DESCRIPTION Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105488.m3u8:NickToons HD
+#DESCRIPTION NickToons HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105489.m3u8:Disney Channel HD
+#DESCRIPTION Disney Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105490.m3u8:Baby TV
+#DESCRIPTION Baby TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105491.m3u8:Cartoonito HD
+#DESCRIPTION Cartoonito HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105492.m3u8:Cartoon Network HD
+#DESCRIPTION Cartoon Network HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105493.m3u8:Disney Junior
+#DESCRIPTION Disney Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105494.m3u8:Disney XD
+#DESCRIPTION Disney XD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105495.m3u8:MiniMini+ HD
+#DESCRIPTION MiniMini+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105496.m3u8:TVP ABC
+#DESCRIPTION TVP ABC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105497.m3u8:Polsat Jim Jam
+#DESCRIPTION Polsat Jim Jam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105498.m3u8:TeleTOON+ HD
+#DESCRIPTION TeleTOON+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105499.m3u8:Da Vinci Learning
+#DESCRIPTION Da Vinci Learning
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/120419.m3u8:TOP Kids
+#DESCRIPTION TOP Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/152819.m3u8:TeenNick HD
+#DESCRIPTION TeenNick HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105501.m3u8:4Fun Kids
+#DESCRIPTION 4Fun Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105500.m3u8:4Fun.TV
+#DESCRIPTION 4Fun.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105502.m3u8:4Fun Dance
+#DESCRIPTION 4Fun Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105503.m3u8:Disco Polo Music
+#DESCRIPTION Disco Polo Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105504.m3u8:Eska TV HD
+#DESCRIPTION Eska TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105505.m3u8:Eska TV Extra
+#DESCRIPTION Eska TV Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105506.m3u8:Eska Rock TV
+#DESCRIPTION Eska Rock TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105507.m3u8:Kino Polska Muzyka
+#DESCRIPTION Kino Polska Muzyka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105508.m3u8:NickMusic
+#DESCRIPTION NickMusic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105509.m3u8:MTV Live HD
+#DESCRIPTION MTV Live HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105510.m3u8:MTV Polska HD
+#DESCRIPTION MTV Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105511.m3u8:MTV 90s
+#DESCRIPTION MTV 90s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105512.m3u8:NUTA TV
+#DESCRIPTION NUTA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105513.m3u8:Polo TV HD
+#DESCRIPTION Polo TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105514.m3u8:Polsat Music HD
+#DESCRIPTION Polsat Music HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105515.m3u8:Power TV
+#DESCRIPTION Power TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105516.m3u8:STARS.TV
+#DESCRIPTION STARS.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105517.m3u8:MTV 00s
+#DESCRIPTION MTV 00s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105518.m3u8:VOX Music TV
+#DESCRIPTION VOX Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105360.m3u8:AMC HD
+#DESCRIPTION AMC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105361.m3u8:Ale Kino+ HD
+#DESCRIPTION Ale Kino+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105362.m3u8:Canal+ PREMIUM HD
+#DESCRIPTION Canal+ PREMIUM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105363.m3u8:Canal+ HD
+#DESCRIPTION Canal+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105364.m3u8:Canal+ Film HD
+#DESCRIPTION Canal+ Film HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105365.m3u8:Canal+ HD
+#DESCRIPTION Canal+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105366.m3u8:Canal+ Seriale HD
+#DESCRIPTION Canal+ Seriale HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105368.m3u8:HBO HD
+#DESCRIPTION HBO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105369.m3u8:HBO HD
+#DESCRIPTION HBO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105370.m3u8:HBO HD
+#DESCRIPTION HBO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105371.m3u8:Cinemax HD
+#DESCRIPTION Cinemax HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105372.m3u8:Cinemax HD
+#DESCRIPTION Cinemax HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105373.m3u8:Filmbox Extra HD
+#DESCRIPTION Filmbox Extra HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105374.m3u8:Filmbox Action
+#DESCRIPTION Filmbox Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105375.m3u8:Filmbox Arthouse
+#DESCRIPTION Filmbox Arthouse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105376.m3u8:Filmbox Premium HD
+#DESCRIPTION Filmbox Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105377.m3u8:Filmbox Family
+#DESCRIPTION Filmbox Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105378.m3u8:FX HD
+#DESCRIPTION FX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105379.m3u8:FX Comedy HD
+#DESCRIPTION FX Comedy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105380.m3u8:Ulica HD
+#DESCRIPTION Ulica HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105381.m3u8:AXN HD
+#DESCRIPTION AXN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105382.m3u8:AXN Black
+#DESCRIPTION AXN Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105383.m3u8:AXN Spin HD
+#DESCRIPTION AXN Spin HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105384.m3u8:AXN White
+#DESCRIPTION AXN White
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105387.m3u8:Stopklatka TV
+#DESCRIPTION Stopklatka TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105388.m3u8:Active Family HD
+#DESCRIPTION Active Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105389.m3u8:Kino Polska HD
+#DESCRIPTION Kino Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105390.m3u8:Kino TV HD
+#DESCRIPTION Kino TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105391.m3u8:Sundance HD
+#DESCRIPTION Sundance HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105392.m3u8:Polsat Film HD
+#DESCRIPTION Polsat Film HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105394.m3u8:Romance TV HD
+#DESCRIPTION Romance TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105395.m3u8:Paramount Network HD
+#DESCRIPTION Paramount Network HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105396.m3u8:SciFi HD
+#DESCRIPTION SciFi HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105397.m3u8:Warner TV HD
+#DESCRIPTION Warner TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105406.m3u8:Film Cafe HD
+#DESCRIPTION Film Cafe HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105549.m3u8:VOD 205
+#DESCRIPTION VOD 205
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105550.m3u8:VOD 206
+#DESCRIPTION VOD 206
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105551.m3u8:VOD 207
+#DESCRIPTION VOD 207
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105552.m3u8:VOD 208
+#DESCRIPTION VOD 208
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105403.m3u8:BBC Brit HD
+#DESCRIPTION BBC Brit HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105415.m3u8:DTX HD
+#DESCRIPTION DTX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105442.m3u8:TVN Turbo HD
+#DESCRIPTION TVN Turbo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105443.m3u8:Motowizja HD
+#DESCRIPTION Motowizja HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105520.m3u8:Canal+ Sport HD
+#DESCRIPTION Canal+ Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105521.m3u8:Canal+ Sport HD
+#DESCRIPTION Canal+ Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105522.m3u8:Canal+ Sport HD
+#DESCRIPTION Canal+ Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105523.m3u8:Canal+ Sport HD
+#DESCRIPTION Canal+ Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/153306.m3u8:Canal+ Sport HD
+#DESCRIPTION Canal+ Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105524.m3u8:Canal+ NOW HD
+#DESCRIPTION Canal+ NOW HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105525.m3u8:Eleven Sports HD
+#DESCRIPTION Eleven Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105526.m3u8:Eleven Sports HD
+#DESCRIPTION Eleven Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105527.m3u8:Eleven Sports HD
+#DESCRIPTION Eleven Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105528.m3u8:Eleven Sports HD
+#DESCRIPTION Eleven Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105530.m3u8:Polsat Sport HD
+#DESCRIPTION Polsat Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105531.m3u8:Polsat Sport HD
+#DESCRIPTION Polsat Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105532.m3u8:Polsat Sport Fight HD
+#DESCRIPTION Polsat Sport Fight HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105533.m3u8:Polsat Sport HD
+#DESCRIPTION Polsat Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105534.m3u8:Polsat Games HD
+#DESCRIPTION Polsat Games HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105535.m3u8:Polsat Sport Premium HD
+#DESCRIPTION Polsat Sport Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105536.m3u8:Polsat Sport Premium HD
+#DESCRIPTION Polsat Sport Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105537.m3u8:Polsat Sport Extra HD
+#DESCRIPTION Polsat Sport Extra HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105538.m3u8:Polsat Sport Extra HD
+#DESCRIPTION Polsat Sport Extra HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105539.m3u8:Polsat Sport Extra HD
+#DESCRIPTION Polsat Sport Extra HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105540.m3u8:Polsat Sport Extra HD
+#DESCRIPTION Polsat Sport Extra HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105541.m3u8:Fightklub HD
+#DESCRIPTION Fightklub HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105542.m3u8:Extreme Sports Channel HD
+#DESCRIPTION Extreme Sports Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105543.m3u8:Sportklub HD
+#DESCRIPTION Sportklub HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105544.m3u8:Eurosport HD
+#DESCRIPTION Eurosport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105545.m3u8:Eurosport HD
+#DESCRIPTION Eurosport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105546.m3u8:Fightbox HD
+#DESCRIPTION Fightbox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105547.m3u8:Golf Zone HD
+#DESCRIPTION Golf Zone HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105548.m3u8:TVP Sport HD
+#DESCRIPTION TVP Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/155028.m3u8:Warner TV
+#DESCRIPTION Warner TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/155036.m3u8:TVP Kobieta HD
+#DESCRIPTION TVP Kobieta HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/155037.m3u8:TVP Historia 2
+#DESCRIPTION TVP Historia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/155038.m3u8:TVP ABC 2
+#DESCRIPTION TVP ABC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/155039.m3u8:TVP Nauka
+#DESCRIPTION TVP Nauka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/155040.m3u8:Xtreme TV
+#DESCRIPTION Xtreme TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/155041.m3u8:BollywooD HD
+#DESCRIPTION BollywooD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/155043.m3u8:FilMax HD
+#DESCRIPTION FilMax HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170452.m3u8:TVN Pora na Show
+#DESCRIPTION TVN Pora na Show
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170431.m3u8:TVN Milionerzy
+#DESCRIPTION TVN Milionerzy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170432.m3u8:TVN Kultowe Seriale
+#DESCRIPTION TVN Kultowe Seriale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170433.m3u8:TVN Momenty Prawdy
+#DESCRIPTION TVN Momenty Prawdy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170434.m3u8:TVN Moto
+#DESCRIPTION TVN Moto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170435.m3u8:TVN Prawo i Zycie
+#DESCRIPTION TVN Prawo i Zycie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170436.m3u8:TVN Rajska Milosc
+#DESCRIPTION TVN Rajska Milosc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170437.m3u8:TVN Rewolucje W Kuchni
+#DESCRIPTION TVN Rewolucje W Kuchni
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170438.m3u8:TVN Seriale O Kobietach
+#DESCRIPTION TVN Seriale O Kobietach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170439.m3u8:TVN Szkola Zycia
+#DESCRIPTION TVN Szkola Zycia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170440.m3u8:TVN Szpitalne Historie
+#DESCRIPTION TVN Szpitalne Historie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170441.m3u8:TVN Talk Show
+#DESCRIPTION TVN Talk Show
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170442.m3u8:TVN Telenowele
+#DESCRIPTION TVN Telenowele
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170443.m3u8:TVN Usterka
+#DESCRIPTION TVN Usterka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170444.m3u8:TVN W Domu
+#DESCRIPTION TVN W Domu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170445.m3u8:TVN Zycie Jak W Bajce
+#DESCRIPTION TVN Zycie Jak W Bajce
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170446.m3u8:TVN Kryminalnie
+#DESCRIPTION TVN Kryminalnie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/154937.m3u8:Prime MMA
+#DESCRIPTION Prime MMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/152821.m3u8:FAME MMA
+#DESCRIPTION FAME MMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170506.m3u8:Canal+ EXTRA HD
+#DESCRIPTION Canal+ EXTRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170507.m3u8:Canal+ EXTRA HD
+#DESCRIPTION Canal+ EXTRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170508.m3u8:Canal+ EXTRA HD
+#DESCRIPTION Canal+ EXTRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170509.m3u8:Canal+ EXTRA HD
+#DESCRIPTION Canal+ EXTRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170510.m3u8:Canal+ EXTRA HD
+#DESCRIPTION Canal+ EXTRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170511.m3u8:Canal+ EXTRA HD
+#DESCRIPTION Canal+ EXTRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170512.m3u8:Canal+ EXTRA HD
+#DESCRIPTION Canal+ EXTRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170500.m3u8:Canal+ Event 1
+#DESCRIPTION Canal+ Event 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170501.m3u8:Canal+ Event 2
+#DESCRIPTION Canal+ Event 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170502.m3u8:Canal+ Event 3
+#DESCRIPTION Canal+ Event 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170503.m3u8:Canal+ Event 4
+#DESCRIPTION Canal+ Event 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170504.m3u8:Canal+ Event 5
+#DESCRIPTION Canal+ Event 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/105553.m3u8:KSW TV
+#DESCRIPTION KSW TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170426.m3u8:PPV Event  ( Live Only )
+#DESCRIPTION PPV Event  ( Live Only )
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/170505.m3u8:PPV Event  ( Live Only )
+#DESCRIPTION PPV Event  ( Live Only )
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/154936.m3u8:Clout MMA
+#DESCRIPTION Clout MMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/154938.m3u8:Gromda
+#DESCRIPTION Gromda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bocian.io%3a8880/live/jarek1/NDU3NzkyMTE2/154939.m3u8:FEN
+#DESCRIPTION FEN
