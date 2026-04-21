@@ -1,0 +1,39 @@
+#NAME IPTV_OPD_France-Movie-3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2f28.Years.Later.The.Bone.Temple.2026.Multi.Truefrench.720P.%20WEBRIP-Wawacity.irish.mkv:28.Years.Later.The.Bone.Temple.2026.Multi.Truefrench.720P. WEBRIP-Wawacity.irish.mkv
+#DESCRIPTION 28.Years.Later.The.Bone.Temple.2026.Multi.Truefrench.720P. WEBRIP-Wawacity.irish.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fChristy.2025.Multi.Vfq.WEBRIP-Wawacity.irish.mp4:Christy.2025.Multi.Vfq.WEBRIP-Wawacity.irish.mp4
+#DESCRIPTION Christy.2025.Multi.Vfq.WEBRIP-Wawacity.irish.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fDossier.137.2025.FRENCH.1080p.WEB-D.H264-Slay3R-Wawacity.golf.mkv:Dossier.137.2025.FRENCH.1080p.WEB-D.H264-Slay3R-Wawacity.golf.mkv
+#DESCRIPTION Dossier.137.2025.FRENCH.1080p.WEB-D.H264-Slay3R-Wawacity.golf.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fEddington.2025.VFQ.1080p.WEB-DL.H264-Slay3R-Wawacity.diy.mkv:Eddington.2025.VFQ.1080p.WEB-DL.H264-Slay3R-Wawacity.diy.mkv
+#DESCRIPTION Eddington.2025.VFQ.1080p.WEB-DL.H264-Slay3R-Wawacity.diy.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fEvil.Does.Not.Exist.2023.Multi.WEBRIP-Wawacity.rodeo.mkv:Evil.Does.Not.Exist.2023.Multi.WEBRIP-Wawacity.rodeo.mkv
+#DESCRIPTION Evil.Does.Not.Exist.2023.Multi.WEBRIP-Wawacity.rodeo.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fHamnet.2025.MULTi.VFQ.1080p.WEB-DL.H264-Slay3R-Wawacity.irish.mkv:Hamnet.2025.MULTi.VFQ.1080p.WEB-DL.H264-Slay3R-Wawacity.irish.mkv
+#DESCRIPTION Hamnet.2025.MULTi.VFQ.1080p.WEB-DL.H264-Slay3R-Wawacity.irish.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fMarty.Supreme.2025.Multi.Vfq.WEBRIP-Wawacity.irish.mp4:Marty.Supreme.2025.Multi.Vfq.WEBRIP-Wawacity.irish.mp4
+#DESCRIPTION Marty.Supreme.2025.Multi.Vfq.WEBRIP-Wawacity.irish.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fNo.Other.Choice.2025.Multi.Vfq.WEBRIP-Wawacity.irish.mp4:No.Other.Choice.2025.Multi.Vfq.WEBRIP-Wawacity.irish.mp4
+#DESCRIPTION No.Other.Choice.2025.Multi.Vfq.WEBRIP-Wawacity.irish.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fNuremberg%202025%201080p%20WEB-DL%20HEVC%20x265%205.1%20BONE.mkv:Nuremberg 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv
+#DESCRIPTION Nuremberg 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fRequiem.For.A.Dream.2000.MULTi.1080p.BluRay.x264-Wawacity.tools.mkv:Requiem.For.A.Dream.2000.MULTi.1080p.BluRay.x264-Wawacity.tools.mkv
+#DESCRIPTION Requiem.For.A.Dream.2000.MULTi.1080p.BluRay.x264-Wawacity.tools.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fReturn.To.Silent.Hill.2026.Fansub.Vostfr.WEBRIP-Wawacity.irish.mp4:Return.To.Silent.Hill.2026.Fansub.Vostfr.WEBRIP-Wawacity.irish.mp4
+#DESCRIPTION Return.To.Silent.Hill.2026.Fansub.Vostfr.WEBRIP-Wawacity.irish.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fRoofman.2025.Multi.WEBRIP-Wawacity.irish.mp4:Roofman.2025.Multi.WEBRIP-Wawacity.irish.mp4
+#DESCRIPTION Roofman.2025.Multi.WEBRIP-Wawacity.irish.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fSend.Help.2026.TRUEFRENCH.VF2.1080p.WEB.H264-SUPPLY-Wawacity.golf.mkv:Send.Help.2026.TRUEFRENCH.VF2.1080p.WEB.H264-SUPPLY-Wawacity.golf.mkv
+#DESCRIPTION Send.Help.2026.TRUEFRENCH.VF2.1080p.WEB.H264-SUPPLY-Wawacity.golf.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fShelby.Oaks.2024.MULTi.VFQ.1080p.WEB-DL.H264-Slay3R-Wawacity.irish.mkv:Shelby.Oaks.2024.MULTi.VFQ.1080p.WEB-DL.H264-Slay3R-Wawacity.irish.mkv
+#DESCRIPTION Shelby.Oaks.2024.MULTi.VFQ.1080p.WEB-DL.H264-Slay3R-Wawacity.irish.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fThe.Conjuring.Last.Rites.2025.Multi.Truefrench.Vf2.WEBRIP-Wawacity.town.mp4:The.Conjuring.Last.Rites.2025.Multi.Truefrench.Vf2.WEBRIP-Wawacity.town.mp4
+#DESCRIPTION The.Conjuring.Last.Rites.2025.Multi.Truefrench.Vf2.WEBRIP-Wawacity.town.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fThe.Spongebob.Movie.Search.For.Squarepants.2025.Multi.Truefrench.WEBRIP-Wawacity.irish.mp4:The.Spongebob.Movie.Search.For.Squarepants.2025.Multi.Truefrench.WEBRIP-Wawacity.irish.mp4
+#DESCRIPTION The.Spongebob.Movie.Search.For.Squarepants.2025.Multi.Truefrench.WEBRIP-Wawacity.irish.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fUncut.Gems.2019.FRENCH.720p.WEB.x264-Wawacity.top.mkv:Uncut.Gems.2019.FRENCH.720p.WEB.x264-Wawacity.top.mkv
+#DESCRIPTION Uncut.Gems.2019.FRENCH.720p.WEB.x264-Wawacity.top.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fWeapons.2025.MULTi.VF2.1080p.WEB.H264-SUPPLY-Wawacity.diy.mkv:Weapons.2025.MULTi.VF2.1080p.WEB.H264-SUPPLY-Wawacity.diy.mkv
+#DESCRIPTION Weapons.2025.MULTi.VF2.1080p.WEB.H264-SUPPLY-Wawacity.diy.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sites.freeboxos.fr%2fPartages%2fFilms%2fZootopia.2.2025.Multi.Truefrench.WEBRIP-Wawacity.irish.mp4:Zootopia.2.2025.Multi.Truefrench.WEBRIP-Wawacity.irish.mp4
+#DESCRIPTION Zootopia.2.2025.Multi.Truefrench.WEBRIP-Wawacity.irish.mp4
