@@ -7,16 +7,6 @@
 #DESCRIPTION Óčko Expres (540p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8:Óčko Gold (540p)
 #DESCRIPTION Óčko Gold (540p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dash2.antik.sk/live/mb_classic/index.m3u8:Music Box Classic
-#DESCRIPTION Music Box Classic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/mb_dance/index.m3u8:Music Box Dance
-#DESCRIPTION Music Box Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/mb_hits/index.m3u8:Music Box Hits
-#DESCRIPTION Music Box Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dash4.antik.sk/live/mb_sexy/index.m3u8:Music Box Sexy
-#DESCRIPTION Music Box Sexy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//plextv.ott-channels.stingray.com/holidayscapes/master.m3u8:Holidayscapes (1080p)
-#DESCRIPTION Holidayscapes (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8:Qello Concerts by Stingray (1080p)
 #DESCRIPTION Qello Concerts by Stingray (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8:Stingray Classic Rock (1080p)
