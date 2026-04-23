@@ -1,32 +1,4 @@
 #NAME IPTV_OPD_Movies-2_2104
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f10.07.2008%20Bulsatkom%20Aytos.avi:10.07.2008 Bulsatkom Aytos.avi
-#DESCRIPTION 10.07.2008 Bulsatkom Aytos.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f12.06.2007%20Car%20Genger.avi:12.06.2007 Car Genger.avi
-#DESCRIPTION 12.06.2007 Car Genger.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f14.05.2008%20140%20Hr%20Botev.avi:14.05.2008 140 Hr Botev.avi
-#DESCRIPTION 14.05.2008 140 Hr Botev.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f14.05.2008%20140%20godini%20Hr%20Botev.avi:14.05.2008 140 godini Hr Botev.avi
-#DESCRIPTION 14.05.2008 140 godini Hr Botev.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f16.04.2008%20DNA%20Aytos.avi:16.04.2008 DNA Aytos.avi
-#DESCRIPTION 16.04.2008 DNA Aytos.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f16.05.2008%201001%20Nosht%20Fantastik.avi:16.05.2008 1001 Nosht Fantastik.avi
-#DESCRIPTION 16.05.2008 1001 Nosht Fantastik.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f16.05.2008%20DNA%20Fantastik.avi:16.05.2008 DNA Fantastik.avi
-#DESCRIPTION 16.05.2008 DNA Fantastik.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f24.05.2007%2010.30%20-%2011.00.avi:24.05.2007 10.30 - 11.00.avi
-#DESCRIPTION 24.05.2007 10.30 - 11.00.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f24.05.2007%2011.00%20-%2011.15.avi:24.05.2007 11.00 - 11.15.avi
-#DESCRIPTION 24.05.2007 11.00 - 11.15.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f26.10.2006%20Rumaneca%20i%20Enchev%20v%20Aytos%20(created%20by%20Dimito).avi:26.10.2006 Rumaneca i Enchev v Aytos (created by Dimito).avi
-#DESCRIPTION 26.10.2006 Rumaneca i Enchev v Aytos (created by Dimito).avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f26.10.2008%20Ivana.avi:26.10.2008 Ivana.avi
-#DESCRIPTION 26.10.2008 Ivana.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f30.05.2008%203%20Godini%20CDG%20Slavei4e%20s%20nachalo.avi:30.05.2008 3 Godini CDG Slavei4e s nachalo.avi
-#DESCRIPTION 30.05.2008 3 Godini CDG Slavei4e s nachalo.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fAytos%20Video%2f30.05.2008%20CDG%20Slaveiche.avi:30.05.2008 CDG Slaveiche.avi
-#DESCRIPTION 30.05.2008 CDG Slaveiche.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fMoves%2fThe.Fifth.Element.1997.BDRip.XviD-BGAudio.avi:The.Fifth.Element.1997.BDRip.XviD-BGAudio.avi
-#DESCRIPTION The.Fifth.Element.1997.BDRip.XviD-BGAudio.avi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fMoves%202025%2fRogue%20One%202016%20Hybrid%201080p%20UHD%20BluRay%20DD+5.1%20Atmos%20DV%20HDR%20x265-HiDt.mkv:Rogue One 2016 Hybrid 1080p UHD BluRay DD+5.1 Atmos DV HDR x265-HiDt.mkv
 #DESCRIPTION Rogue One 2016 Hybrid 1080p UHD BluRay DD+5.1 Atmos DV HDR x265-HiDt.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.54.185.70%3a8022%2fMoves%202025%2fSwordfish%202001%201080p%20UHD%20BluRay%20DD+5.1%20DV%20HDR%20x265-HiDt.mkv:Swordfish 2001 1080p UHD BluRay DD+5.1 DV HDR x265-HiDt.mkv
