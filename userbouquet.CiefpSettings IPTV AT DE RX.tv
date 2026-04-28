@@ -1,4 +1,4 @@
-#NAME CiefpSettings IPTV AT DE RX
+#NAME CiefpSettings IPTV AT DE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.tvdsz.cc%3a80/play/live.php?mac=A0%3aBB%3a3E%3a00%3a13%3a76&stream=36058&extension=ts:┃AT┃ ORF 4K
 #DESCRIPTION ┃AT┃ ORF 4K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.tvdsz.cc%3a80/play/live.php?mac=A0%3aBB%3a3E%3a00%3a13%3a76&stream=2395&extension=ts:┃AT┃ ORF HD

@@ -1,4 +1,4 @@
-#NAME CiefpSettings IPTV
+#NAME CiefpSettings IPTV Series2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//142.4.216.153/vod/series/3.Body.Problem/s01.FR/01.mp4:01.mp4
 #DESCRIPTION 3.Body.Problem 01.mp4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//142.4.216.153/vod/series/3.Body.Problem/s01.FR/02.mp4:02.mp4
