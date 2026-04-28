@@ -1,0 +1,191 @@
+#NAME CiefpSettings IPTV Bosna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/3.ts:DOBRA HD
+#DESCRIPTION DOBRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/6.ts:DOBRA ISLAMSKA
+#DESCRIPTION DOBRA ISLAMSKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15571.ts:DOBRA BALKANSKA
+#DESCRIPTION DOBRA BALKANSKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7.ts:DOBRA CINEMA
+#DESCRIPTION DOBRA CINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14147.ts:DOBRA DJEČIJA
+#DESCRIPTION DOBRA DJEČIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15325.ts:DOBRA DOKUMENTARNA
+#DESCRIPTION DOBRA DOKUMENTARNA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15323.ts:DOBRA HD DOCUMENTARY
+#DESCRIPTION DOBRA HD DOCUMENTARY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/16.ts:DOBRA MUZICKA
+#DESCRIPTION DOBRA MUZICKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14151.ts:DOBRA SVADBA
+#DESCRIPTION DOBRA SVADBA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15572.ts:DOBRA TRAVEL
+#DESCRIPTION DOBRA TRAVEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15583.ts:DOBRA SERIJE
+#DESCRIPTION DOBRA SERIJE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14149.ts:DOBRA PLUS
+#DESCRIPTION DOBRA PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14153.ts:DOBRA SRPSKA
+#DESCRIPTION DOBRA SRPSKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14231.ts:DOBRA KUHINJA TV
+#DESCRIPTION DOBRA KUHINJA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15714.ts:DOBRA MAKEDONSKA
+#DESCRIPTION DOBRA MAKEDONSKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/22.ts:DOBRA EXCLUSIVE
+#DESCRIPTION DOBRA EXCLUSIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14141.ts:GOOD WORKOUT
+#DESCRIPTION GOOD WORKOUT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/13.ts:GOOD INTERNATIONAL
+#DESCRIPTION GOOD INTERNATIONAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15705.ts:BUENA COCINA
+#DESCRIPTION BUENA COCINA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15581.ts:BUENA LATINA
+#DESCRIPTION BUENA LATINA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15573.ts:BUENA ESPANOLA
+#DESCRIPTION BUENA ESPANOLA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15584.ts:mPWR TV
+#DESCRIPTION mPWR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/20.ts:E MIRE SHQIPTARE
+#DESCRIPTION E MIRE SHQIPTARE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7375.ts:TV BIR
+#DESCRIPTION TV BIR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/85.ts:TELEVIZIJA 5
+#DESCRIPTION TELEVIZIJA 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7268.ts:MTV IGMAN
+#DESCRIPTION MTV IGMAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14158.ts:MEKKA TV
+#DESCRIPTION MEKKA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/6936.ts:HRAM TV
+#DESCRIPTION HRAM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/6577.ts:MARRY TV MEDJUGORJE
+#DESCRIPTION MARRY TV MEDJUGORJE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/2425.ts:Dios Te Ve
+#DESCRIPTION Dios Te Ve
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15715.ts:DIOS TE VE KIDS
+#DESCRIPTION DIOS TE VE KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7671.ts:RED TV
+#DESCRIPTION RED TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/26.ts:RTV USK
+#DESCRIPTION RTV USK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/6877.ts:FACE HD
+#DESCRIPTION FACE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7145.ts:HERCEG TV
+#DESCRIPTION HERCEG TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/44.ts:ALFA TELEVIZIJA HD
+#DESCRIPTION ALFA TELEVIZIJA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15324.ts:TOK TV
+#DESCRIPTION TOK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14235.ts:TV PRIJEDOR
+#DESCRIPTION TV PRIJEDOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14496.ts:RTV VISOKO
+#DESCRIPTION RTV VISOKO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/124.ts:GLAS DRINE
+#DESCRIPTION GLAS DRINE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/6897.ts:NTV IC KAKANJ
+#DESCRIPTION NTV IC KAKANJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/6896.ts:BTV GRADACAC HD
+#DESCRIPTION BTV GRADACAC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14495.ts:RTV SANA
+#DESCRIPTION RTV SANA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/13240.ts:RTV VOGOŠĆA
+#DESCRIPTION RTV VOGOŠĆA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/6887.ts:HIT BRCKO TV
+#DESCRIPTION HIT BRCKO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/2223.ts:RTV SLON HD
+#DESCRIPTION RTV SLON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7447.ts:NEON TV
+#DESCRIPTION NEON TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/121.ts:TV PODRINJE
+#DESCRIPTION TV PODRINJE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/40.ts:SUPER TV EUROPA HD
+#DESCRIPTION SUPER TV EUROPA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14475.ts:RTV KRAJINA
+#DESCRIPTION RTV KRAJINA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/100.ts:TV TUZLA
+#DESCRIPTION TV TUZLA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7442.ts:DOBRA  TELEVIZIJA SRPSKE DIJASPORE
+#DESCRIPTION DOBRA  TELEVIZIJA SRPSKE DIJASPORE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/13314.ts:KRISTAL TV
+#DESCRIPTION KRISTAL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/6932.ts:RTV BOR
+#DESCRIPTION RTV BOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/6953.ts:TV ISTOK
+#DESCRIPTION TV ISTOK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/6938.ts:RTV NOVI PAZAR
+#DESCRIPTION RTV NOVI PAZAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/13216.ts:SANDZAK TV HD
+#DESCRIPTION SANDZAK TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7449.ts:STV
+#DESCRIPTION STV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14476.ts:NAŠA TV MAKEDONIJA
+#DESCRIPTION NAŠA TV MAKEDONIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/66.ts:SKY FOLK MAKEDONIJA
+#DESCRIPTION SKY FOLK MAKEDONIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15723.ts:RED TV MAKEDONIJA
+#DESCRIPTION RED TV MAKEDONIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7161.ts:ALBUK TV
+#DESCRIPTION ALBUK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15575.ts:RT BALKAN
+#DESCRIPTION RT BALKAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14485.ts:RT ESP
+#DESCRIPTION RT ESP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14484.ts:RT FRANCE
+#DESCRIPTION RT FRANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14482.ts:RT GERMAN
+#DESCRIPTION RT GERMAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14487.ts:RT ARABIC
+#DESCRIPTION RT ARABIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14486.ts:RT GLOBAL
+#DESCRIPTION RT GLOBAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14481.ts:RT DOCUMENTARY
+#DESCRIPTION RT DOCUMENTARY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15290.ts:HISPAN TV
+#DESCRIPTION HISPAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15900.ts:INTAKT TV
+#DESCRIPTION INTAKT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15899.ts:AL MUSIC TV
+#DESCRIPTION AL MUSIC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14497.ts:SEVDAH TV
+#DESCRIPTION SEVDAH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7181.ts:BUJRUM TV
+#DESCRIPTION BUJRUM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/37.ts:SEHARA HD TV
+#DESCRIPTION SEHARA HD TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/6584.ts:SEZAM TV
+#DESCRIPTION SEZAM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/68.ts:TOP SOUND TV
+#DESCRIPTION TOP SOUND TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7461.ts:SEHARA ONLINE
+#DESCRIPTION SEHARA ONLINE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7667.ts:CHE GLOBAL TV
+#DESCRIPTION CHE GLOBAL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/14213.ts:MAR TV BARCELONA
+#DESCRIPTION MAR TV BARCELONA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15354.ts:RADIO FAN ARGENTINA
+#DESCRIPTION RADIO FAN ARGENTINA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/6639.ts:SEMERKAND HD (TR)
+#DESCRIPTION SEMERKAND HD (TR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15716.ts:RADIO HAYAT SARAJEVO
+#DESCRIPTION RADIO HAYAT SARAJEVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7276.ts:RADIO BIR
+#DESCRIPTION RADIO BIR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7545.ts:DEEJAY RADIO CROATIA
+#DESCRIPTION DEEJAY RADIO CROATIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7292.ts:RADIO M PLUS
+#DESCRIPTION RADIO M PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7290.ts:RADIO ANTENA
+#DESCRIPTION RADIO ANTENA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7289.ts:RADIO DJ
+#DESCRIPTION RADIO DJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7282.ts:RADIO LAS PALMAS
+#DESCRIPTION RADIO LAS PALMAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7294.ts:RADIO MIX BIH
+#DESCRIPTION RADIO MIX BIH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7297.ts:RADIO SLON
+#DESCRIPTION RADIO SLON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7295.ts:RSG RADIO
+#DESCRIPTION RSG RADIO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/7286.ts:RADIO FREE EUROPE
+#DESCRIPTION RADIO FREE EUROPE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15906.ts:BNV SANDZAK TV
+#DESCRIPTION BNV SANDZAK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.dobratv.net%3a25461/live/ZipZapKablovska/HPsn7PiMHo/15909.ts:CHURCH TV
+#DESCRIPTION CHURCH TV
