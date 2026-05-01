@@ -1,0 +1,195 @@
+#NAME CiefpSettings IPTV Movies Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/%20A%20New%20Age%20(2020)%20VP.mp4:A New Age (2020) VP.mp4
+#DESCRIPTION A New Age (2020) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/A%20Ovelha%20Chone%20O%20Voo%20Antes%20do%20Natal%20(2021)%20VP.mp4:A Ovelha Chone O Voo Antes do Natal (2021) VP.mp4
+#DESCRIPTION A Ovelha Chone O Voo Antes do Natal (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Apollo%2010.1%20and%202%20A%20Space%20Age%20Childhood%20(2022).mp4:Apollo and A Space Age Childhood (2022).mp4
+#DESCRIPTION Apollo and A Space Age Childhood (2022).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Arctic%20Dogs%20(2019)%20VL.mp4:Arctic Dogs (2019) VL.mp4
+#DESCRIPTION Arctic Dogs (2019) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Around%20the%20World%20in%2080%20Days%20(2021)%20VP.mp4:Around the World in Days (2021) VP.mp4
+#DESCRIPTION Around the World in Days (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Back%20To%20The%20Outback%20(2021)%20VL.mp4:Back To The Outback (2021) VL.mp4
+#DESCRIPTION Back To The Outback (2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Back%20To%20The%20Outback%20(2021)%20VP.mp4:Back To The Outback (2021) VP.mp4
+#DESCRIPTION Back To The Outback (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Barbie%20e%20Chelsea%20The%20Lost%20Birthday%20(2021).mp4:Barbie e Chelsea The Lost Birthday (2021).mp4
+#DESCRIPTION Barbie e Chelsea The Lost Birthday (2021).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Benjamin,%20O%20Elefante%20(2019)%20VP.mp4:Benjamin O Elefante (2019) VP.mp4
+#DESCRIPTION Benjamin O Elefante (2019) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Better%20Nate%20Than%20Ever%20(2020)%20VP.mp4:Better Nate Than Ever (2020) VP.mp4
+#DESCRIPTION Better Nate Than Ever (2020) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Better%20Nate%20Than%20Ever%20(2022)%20VL.mp4:Better Nate Than Ever (2022) VL.mp4
+#DESCRIPTION Better Nate Than Ever (2022) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Bigfoot%20Family%20(2020)%20VP.mp4:Bigfoot Family (2020) VP.mp4
+#DESCRIPTION Bigfoot Family (2020) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Bling%20(2016)%20VP.mp4:Bling (2016) VP.mp4
+#DESCRIPTION Bling (2016) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Christmas%e2%80%a6%20Again%20(2021)%20VP.mp4:Christmas… Again (2021) VP.mp4
+#DESCRIPTION Christmas… Again (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/DArtacao%20e%20os%20Tres%20Moscaoteiros.-%20O%20Filme%20(2021)%20VP.mp4:DArtacao e os Tres Moscaoteiros. O Filme (2021) VP.mp4
+#DESCRIPTION DArtacao e os Tres Moscaoteiros. O Filme (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Diary%20of%20a%20Wimpy%20Kid%20(2021)%20VP.mp4:Diary of a Wimpy Kid (2021) VP.mp4
+#DESCRIPTION Diary of a Wimpy Kid (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Dogtanian%20And%20The%20Three%20Muskehounds%20(2021)%20VL.mp4:Dogtanian And The Three Muskehounds (2021) VL.mp4
+#DESCRIPTION Dogtanian And The Three Muskehounds (2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Dogtanian%20and%20the%20Three%20Muskehounds%20(2021)%20VP.mp4:Dogtanian and the Three Muskehounds (2021) VP.mp4
+#DESCRIPTION Dogtanian and the Three Muskehounds (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Dragon%20Rider%20(2020).mp4:Dragon Rider (2020).mp4
+#DESCRIPTION Dragon Rider (2020).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Earwig%20and%20the%20Witch%20(2021)%20VP.mp4:Earwig and the Witch (2021) VP.mp4
+#DESCRIPTION Earwig and the Witch (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Encanto%20(2021)%20VL.mp4:Encanto (2021) VL.mp4
+#DESCRIPTION Encanto (2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Encanto%20(2021)%20VP.mp4:Encanto (2021) VP.mp4
+#DESCRIPTION Encanto (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Extinct%20(2021)%20VP.mp4:Extinct (2021) VP.mp4
+#DESCRIPTION Extinct (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Frankenweenie%20(2012)%20VP.mp4:Frankenweenie (2012) VP.mp4
+#DESCRIPTION Frankenweenie (2012) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Home%20Sweet%20Home%20Alone%20(2021)%20VP.mp4:Home Sweet Home Alone (2021) VP.mp4
+#DESCRIPTION Home Sweet Home Alone (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Hop%20(2011).mp4:Hop (2011).mp4
+#DESCRIPTION Hop (2011).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Hotel%20Transylvania%20Transformania%20(2022)%20VL.mp4:Hotel Transylvania Transformania (2022) VL.mp4
+#DESCRIPTION Hotel Transylvania Transformania (2022) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Hotel%20Transylvania%20Transformania%20(2022)%20VP.mp4:Hotel Transylvania Transformania (2022) VP.mp4
+#DESCRIPTION Hotel Transylvania Transformania (2022) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Latte%20The%20Magic%20Waterstone%20(2019)%20VL.mp4:Latte The Magic Waterstone (2019) VL.mp4
+#DESCRIPTION Latte The Magic Waterstone (2019) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/LEGO%20Star%20Wars%20Terrifying%20Tales%20(2021)%20VP.mp4:LEGO Star Wars Terrifying Tales (2021) VP.mp4
+#DESCRIPTION LEGO Star Wars Terrifying Tales (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Maleficent%20(2014)%20VL.mp4:Maleficent (2014) VL.mp4
+#DESCRIPTION Maleficent (2014) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Maleficent%20Mistress%20of%20Evil%20-%20(2019)%20VP.mp4:Maleficent Mistress of Evil  (2019) VP.mp4
+#DESCRIPTION Maleficent Mistress of Evil  (2019) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Maleficent%20Mistress%20of%20Evil%20(2019)%20VL.mp4:Maleficent Mistress of Evil (2019) VL.mp4
+#DESCRIPTION Maleficent Mistress of Evil (2019) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Mickey%20and%20Minnie%20Wish%20Upon%20a%20Christmas%20(2021)%20VP.mp4:Mickey and Minnie Wish Upon a Christmas (2021) VP.mp4
+#DESCRIPTION Mickey and Minnie Wish Upon a Christmas (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Monster%20Family%20(2017)%20VP.mp4:Monster Family (2017) VP.mp4
+#DESCRIPTION Monster Family (2017) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/MONSTER%20FAMILY%202%20(2021)%20VL.mp4:MONSTER FAMILY (2021) VL.mp4
+#DESCRIPTION MONSTER FAMILY (2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Monster%20Family%202%20(2021).mp4:Monster Family (2021).mp4
+#DESCRIPTION Monster Family (2021).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Monster%20House%20(2006)%20VL.mp4:Monster House (2006) VL.mp4
+#DESCRIPTION Monster House (2006) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Muppets%20Haunted%20Mansion%20(2021)%20VL.mp4:Muppets Haunted Mansion (2021) VL.mp4
+#DESCRIPTION Muppets Haunted Mansion (2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Muppets%20Haunted%20Mansion%20(2021)%20VP.mp4:Muppets Haunted Mansion (2021) VP.mp4
+#DESCRIPTION Muppets Haunted Mansion (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/My%20Little%20Pony%20A%20New%20Generation%20(2021).mp4:My Little Pony A New Generation (2021).mp4
+#DESCRIPTION My Little Pony A New Generation (2021).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/O%20Filme%20Lego%20(2014)%20VP.mp4:O Filme Lego (2014) VP.mp4
+#DESCRIPTION O Filme Lego (2014) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Ooops!%20Noah%20is%20Gone...(2015).mp4:Ooops! Noah is Gone...(2015).mp4
+#DESCRIPTION Ooops! Noah is Gone...(2015).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Os%20Elfkins%20Fazendo%20a%20Diferen%c3%a7a%20(2020)%20VP.mp4:Os Elfkins Fazendo a Diferença (2020) VP.mp4
+#DESCRIPTION Os Elfkins Fazendo a Diferença (2020) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/PAW%20Patrol%20The%20Movie%20(2021)%20VP.mp4:PAW Patrol The Movie (2021) VP.mp4
+#DESCRIPTION PAW Patrol The Movie (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Peter%20Pan%20(1953)%20VP.mp4:Peter Pan (1953) VP.mp4
+#DESCRIPTION Peter Pan (1953) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Peter%20Pan%20em%20a%20Terra%20do%20Nunca%20(2002)%20VP.mp4:Peter Pan em a Terra do Nunca (2002) VP.mp4
+#DESCRIPTION Peter Pan em a Terra do Nunca (2002) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Peter%20Rabbit%202%20The%20Runaway%20(2021)%20VP.mp4:Peter Rabbit The Runaway (2021) VP.mp4
+#DESCRIPTION Peter Rabbit The Runaway (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Pokemon%20the%20Movie%20Secrets%20of%20the%20Jungle%20(2020)%20VL.mp4:Pokemon the Movie Secrets of the Jungle (2020) VL.mp4
+#DESCRIPTION Pokemon the Movie Secrets of the Jungle (2020) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Pokemon%20the%20Movie%20Secrets%20of%20the%20Jungle%20(2020)%20VP.mp4:Pokemon the Movie Secrets of the Jungle (2020) VP.mp4
+#DESCRIPTION Pokemon the Movie Secrets of the Jungle (2020) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Rabbids%20Invasion%20Special-%20Mission%20To%20Mars%20(2021)%20VP.mp4:Rabbids Invasion Special Mission To Mars (2021) VP.mp4
+#DESCRIPTION Rabbids Invasion Special Mission To Mars (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Racetime%20(2018)%20VP.mp4:Racetime (2018) VP.mp4
+#DESCRIPTION Racetime (2018) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Rango%20(2011).mp4:Rango (2011).mp4
+#DESCRIPTION Rango (2011).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Riverdance%20Uma%20Aventura%20Muito%20Animada%20(2021)%20VL.mp4:Riverdance Uma Aventura Muito Animada (2021) VL.mp4
+#DESCRIPTION Riverdance Uma Aventura Muito Animada (2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Riverdance%20Uma%20Aventura%20Muito%20Animada%20(2021)%20VP.mkv:Riverdance Uma Aventura Muito Animada (2021) VP.mkv
+#DESCRIPTION Riverdance Uma Aventura Muito Animada (2021) VP.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Robin%20Robin%20(2021)%20VP.mp4:Robin Robin (2021) VP.mp4
+#DESCRIPTION Robin Robin (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/ROCK%20DOG%202-%20ROCK%20AROUND%20THE%20PARK%20(2021)%20VL.mp4:ROCK DOG 2 ROCK AROUND THE PARK (2021) VL.mp4
+#DESCRIPTION ROCK DOG 2 ROCK AROUND THE PARK (2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Rock%20Dog%202%20Rock%20Around%20the%20Park%20(2021)VP.mp4:Rock Dog Rock Around the Park (2021)VP.mp4
+#DESCRIPTION Rock Dog Rock Around the Park (2021)VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Rons%20Gone%20Wrong%20(2021)%20VL.mp4:Rons Gone Wrong (2021) VL.mp4
+#DESCRIPTION Rons Gone Wrong (2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Rons%20Gone%20Wrong%20(2021)%20VP.mp4:Rons Gone Wrong (2021) VP.mp4
+#DESCRIPTION Rons Gone Wrong (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Rumble%20(2021)%20VL.mp4:Rumble (2021) VL.mp4
+#DESCRIPTION Rumble (2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Scooby-Doo!%20e%20o%20Mist%c3%a9rio%20do%20Circo%20(2012).mp4:ScoobyDoo! e o Mistério do Circo (2012).mp4
+#DESCRIPTION ScoobyDoo! e o Mistério do Circo (2012).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Scooby-Doo!%20Haunted%20Holidays%20(2012).mp4:ScoobyDoo! Haunted Holidays (2012).mp4
+#DESCRIPTION ScoobyDoo! Haunted Holidays (2012).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Scooby-Doo!%20O%20Regresso%20%c3%a0%20Ilha%20dos%20Zombies%20(2019).mp4:ScoobyDoo! O Regresso à Ilha dos Zombies (2019).mp4
+#DESCRIPTION ScoobyDoo! O Regresso à Ilha dos Zombies (2019).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Seal%20Team%20(2021)%20VL.mp4:Seal Team (2021) VL.mp4
+#DESCRIPTION Seal Team (2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/SING!%202%20(2021)%20VL.mp4:SING! (2021) VL.mp4
+#DESCRIPTION SING! (2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Sing%202%20(2021)%20VP.mkv:Sing (2021) VP.mkv
+#DESCRIPTION Sing (2021) VP.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Smurfs%20The%20Lost%20Village%20(2017).mkv:Smurfs The Lost Village (2017).mkv
+#DESCRIPTION Smurfs The Lost Village (2017).mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Snoopy%20Presents%20For%20Auld%20Lang%20Syne%202021)%20VL.mp4:Snoopy Presents For Auld Lang Syne 2021) VL.mp4
+#DESCRIPTION Snoopy Presents For Auld Lang Syne 2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Spider%20Man%20Into%20The%20Spider%20Verse%20(2018).mkv:Spider Man Into The Spider Verse (2018).mkv
+#DESCRIPTION Spider Man Into The Spider Verse (2018).mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Spirit%20Stallion%20of%20the%20Cimarron%20(2002)VP.mp4:Spirit Stallion of the Cimarron (2002)VP.mp4
+#DESCRIPTION Spirit Stallion of the Cimarron (2002)VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Spirit%20Untamed%20(2021)%20VP.mp4:Spirit Untamed (2021) VP.mp4
+#DESCRIPTION Spirit Untamed (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Storks%20(2016)%20VP.mp4:Storks (2016) VP.mp4
+#DESCRIPTION Storks (2016) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Addams%20Family%202%20(2021)%20VL.mp4:The Addams Family (2021) VL.mp4
+#DESCRIPTION The Addams Family (2021) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Addams%20Family%202%20(2021)%20VP.mkv:The Addams Family (2021) VP.mkv
+#DESCRIPTION The Addams Family (2021) VP.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Animatrix%20(2003)%20VL.mp4:The Animatrix (2003) VL.mp4
+#DESCRIPTION The Animatrix (2003) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Boss%20Baby%20Family%20Business%20(2021)%20VP.mp4:The Boss Baby Family Business (2021) VP.mp4
+#DESCRIPTION The Boss Baby Family Business (2021) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Boss%20Baby%20Get%20That%20Baby!%20(2020)%20VP.mp4:The Boss Baby Get That Baby! (2020) VP.mp4
+#DESCRIPTION The Boss Baby Get That Baby! (2020) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Ice%20Age%20Adventures%20of%20Buck%20Wild%20(2022)%20VL.mp4:The Ice Age Adventures of Buck Wild (2022) VL.mp4
+#DESCRIPTION The Ice Age Adventures of Buck Wild (2022) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Ice%20Age%20Adventures%20of%20Buck%20Wild%20(2022)%20VP.mkv:The Ice Age Adventures of Buck Wild (2022) VP.mkv
+#DESCRIPTION The Ice Age Adventures of Buck Wild (2022) VP.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Legend%20of%20Hallowaiian%20(2018)%20VP.mp4:The Legend of Hallowaiian (2018) VP.mp4
+#DESCRIPTION The Legend of Hallowaiian (2018) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Lion%20Guard%20Return%20of%20the%20Roar%202015).mkv:The Lion Guard Return of the Roar 2015).mkv
+#DESCRIPTION The Lion Guard Return of the Roar 2015).mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Little%20Mermaid%20(2023)%20VP.mp4:The Little Mermaid (2023) VP.mp4
+#DESCRIPTION The Little Mermaid (2023) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Nightmare%20Before%20Christmas%20(1993)%20VL.mp4:The Nightmare Before Christmas (1993) VL.mp4
+#DESCRIPTION The Nightmare Before Christmas (1993) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Nightmare%20Before%20Christmas%20(1993)%20VP.mp4:The Nightmare Before Christmas (1993) VP.mp4
+#DESCRIPTION The Nightmare Before Christmas (1993) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Proud%20Family%20Movie%20(2005)%20VL.mp4:The Proud Family Movie (2005) VL.mp4
+#DESCRIPTION The Proud Family Movie (2005) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Proud%20Family%20Movie%20(2005)%20VP%20(1).mp4:The Proud Family Movie (2005) VP (1).mp4
+#DESCRIPTION The Proud Family Movie (2005) VP (1).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Smurfs%20(2011)%20VP.mkv:The Smurfs (2011) VP.mkv
+#DESCRIPTION The Smurfs (2011) VP.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Smurfs%202%20(2013).mkv:The Smurfs (2013).mkv
+#DESCRIPTION The Smurfs (2013).mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Wonderful%20Winter%20of%20Mickey%20Mouse%20(2022%20VP.mp4:The Wonderful Winter of Mickey Mouse (VP.mp4
+#DESCRIPTION The Wonderful Winter of Mickey Mouse (VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/The%20Wonderful%20Winter%20of%20Mickey%20Mouse%20(2022)%20VL.mp4:The Wonderful Winter of Mickey Mouse (2022) VL.mp4
+#DESCRIPTION The Wonderful Winter of Mickey Mouse (2022) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Tom%20e%20Jerry%20-%20Uma%20Aventura%20Gigante%20(2013).mp4:Tom e Jerry  Uma Aventura Gigante (2013).mp4
+#DESCRIPTION Tom e Jerry  Uma Aventura Gigante (2013).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Turning%20Red%20(2022)%20VL.mp4:Turning Red (2022) VL.mp4
+#DESCRIPTION Turning Red (2022) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Turning%20Red%20(2022)%20VP.mp4:Turning Red (2022) VP.mp4
+#DESCRIPTION Turning Red (2022) VP.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Violet%20Evergarden%20The%20Movie%20(2020)%20VL.mp4:Violet Evergarden The Movie (2020) VL.mp4
+#DESCRIPTION Violet Evergarden The Movie (2020) VL.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Weathering%20with%20You%20(2019).mp4:Weathering with You (2019).mp4
+#DESCRIPTION Weathering with You (2019).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20Kids%20vod2/Yaksha%20Ruthless%20Operations%20(2022).mp4:Yaksha Ruthless Operations (2022).mp4
+#DESCRIPTION Yaksha Ruthless Operations (2022).mp4

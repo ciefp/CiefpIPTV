@@ -1,0 +1,417 @@
+#NAME CiefpSettings IPTV Movies Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/12%20Years%20a%20Slave%20(2014).mp4:Years a Slave (2014).mp4
+#DESCRIPTION Years a Slave (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/13%20Hours%20The%20Secret%20Soldiers%20Of%20Benghazi%20(2016).mp4:The Secret Soldiers Of Benghazi (2016).mp4
+#DESCRIPTION The Secret Soldiers Of Benghazi (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/42%20to%201%20(2018).mp4:to (2018).mp4
+#DESCRIPTION to (2018).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/50%20First%20Dates%20(2004).mp4:First Dates (2004).mp4
+#DESCRIPTION First Dates (2004).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/666%20The%20Devil's%20Child%20(2014).mp4:The Devil's Child (2014).mp4
+#DESCRIPTION The Devil's Child (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/8%20Mile%20(2002).mp4:Mile (2002).mp4
+#DESCRIPTION Mile (2002).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/A%20Madea%20Christmas%20(2013).mp4:A Madea Christmas (2013).mp4
+#DESCRIPTION A Madea Christmas (2013).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Addams%20Family%20Values%20(1993).mp4:Addams Family Values (1993).mp4
+#DESCRIPTION Addams Family Values (1993).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Almost%20Famous%20(2000).mp4:Almost Famous (2000).mp4
+#DESCRIPTION Almost Famous (2000).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Any%20Given%20Sunday%20(1999).mp4:Any Given Sunday (1999).mp4
+#DESCRIPTION Any Given Sunday (1999).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Armageddon%20(1998).mp4:Armageddon (1998).mp4
+#DESCRIPTION Armageddon (1998).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Balas%20e%20Bolinhos%20(2001).mp4:Balas e Bolinhos (2001).mp4
+#DESCRIPTION Balas e Bolinhos (2001).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Balas%20e%20Bolinhos%202%20-%20O%20Regresso%20(2004).mp4:Balas e Bolinhos  O Regresso (2004).mp4
+#DESCRIPTION Balas e Bolinhos  O Regresso (2004).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Balas.e.Bolinhos.3%20(2012).mp4:Balas.e.Bolinhos.(2012).mp4
+#DESCRIPTION Balas.e.Bolinhos.(2012).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Batman%20(1989).mp4:Batman (1989).mp4
+#DESCRIPTION Batman (1989).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Batman%20Begins%20(2005).mp4:Batman Begins (2005).mp4
+#DESCRIPTION Batman Begins (2005).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Batman%20Forever%20(1995).mp4:Batman Forever (1995).mp4
+#DESCRIPTION Batman Forever (1995).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Batman%20Returns%20(1992).mp4:Batman Returns (1992).mp4
+#DESCRIPTION Batman Returns (1992).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Baywatch%20(2017).mp4:Baywatch (2017).mp4
+#DESCRIPTION Baywatch (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Bloodsport%20(1988).mp4:Bloodsport (1988).mp4
+#DESCRIPTION Bloodsport (1988).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Bloodsport%202%20-%20A%20Espada%20Sagrada%20(1996).mp4:Bloodsport  A Espada Sagrada (1996).mp4
+#DESCRIPTION Bloodsport  A Espada Sagrada (1996).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/BLOODSPORT%203%20-%20O%20COMBATE%20FUNAL%20(1996).mp4:BLOODSPORT  O COMBATE FUNAL (1996).mp4
+#DESCRIPTION BLOODSPORT  O COMBATE FUNAL (1996).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Bloodsport%204%20The%20Dark%20Kumite%20(1999).mp4:Bloodsport The Dark Kumite (1999).mp4
+#DESCRIPTION Bloodsport The Dark Kumite (1999).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Blue%20Valentine%20(2010).mp4:Blue Valentine (2010).mp4
+#DESCRIPTION Blue Valentine (2010).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Boo!%20A%20Madea%20Halloween%20(2016).mp4:Boo! A Madea Halloween (2016).mp4
+#DESCRIPTION Boo! A Madea Halloween (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Boo%202!%20A%20Madea%20Halloween%20(2017).mp4:Boo 2! A Madea Halloween (2017).mp4
+#DESCRIPTION Boo 2! A Madea Halloween (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Boyka%20Undisputed%20(2016).mp4:Boyka Undisputed (2016).mp4
+#DESCRIPTION Boyka Undisputed (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Brad's%20Status%20(2017).mp4:Brad's Status (2017).mp4
+#DESCRIPTION Brad's Status (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Bridge%20to%20Terabithia%20(2007).mp4:Bridge to Terabithia (2007).mp4
+#DESCRIPTION Bridge to Terabithia (2007).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Broken%20City%20(2013).mp4:Broken City (2013).mp4
+#DESCRIPTION Broken City (2013).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Captain%20America%20Civil%20War%20(2016).mp4:Captain America Civil War (2016).mp4
+#DESCRIPTION Captain America Civil War (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Captain%20America%20The%20First%20Avenger%20(2011).mp4:Captain America The First Avenger (2011).mp4
+#DESCRIPTION Captain America The First Avenger (2011).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Captain%20America%20The%20Winter%20Soldier%20(2014).mp4:Captain America The Winter Soldier (2014).mp4
+#DESCRIPTION Captain America The Winter Soldier (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Captain%20Phillips%20(2013).mp4:Captain Phillips (2013).mp4
+#DESCRIPTION Captain Phillips (2013).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Changeling%20(2008).mp4:Changeling (2008).mp4
+#DESCRIPTION Changeling (2008).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/City%20of%20Angels%20(1998).mp4:City of Angels (1998).mp4
+#DESCRIPTION City of Angels (1998).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/City%20Of%20God%20(2002)%20.mp4:City Of God (2002) .mp4
+#DESCRIPTION City Of God (2002) .mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Closeness%20(2017).mp4:Closeness (2017).mp4
+#DESCRIPTION Closeness (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Coherence%20(2013).mp4:Coherence (2013).mp4
+#DESCRIPTION Coherence (2013).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Colonia%20(2015).mp4:Colonia (2015).mp4
+#DESCRIPTION Colonia (2015).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Dallas%20Buyers%20Club%20(2013).mp4:Dallas Buyers Club (2013).mp4
+#DESCRIPTION Dallas Buyers Club (2013).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Dangerous%20Minds%20(1995).mp4:Dangerous Minds (1995).mp4
+#DESCRIPTION Dangerous Minds (1995).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Deliver%20us%20From%20Evil%20(2014).mp4:Deliver us From Evil (2014).mp4
+#DESCRIPTION Deliver us From Evil (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Demolition%20Man%20(1993).mp4:Demolition Man (1993).mp4
+#DESCRIPTION Demolition Man (1993).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Devil's%20Angels%20(1967).mp4:Devil's Angels (1967).mp4
+#DESCRIPTION Devil's Angels (1967).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Dirty%20Dancing%20(1987).mp4:Dirty Dancing (1987).mp4
+#DESCRIPTION Dirty Dancing (1987).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Dirty%20Dancing%20(2017).mp4:Dirty Dancing (2017).mp4
+#DESCRIPTION Dirty Dancing (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Dirty%20Dancing%20Havana%20Nights%20(2004).mp4:Dirty Dancing Havana Nights (2004).mp4
+#DESCRIPTION Dirty Dancing Havana Nights (2004).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Dirty%20Rotten%20Scoundrels%20(1988).mp4:Dirty Rotten Scoundrels (1988).mp4
+#DESCRIPTION Dirty Rotten Scoundrels (1988).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Dorian%20Gray%20(2009).mp4:Dorian Gray (2009).mp4
+#DESCRIPTION Dorian Gray (2009).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Drunken%20Master%20(1978).mp4:Drunken Master (1978).mp4
+#DESCRIPTION Drunken Master (1978).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Easy%20Virtue%20(2008).mp4:Easy Virtue (2008).mp4
+#DESCRIPTION Easy Virtue (2008).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Exodus%20Gods%20and%20Kings%20(2014).mp4:Exodus Gods and Kings (2014).mp4
+#DESCRIPTION Exodus Gods and Kings (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Fathers%20And%20Daughters%20(2015).mp4:Fathers And Daughters (2015).mp4
+#DESCRIPTION Fathers And Daughters (2015).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Flicka%20(2006).mp4:Flicka (2006).mp4
+#DESCRIPTION Flicka (2006).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Frida%20(2002).mp4:Frida (2002).mp4
+#DESCRIPTION Frida (2002).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Ghostbusters%20(2016).mp4:Ghostbusters (2016).mp4
+#DESCRIPTION Ghostbusters (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Gladiator%20(2000).mp4:Gladiator (2000).mp4
+#DESCRIPTION Gladiator (2000).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Goal!%20The%20Dream%20Begins%20(2005).mp4:Goal! The Dream Begins (2005).mp4
+#DESCRIPTION Goal! The Dream Begins (2005).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Gods%20Of%20Egypt%20(2016).mp4:Gods Of Egypt (2016).mp4
+#DESCRIPTION Gods Of Egypt (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Going%20In%20Style%20(2017).mp4:Going In Style (2017).mp4
+#DESCRIPTION Going In Style (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Gravity%20(2013).mp4:Gravity (2013).mp4
+#DESCRIPTION Gravity (2013).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Grease%201%20(1978).mp4:Grease (1978).mp4
+#DESCRIPTION Grease (1978).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Grease%202%20(1982).mp4:Grease (1982).mp4
+#DESCRIPTION Grease (1982).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Grimcutty%20(2022)%20.mp4:Grimcutty (2022) .mp4
+#DESCRIPTION Grimcutty (2022) .mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Grind%20(2003).mp4:Grind (2003).mp4
+#DESCRIPTION Grind (2003).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Grown%20Ups%20(2010).mp4:Grown Ups (2010).mp4
+#DESCRIPTION Grown Ups (2010).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Grown%20Ups%202%20(2013).mp4:Grown Ups (2013).mp4
+#DESCRIPTION Grown Ups (2013).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Hope%20Gap%20(2019).mp4:Hope Gap (2019).mp4
+#DESCRIPTION Hope Gap (2019).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Horns%20(2013).mp4:Horns (2013).mp4
+#DESCRIPTION Horns (2013).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Horse%20Money%20(2014).mp4:Horse Money (2014).mp4
+#DESCRIPTION Horse Money (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Hugo%20(2011).mp4:Hugo (2011).mp4
+#DESCRIPTION Hugo (2011).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Imperium%20(2016).mp4:Imperium (2016).mp4
+#DESCRIPTION Imperium (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Inception%20(2010).mp4:Inception (2010).mp4
+#DESCRIPTION Inception (2010).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Independence%20Day%20(1996).mp4:Independence Day (1996).mp4
+#DESCRIPTION Independence Day (1996).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Indianapolis%20Men%20Of%20Courage%20(2016).mp4:Indianapolis Men Of Courage (2016).mp4
+#DESCRIPTION Indianapolis Men Of Courage (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Inside%20Man%20(2006).mp4:Inside Man (2006).mp4
+#DESCRIPTION Inside Man (2006).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Interstellar%20(2014).mp4:Interstellar (2014).mp4
+#DESCRIPTION Interstellar (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Intolerable%20Cruelty%20(2003).mp4:Intolerable Cruelty (2003).mp4
+#DESCRIPTION Intolerable Cruelty (2003).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Invictus%20(2009).mp4:Invictus (2009).mp4
+#DESCRIPTION Invictus (2009).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Iron%20Man%20(2008).mp4:Iron Man (2008).mp4
+#DESCRIPTION Iron Man (2008).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Iron%20Man%202%20(2010).mp4:Iron Man (2010).mp4
+#DESCRIPTION Iron Man (2010).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Iron%20Man%203%20(2013).mp4:Iron Man (2013).mp4
+#DESCRIPTION Iron Man (2013).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Jack%20Reacher%20(2012)%20.mp4:Jack Reacher (2012) .mp4
+#DESCRIPTION Jack Reacher (2012) .mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Jack%20Reacher%20Never%20Go%20Back%20(2016).mp4:Jack Reacher Never Go Back (2016).mp4
+#DESCRIPTION Jack Reacher Never Go Back (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Jackass%203.5%20(2011).mp4:Jackass (2011).mp4
+#DESCRIPTION Jackass (2011).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Jackass%203D%20(2010).mp4:Jackass 3D (2010).mp4
+#DESCRIPTION Jackass 3D (2010).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Jackass%20Number%20Two%20(2006).mp4:Jackass Number Two (2006).mp4
+#DESCRIPTION Jackass Number Two (2006).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Jamesy%20Boy%20(2014).mp4:Jamesy Boy (2014).mp4
+#DESCRIPTION Jamesy Boy (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Jigsaw%20(2017).mp4:Jigsaw (2017).mp4
+#DESCRIPTION Jigsaw (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/John%20Carter%20(2012).mp4:John Carter (2012).mp4
+#DESCRIPTION John Carter (2012).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Johnny%20English%20Reborn%20(2011).mp4:Johnny English Reborn (2011).mp4
+#DESCRIPTION Johnny English Reborn (2011).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Johnny%20English%20Strikes%20Again%20(2018).mp4:Johnny English Strikes Again (2018).mp4
+#DESCRIPTION Johnny English Strikes Again (2018).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Kevin%20Hart%20What%20Now%20(2016).mp4:Kevin Hart What Now (2016).mp4
+#DESCRIPTION Kevin Hart What Now (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Kidnap%20(2017).mp4:Kidnap (2017).mp4
+#DESCRIPTION Kidnap (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Kingsman-%20The%20Golden%20Circle%20(2017).mp4:Kingsman The Golden Circle (2017).mp4
+#DESCRIPTION Kingsman The Golden Circle (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Kingsman-%20The%20Secret%20Service%20(2014).mp4:Kingsman The Secret Service (2014).mp4
+#DESCRIPTION Kingsman The Secret Service (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Law%20Abiding%20Citizen%20(2009).mp4:Law Abiding Citizen (2009).mp4
+#DESCRIPTION Law Abiding Citizen (2009).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Legend%20(2015).mp4:Legend (2015).mp4
+#DESCRIPTION Legend (2015).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Legend%20of%20Zorro%20(2005).mp4:Legend of Zorro (2005).mp4
+#DESCRIPTION Legend of Zorro (2005).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/LETHAL%20WEAPON%20(1987).mp4:LETHAL WEAPON (1987).mp4
+#DESCRIPTION LETHAL WEAPON (1987).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/LETHAL%20WEAPON%202%20(1989).mp4:LETHAL WEAPON (1989).mp4
+#DESCRIPTION LETHAL WEAPON (1989).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/LETHAL%20WEAPON%203%20(1992).mp4:LETHAL WEAPON (1992).mp4
+#DESCRIPTION LETHAL WEAPON (1992).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/LETHAL%20WEAPON%204%20(1998).mp4:LETHAL WEAPON (1998).mp4
+#DESCRIPTION LETHAL WEAPON (1998).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Lord%20of%20War%20(2005).mp4:Lord of War (2005).mp4
+#DESCRIPTION Lord of War (2005).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Mamma%20Mia%20(2008).mp4:Mamma Mia (2008).mp4
+#DESCRIPTION Mamma Mia (2008).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Mamma%20Mia%20Here%20We%20Go%20Again%20(2018).mp4:Mamma Mia Here We Go Again (2018).mp4
+#DESCRIPTION Mamma Mia Here We Go Again (2018).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Man%20on%20a%20Ledge%20(2012).mp4:Man on a Ledge (2012).mp4
+#DESCRIPTION Man on a Ledge (2012).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Mariphasa%20(2017).mp4:Mariphasa (2017).mp4
+#DESCRIPTION Mariphasa (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Mau%20Mau%20Maria%20(2014).mp4:Mau Mau Maria (2014).mp4
+#DESCRIPTION Mau Mau Maria (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Maze%20Runner%20-%20Correr%20ou%20Morrer%20(2014).mp4:Maze Runner  Correr ou Morrer (2014).mp4
+#DESCRIPTION Maze Runner  Correr ou Morrer (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Maze%20Runner%20Provas%20de%20Fogo%20(2015).mp4:Maze Runner Provas de Fogo (2015).mp4
+#DESCRIPTION Maze Runner Provas de Fogo (2015).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Megan%20Leavey%20(2017).mp4:Megan Leavey (2017).mp4
+#DESCRIPTION Megan Leavey (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Men%20In%20Black%20(1997).mp4:Men In Black (1997).mp4
+#DESCRIPTION Men In Black (1997).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Men%20in%20Black%203%20(2012).mp4:Men in Black (2012).mp4
+#DESCRIPTION Men in Black (2012).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Men%20In%20Black%20II%20(2002).mp4:Men In Black II (2002).mp4
+#DESCRIPTION Men In Black II (2002).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Mine%20(2016).mp4:Mine (2016).mp4
+#DESCRIPTION Mine (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Murder%20On%20The%20Orient%20Express%20(2017).mp4:Murder On The Orient Express (2017).mp4
+#DESCRIPTION Murder On The Orient Express (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/My%20Name%20Ain't%20Johnny%20(2008).mp4:My Name Ain't Johnny (2008).mp4
+#DESCRIPTION My Name Ain't Johnny (2008).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Night%20at%20the%20Museum%20(2006).mp4:Night at the Museum (2006).mp4
+#DESCRIPTION Night at the Museum (2006).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Night%20At%20The%20Museum%20Battle%20Of%20The%20Smithsonian%202009.mp4:Night At The Museum Battle Of The Smithsonian 2009.mp4
+#DESCRIPTION Night At The Museum Battle Of The Smithsonian 2009.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Night%20at%20the%20Museum%20Secret%20of%20the%20Tomb%20(2014).mp4:Night at the Museum Secret of the Tomb (2014).mp4
+#DESCRIPTION Night at the Museum Secret of the Tomb (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Nothing%20to%20Declare%20(2010).mp4:Nothing to Declare (2010).mp4
+#DESCRIPTION Nothing to Declare (2010).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/O%20Crime%20do%20Padre%20Amaro%20(2002).mp4:O Crime do Padre Amaro (2002).mp4
+#DESCRIPTION O Crime do Padre Amaro (2002).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/O%20Pianista%20(2002).mp4:O Pianista (2002).mp4
+#DESCRIPTION O Pianista (2002).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Os%20Suspeitos%20(2013).mp4:Os Suspeitos (2013).mp4
+#DESCRIPTION Os Suspeitos (2013).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Paris%20Can%20Wait%20(2016).mp4:Paris Can Wait (2016).mp4
+#DESCRIPTION Paris Can Wait (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Portugal%20nao%20esta%20a%20venda%20(2019).mp4:Portugal nao esta a venda (2019).mp4
+#DESCRIPTION Portugal nao esta a venda (2019).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Predators%20(2010).mp4:Predators (2010).mp4
+#DESCRIPTION Predators (2010).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Pretty%20Woman%20(1990).mp4:Pretty Woman (1990).mp4
+#DESCRIPTION Pretty Woman (1990).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Project%20X%20(2012).mp4:Project X (2012).mp4
+#DESCRIPTION Project X (2012).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Room%20(2015).mp4:Room (2015).mp4
+#DESCRIPTION Room (2015).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Rush%20Hour%201%20(1998).mp4:Rush Hour (1998).mp4
+#DESCRIPTION Rush Hour (1998).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Rush%20Hour%202%20(2001).mp4:Rush Hour (2001).mp4
+#DESCRIPTION Rush Hour (2001).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Rush%20Hour%203%20(2007).mp4:Rush Hour (2007).mp4
+#DESCRIPTION Rush Hour (2007).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Saw%20I%20(2004).mp4:Saw I (2004).mp4
+#DESCRIPTION Saw I (2004).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Saw%20II%20(2005).mp4:Saw II (2005).mp4
+#DESCRIPTION Saw II (2005).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Saw%20III%20DC%20(2006).mp4:Saw III DC (2006).mp4
+#DESCRIPTION Saw III DC (2006).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Saw%20IV%20(2007).mp4:Saw IV (2007).mp4
+#DESCRIPTION Saw IV (2007).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Saw%20The%20Final%20Chapter%20(2010).mp4:Saw The Final Chapter (2010).mp4
+#DESCRIPTION Saw The Final Chapter (2010).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Saw%20V%20(2008).mp4:Saw V (2008).mp4
+#DESCRIPTION Saw V (2008).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Saw%20VI(2009).mp4:Saw VI(2009).mp4
+#DESCRIPTION Saw VI(2009).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Schindlers%20List%20(1993).mp4:Schindlers List (1993).mp4
+#DESCRIPTION Schindlers List (1993).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Scream%201%20(1996).mp4:Scream (1996).mp4
+#DESCRIPTION Scream (1996).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Scream%202%20(1997).mp4:Scream (1997).mp4
+#DESCRIPTION Scream (1997).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Scream%203%20(2000).mp4:Scream (2000).mp4
+#DESCRIPTION Scream (2000).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/scream%204%20(2011).mp4:scream (2011).mp4
+#DESCRIPTION scream (2011).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Secretariat%20(2010).mp4:Secretariat (2010).mp4
+#DESCRIPTION Secretariat (2010).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Sei%20L%c3%a1%20(2014).mp4:Sei Lá (2014).mp4
+#DESCRIPTION Sei Lá (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Sicario%20(2015).mp4:Sicario (2015).mp4
+#DESCRIPTION Sicario (2015).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Source%20Code%20(2011).mp4:Source Code (2011).mp4
+#DESCRIPTION Source Code (2011).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Spectre%20(2015).mp4:Spectre (2015).mp4
+#DESCRIPTION Spectre (2015).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Spider%20Man%20(2002).mp4:Spider Man (2002).mp4
+#DESCRIPTION Spider Man (2002).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Spider%20Man%202%20(2004).mp4:Spider Man (2004).mp4
+#DESCRIPTION Spider Man (2004).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Spider%20Man.3%20(2007).mp4:Spider Man.(2007).mp4
+#DESCRIPTION Spider Man.(2007).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Spider-Man%20Homecoming%20(2017).mp4:SpiderMan Homecoming (2017).mp4
+#DESCRIPTION SpiderMan Homecoming (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Split%20(2016).mp4:Split (2016).mp4
+#DESCRIPTION Split (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Spy%20(2015)%20.mp4:Spy (2015) .mp4
+#DESCRIPTION Spy (2015) .mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Spy%20Game%20(2001).mp4:Spy Game (2001).mp4
+#DESCRIPTION Spy Game (2001).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Stand%20Up%20Guys%20(2012).mp4:Stand Up Guys (2012).mp4
+#DESCRIPTION Stand Up Guys (2012).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Suburbicon%20(2017).mp4:Suburbicon (2017).mp4
+#DESCRIPTION Suburbicon (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Swiss%20Army%20Man%20(2016).mp4:Swiss Army Man (2016).mp4
+#DESCRIPTION Swiss Army Man (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/T%c3%a1xi%20-%20Uma%20Viagem%20Alucinante%20(1998).mp4:Táxi  Uma Viagem Alucinante (1998).mp4
+#DESCRIPTION Táxi  Uma Viagem Alucinante (1998).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/T%c3%a1xi%20de%20Nova%20Iorque%20(2004).mp4:Táxi de Nova Iorque (2004).mp4
+#DESCRIPTION Táxi de Nova Iorque (2004).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Taxi%202%20-%20Brigada%20Anti-Gang%20(2000).mp4:Taxi  Brigada AntiGang (2000).mp4
+#DESCRIPTION Taxi  Brigada AntiGang (2000).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Taxi%203%20-%20Inferno%20no%20Asfalto%20(2003).mp4:Taxi  Inferno no Asfalto (2003).mp4
+#DESCRIPTION Taxi  Inferno no Asfalto (2003).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Taxi%204%20(2007).mp4:Taxi (2007).mp4
+#DESCRIPTION Taxi (2007).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Taxi%205%20(2017).mp4:Taxi (2017).mp4
+#DESCRIPTION Taxi (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Addams%20Family%20(1991).mp4:The Addams Family (1991).mp4
+#DESCRIPTION The Addams Family (1991).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Adjustment%20Bureau%20(2011).mp4:The Adjustment Bureau (2011).mp4
+#DESCRIPTION The Adjustment Bureau (2011).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Awakener%20(2018).mp4:The Awakener (2018).mp4
+#DESCRIPTION The Awakener (2018).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Bodyguard%20(1992).mp4:The Bodyguard (1992).mp4
+#DESCRIPTION The Bodyguard (1992).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Bourne%20Supremacy%20(2004).mp4:The Bourne Supremacy (2004).mp4
+#DESCRIPTION The Bourne Supremacy (2004).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Boy%20in%20the%20Striped%20Pyjamas%20(2008).mp4:The Boy in the Striped Pyjamas (2008).mp4
+#DESCRIPTION The Boy in the Striped Pyjamas (2008).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Brothers%20Grimm%20(2005).mp4:The Brothers Grimm (2005).mp4
+#DESCRIPTION The Brothers Grimm (2005).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Count%20Of%20Monte%20Cristo%20(2002).mp4:The Count Of Monte Cristo (2002).mp4
+#DESCRIPTION The Count Of Monte Cristo (2002).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Curious%20Case%20Of%20Benjamin%20Button%20(2008).mp4:The Curious Case Of Benjamin Button (2008).mp4
+#DESCRIPTION The Curious Case Of Benjamin Button (2008).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Dark%20Knight%20(2008).mp4:The Dark Knight (2008).mp4
+#DESCRIPTION The Dark Knight (2008).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Dark%20Knight%20Rises%20(2012).mp4:The Dark Knight Rises (2012).mp4
+#DESCRIPTION The Dark Knight Rises (2012).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Fearless%20Hyena%20(1979).mp4:The Fearless Hyena (1979).mp4
+#DESCRIPTION The Fearless Hyena (1979).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Great%20Wall%20(2016).mp4:The Great Wall (2016).mp4
+#DESCRIPTION The Great Wall (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Impossible%20(2012).mp4:The Impossible (2012).mp4
+#DESCRIPTION The Impossible (2012).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Intouchables%20(2011).mp4:The Intouchables (2011).mp4
+#DESCRIPTION The Intouchables (2011).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Last%20Witch%20Hunter%20(2015).mp4:The Last Witch Hunter (2015).mp4
+#DESCRIPTION The Last Witch Hunter (2015).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/THE%20LORD%20OF%20THE%20RINGS-%20THE%20FELLOWSHIP%20OF%20THE%20RING%20(2001).mp4:THE LORD OF THE RINGS THE FELLOWSHIP OF THE RING (2001).mp4
+#DESCRIPTION THE LORD OF THE RINGS THE FELLOWSHIP OF THE RING (2001).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/THE%20LORD%20OF%20THE%20RINGS-%20THE%20RETURN%20OF%20THE%20KING%20(2003).mp4:THE LORD OF THE RINGS THE RETURN OF THE KING (2003).mp4
+#DESCRIPTION THE LORD OF THE RINGS THE RETURN OF THE KING (2003).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/THE%20LORD%20OF%20THE%20RINGS-%20THE%20TWO%20TOWERS%20(2002).mp4:THE LORD OF THE RINGS THE TWO TOWERS (2002).mp4
+#DESCRIPTION THE LORD OF THE RINGS THE TWO TOWERS (2002).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Machinist%20(2004).mp4:The Machinist (2004).mp4
+#DESCRIPTION The Machinist (2004).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Man%20Who%20Killed%20Don%20Quixote%20(2018).mp4:The Man Who Killed Don Quixote (2018).mp4
+#DESCRIPTION The Man Who Killed Don Quixote (2018).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Mask%20Of%20Zorro%20(1998).mp4:The Mask Of Zorro (1998).mp4
+#DESCRIPTION The Mask Of Zorro (1998).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Phantom%20of%20the%20Opera%20(2004).mp4:The Phantom of the Opera (2004).mp4
+#DESCRIPTION The Phantom of the Opera (2004).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Secret%20Life%20of%20Walter%20Mitty%20(2013).mp4:The Secret Life of Walter Mitty (2013).mp4
+#DESCRIPTION The Secret Life of Walter Mitty (2013).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/THE%20SHAPE%20OF%20WATER%20(2017).mp4:THE SHAPE OF WATER (2017).mp4
+#DESCRIPTION THE SHAPE OF WATER (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Spiderwick%20Chronicles%20(2008).mp4:The Spiderwick Chronicles (2008).mp4
+#DESCRIPTION The Spiderwick Chronicles (2008).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Two%20Worlds%20(2017).mp4:The Two Worlds (2017).mp4
+#DESCRIPTION The Two Worlds (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Way%20Of%20The%20Dragon%20(1972).mp4:The Way Of The Dragon (1972).mp4
+#DESCRIPTION The Way Of The Dragon (1972).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Woman%20in%20Black%20(2012).mp4:The Woman in Black (2012).mp4
+#DESCRIPTION The Woman in Black (2012).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Young%20Master%20(1980).mp4:The Young Master (1980).mp4
+#DESCRIPTION The Young Master (1980).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/The%20Zookeeper's%20Wife%20(2017).mp4:The Zookeeper's Wife (2017).mp4
+#DESCRIPTION The Zookeeper's Wife (2017).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Tower%20Heist%20(2011).mp4:Tower Heist (2011).mp4
+#DESCRIPTION Tower Heist (2011).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Transcendence%20(2014).mp4:Transcendence (2014).mp4
+#DESCRIPTION Transcendence (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Troy%20DC%20(2004).mp4:Troy DC (2004).mp4
+#DESCRIPTION Troy DC (2004).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Up%20For%20Love%20(2016).mp4:Up For Love (2016).mp4
+#DESCRIPTION Up For Love (2016).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/Victor%20Frankenstein%20(2015).mp4:Victor Frankenstein (2015).mp4
+#DESCRIPTION Victor Frankenstein (2015).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/War%20Horse%20(2011).mp4:War Horse (2011).mp4
+#DESCRIPTION War Horse (2011).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/X-Men%20Days%20of%20Future%20Past%20(2014).mp4:XMen Days of Future Past (2014).mp4
+#DESCRIPTION XMen Days of Future Past (2014).mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/X-Men%20First%20Class%20(2011)mp4.mp4:XMen First Class (2011)mp4.mp4
+#DESCRIPTION XMen First Class (2011)mp4.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.92.170/PLATINUMTEAM/Vod%20outros%20anos/X-Men%20Origins%20Wolverine%20(2009).mp4:XMen Origins Wolverine (2009).mp4
+#DESCRIPTION XMen Origins Wolverine (2009).mp4
