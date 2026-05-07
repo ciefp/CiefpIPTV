@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="https://i.imgur.com/U5LrKAW.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/65114.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2" tvg-logo="https://i.imgur.com/QTtMuR2.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO 2
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/37086.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://i.imgur.com/QTtMuR2.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO 2 FHD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/38423.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO 2 FHD H265
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/986820.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.imgur.com/QTtMuR2.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO 2 HD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/36966.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://i.imgur.com/U5LrKAW.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO FHD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/61972.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/f181m4I.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Family
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/37085.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://i.imgur.com/f181m4I.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Family FHD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/41486.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png " tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Family H265
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/62847.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/f181m4I.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Family HD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/36965.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png " tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO H265
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/62848.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/U5LrKAW.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO HD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/36964.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi" tvg-logo="https://i.imgur.com/B6EZjKx.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Mundi
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/37076.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi FHD" tvg-logo="https://i.imgur.com/B6EZjKx.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Mundi FHD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/40268.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Mundi H265
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/62863.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://i.imgur.com/B6EZjKx.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Mundi HD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/36913.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP" tvg-logo="https://i.imgur.com/5YkOnWL.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO POP
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/37073.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP FHD" tvg-logo="https://i.imgur.com/5YkOnWL.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO POP FHD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/40270.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO POP H265
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/62866.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-logo="https://i.imgur.com/5YkOnWL.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO POP HD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/36911.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus" tvg-logo="https://i.imgur.com/AKrQpLY.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Plus
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/37084.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus E" tvg-logo="https://i.imgur.com/AKrQpLY.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Plus E
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/37083.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus FHD" tvg-logo="https://i.imgur.com/AKrQpLY.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Plus FHD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/41487.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Plus H265
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/62852.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://i.imgur.com/AKrQpLY.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Plus HD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/36963.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature" tvg-logo="https://i.imgur.com/yR8vTk8.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Signature
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/37082.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://i.imgur.com/yR8vTk8.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Signature FHD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/41488.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Signature FHD H265
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/986819.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://i.imgur.com/yR8vTk8.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Signature HD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/36962.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme" tvg-logo="https://i.imgur.com/KkyoQPI.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Xtreme
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/37075.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme E" tvg-logo="https://i.imgur.com/KkyoQPI.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Xtreme E
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/37074.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://i.imgur.com/KkyoQPI.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Xtreme FHD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/42901.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Xtreme H265
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/62865.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://i.imgur.com/KkyoQPI.png" tvg-country="Unknown" group-title="Canais | HBO" tvg-flag="",HBO Xtreme HD
+http://play.stmlist.vip:80/live/MailsonCCardoso/hrz3i4gwt1k/36912.ts

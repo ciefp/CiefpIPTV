@@ -1,0 +1,777 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" tvg-logo="http://picon.andtv.org/DE/zdf.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",ZDF
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27721.ts
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL (DE)" tvg-logo="http://picon.andtv.org/DE/rtl.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",RTL (DE)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27722.ts
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT. 1" tvg-logo="http://picon.andtv.org/DE/sat1hd.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",SAT. 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27723.ts
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DAS ERSTE" tvg-logo="http://picon.andtv.org/DE/daserste.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",DAS ERSTE
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27724.ts
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="PRO 7" tvg-logo="http://picon.andtv.org/DE/pro7hd.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",PRO 7
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27725.ts
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="KABEL EINS" tvg-logo="http://picon.andtv.org/DE/kabel1doku.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",KABEL EINS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27726.ts
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF NEO" tvg-logo="http://picon.andtv.org/DE/zdfneo.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",ZDF NEO
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27727.ts
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 (DE)" tvg-logo="http://picon.andtv.org/DE/rtl2.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",RTL 2 (DE)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27728.ts
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR" tvg-logo="http://picon.andtv.org/DE/wdrhd.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",WDR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27729.ts
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DAZN 1" tvg-logo="http://picon.andtv.org/SportWorld/dazn.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",DAZN 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27730.ts
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DAZN 2" tvg-logo="http://picon.andtv.org/SportWorld/dazn.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",DAZN 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27731.ts
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="SKY  1" tvg-logo="http://picon.andtv.org/SportWorld/zastavasky.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",SKY  1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27732.ts
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="SKY SPORT 1" tvg-logo="http://picon.andtv.org/SportWorld/skysports.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",SKY SPORT 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27733.ts
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="SKY SPORT 2" tvg-logo="http://picon.andtv.org/SportWorld/skysports.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",SKY SPORT 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27734.ts
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="SKY SPORT 3" tvg-logo="http://picon.andtv.org/SportWorld/skysports.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",SKY SPORT 3
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27735.ts
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="EUROSPORT 1 (DE)" tvg-logo="http://l2.mediaking.fi:8080/logoi/es1de.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",EUROSPORT 1 (DE)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27736.ts
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="EUROSPORT 2 (DE)" tvg-logo="http://l2.mediaking.fi:8080/logoi/es2de.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",EUROSPORT 2 (DE)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27737.ts
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="SKY BUNDESLIGA 1" tvg-logo="http://picon.andtv.org/SportWorld/zastavasky.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",SKY BUNDESLIGA 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27738.ts
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="SKY BUNDESLIGA 2" tvg-logo="http://picon.andtv.org/SportWorld/zastavasky.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",SKY BUNDESLIGA 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27739.ts
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="SKY BUNDESLIGA 3" tvg-logo="http://picon.andtv.org/SportWorld/zastavasky.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",SKY BUNDESLIGA 3
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27740.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT FILM" tvg-logo="http://picon.andtv.org/DE/tntfilm.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",TNT FILM
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27741.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON MOVIES 1 " tvg-logo="https://picon.andtv.org/DE/amazaonvideo.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",AMAZON MOVIES 1 
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27742.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON MOVIES 2" tvg-logo="https://picon.andtv.org/DE/amazaonvideo.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",AMAZON MOVIES 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27743.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 1 FHD (DE)" tvg-logo="http://picon.andtv.org/DE/skyselect1do10.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",SKY SELECT 1 FHD (DE)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27744.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 2 FHD (DE)" tvg-logo="http://picon.andtv.org/DE/skyselect1do10.png" tvg-country="Germany" group-title="GERMANY" tvg-flag="🇩🇪",SKY SELECT 2 FHD (DE)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27745.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="INFO KANAL" tvg-logo="http://144.76.182.124/exyulogo/exyu.png" tvg-country="Unknown" group-title="EXYU TV" tvg-flag="",INFO KANAL
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1526.ts
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1" tvg-logo="http://144.76.182.124/exyulogo/RTS1.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",RTS 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/112.ts
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 (Ultra HD)" tvg-logo="http://144.76.182.124/exyulogo/RTS1.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",RTS 1 (Ultra HD)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2927.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="http://144.76.182.124/exyulogo/hrt1.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",HRT 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/75.ts
+#EXTINF:-1 tvg-id="obn" tvg-name="OBN" tvg-logo="http://l2.mediaking.fi:8080/logoi/obn.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",OBN
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/66.ts
+#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="PRVA" tvg-logo="http://l2.mediaking.fi:8080/logoi/prva.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",PRVA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/109.ts
+#EXTINF:-1 tvg-id="pink" tvg-name="PINK" tvg-logo="http://144.76.182.124/exyulogo/pink.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",PINK
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/105.ts
+#EXTINF:-1 tvg-id="pink" tvg-name="PINK (Ultra HD)" tvg-logo="http://l2.mediaking.fi:8080/logoi/pink.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",PINK (Ultra HD)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/31543.ts
+#EXTINF:-1 tvg-id="nova-s" tvg-name="NOVA S" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/nova_s_logo.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",NOVA S
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/381.ts
+#EXTINF:-1 tvg-id="nova-s" tvg-name="NOVA S (Ultra HD)" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/nova_s_logo.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",NOVA S (Ultra HD)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/33782.ts
+#EXTINF:-1 tvg-id="nova-bh" tvg-name="NOVA BH" tvg-logo="http://144.76.182.124/exyulogo/novabh.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",NOVA BH
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/530.ts
+#EXTINF:-1 tvg-id="nova" tvg-name="NOVA HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/novahr.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",NOVA HR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/73.ts
+#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 SRB" tvg-logo="http://144.76.182.124/exyulogo/n1srb.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",N1 SRB
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/399.ts
+#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 HR" tvg-logo="http://144.76.182.124/exyulogo/n1hr.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",N1 HR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/107.ts
+#EXTINF:-1 tvg-id="n1" tvg-name="N1 BH" tvg-logo="http://144.76.182.124/exyulogo/n1bh.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",N1 BH
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/521.ts
+#EXTINF:-1 tvg-id="b92" tvg-name="B92" tvg-logo="http://l2.mediaking.fi:8080/logoi/b92.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",B92
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/106.ts
+#EXTINF:-1 tvg-id="bn" tvg-name="BN" tvg-logo="http://144.76.182.124/exyulogo/bntv.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",BN
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/65.ts
+#EXTINF:-1 tvg-id="bn-sat" tvg-name="BN 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/bn2.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",BN 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2756.ts
+#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtrs.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",RTRS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/64.ts
+#EXTINF:-1 tvg-id="rtrs-plus" tvg-name="RTRS PLUS" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtrsplus.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",RTRS PLUS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/63.ts
+#EXTINF:-1 tvg-id="bht1" tvg-name="BHT 1" tvg-logo="http://144.76.182.124/exyulogo/bht1.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",BHT 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/58.ts
+#EXTINF:-1 tvg-id="24vesti" tvg-name="24 VESTI" tvg-logo="http://144.76.182.124/exyulogo/24vesti.png" tvg-country="Unknown" group-title="MAKEDONIJA" tvg-flag="",24 VESTI
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/601.ts
+#EXTINF:-1 tvg-id="pink-3" tvg-name="VESTI" tvg-logo="http://144.76.182.124/exyulogo/vesti.jpg" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",VESTI
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/102.ts
+#EXTINF:-1 tvg-id="happytv" tvg-name="HAPPY" tvg-logo="http://l2.mediaking.fi:8080/logoi/happy.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",HAPPY
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/85.ts
+#EXTINF:-1 tvg-id="tanjug-tacno" tvg-name="TANJUG" tvg-logo="http://144.76.182.124/exyulogo/tanjug.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",TANJUG
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14128.ts
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/rts2.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",RTS 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/110.ts
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3" tvg-logo="http://l2.mediaking.fi:8080/logoi/rts3.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",RTS 3
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/145.ts
+#EXTINF:-1 tvg-id="rts-drama" tvg-name="RTS DRAMA" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtsdrama.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",RTS DRAMA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/902.ts
+#EXTINF:-1 tvg-id="rts-kolo" tvg-name="RTS KOLO" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtskolo.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",RTS KOLO
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/901.ts
+#EXTINF:-1 tvg-id="rts-muzika" tvg-name="RTS MUZIKA" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtsmuzika.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",RTS MUZIKA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/900.ts
+#EXTINF:-1 tvg-id="rts-sat" tvg-name="RTS SVET" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtssvet.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",RTS SVET
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1882.ts
+#EXTINF:-1 tvg-id="rts-trezor" tvg-name="RTS TREZOR" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtstrezor.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",RTS TREZOR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/899.ts
+#EXTINF:-1 tvg-id="rts-zivot" tvg-name="RTS ZIVOT" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtszivot.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",RTS ZIVOT
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/898.ts
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2" tvg-logo="http://144.76.182.124/exyulogo/hrt2.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",HRT 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/74.ts
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="http://144.76.182.124/exyulogo/HRT3.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",HRT 3
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/355.ts
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4" tvg-logo="http://144.76.182.124/exyulogo/hrt4.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",HRT 4
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/281.ts
+#EXTINF:-1 tvg-id="htv5" tvg-name="HRT Int." tvg-logo="http://l2.mediaking.fi:8080/logoi/hrtint.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",HRT Int.
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1529.ts
+#EXTINF:-1 tvg-id="vojvodina-1" tvg-name="RTV 1" tvg-logo="http://144.76.182.124/exyulogo/rtv1.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",RTV 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/165.ts
+#EXTINF:-1 tvg-id="vojvodina-2" tvg-name="RTV 2" tvg-logo="http://144.76.182.124/exyulogo/rtv2.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",RTV 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/164.ts
+#EXTINF:-1 tvg-id="prva-files" tvg-name="PRVA FILES" tvg-logo="http://l2.mediaking.fi:8080/logoi/prvafiles.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",PRVA FILES
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3664.ts
+#EXTINF:-1 tvg-id="prva-kick" tvg-name="PRVA KICK" tvg-logo="http://144.76.182.124/exyulogo/prvakick.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",PRVA KICK
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/598.ts
+#EXTINF:-1 tvg-id="prva-max" tvg-name="PRVA MAX" tvg-logo="http://l2.mediaking.fi:8080/logoi/prvamax.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",PRVA MAX
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/597.ts
+#EXTINF:-1 tvg-id="prva-plus" tvg-name="PRVA PLUS" tvg-logo="http://l2.mediaking.fi:8080/logoi/prvaplus.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",PRVA PLUS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/292.ts
+#EXTINF:-1 tvg-id="prva-world" tvg-name="PRVA WORLD" tvg-logo="http://l2.mediaking.fi:8080/logoi/prvaworld.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",PRVA WORLD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1495.ts
+#EXTINF:-1 tvg-id="kurir-tv" tvg-name="KURIR TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/kurir.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",KURIR TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2876.ts
+#EXTINF:-1 tvg-id="k1-tv" tvg-name="K1" tvg-logo="http://144.76.182.124/exyulogo/k1.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",K1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2757.ts
+#EXTINF:-1 tvg-id="pink-2" tvg-name="RED TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/redtv.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",RED TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/103.ts
+#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SUPERSTAR TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/supeerstar.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",SUPERSTAR TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/652.ts
+#EXTINF:-1 tvg-id="star-tv" tvg-name="SUPERSTAR TV 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/superstar2.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",SUPERSTAR TV 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/5272.ts
+#EXTINF:-1 tvg-id="idj-world-tv" tvg-name="IDJ TV" tvg-logo="http://144.76.182.124/exyulogo/idjtv.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",IDJ TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/609.ts
+#EXTINF:-1 tvg-id="toxic-tv" tvg-name="TOXIC TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/toxic.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",TOXIC TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3663.ts
+#EXTINF:-1 tvg-id="mtv-uk" tvg-name="MTV" tvg-logo="http://144.76.182.124/exyulogo/mtv.jpg" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",MTV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/161.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="MTV HITS" tvg-logo="http://l2.mediaking.fi:8080/logoi/mtvhits.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",MTV HITS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3681.ts
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL" tvg-logo="http://144.76.182.124/exyulogo/rtl.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",RTL
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/71.ts
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2" tvg-logo="http://144.76.182.124/exyulogo/rtl2.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",RTL 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/72.ts
+#EXTINF:-1 tvg-id="rtl-adria" tvg-name="RTL ADRIA" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtladria.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",RTL ADRIA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1921.ts
+#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL CRIME" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtlkrime.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",RTL CRIME
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1528.ts
+#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL LIVING" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtlliving.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",RTL LIVING
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/469.ts
+#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL PASSION" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtlpassion.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",RTL PASSION
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/905.ts
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV" tvg-logo="http://144.76.182.124/exyulogo/doma.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",DOMA TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/70.ts
+#EXTINF:-1 tvg-id="o-kanal" tvg-name="O KANAL" tvg-logo="http://l2.mediaking.fi:8080/logoi/okanal.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",O KANAL
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/268.ts
+#EXTINF:-1 tvg-id="hayat-tv" tvg-name="HAYAT" tvg-logo="http://l2.mediaking.fi:8080/logoi/hayat.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",HAYAT
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/61.ts
+#EXTINF:-1 tvg-id="hayat-plus" tvg-name="HAYAT 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/hayat2.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",HAYAT 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/60.ts
+#EXTINF:-1 tvg-id="minitv" tvg-name="MINI TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/minitiv.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",MINI TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/160.ts
+#EXTINF:-1 tvg-id="babytv" tvg-name="BABY TV" tvg-logo="http://144.76.182.124/exyulogo/babytv.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",BABY TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/267.ts
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR." tvg-logo="http://144.76.182.124/exyulogo/nickjr.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",NICK JR.
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/587.ts
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-logo="http://144.76.182.124/exyulogo/nickelodeon.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",NICKELODEON
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/169.ts
+#EXTINF:-1 tvg-id="hayatovci" tvg-name="HAYATOVCI" tvg-logo="http://144.76.182.124/exyulogo/hayatovci.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",HAYATOVCI
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/596.ts
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24KITCHEN" tvg-logo="http://144.76.182.124/exyulogo/24kitchen.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",24KITCHEN
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/77.ts
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL KOCKICA" tvg-logo="http://144.76.182.124/exyulogo/rtlkockica.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",RTL KOCKICA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/599.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="MASA I MEDVED" tvg-logo="http://144.76.182.124/exyulogo/masa.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",MASA I MEDVED
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/903.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEPA PRASE" tvg-logo="http://serv.mediaking.fi:8080/images/281ffbf5eb2a3916b9c1eb8f28637836.jpeg" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",PEPA PRASE
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1497.ts
+#EXTINF:-1 tvg-id="pikaboo" tvg-name="PIKABOO" tvg-logo="http://144.76.182.124/exyulogo/pikaboo.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",PIKABOO
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/600.ts
+#EXTINF:-1 tvg-id="minimax" tvg-name="MINIMAX" tvg-logo="http://l2.mediaking.fi:8080/logoi/minimax.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",MINIMAX
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/586.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="IDJ KIDS" tvg-logo="http://185.32.222.175:8080/logo/idjkids.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",IDJ KIDS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1890.ts
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="DA VINCI KIDS" tvg-logo="http://l2.mediaking.fi:8080/logoi/davinci.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",DA VINCI KIDS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3665.ts
+#EXTINF:-1 tvg-id="ftv" tvg-name="FEDERALNA TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/ftv.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",FEDERALNA TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/57.ts
+#EXTINF:-1 tvg-id="alfa-tv" tvg-name="ALFA TV" tvg-logo="http://144.76.182.124/exyulogo/alfabih.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",ALFA TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/284.ts
+#EXTINF:-1 tvg-id="face-tv" tvg-name="FACE TV" tvg-logo="http://144.76.182.124/exyulogo/face.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",FACE TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/59.ts
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="PLAVA VINKOVACKA" tvg-logo="http://l2.mediaking.fi:8080/logoi/plavavinkovacka.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",PLAVA VINKOVACKA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/299.ts
+#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV" tvg-logo="http://144.76.182.124/exyulogo/otv.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",OTV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2892.ts
+#EXTINF:-1 tvg-id="ostv" tvg-name="OSJECKA" tvg-logo="http://144.76.182.124/exyulogo/osjecka.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",OSJECKA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/607.ts
+#EXTINF:-1 tvg-id="tv-sarajevo" tvg-name="TV SARAJEVO" tvg-logo="http://144.76.182.124/exyulogo/tvsarajevo.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",TV SARAJEVO
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/616.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="AL JAZEERA" tvg-logo="http://144.76.182.124/exyulogo/aljazeera.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",AL JAZEERA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/56.ts
+#EXTINF:-1 tvg-id="z1" tvg-name="Z1" tvg-logo="http://l2.mediaking.fi:8080/logoi/z1.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",Z1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2721.ts
+#EXTINF:-1 tvg-id="ntv-ic" tvg-name="NTV IC KAKANJ" tvg-logo="http://l2.mediaking.fi:8080/logoi/kakanj.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",NTV IC KAKANJ
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2888.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="POSAVINA TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/posavina.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",POSAVINA TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/608.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="MOJA TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/mojatv.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",MOJA TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2720.ts
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="ARENA PREMIUM 1" tvg-logo="http://144.76.182.124/exyulogo/arenap1.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA PREMIUM 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/4095.ts
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="ARENA PREMIUM 1 (Ultra HD)" tvg-logo="http://144.76.182.124/exyulogo/arenap1.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA PREMIUM 1 (Ultra HD)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/30270.ts
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="ARENA PREMIUM 2" tvg-logo="http://144.76.182.124/exyulogo/arenap2.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA PREMIUM 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/4096.ts
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="ARENA PREMIUM 2 (Ultra HD)" tvg-logo="http://144.76.182.124/exyulogo/arenap2.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA PREMIUM 2 (Ultra HD)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/31677.ts
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="ARENA PREMIUM 3" tvg-logo="http://144.76.182.124/exyulogo/arenap3.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA PREMIUM 3
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/4097.ts
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="ARENA PREMIUM 3 (Ultra HD)" tvg-logo="http://144.76.182.124/exyulogo/arenap3.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA PREMIUM 3 (Ultra HD)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41348.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA PREMIUM 4" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA PREMIUM 4
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42444.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA PREMIUM 5" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA PREMIUM 5
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42445.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA ADRENALIN" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA ADRENALIN
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42446.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA TENIS" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA TENIS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42447.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1X2" tvg-logo="http://l2.mediaking.fi:8080/logoi/arena1x2.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 1X2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38979.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="ARENA SPORT 1" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars1.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/10.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="ARENA SPORT 1 (Ultra HD)" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 1 (Ultra HD)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41345.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ARENA SPORT 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars2.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/9.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ARENA SPORT 2 (Ultra HD)" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 2 (Ultra HD)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41346.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="ARENA SPORT 3" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars3.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 3
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/8.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="ARENA SPORT 4" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars4.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 4
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/7.ts
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="ARENA SPORT 5" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars5.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 5
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 6" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 6
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41335.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 7" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 7
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41336.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 8" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 8
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41337.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 9" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 9
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41338.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 10" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 10
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41339.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="SPORT KLUB 1" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",SPORT KLUB 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41340.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="SPORT KLUB 2" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",SPORT KLUB 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41341.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",SPORT KLUB 3
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41342.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",SPORT KLUB 4
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41343.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 5" tvg-logo="" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",SPORT KLUB 5
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41344.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="ARENA SPORT 1 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr1.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 1 HR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/11.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="ARENA SPORT 2 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr2.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 2 HR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/522.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="ARENA SPORT 3 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr3.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 3 HR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/523.ts
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="ARENA SPORT 4 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr4.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 4 HR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/524.ts
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="ARENA SPORT 5 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr5.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 5 HR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/525.ts
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="ARENA SPORT 6 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/as6hr.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 6 HR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2940.ts
+#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-name="ARENA SPORT 7 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr7.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 7 HR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3773.ts
+#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-name="ARENA SPORT 8 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr8.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 8 HR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3774.ts
+#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-name="ARENA SPORT 9 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr9.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 9 HR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3775.ts
+#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-name="ARENA SPORT 10 HR" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenahr10.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 10 HR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3776.ts
+#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-name="ARENA SPORT 1 BH" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenabh1.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT 1 BH
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3694.ts
+#EXTINF:-1 tvg-id="eurosport" tvg-name="EUROSPORT 1" tvg-logo="http://l2.mediaking.fi:8080/logoi/eurosport1.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",EUROSPORT 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/4.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (Ultra HD)" tvg-logo="http://l2.mediaking.fi:8080/logoi/eurosport1.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",EUROSPORT 1 (Ultra HD)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/44067.ts
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="EUROSPORT 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/eurosport2.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",EUROSPORT 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/5.ts
+#EXTINF:-1 tvg-id="maxsport-1" tvg-name="MAX SPORT 1" tvg-logo="http://l2.mediaking.fi:8080/logoi/maxsport1.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",MAX SPORT 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14218.ts
+#EXTINF:-1 tvg-id="maxsport-2" tvg-name="MAX SPORT 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/maxsport2.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",MAX SPORT 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14219.ts
+#EXTINF:-1 tvg-id="arena-fight" tvg-name="ARENA SPORT FIGHT" tvg-logo="http://144.76.182.124/exyulogo/arenafight.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA SPORT FIGHT
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3899.ts
+#EXTINF:-1 tvg-id="nova-sport-rs" tvg-name="NOVA SPORT" tvg-logo="http://l2.mediaking.fi:8080/logoi/novasport.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",NOVA SPORT
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1513.ts
+#EXTINF:-1 tvg-id="fight-network" tvg-name="FIGHT NETWORK" tvg-logo="http://l2.mediaking.fi:8080/logoi/fightnetwork.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",FIGHT NETWORK
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="ZVEZDA TV" tvg-logo="http://185.32.222.175:8080/logo/Zvezda-TV1.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ZVEZDA TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3471.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="PARTIZAN TV" tvg-logo="http://185.32.222.175:8080/logo/Partizan-TV1.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",PARTIZAN TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3472.ts
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="GRAND" tvg-logo="http://l2.mediaking.fi:8080/logoi/grandtv.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",GRAND
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/46.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="GRAND 2" tvg-logo="http://144.76.182.124/exyulogo/grand2.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",GRAND 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/401.ts
+#EXTINF:-1 tvg-id="dmsat" tvg-name="DM SAT" tvg-logo="http://144.76.182.124/exyulogo/dmsat.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",DM SAT
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/37.ts
+#EXTINF:-1 tvg-id="hayat-folk" tvg-name="HAYAT FOLK" tvg-logo="http://l2.mediaking.fi:8080/logoi/hayatfolk.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",HAYAT FOLK
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/35.ts
+#EXTINF:-1 tvg-id="hayat-music" tvg-name="HAYAT MUSIC" tvg-logo="http://144.76.182.124/exyulogo/hayatmusic.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",HAYAT MUSIC
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/615.ts
+#EXTINF:-1 tvg-id="bn-music" tvg-name="BN MUSIC" tvg-logo="http://l2.mediaking.fi:8080/logoi/bnmusic.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",BN MUSIC
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/40.ts
+#EXTINF:-1 tvg-id="pink-action" tvg-name="PINK ACTION" tvg-logo="http://l2.mediaking.fi:8080/logoi/pinkaction.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK ACTION
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/86.ts
+#EXTINF:-1 tvg-id="pink-bih" tvg-name="PINK BH" tvg-logo="http://144.76.182.124/exyulogo/pinkbh.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK BH
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1514.ts
+#EXTINF:-1 tvg-id="pink-classic" tvg-name="PINK CLASSIC" tvg-logo="http://144.76.182.124/exyulogo/pinkc.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK CLASSIC
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1515.ts
+#EXTINF:-1 tvg-id="pink-comedy" tvg-name="PINK COMEDY" tvg-logo="http://l2.mediaking.fi:8080/logoi/pinkcomedy.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK COMEDY
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/93.ts
+#EXTINF:-1 tvg-id="pink-action-3" tvg-name="PINK CRIME & MYSTERY" tvg-logo="http://144.76.182.124/exyulogo/pinkcrime&mistery.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK CRIME & MYSTERY
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/584.ts
+#EXTINF:-1 tvg-id="pink-extra" tvg-name="PINK EXTRA" tvg-logo="http://144.76.182.124/exyulogo/pinkextra.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK EXTRA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/101.ts
+#EXTINF:-1 tvg-id="pink-family" tvg-name="PINK FAMILY" tvg-logo="http://144.76.182.124/exyulogo/pinkfamily.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK FAMILY
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1516.ts
+#EXTINF:-1 tvg-id="pink-film" tvg-name="PINK FILM" tvg-logo="http://144.76.182.124/exyulogo/pinkfilm.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK FILM
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/100.ts
+#EXTINF:-1 tvg-id="pink-folk" tvg-name="PINK FOLK 1" tvg-logo="http://144.76.182.124/exyulogo/pinkfolk.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",PINK FOLK 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2754.ts
+#EXTINF:-1 tvg-id="pink-folk-2" tvg-name="PINK FOLK 2" tvg-logo="http://144.76.182.124/exyulogo/pinkfolk2.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",PINK FOLK 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/36.ts
+#EXTINF:-1 tvg-id="pink-ha-ha" tvg-name="PINK HA HA" tvg-logo="http://l2.mediaking.fi:8080/logoi/pinkhaha.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK HA HA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/583.ts
+#EXTINF:-1 tvg-id="pink-hits" tvg-name="PINK HITS" tvg-logo="http://144.76.182.124/exyulogo/hits.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",PINK HITS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2753.ts
+#EXTINF:-1 tvg-id="pink-hits-2" tvg-name="PINK HITS 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/pinkhits2.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",PINK HITS 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1506.ts
+#EXTINF:-1 tvg-id="pink-horror" tvg-name="PINK HORROR" tvg-logo="http://144.76.182.124/exyulogo/pinkhorror.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK HORROR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/90.ts
+#EXTINF:-1 tvg-id="pink-kids" tvg-name="PINK KIDS" tvg-logo="http://l2.mediaking.fi:8080/logoi/pinkkids.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK KIDS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/87.ts
+#EXTINF:-1 tvg-id="pink-koncert" tvg-name="PINK KONCERT" tvg-logo="http://144.76.182.124/exyulogo/Pinkkoncert.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",PINK KONCERT
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/208.ts
+#EXTINF:-1 tvg-id="pink-kuvar" tvg-name="PINK KUVAR" tvg-logo="http://l2.mediaking.fi:8080/logoi/pinkkuvar.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK KUVAR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/271.ts
+#EXTINF:-1 tvg-id="pink-lol" tvg-name="PINK LOL" tvg-logo="http://144.76.182.124/exyulogo/pinklol.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK LOL
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/582.ts
+#EXTINF:-1 tvg-id="pink-m" tvg-name="PINK M" tvg-logo="http://144.76.182.124/exyulogo/pinkm.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK M
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/626.ts
+#EXTINF:-1 tvg-id="pink-movies" tvg-name="PINK MOVIES" tvg-logo="http://144.76.182.124/exyulogo/pinkmovies.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK MOVIES
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/97.ts
+#EXTINF:-1 tvg-id="pink-music" tvg-name="PINK MUSIC" tvg-logo="http://144.76.182.124/exyulogo/pinkmusic.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",PINK MUSIC
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/45.ts
+#EXTINF:-1 tvg-id="pink-music-2" tvg-name="PINK MUSIC 2" tvg-logo="http://144.76.182.124/exyulogo/pinkmusic2.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",PINK MUSIC 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/166.ts
+#EXTINF:-1 tvg-id="pink-pedia" tvg-name="PINK PEDIA" tvg-logo="http://l2.mediaking.fi:8080/logoi/pinkpedia.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK PEDIA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/88.ts
+#EXTINF:-1 tvg-id="pink-plus" tvg-name="PINK PLUS" tvg-logo="http://144.76.182.124/exyulogo/pinkplus.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK PLUS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/99.ts
+#EXTINF:-1 tvg-id="pink-premium" tvg-name="PINK PREMIUM" tvg-logo="http://144.76.182.124/exyulogo/pinkpremium.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK PREMIUM
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/98.ts
+#EXTINF:-1 tvg-id="pink-reality" tvg-name="PINK REALITY" tvg-logo="http://144.76.182.124/exyulogo/pinkreality.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK REALITY
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/94.ts
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-name="PINK ROMANCE" tvg-logo="http://144.76.182.124/exyulogo/romance.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK ROMANCE
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1505.ts
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-name="PINK SCI-FI & FANTASY" tvg-logo="http://144.76.182.124/exyulogo/pinkscifi.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK SCI-FI & FANTASY
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/580.ts
+#EXTINF:-1 tvg-id="pink-serije" tvg-name="PINK SERIJE" tvg-logo="http://l2.mediaking.fi:8080/logoi/pinkserije.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK SERIJE
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/96.ts
+#EXTINF:-1 tvg-id="pink-show" tvg-name="PINK SHOW" tvg-logo="http://144.76.182.124/exyulogo/pinkshow.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK SHOW
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/633.ts
+#EXTINF:-1 tvg-id="pink-soap" tvg-name="PINK SOAP" tvg-logo="http://144.76.182.124/exyulogo/pinksoap.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK SOAP
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/91.ts
+#EXTINF:-1 tvg-id="pink-style" tvg-name="PINK STYLE" tvg-logo="http://144.76.182.124/exyulogo/pinkstyle.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK STYLE
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1920.ts
+#EXTINF:-1 tvg-id="pink-super-kids" tvg-name="PINK SUPER KIDS" tvg-logo="http://144.76.182.124/exyulogo/pinksuperkids.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK SUPER KIDS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/585.ts
+#EXTINF:-1 tvg-id="pink-action-2" tvg-name="PINK THRILLER" tvg-logo="http://144.76.182.124/exyulogo/pinkthriller.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK THRILLER
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/95.ts
+#EXTINF:-1 tvg-id="pink-western" tvg-name="PINK WESTERN" tvg-logo="http://144.76.182.124/exyulogo/pinkwestern.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK WESTERN
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/89.ts
+#EXTINF:-1 tvg-id="pink-world" tvg-name="PINK WORLD" tvg-logo="http://l2.mediaking.fi:8080/logoi/pinkworld.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK WORLD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/581.ts
+#EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="PINK WORLD CINEMA" tvg-logo="http://l2.mediaking.fi:8080/logoi/pinkworldcinema.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK WORLD CINEMA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14217.ts
+#EXTINF:-1 tvg-id="pink-zabava" tvg-name="PINK ZABAVA" tvg-logo="http://144.76.182.124/exyulogo/pinkzabava.png" tvg-country="Unknown" group-title="PINK PAKET" tvg-flag="",PINK ZABAVA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/92.ts
+#EXTINF:-1 tvg-id="novi-pazar" tvg-name="NOVI PAZAR" tvg-logo="http://l2.mediaking.fi:8080/logoi/novipazar.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",NOVI PAZAR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/291.ts
+#EXTINF:-1 tvg-id="kopernikus" tvg-name="KCN 1" tvg-logo="http://144.76.182.124/exyulogo/kcn1.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",KCN 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/279.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="KCN 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/kcn2.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",KCN 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/280.ts
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="http://l2.mediaking.fi:8080/logoi/amc.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",AMC
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/260.ts
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="DISNEY CHANNEL" tvg-logo="http://144.76.182.124/exyulogo/disney.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",DISNEY CHANNEL
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1889.ts
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="http://l2.mediaking.fi:8080/logoi/hbo.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",HBO
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/81.ts
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2" tvg-logo="http://144.76.182.124/exyulogo/hbo2.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",HBO 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/273.ts
+#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3" tvg-logo="http://144.76.182.124/exyulogo/hbo3.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",HBO 3
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/274.ts
+#EXTINF:-1 tvg-id="fox" tvg-name="STAR" tvg-logo="http://l2.mediaking.fi:8080/logoi/star.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",STAR
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/148.ts
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="STAR CRIME" tvg-logo="http://l2.mediaking.fi:8080/logoi/starcrime.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",STAR CRIME
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/210.ts
+#EXTINF:-1 tvg-id="fox-life" tvg-name="STAR LIFE" tvg-logo="http://l2.mediaking.fi:8080/logoi/starlife.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",STAR LIFE
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/147.ts
+#EXTINF:-1 tvg-id="fox-movies" tvg-name="STAR MOVIES" tvg-logo="http://l2.mediaking.fi:8080/logoi/starmovies.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",STAR MOVIES
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/277.ts
+#EXTINF:-1 tvg-id="pickbox-tv" tvg-name="PICKBOX" tvg-logo="http://l2.mediaking.fi:8080/logoi/pickbox.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",PICKBOX
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14158.ts
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="http://l2.mediaking.fi:8080/logoi/Cinemax.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",CINEMAX
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/275.ts
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="CINEMAX 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/cinemax2.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",CINEMAX 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/276.ts
+#EXTINF:-1 tvg-id="cinestar-tv-rs" tvg-name="CINESTAR TV 1" tvg-logo="http://l2.mediaking.fi:8080/logoi/cinestartv1.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",CINESTAR TV 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2935.ts
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CINESTAR TV 2" tvg-logo="http://144.76.182.124/exyulogo/cinestartv2.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",CINESTAR TV 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2936.ts
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CINESTAR TV PREMIERE 1" tvg-logo="http://144.76.182.124/exyulogo/CINESTAR1.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",CINESTAR TV PREMIERE 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/370.ts
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CINESTAR TV PREMIERE 2" tvg-logo="http://144.76.182.124/exyulogo/cinestar2.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",CINESTAR TV PREMIERE 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/371.ts
+#EXTINF:-1 tvg-id="cinestar-action-thriller-rs" tvg-name="CINESTAR TV ACTION" tvg-logo="http://144.76.182.124/exyulogo/cinestaraction.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",CINESTAR TV ACTION
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/713.ts
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="CINESTAR TV FANTASY" tvg-logo="http://l2.mediaking.fi:8080/logoi/cinestartvfantasy.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",CINESTAR TV FANTASY
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2937.ts
+#EXTINF:-1 tvg-id="cinemania" tvg-name="CINEMANIA" tvg-logo="http://l2.mediaking.fi:8080/logoi/cinemania.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",CINEMANIA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/82.ts
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA" tvg-logo="http://144.76.182.124/exyulogo/diva.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",DIVA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3679.ts
+#EXTINF:-1 tvg-id="kinotv" tvg-name="KINO TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/kinotv.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",KINO TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1496.ts
+#EXTINF:-1 tvg-id="klasiktv" tvg-name="KLASIK TV" tvg-logo="http://144.76.182.124/exyulogo/klasik.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",KLASIK TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/69.ts
+#EXTINF:-1 tvg-id="discovery-animal" tvg-name="ANIMAL PLANET" tvg-logo="http://l2.mediaking.fi:8080/logoi/animalplanet.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",ANIMAL PLANET
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/149.ts
+#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC EARTH" tvg-logo="http://144.76.182.124/exyulogo/bbcearth.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",BBC EARTH
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1888.ts
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://l2.mediaking.fi:8080/logoi/crime+investigation+uk.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",CRIME & INVESTIGATION
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/269.ts
+#EXTINF:-1 tvg-id="discovery-europe" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://l2.mediaking.fi:8080/logoi/discovery.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",DISCOVERY CHANNEL
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/78.ts
+#EXTINF:-1 tvg-id="history-channel" tvg-name="HISTORY" tvg-logo="http://l2.mediaking.fi:8080/logoi/historychannel.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",HISTORY
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/203.ts
+#EXTINF:-1 tvg-id="history-channel-2" tvg-name="HISTORY 2" tvg-logo="http://144.76.182.124/exyulogo/history2.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",HISTORY 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/589.ts
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-name="LOV I RIBOLOV" tvg-logo="http://144.76.182.124/exyulogo/loviribolov.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",LOV I RIBOLOV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/68.ts
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://144.76.182.124/exyulogo/natgeo.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",NATIONAL GEOGRAPHIC CHANNEL
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/79.ts
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="NAT GEO WILD" tvg-logo="http://144.76.182.124/exyulogo/natgeowild.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",NAT GEO WILD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/588.ts
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="VIASAT EXPLORE" tvg-logo="http://144.76.182.124/exyulogo/explorer-viasat.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",VIASAT EXPLORE
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/301.ts
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIASAT HISTORY" tvg-logo="http://144.76.182.124/exyulogo/Viasat_History.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",VIASAT HISTORY
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/302.ts
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIASAT NATURE" tvg-logo="http://144.76.182.124/exyulogo/Viasat_Nature.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",VIASAT NATURE
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/303.ts
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="TRAVEL CHANNEL" tvg-logo="http://144.76.182.124/exyulogo/travel.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",TRAVEL CHANNEL
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/159.ts
+#EXTINF:-1 tvg-id="dox-tv" tvg-name="DOX TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/doxtv.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",DOX TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14157.ts
+#EXTINF:-1 tvg-id="tlc-uk" tvg-name="TLC" tvg-logo="http://144.76.182.124/exyulogo/tlc.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",TLC
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/157.ts
+#EXTINF:-1 tvg-id="entertainment" tvg-name="E!" tvg-logo="http://l2.mediaking.fi:8080/logoi/e.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",E!
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/611.ts
+#EXTINF:-1 tvg-id="studio-b-yu" tvg-name="STUDIO B" tvg-logo="http://l2.mediaking.fi:8080/logoi/studiob.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",STUDIO B
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/83.ts
+#EXTINF:-1 tvg-id="mrt1" tvg-name="MRT 1" tvg-logo="http://l2.mediaking.fi:8080/logoi/mrt1.png" tvg-country="Unknown" group-title="MAKEDONIJA" tvg-flag="",MRT 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/48.ts
+#EXTINF:-1 tvg-id="mrt2" tvg-name="MRT 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/mrt2.png" tvg-country="Unknown" group-title="MAKEDONIJA" tvg-flag="",MRT 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/602.ts
+#EXTINF:-1 tvg-id="mrt-3-mk" tvg-name="MRT 3" tvg-logo="http://l2.mediaking.fi:8080/logoi/mrt3.png" tvg-country="Unknown" group-title="MAKEDONIJA" tvg-flag="",MRT 3
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/614.ts
+#EXTINF:-1 tvg-id="kanal5" tvg-name="KANAL 5" tvg-logo="http://144.76.182.124/exyulogo/kanal5mk.png" tvg-country="Unknown" group-title="MAKEDONIJA" tvg-flag="",KANAL 5
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/53.ts
+#EXTINF:-1 tvg-id="telma" tvg-name="TELMA" tvg-logo="http://144.76.182.124/exyulogo/telma.png" tvg-country="Unknown" group-title="MAKEDONIJA" tvg-flag="",TELMA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/52.ts
+#EXTINF:-1 tvg-id="televizija-alfa" tvg-name="ALFA TV MK" tvg-logo="http://l2.mediaking.fi:8080/logoi/alfatv.png" tvg-country="Unknown" group-title="MAKEDONIJA" tvg-flag="",ALFA TV MK
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/51.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="KUMANOVO TV" tvg-logo="http://185.32.222.175:8080/logo/kumanovo.png" tvg-country="Unknown" group-title="MAKEDONIJA" tvg-flag="",KUMANOVO TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/605.ts
+#EXTINF:-1 tvg-id="sitel" tvg-name="SITEL" tvg-logo="http://144.76.182.124/exyulogo/sitel.png" tvg-country="Unknown" group-title="MAKEDONIJA" tvg-flag="",SITEL
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/54.ts
+#EXTINF:-1 tvg-id="tvcg1" tvg-name="RTCG 1" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtcg1.png" tvg-country="Unknown" group-title="CRNA GORA" tvg-flag="",RTCG 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/627.ts
+#EXTINF:-1 tvg-id="tvcg2" tvg-name="RTCG 2" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtcg2.png" tvg-country="Unknown" group-title="CRNA GORA" tvg-flag="",RTCG 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/606.ts
+#EXTINF:-1 tvg-id="tvcg-sat" tvg-name="RTCG SAT" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtcgsat.png" tvg-country="Unknown" group-title="CRNA GORA" tvg-flag="",RTCG SAT
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/84.ts
+#EXTINF:-1 tvg-id="prva-max" tvg-name="PRVA M" tvg-logo="http://185.32.222.175:8080/logo/prvam.png" tvg-country="Unknown" group-title="CRNA GORA" tvg-flag="",PRVA M
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/610.ts
+#EXTINF:-1 tvg-id="nova-m" tvg-name="NOVA M" tvg-logo="http://l2.mediaking.fi:8080/logoi/novam.png" tvg-country="Unknown" group-title="CRNA GORA" tvg-flag="",NOVA M
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1870.ts
+#EXTINF:-1 tvg-id="tv-vijesti" tvg-name="TV VIJESTI" tvg-logo="http://l2.mediaking.fi:8080/logoi/tvvijesti.png" tvg-country="Unknown" group-title="CRNA GORA" tvg-flag="",TV VIJESTI
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1508.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="PALMA PLUS" tvg-logo="http://l2.mediaking.fi:8080/logoi/palmaplus.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",PALMA PLUS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/80.ts
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-logo="http://l2.mediaking.fi:8080/logoi/atv.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",ATV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/62.ts
+#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV VALENTINO" tvg-logo="http://144.76.182.124/exyulogo/otvvalentino.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",OTV VALENTINO
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/146.ts
+#EXTINF:-1 tvg-id="tv-duga-sat" tvg-name="TV DUGA PLUS" tvg-logo="http://l2.mediaking.fi:8080/logoi/tv_duga_plus.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",TV DUGA PLUS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/34.ts
+#EXTINF:-1 tvg-id="balkanika" tvg-name="BALKANIKA" tvg-logo="http://144.76.182.124/exyulogo/balkanika.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",BALKANIKA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/44.ts
+#EXTINF:-1 tvg-id="mtv-igman" tvg-name="MTV IGMAN" tvg-logo="http://144.76.182.124/exyulogo/igmantv.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",MTV IGMAN
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/528.ts
+#EXTINF:-1 tvg-id="izvorna-tv" tvg-name="IZVORNA TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/izvorna.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",IZVORNA TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/624.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="GLAS DRINE" tvg-logo="http://144.76.182.124/exyulogo/gd.jpeg" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",GLAS DRINE
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/622.ts
+#EXTINF:-1 tvg-id="tv-hram" tvg-name="TV HRAM" tvg-logo="http://144.76.182.124/exyulogo/hram.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",TV HRAM
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1412.ts
+#EXTINF:-1 tvg-id="cmc" tvg-name="CMC MUSIC" tvg-logo="http://l2.mediaking.fi:8080/logoi/cmc.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",CMC MUSIC
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1527.ts
+#EXTINF:-1 tvg-id="laudato-tv" tvg-name="LAUDATO TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/laudato.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",LAUDATO TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1531.ts
+#EXTINF:-1 tvg-id="rtv-ze" tvg-name="RTV ZENICA" tvg-logo="http://144.76.182.124/exyulogo/zenica.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",RTV ZENICA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1946.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="SANDZAK TV" tvg-logo="http://144.76.182.124/exyulogo/sandzak.jpeg" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",SANDZAK TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2088.ts
+#EXTINF:-1 tvg-id="sevdah-tv" tvg-name="SEVDAH TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/sevdahtv.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",SEVDAH TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/4185.ts
+#EXTINF:-1 tvg-id="una-tv" tvg-name="UNA TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/unatv.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",UNA TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/4395.ts
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 - SD" tvg-logo="http://144.76.182.124/exyulogo/RTS1.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",RTS 1 - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2544.ts
+#EXTINF:-1 tvg-id="pink" tvg-name="PINK - SD" tvg-logo="http://l2.mediaking.fi:8080/logoi/pink.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",PINK - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2547.ts
+#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="PRVA - SD" tvg-logo="http://l2.mediaking.fi:8080/logoi/prva.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",PRVA - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2551.ts
+#EXTINF:-1 tvg-id="nova" tvg-name="NOVA HR - SD" tvg-logo="http://l2.mediaking.fi:8080/logoi/novahr.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",NOVA HR - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2545.ts
+#EXTINF:-1 tvg-id="b92" tvg-name="B92 - SD" tvg-logo="http://l2.mediaking.fi:8080/logoi/b92.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",B92 - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14452.ts
+#EXTINF:-1 tvg-id="blictv" tvg-name="BLIC TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/blic.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",BLIC TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15583.ts
+#EXTINF:-1 tvg-id="insta-tv" tvg-name="NARODNA TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/narodnatv.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",NARODNA TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15694.ts
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000" tvg-logo="https://www.viasatworld.com/media/1431/tv1000_balkan_rgb-vw.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",TV 1000
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15695.ts
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN SPIN" tvg-logo="http://l2.mediaking.fi:8080/logoi/axnspin.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",AXN SPIN
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15696.ts
+#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DOCU BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",DOCU BOX
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15697.ts
+#EXTINF:-1 tvg-id="rtl-croworld" tvg-name="RTL CROATIA WORLD" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtlcroatiaworld.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",RTL CROATIA WORLD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15698.ts
+#EXTINF:-1 tvg-id="doku-tv" tvg-name="DOKU TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/doku.png" tvg-country="Unknown" group-title="DOKUMENTARNI" tvg-flag="",DOKU TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15700.ts
+#EXTINF:-1 tvg-id="filmbox-plus" tvg-name="FILM BOX STARS" tvg-logo="https://tvprofil.com/img/kanali-logo/FilmboxStars_Black.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",FILM BOX STARS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15701.ts
+#EXTINF:-1 tvg-id="b1-tv" tvg-name="B1 TV" tvg-logo="https://tvprofil.com/img/kanali-logo/b1tv-logo.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",B1 TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15702.ts
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="ARENA PREMIUM 1 - SD" tvg-logo="http://144.76.182.124/exyulogo/arenap1.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",ARENA PREMIUM 1 - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15708.ts
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="ARENA PREMIUM 2 - SD" tvg-logo="http://144.76.182.124/exyulogo/arenap2.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",ARENA PREMIUM 2 - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15709.ts
+#EXTINF:-1 tvg-id="epic-drama" tvg-name="EPIC DRAMA" tvg-logo="http://l2.mediaking.fi:8080/logoi/epicdrama.png" tvg-country="Unknown" group-title="FILMSKI" tvg-flag="",EPIC DRAMA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15704.ts
+#EXTINF:-1 tvg-id="n1" tvg-name="N1 BH - SD" tvg-logo="http://144.76.182.124/exyulogo/n1bh.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",N1 BH - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15740.ts
+#EXTINF:-1 tvg-id="nova-s" tvg-name="NOVA S - SD" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/nova_s_logo.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",NOVA S - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15741.ts
+#EXTINF:-1 tvg-id="hayat-tv" tvg-name="HAYAT - SD" tvg-logo="http://l2.mediaking.fi:8080/logoi/hayat.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",HAYAT - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15742.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 - SD" tvg-logo="http://144.76.182.124/exyulogo/hrt1.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",HRT 1 - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15751.ts
+#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 SRB - SD" tvg-logo="http://144.76.182.124/exyulogo/n1srb.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",N1 SRB - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/18485.ts
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL - SD" tvg-logo="http://144.76.182.124/exyulogo/rtl.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",RTL - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/18554.ts
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV - SD" tvg-logo="http://144.76.182.124/exyulogo/doma.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",DOMA TV - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/18558.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ARENA SPORT 1 - SD" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars1.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",ARENA SPORT 1 - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/19384.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ARENA SPORT 2 - SD" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenars2.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",ARENA SPORT 2 - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/19385.ts
+#EXTINF:-1 tvg-id="happytv" tvg-name="HAPPY - SD" tvg-logo="http://l2.mediaking.fi:8080/logoi/happy.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",HAPPY - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/19386.ts
+#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS - SD" tvg-logo="http://l2.mediaking.fi:8080/logoi/rtrs.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",RTRS - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/19387.ts
+#EXTINF:-1 tvg-id="bn" tvg-name="BN - SD" tvg-logo="http://144.76.182.124/exyulogo/bntv.png" tvg-country="Unknown" group-title="KANALI U SD KVALITETU" tvg-flag="",BN - SD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/19388.ts
+#EXTINF:-1 tvg-id="11" tvg-name="SPORTSKA TELEVIZIJA HD" tvg-logo="http://l2.mediaking.fi:8080/logoi/sportskatv.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",SPORTSKA TELEVIZIJA HD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/20864.ts
+#EXTINF:-1 tvg-id="" tvg-name="STV HD" tvg-logo="http://185.32.222.175:8080/logo/stv.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",STV HD
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/20865.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 ISLAM" tvg-logo="http://185.32.222.175:8080/logo/tv5islam.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",TV 5 ISLAM
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/20982.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="BALKAN TRIP " tvg-logo="http://l2.mediaking.fi:8080/logoi/balkantrip.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",BALKAN TRIP 
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/16947.ts
+#EXTINF:-1 tvg-id="" tvg-name="INFORMER TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/informer.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",INFORMER TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/25896.ts
+#EXTINF:-1 tvg-id="arena-sport-1-premium-bih" tvg-name="ARENA PREMIUM 1 BH" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenapremium1bh.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA PREMIUM 1 BH
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/29952.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA PREMIUM 2 BH" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenapremium2bh.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA PREMIUM 2 BH
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/29953.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA PREMIUM 3 BH" tvg-logo="http://l2.mediaking.fi:8080/logoi/arenapremium3bh.png" tvg-country="Unknown" group-title="SPORTSKI" tvg-flag="",ARENA PREMIUM 3 BH
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/29954.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRO TV" tvg-logo="http://l2.mediaking.fi:8080/logoi/protv.png" tvg-country="Unknown" group-title="BOSNA I HERCEGOVINA" tvg-flag="",PRO TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/33754.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nova PLUS" tvg-logo="http://l2.mediaking.fi:8080/logoi/novaplus.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",Nova PLUS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/37874.ts
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 (Ultra HD)" tvg-logo="http://144.76.182.124/exyulogo/hrt2.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",HRT 2 (Ultra HD)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38769.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 (Ultra HD)" tvg-logo="http://144.76.182.124/exyulogo/hrt1.png" tvg-country="Unknown" group-title="HRVATSKA" tvg-flag="",HRT 1 (Ultra HD)
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38768.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELITA 1" tvg-logo="" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",ELITA 1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38975.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELITA 2" tvg-logo="" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",ELITA 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38976.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELITA 3" tvg-logo="" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",ELITA 3
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38977.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELITA 4" tvg-logo="" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",ELITA 4
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38978.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAŠA I MEDVED 2" tvg-logo="http://144.76.182.124/exyulogo/masa.png" tvg-country="Unknown" group-title="DECIJI" tvg-flag="",MAŠA I MEDVED 2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41332.ts
+#EXTINF:-1 tvg-id="" tvg-name="KTV Zrenjanin" tvg-logo="https://www.ktv.rs/wp-content/uploads/2024/03/KTV-LOGO-ZA-SAJT-1.png" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",KTV Zrenjanin
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41334.ts
+#EXTINF:-1 tvg-id="" tvg-name="KCN K" tvg-logo="" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",KCN K
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41347.ts
+#EXTINF:-1 tvg-id="" tvg-name="INSAJDER TV" tvg-logo="https://tvprofil.com/img/kanali-logo/InsajderTV_RS_logo.png?1737534389" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",INSAJDER TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41702.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVA S MAX" tvg-logo="" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",NOVA S MAX
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42152.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVA S SERIES" tvg-logo="" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",NOVA S SERIES
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42153.ts
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS SRBIJA" tvg-logo="" tvg-country="Unknown" group-title="SRBIJA" tvg-flag="",EURONEWS SRBIJA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42154.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOLA TV" tvg-logo="https://radiolola.rs/wp-content/uploads/sites/5/2022/09/lola.jpg" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",LOLA TV
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42443.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jugoton" tvg-logo="https://www.jugoton.com/img/core-img/logo.png" tvg-country="Unknown" group-title="MUZIČKI" tvg-flag="",Jugoton
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/43479.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAXI CHILL" tvg-logo="http://serv.mediaking.fi:8080/images/10a95cee48addfe33c962e89c59c5959.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",NAXI CHILL
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/37836.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hip Hop Banjaluka" tvg-logo="http://serv.mediaking.fi:8080/images/4ace4c62f175a3de514f363db4d78690.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Hip Hop Banjaluka
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/293.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio 055 Bijeljina" tvg-logo="http://serv.mediaking.fi:8080/images/df3aac979b7aa5e6fd5e3dc69a3c4cd8.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio 055 Bijeljina
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/294.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Antena Zagreb" tvg-logo="http://serv.mediaking.fi:8080/images/98c92d852c28a9490ea3977620bca255.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Antena Zagreb
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/305.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio 101 Rock Zagreb" tvg-logo="http://serv.mediaking.fi:8080/images/74d1ea1eb21f865fba2d3eb142bfd28d.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio 101 Rock Zagreb
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/310.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio 808 Zagreb" tvg-logo="http://serv.mediaking.fi:8080/images/f10ee4f93e4b9bc23bbf8798396acfc8.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio 808 Zagreb
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/311.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Centar POREC" tvg-logo="http://serv.mediaking.fi:8080/images/a8daca5d1007f2ff5a5e818ae76d309f.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Centar POREC
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/313.ts
+#EXTINF:-1 tvg-id="" tvg-name="Club Music Folk Radio Osijek" tvg-logo="http://serv.mediaking.fi:8080/images/443a1898fd34d089f062375f5d6164d9.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Club Music Folk Radio Osijek
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/314.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dalmacija " tvg-logo="http://serv.mediaking.fi:8080/images/adc8be6b1318a2ac291cdeb11375e174.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Dalmacija 
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/315.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dubrovnik" tvg-logo="http://serv.mediaking.fi:8080/images/b0bac949d4546e3c32acebf310be1c44.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Dubrovnik
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/316.ts
+#EXTINF:-1 tvg-id="" tvg-name="Novi radio - Zadar" tvg-logo="http://serv.mediaking.fi:8080/images/1344819a351975de92b2b896b850a2f0.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Novi radio - Zadar
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/317.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Narodni Zagreb" tvg-logo="http://serv.mediaking.fi:8080/images/0ee40007b0edacf245c970b1beffd7a6.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Narodni Zagreb
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/319.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Glas Drine" tvg-logo="http://serv.mediaking.fi:8080/images/9a19065748d815d9dd5f73432f17b828.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Glas Drine
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/321.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio GBK Folk Svedska" tvg-logo="http://serv.mediaking.fi:8080/images/a5044ac7a7e6577e41396a0c3071abd3.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio GBK Folk Svedska
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/324.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio HIT Skopje" tvg-logo="http://serv.mediaking.fi:8080/images/f93ebb663055b5735dd52342620d3665.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio HIT Skopje
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/329.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio PINK" tvg-logo="http://serv.mediaking.fi:8080/images/ee90bcd373a12ef0a66f5a2fd4796d9e.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio PINK
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/331.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio S1" tvg-logo="http://serv.mediaking.fi:8080/images/8ddf878039b70767c4a5bcf4f0c4f65e.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio S1
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/332.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio S2" tvg-logo="http://serv.mediaking.fi:8080/images/fac989447cad2edbc89fbcba70003b36.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio S2
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/333.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio S3" tvg-logo="http://serv.mediaking.fi:8080/images/c0828e0381730befd1f7a025057c74fb.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio S3
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/334.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio S4" tvg-logo="http://serv.mediaking.fi:8080/images/7e7cb6814b74d6596098fc80127569a5.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio S4
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/335.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Kosava" tvg-logo="http://serv.mediaking.fi:8080/images/68e6861ec6ec86e4efc4d80a8ceb1149.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Kosava
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/211.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLAY Radio" tvg-logo="http://serv.mediaking.fi:8080/images/27d418f76a08d65f85540ed08b6228c2.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",PLAY Radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/212.ts
+#EXTINF:-1 tvg-id="" tvg-name="TDI RADIO" tvg-logo="http://serv.mediaking.fi:8080/images/a4b4507ee28be37dc1189257960eef4d.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",TDI RADIO
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/213.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAXI RADIO" tvg-logo="http://serv.mediaking.fi:8080/images/74c8134b977a65345f03e88aa3f22bc4.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",NAXI RADIO
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/214.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT FM Radio" tvg-logo="http://serv.mediaking.fi:8080/images/dcba72a1257c9e8d8d303a948337db9e.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",HIT FM Radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/215.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pingvin" tvg-logo="http://serv.mediaking.fi:8080/images/a5c3190fd8fc0a6cbf0cb645b8add9d0.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Pingvin
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prvi Radio Uzice" tvg-logo="http://serv.mediaking.fi:8080/images/f63fa2647d1537bbc279972a8719d731.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Prvi Radio Uzice
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/217.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAT Radio" tvg-logo="http://serv.mediaking.fi:8080/images/b28c197774bc8c9501d3d6352e679e00.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",JAT Radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/219.ts
+#EXTINF:-1 tvg-id="" tvg-name="BUM BUM Radio" tvg-logo="http://serv.mediaking.fi:8080/images/78d3cab8aa662b4aa4cd2763c8be8901.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",BUM BUM Radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/220.ts
+#EXTINF:-1 tvg-id="" tvg-name="Top FM Radio" tvg-logo="http://serv.mediaking.fi:8080/images/b28354b543375bfa94dabaeda722927f.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Top FM Radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bubamara" tvg-logo="http://serv.mediaking.fi:8080/images/747ae77ebb0ea8c503d43002581f94d0.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Bubamara
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/222.ts
+#EXTINF:-1 tvg-id="" tvg-name="OK Radio" tvg-logo="http://serv.mediaking.fi:8080/images/444bcb3a3fcf8389296c49467f27e1d6.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",OK Radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/224.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio 3" tvg-logo="http://serv.mediaking.fi:8080/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio 3
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/226.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nostalgija" tvg-logo="http://serv.mediaking.fi:8080/images/7300581c73a12d137ca529f641ffc4c5.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Nostalgija
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Novosti" tvg-logo="http://serv.mediaking.fi:8080/images/89d69c5577d157fce7c4c1bac9f468c0.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Novosti
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/230.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio 202" tvg-logo="http://serv.mediaking.fi:8080/images/084f78c07329238562ef1e1f111f2fef.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio 202
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/232.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI Jaz" tvg-logo="http://serv.mediaking.fi:8080/images/a371b7c05a7eb019713d56f87f29178a.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio NAXI Jaz
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Naxi Radio 80-e" tvg-logo="http://serv.mediaking.fi:8080/images/9fb3470834e650315426a57b8c35dcda.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Naxi Radio 80-e
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI Caffe Radio" tvg-logo="http://serv.mediaking.fi:8080/images/f92006f20eab6a07063b115de6a971de.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio NAXI Caffe Radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI Classic Radio" tvg-logo="http://serv.mediaking.fi:8080/images/edb380aa56cdb388196ee713a3ecd850.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio NAXI Classic Radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI Evergreen Radio" tvg-logo="http://serv.mediaking.fi:8080/images/2229aba7aa270d7304e18e6838645c3b.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio NAXI Evergreen Radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/242.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI MIX Radio" tvg-logo="http://serv.mediaking.fi:8080/images/b7f42ba4c693066091fc1bd9b202fd8d.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio NAXI MIX Radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI House Radio" tvg-logo="http://serv.mediaking.fi:8080/images/2c6ee8feac7e72eda2a97f4269781d78.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio NAXI House Radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio AS Šabac" tvg-logo="http://serv.mediaking.fi:8080/images/facd3b7dee9f39dcc4e262f47d4f77bb.jpg" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio AS Šabac
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/245.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Morava" tvg-logo="http://serv.mediaking.fi:8080/images/229f62a67b84a43127706ae79813f20d.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Morava
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio COOL" tvg-logo="http://serv.mediaking.fi:8080/images/b1f4f9a523e36fd969f4573e25af4540.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio COOL
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio DeLuxe Beograd" tvg-logo="http://serv.mediaking.fi:8080/images/6f4734979e18fdf96ee2624b03dc493c.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio DeLuxe Beograd
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI KIDS Radio" tvg-logo="http://serv.mediaking.fi:8080/images/10a95cee48addfe33c962e89c59c5959.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio NAXI KIDS Radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/255.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio KISS FM" tvg-logo="http://serv.mediaking.fi:8080/images/4188679c1d8a284ccc41a6b601869e05.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio KISS FM
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/256.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio I FM" tvg-logo="http://serv.mediaking.fi:8080/images/0aeb58794c29d040e7da234b563a7574.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio I FM
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/257.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Stari Grad" tvg-logo="http://serv.mediaking.fi:8080/images/e3e5e8d87db661e88b9a9ad720833bca.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Stari Grad
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio PULS" tvg-logo="http://serv.mediaking.fi:8080/images/7d366d90bbf9a149ac37325553ca17ed.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio PULS
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Banovina" tvg-logo="http://serv.mediaking.fi:8080/images/d31efbcff165db7402729e803d64cd11.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Banovina
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14449.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Veseljaci" tvg-logo="http://serv.mediaking.fi:8080/images/fe3f19b7106d22ee31a9341fc93ac93a.png" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio Veseljaci
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/24462.ts
+#EXTINF:-1 tvg-id="" tvg-name="Moj radio" tvg-logo="" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Moj radio
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/33619.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOLA" tvg-logo="" tvg-country="Unknown" group-title="Unknown" tvg-flag="",LOLA
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38109.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio AS Novi Sad" tvg-logo="" tvg-country="Unknown" group-title="Unknown" tvg-flag="",Radio AS Novi Sad
+http://smart.mediaking.fi:8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41333.ts
