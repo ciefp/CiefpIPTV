@@ -1,0 +1,777 @@
+#NAME CiefpSettings IPTV  GER,EXYU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27721.ts:ZDF
+#DESCRIPTION ZDF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27722.ts:RTL (DE)
+#DESCRIPTION RTL (DE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27723.ts:SAT. 1
+#DESCRIPTION SAT. 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27724.ts:DAS ERSTE
+#DESCRIPTION DAS ERSTE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27725.ts:PRO 7
+#DESCRIPTION PRO 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27726.ts:KABEL EINS
+#DESCRIPTION KABEL EINS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27727.ts:ZDF NEO
+#DESCRIPTION ZDF NEO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27728.ts:RTL (DE)
+#DESCRIPTION RTL (DE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27729.ts:WDR
+#DESCRIPTION WDR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27730.ts:DAZN 1
+#DESCRIPTION DAZN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27731.ts:DAZN 2
+#DESCRIPTION DAZN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27732.ts:SKY  1
+#DESCRIPTION SKY  1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27733.ts:SKY SPORT 1
+#DESCRIPTION SKY SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27734.ts:SKY SPORT 2
+#DESCRIPTION SKY SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27735.ts:SKY SPORT 3
+#DESCRIPTION SKY SPORT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27736.ts:EUROSPORT (DE)
+#DESCRIPTION EUROSPORT (DE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27737.ts:EUROSPORT (DE)
+#DESCRIPTION EUROSPORT (DE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27738.ts:SKY BUNDESLIGA 1
+#DESCRIPTION SKY BUNDESLIGA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27739.ts:SKY BUNDESLIGA 2
+#DESCRIPTION SKY BUNDESLIGA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27740.ts:SKY BUNDESLIGA 3
+#DESCRIPTION SKY BUNDESLIGA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27741.ts:TNT FILM
+#DESCRIPTION TNT FILM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27742.ts:AMAZON MOVIES 1
+#DESCRIPTION AMAZON MOVIES 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27743.ts:AMAZON MOVIES 2
+#DESCRIPTION AMAZON MOVIES 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27744.ts:SKY SELECT FHD (DE)
+#DESCRIPTION SKY SELECT FHD (DE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/27745.ts:SKY SELECT FHD (DE)
+#DESCRIPTION SKY SELECT FHD (DE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1526.ts:INFO KANAL
+#DESCRIPTION INFO KANAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/112.ts:RTS 1
+#DESCRIPTION RTS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2927.ts:RTS (Ultra HD)
+#DESCRIPTION RTS (Ultra HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/75.ts:HRT 1
+#DESCRIPTION HRT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/66.ts:OBN
+#DESCRIPTION OBN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/109.ts:PRVA
+#DESCRIPTION PRVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/105.ts:PINK
+#DESCRIPTION PINK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/31543.ts:PINK (Ultra HD)
+#DESCRIPTION PINK (Ultra HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/381.ts:NOVA S
+#DESCRIPTION NOVA S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/33782.ts:NOVA S (Ultra HD)
+#DESCRIPTION NOVA S (Ultra HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/530.ts:NOVA BH
+#DESCRIPTION NOVA BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/73.ts:NOVA HR
+#DESCRIPTION NOVA HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/399.ts:NSRB
+#DESCRIPTION NSRB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/107.ts:NHR
+#DESCRIPTION NHR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/521.ts:NBH
+#DESCRIPTION NBH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/106.ts:B92
+#DESCRIPTION B92
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/65.ts:BN
+#DESCRIPTION BN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2756.ts:BN 2
+#DESCRIPTION BN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/64.ts:RTRS
+#DESCRIPTION RTRS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/63.ts:RTRS PLUS
+#DESCRIPTION RTRS PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/58.ts:BHT 1
+#DESCRIPTION BHT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/601.ts:VESTI
+#DESCRIPTION VESTI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/102.ts:VESTI
+#DESCRIPTION VESTI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/85.ts:HAPPY
+#DESCRIPTION HAPPY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14128.ts:TANJUG
+#DESCRIPTION TANJUG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/110.ts:RTS 2
+#DESCRIPTION RTS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/145.ts:RTS 3
+#DESCRIPTION RTS 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/902.ts:RTS DRAMA
+#DESCRIPTION RTS DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/901.ts:RTS KOLO
+#DESCRIPTION RTS KOLO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/900.ts:RTS MUZIKA
+#DESCRIPTION RTS MUZIKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1882.ts:RTS SVET
+#DESCRIPTION RTS SVET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/899.ts:RTS TREZOR
+#DESCRIPTION RTS TREZOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/898.ts:RTS ZIVOT
+#DESCRIPTION RTS ZIVOT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/74.ts:HRT 2
+#DESCRIPTION HRT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/355.ts:HRT 3
+#DESCRIPTION HRT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/281.ts:HRT 4
+#DESCRIPTION HRT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1529.ts:HRT Int.
+#DESCRIPTION HRT Int.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/165.ts:RTV 1
+#DESCRIPTION RTV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/164.ts:RTV 2
+#DESCRIPTION RTV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3664.ts:PRVA FILES
+#DESCRIPTION PRVA FILES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/598.ts:PRVA KICK
+#DESCRIPTION PRVA KICK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/597.ts:PRVA MAX
+#DESCRIPTION PRVA MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/292.ts:PRVA PLUS
+#DESCRIPTION PRVA PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1495.ts:PRVA WORLD
+#DESCRIPTION PRVA WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2876.ts:KURIR TV
+#DESCRIPTION KURIR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2757.ts:K1
+#DESCRIPTION K1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/103.ts:RED TV
+#DESCRIPTION RED TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/652.ts:SUPERSTAR TV
+#DESCRIPTION SUPERSTAR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/5272.ts:SUPERSTAR TV 2
+#DESCRIPTION SUPERSTAR TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/609.ts:IDJ TV
+#DESCRIPTION IDJ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3663.ts:TOXIC TV
+#DESCRIPTION TOXIC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/161.ts:MTV
+#DESCRIPTION MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3681.ts:MTV HITS
+#DESCRIPTION MTV HITS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/71.ts:RTL
+#DESCRIPTION RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/72.ts:RTL 2
+#DESCRIPTION RTL 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1921.ts:RTL ADRIA
+#DESCRIPTION RTL ADRIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1528.ts:RTL CRIME
+#DESCRIPTION RTL CRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/469.ts:RTL LIVING
+#DESCRIPTION RTL LIVING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/905.ts:RTL PASSION
+#DESCRIPTION RTL PASSION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/70.ts:DOMA TV
+#DESCRIPTION DOMA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/268.ts:O KANAL
+#DESCRIPTION O KANAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/61.ts:HAYAT
+#DESCRIPTION HAYAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/60.ts:HAYAT 2
+#DESCRIPTION HAYAT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/160.ts:MINI TV
+#DESCRIPTION MINI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/267.ts:BABY TV
+#DESCRIPTION BABY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/587.ts:NICK JR.
+#DESCRIPTION NICK JR.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/169.ts:NICKELODEON
+#DESCRIPTION NICKELODEON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/596.ts:HAYATOVCI
+#DESCRIPTION HAYATOVCI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/77.ts:24KITCHEN
+#DESCRIPTION 24KITCHEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/599.ts:RTL KOCKICA
+#DESCRIPTION RTL KOCKICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/903.ts:MASA I MEDVED
+#DESCRIPTION MASA I MEDVED
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1497.ts:PEPA PRASE
+#DESCRIPTION PEPA PRASE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/600.ts:PIKABOO
+#DESCRIPTION PIKABOO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/586.ts:MINIMAX
+#DESCRIPTION MINIMAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1890.ts:IDJ KIDS
+#DESCRIPTION IDJ KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3665.ts:DA VINCI KIDS
+#DESCRIPTION DA VINCI KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/57.ts:FEDERALNA TV
+#DESCRIPTION FEDERALNA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/284.ts:ALFA TV
+#DESCRIPTION ALFA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/59.ts:FACE TV
+#DESCRIPTION FACE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/299.ts:PLAVA VINKOVACKA
+#DESCRIPTION PLAVA VINKOVACKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2892.ts:OTV
+#DESCRIPTION OTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/607.ts:OSJECKA
+#DESCRIPTION OSJECKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/616.ts:TV SARAJEVO
+#DESCRIPTION TV SARAJEVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/56.ts:AL JAZEERA
+#DESCRIPTION AL JAZEERA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2721.ts:Z1
+#DESCRIPTION Z1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2888.ts:NTV IC KAKANJ
+#DESCRIPTION NTV IC KAKANJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/608.ts:POSAVINA TV
+#DESCRIPTION POSAVINA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2720.ts:MOJA TV
+#DESCRIPTION MOJA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/4095.ts:ARENA PREMIUM 1
+#DESCRIPTION ARENA PREMIUM 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/30270.ts:ARENA PREMIUM (Ultra HD)
+#DESCRIPTION ARENA PREMIUM (Ultra HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/4096.ts:ARENA PREMIUM 2
+#DESCRIPTION ARENA PREMIUM 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/31677.ts:ARENA PREMIUM (Ultra HD)
+#DESCRIPTION ARENA PREMIUM (Ultra HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/4097.ts:ARENA PREMIUM 3
+#DESCRIPTION ARENA PREMIUM 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41348.ts:ARENA PREMIUM (Ultra HD)
+#DESCRIPTION ARENA PREMIUM (Ultra HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42444.ts:ARENA PREMIUM 4
+#DESCRIPTION ARENA PREMIUM 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42445.ts:ARENA PREMIUM 5
+#DESCRIPTION ARENA PREMIUM 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42446.ts:ARENA ADRENALIN
+#DESCRIPTION ARENA ADRENALIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42447.ts:ARENA TENIS
+#DESCRIPTION ARENA TENIS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38979.ts:ARENA SPORT 1X2
+#DESCRIPTION ARENA SPORT 1X2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/10.ts:ARENA SPORT 1
+#DESCRIPTION ARENA SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41345.ts:ARENA SPORT (Ultra HD)
+#DESCRIPTION ARENA SPORT (Ultra HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/9.ts:ARENA SPORT 2
+#DESCRIPTION ARENA SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41346.ts:ARENA SPORT (Ultra HD)
+#DESCRIPTION ARENA SPORT (Ultra HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/8.ts:ARENA SPORT 3
+#DESCRIPTION ARENA SPORT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/7.ts:ARENA SPORT 4
+#DESCRIPTION ARENA SPORT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/6.ts:ARENA SPORT 5
+#DESCRIPTION ARENA SPORT 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41335.ts:ARENA SPORT 6
+#DESCRIPTION ARENA SPORT 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41336.ts:ARENA SPORT 7
+#DESCRIPTION ARENA SPORT 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41337.ts:ARENA SPORT 8
+#DESCRIPTION ARENA SPORT 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41338.ts:ARENA SPORT 9
+#DESCRIPTION ARENA SPORT 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41339.ts:ARENA SPORT 10
+#DESCRIPTION ARENA SPORT 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41340.ts:SPORT KLUB 1
+#DESCRIPTION SPORT KLUB 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41341.ts:SPORT KLUB 2
+#DESCRIPTION SPORT KLUB 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41342.ts:SPORT KLUB 3
+#DESCRIPTION SPORT KLUB 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41343.ts:SPORT KLUB 4
+#DESCRIPTION SPORT KLUB 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41344.ts:SPORT KLUB 5
+#DESCRIPTION SPORT KLUB 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/11.ts:ARENA SPORT HR
+#DESCRIPTION ARENA SPORT HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/522.ts:ARENA SPORT HR
+#DESCRIPTION ARENA SPORT HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/523.ts:ARENA SPORT HR
+#DESCRIPTION ARENA SPORT HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/524.ts:ARENA SPORT HR
+#DESCRIPTION ARENA SPORT HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/525.ts:ARENA SPORT HR
+#DESCRIPTION ARENA SPORT HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2940.ts:ARENA SPORT HR
+#DESCRIPTION ARENA SPORT HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3773.ts:ARENA SPORT HR
+#DESCRIPTION ARENA SPORT HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3774.ts:ARENA SPORT HR
+#DESCRIPTION ARENA SPORT HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3775.ts:ARENA SPORT HR
+#DESCRIPTION ARENA SPORT HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3776.ts:ARENA SPORT HR
+#DESCRIPTION ARENA SPORT HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3694.ts:ARENA SPORT BH
+#DESCRIPTION ARENA SPORT BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/4.ts:EUROSPORT 1
+#DESCRIPTION EUROSPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/44067.ts:EUROSPORT (Ultra HD)
+#DESCRIPTION EUROSPORT (Ultra HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/5.ts:EUROSPORT 2
+#DESCRIPTION EUROSPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14218.ts:MAX SPORT 1
+#DESCRIPTION MAX SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14219.ts:MAX SPORT 2
+#DESCRIPTION MAX SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3899.ts:ARENA SPORT FIGHT
+#DESCRIPTION ARENA SPORT FIGHT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1513.ts:NOVA SPORT
+#DESCRIPTION NOVA SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3.ts:FIGHT NETWORK
+#DESCRIPTION FIGHT NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3471.ts:ZVEZDA TV
+#DESCRIPTION ZVEZDA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3472.ts:PARTIZAN TV
+#DESCRIPTION PARTIZAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/46.ts:GRAND
+#DESCRIPTION GRAND
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/401.ts:GRAND 2
+#DESCRIPTION GRAND 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/37.ts:DM SAT
+#DESCRIPTION DM SAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/35.ts:HAYAT FOLK
+#DESCRIPTION HAYAT FOLK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/615.ts:HAYAT MUSIC
+#DESCRIPTION HAYAT MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/40.ts:BN MUSIC
+#DESCRIPTION BN MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/86.ts:PINK ACTION
+#DESCRIPTION PINK ACTION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1514.ts:PINK BH
+#DESCRIPTION PINK BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1515.ts:PINK CLASSIC
+#DESCRIPTION PINK CLASSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/93.ts:PINK COMEDY
+#DESCRIPTION PINK COMEDY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/584.ts:PINK CRIME & MYSTERY
+#DESCRIPTION PINK CRIME & MYSTERY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/101.ts:PINK EXTRA
+#DESCRIPTION PINK EXTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1516.ts:PINK FAMILY
+#DESCRIPTION PINK FAMILY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/100.ts:PINK FILM
+#DESCRIPTION PINK FILM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2754.ts:PINK FOLK 1
+#DESCRIPTION PINK FOLK 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/36.ts:PINK FOLK 2
+#DESCRIPTION PINK FOLK 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/583.ts:PINK HA HA
+#DESCRIPTION PINK HA HA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2753.ts:PINK HITS
+#DESCRIPTION PINK HITS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1506.ts:PINK HITS 2
+#DESCRIPTION PINK HITS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/90.ts:PINK HORROR
+#DESCRIPTION PINK HORROR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/87.ts:PINK KIDS
+#DESCRIPTION PINK KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/208.ts:PINK KONCERT
+#DESCRIPTION PINK KONCERT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/271.ts:PINK KUVAR
+#DESCRIPTION PINK KUVAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/582.ts:PINK LOL
+#DESCRIPTION PINK LOL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/626.ts:PINK M
+#DESCRIPTION PINK M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/97.ts:PINK MOVIES
+#DESCRIPTION PINK MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/45.ts:PINK MUSIC
+#DESCRIPTION PINK MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/166.ts:PINK MUSIC 2
+#DESCRIPTION PINK MUSIC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/88.ts:PINK PEDIA
+#DESCRIPTION PINK PEDIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/99.ts:PINK PLUS
+#DESCRIPTION PINK PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/98.ts:PINK PREMIUM
+#DESCRIPTION PINK PREMIUM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/94.ts:PINK REALITY
+#DESCRIPTION PINK REALITY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1505.ts:PINK ROMANCE
+#DESCRIPTION PINK ROMANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/580.ts:PINK SCIFI & FANTASY
+#DESCRIPTION PINK SCIFI & FANTASY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/96.ts:PINK SERIJE
+#DESCRIPTION PINK SERIJE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/633.ts:PINK SHOW
+#DESCRIPTION PINK SHOW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/91.ts:PINK SOAP
+#DESCRIPTION PINK SOAP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1920.ts:PINK STYLE
+#DESCRIPTION PINK STYLE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/585.ts:PINK SUPER KIDS
+#DESCRIPTION PINK SUPER KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/95.ts:PINK THRILLER
+#DESCRIPTION PINK THRILLER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/89.ts:PINK WESTERN
+#DESCRIPTION PINK WESTERN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/581.ts:PINK WORLD
+#DESCRIPTION PINK WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14217.ts:PINK WORLD CINEMA
+#DESCRIPTION PINK WORLD CINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/92.ts:PINK ZABAVA
+#DESCRIPTION PINK ZABAVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/291.ts:NOVI PAZAR
+#DESCRIPTION NOVI PAZAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/279.ts:KCN 1
+#DESCRIPTION KCN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/280.ts:KCN 2
+#DESCRIPTION KCN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/260.ts:AMC
+#DESCRIPTION AMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1889.ts:DISNEY CHANNEL
+#DESCRIPTION DISNEY CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/81.ts:HBO
+#DESCRIPTION HBO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/273.ts:HBO 2
+#DESCRIPTION HBO 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/274.ts:HBO 3
+#DESCRIPTION HBO 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/148.ts:STAR
+#DESCRIPTION STAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/210.ts:STAR CRIME
+#DESCRIPTION STAR CRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/147.ts:STAR LIFE
+#DESCRIPTION STAR LIFE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/277.ts:STAR MOVIES
+#DESCRIPTION STAR MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14158.ts:PICKBOX
+#DESCRIPTION PICKBOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/275.ts:CINEMAX
+#DESCRIPTION CINEMAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/276.ts:CINEMAX 2
+#DESCRIPTION CINEMAX 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2935.ts:CINESTAR TV 1
+#DESCRIPTION CINESTAR TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2936.ts:CINESTAR TV 2
+#DESCRIPTION CINESTAR TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/370.ts:CINESTAR TV PREMIERE 1
+#DESCRIPTION CINESTAR TV PREMIERE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/371.ts:CINESTAR TV PREMIERE 2
+#DESCRIPTION CINESTAR TV PREMIERE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/713.ts:CINESTAR TV ACTION
+#DESCRIPTION CINESTAR TV ACTION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2937.ts:CINESTAR TV FANTASY
+#DESCRIPTION CINESTAR TV FANTASY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/82.ts:CINEMANIA
+#DESCRIPTION CINEMANIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/3679.ts:DIVA
+#DESCRIPTION DIVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1496.ts:KINO TV
+#DESCRIPTION KINO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/69.ts:KLASIK TV
+#DESCRIPTION KLASIK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/149.ts:ANIMAL PLANET
+#DESCRIPTION ANIMAL PLANET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1888.ts:BBC EARTH
+#DESCRIPTION BBC EARTH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/269.ts:CRIME & INVESTIGATION
+#DESCRIPTION CRIME & INVESTIGATION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/78.ts:DISCOVERY CHANNEL
+#DESCRIPTION DISCOVERY CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/203.ts:HISTORY
+#DESCRIPTION HISTORY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/589.ts:HISTORY 2
+#DESCRIPTION HISTORY 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/68.ts:LOV I RIBOLOV
+#DESCRIPTION LOV I RIBOLOV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/79.ts:NATIONAL GEOGRAPHIC CHANNEL
+#DESCRIPTION NATIONAL GEOGRAPHIC CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/588.ts:NAT GEO WILD
+#DESCRIPTION NAT GEO WILD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/301.ts:VIASAT EXPLORE
+#DESCRIPTION VIASAT EXPLORE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/302.ts:VIASAT HISTORY
+#DESCRIPTION VIASAT HISTORY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/303.ts:VIASAT NATURE
+#DESCRIPTION VIASAT NATURE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/159.ts:TRAVEL CHANNEL
+#DESCRIPTION TRAVEL CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14157.ts:DOX TV
+#DESCRIPTION DOX TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/157.ts:TLC
+#DESCRIPTION TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/611.ts:E!
+#DESCRIPTION E!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/83.ts:STUDIO B
+#DESCRIPTION STUDIO B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/48.ts:MRT 1
+#DESCRIPTION MRT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/602.ts:MRT 2
+#DESCRIPTION MRT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/614.ts:MRT 3
+#DESCRIPTION MRT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/53.ts:KANAL 5
+#DESCRIPTION KANAL 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/52.ts:TELMA
+#DESCRIPTION TELMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/51.ts:ALFA TV MK
+#DESCRIPTION ALFA TV MK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/605.ts:KUMANOVO TV
+#DESCRIPTION KUMANOVO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/54.ts:SITEL
+#DESCRIPTION SITEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/627.ts:RTCG 1
+#DESCRIPTION RTCG 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/606.ts:RTCG 2
+#DESCRIPTION RTCG 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/84.ts:RTCG SAT
+#DESCRIPTION RTCG SAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/610.ts:PRVA M
+#DESCRIPTION PRVA M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1870.ts:NOVA M
+#DESCRIPTION NOVA M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1508.ts:TV VIJESTI
+#DESCRIPTION TV VIJESTI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/80.ts:PALMA PLUS
+#DESCRIPTION PALMA PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/62.ts:ATV
+#DESCRIPTION ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/146.ts:OTV VALENTINO
+#DESCRIPTION OTV VALENTINO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/34.ts:TV DUGA PLUS
+#DESCRIPTION TV DUGA PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/44.ts:BALKANIKA
+#DESCRIPTION BALKANIKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/528.ts:MTV IGMAN
+#DESCRIPTION MTV IGMAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/624.ts:IZVORNA TV
+#DESCRIPTION IZVORNA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/622.ts:GLAS DRINE
+#DESCRIPTION GLAS DRINE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1412.ts:TV HRAM
+#DESCRIPTION TV HRAM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1527.ts:CMC MUSIC
+#DESCRIPTION CMC MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1531.ts:LAUDATO TV
+#DESCRIPTION LAUDATO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/1946.ts:RTV ZENICA
+#DESCRIPTION RTV ZENICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2088.ts:SANDZAK TV
+#DESCRIPTION SANDZAK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/4185.ts:SEVDAH TV
+#DESCRIPTION SEVDAH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/4395.ts:UNA TV
+#DESCRIPTION UNA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2544.ts:RTS  SD
+#DESCRIPTION RTS  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2547.ts:PINK  SD
+#DESCRIPTION PINK  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2551.ts:PRVA  SD
+#DESCRIPTION PRVA  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/2545.ts:NOVA HR  SD
+#DESCRIPTION NOVA HR  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14452.ts:B SD
+#DESCRIPTION B SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15583.ts:BLIC TV
+#DESCRIPTION BLIC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15694.ts:NARODNA TV
+#DESCRIPTION NARODNA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15695.ts:TV 1000
+#DESCRIPTION TV 1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15696.ts:AXN SPIN
+#DESCRIPTION AXN SPIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15697.ts:DOCU BOX
+#DESCRIPTION DOCU BOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15698.ts:RTL CROATIA WORLD
+#DESCRIPTION RTL CROATIA WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15700.ts:DOKU TV
+#DESCRIPTION DOKU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15701.ts:FILM BOX STARS
+#DESCRIPTION FILM BOX STARS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15702.ts:BTV
+#DESCRIPTION BTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15708.ts:ARENA PREMIUM  SD
+#DESCRIPTION ARENA PREMIUM  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15709.ts:ARENA PREMIUM  SD
+#DESCRIPTION ARENA PREMIUM  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15704.ts:EPIC DRAMA
+#DESCRIPTION EPIC DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15740.ts:NBH  SD
+#DESCRIPTION NBH  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15741.ts:NOVA S  SD
+#DESCRIPTION NOVA S  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15742.ts:HAYAT  SD
+#DESCRIPTION HAYAT  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/15751.ts:HRT  SD
+#DESCRIPTION HRT  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/18485.ts:NSRB  SD
+#DESCRIPTION NSRB  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/18554.ts:RTL  SD
+#DESCRIPTION RTL  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/18558.ts:DOMA TV  SD
+#DESCRIPTION DOMA TV  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/19384.ts:ARENA SPORT  SD
+#DESCRIPTION ARENA SPORT  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/19385.ts:ARENA SPORT  SD
+#DESCRIPTION ARENA SPORT  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/19386.ts:HAPPY  SD
+#DESCRIPTION HAPPY  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/19387.ts:RTRS  SD
+#DESCRIPTION RTRS  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/19388.ts:BN  SD
+#DESCRIPTION BN  SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/20864.ts:SPORTSKA TELEVIZIJA HD
+#DESCRIPTION SPORTSKA TELEVIZIJA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/20865.ts:STV HD
+#DESCRIPTION STV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/20982.ts:TV ISLAM
+#DESCRIPTION TV ISLAM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/16947.ts:BALKAN TRIP
+#DESCRIPTION BALKAN TRIP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/25896.ts:INFORMER TV
+#DESCRIPTION INFORMER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/29952.ts:ARENA PREMIUM BH
+#DESCRIPTION ARENA PREMIUM BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/29953.ts:ARENA PREMIUM BH
+#DESCRIPTION ARENA PREMIUM BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/29954.ts:ARENA PREMIUM BH
+#DESCRIPTION ARENA PREMIUM BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/33754.ts:PRO TV
+#DESCRIPTION PRO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/37874.ts:Nova PLUS
+#DESCRIPTION Nova PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38769.ts:HRT (Ultra HD)
+#DESCRIPTION HRT (Ultra HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38768.ts:HRT (Ultra HD)
+#DESCRIPTION HRT (Ultra HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38975.ts:ELITA 1
+#DESCRIPTION ELITA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38976.ts:ELITA 2
+#DESCRIPTION ELITA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38977.ts:ELITA 3
+#DESCRIPTION ELITA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38978.ts:ELITA 4
+#DESCRIPTION ELITA 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41332.ts:MAŠA I MEDVED 2
+#DESCRIPTION MAŠA I MEDVED 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41334.ts:KTV Zrenjanin
+#DESCRIPTION KTV Zrenjanin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41347.ts:KCN K
+#DESCRIPTION KCN K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41702.ts:INSAJDER TV
+#DESCRIPTION INSAJDER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42152.ts:NOVA S MAX
+#DESCRIPTION NOVA S MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42153.ts:NOVA S SERIES
+#DESCRIPTION NOVA S SERIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42154.ts:EURONEWS SRBIJA
+#DESCRIPTION EURONEWS SRBIJA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/42443.ts:LOLA TV
+#DESCRIPTION LOLA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/43479.ts:Jugoton
+#DESCRIPTION Jugoton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/37836.ts:NAXI CHILL
+#DESCRIPTION NAXI CHILL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/293.ts:Radio Hip Hop Banjaluka
+#DESCRIPTION Radio Hip Hop Banjaluka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/294.ts:Radio Bijeljina
+#DESCRIPTION Radio Bijeljina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/305.ts:Radio Antena Zagreb
+#DESCRIPTION Radio Antena Zagreb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/310.ts:Radio Rock Zagreb
+#DESCRIPTION Radio Rock Zagreb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/311.ts:Radio Zagreb
+#DESCRIPTION Radio Zagreb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/313.ts:Radio Centar POREC
+#DESCRIPTION Radio Centar POREC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/314.ts:Club Music Folk Radio Osijek
+#DESCRIPTION Club Music Folk Radio Osijek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/315.ts:Radio Dalmacija
+#DESCRIPTION Radio Dalmacija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/316.ts:Radio Dubrovnik
+#DESCRIPTION Radio Dubrovnik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/317.ts:Novi radio  Zadar
+#DESCRIPTION Novi radio  Zadar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/319.ts:Radio Narodni Zagreb
+#DESCRIPTION Radio Narodni Zagreb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/321.ts:Radio Glas Drine
+#DESCRIPTION Radio Glas Drine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/324.ts:Radio GBK Folk Svedska
+#DESCRIPTION Radio GBK Folk Svedska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/329.ts:Radio HIT Skopje
+#DESCRIPTION Radio HIT Skopje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/331.ts:Radio PINK
+#DESCRIPTION Radio PINK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/332.ts:Radio S1
+#DESCRIPTION Radio S1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/333.ts:Radio S2
+#DESCRIPTION Radio S2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/334.ts:Radio S3
+#DESCRIPTION Radio S3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/335.ts:Radio S4
+#DESCRIPTION Radio S4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/211.ts:Radio Kosava
+#DESCRIPTION Radio Kosava
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/212.ts:PLAY Radio
+#DESCRIPTION PLAY Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/213.ts:TDI RADIO
+#DESCRIPTION TDI RADIO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/214.ts:NAXI RADIO
+#DESCRIPTION NAXI RADIO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/215.ts:HIT FM Radio
+#DESCRIPTION HIT FM Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/216.ts:Radio Pingvin
+#DESCRIPTION Radio Pingvin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/217.ts:Prvi Radio Uzice
+#DESCRIPTION Prvi Radio Uzice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/219.ts:JAT Radio
+#DESCRIPTION JAT Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/220.ts:BUM BUM Radio
+#DESCRIPTION BUM BUM Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/221.ts:Top FM Radio
+#DESCRIPTION Top FM Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/222.ts:Radio Bubamara
+#DESCRIPTION Radio Bubamara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/224.ts:OK Radio
+#DESCRIPTION OK Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/226.ts:Radio 3
+#DESCRIPTION Radio 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/227.ts:Radio Nostalgija
+#DESCRIPTION Radio Nostalgija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/230.ts:Radio Novosti
+#DESCRIPTION Radio Novosti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/232.ts:Radio 202
+#DESCRIPTION Radio 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/234.ts:Radio NAXI Jaz
+#DESCRIPTION Radio NAXI Jaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/239.ts:Naxi Radio 80e
+#DESCRIPTION Naxi Radio 80e
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/240.ts:Radio NAXI Caffe Radio
+#DESCRIPTION Radio NAXI Caffe Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/241.ts:Radio NAXI Classic Radio
+#DESCRIPTION Radio NAXI Classic Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/242.ts:Radio NAXI Evergreen Radio
+#DESCRIPTION Radio NAXI Evergreen Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/243.ts:Radio NAXI MIX Radio
+#DESCRIPTION Radio NAXI MIX Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/244.ts:Radio NAXI House Radio
+#DESCRIPTION Radio NAXI House Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/245.ts:Radio AS Šabac
+#DESCRIPTION Radio AS Šabac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/246.ts:Radio Morava
+#DESCRIPTION Radio Morava
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/247.ts:Radio COOL
+#DESCRIPTION Radio COOL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/252.ts:Radio DeLuxe Beograd
+#DESCRIPTION Radio DeLuxe Beograd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/255.ts:Radio NAXI KIDS Radio
+#DESCRIPTION Radio NAXI KIDS Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/256.ts:Radio KISS FM
+#DESCRIPTION Radio KISS FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/257.ts:Radio I FM
+#DESCRIPTION Radio I FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/258.ts:Radio Stari Grad
+#DESCRIPTION Radio Stari Grad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14121.ts:Radio PULS
+#DESCRIPTION Radio PULS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/14449.ts:Radio Banovina
+#DESCRIPTION Radio Banovina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/24462.ts:Radio Veseljaci
+#DESCRIPTION Radio Veseljaci
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/33619.ts:Moj radio
+#DESCRIPTION Moj radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/38109.ts:LOLA
+#DESCRIPTION LOLA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smart.mediaking.fi%3a8080/live/vedranfilipovic@hotmail.com/TestStarX1234!/41333.ts:Radio AS Novi Sad
+#DESCRIPTION Radio AS Novi Sad
