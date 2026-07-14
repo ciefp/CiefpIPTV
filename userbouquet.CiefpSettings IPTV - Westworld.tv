@@ -1,0 +1,73 @@
+#NAME CiefpSettings IPTV - Westworld
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2001/Westworld%20-%20S01E01%20-%20The%20Original%201080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv:Westworld  S01E The Original 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#DESCRIPTION Westworld  S01E The Original 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2001/Westworld%20-%20S01E02%20-%20Chestnut%201080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv:Westworld  S01E Chestnut 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#DESCRIPTION Westworld  S01E Chestnut 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2001/Westworld%20-%20S01E03%20-%20The%20Stray%201080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv:Westworld  S01E The Stray 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#DESCRIPTION Westworld  S01E The Stray 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2001/Westworld%20-%20S01E04%20-%20Dissonance%20Theory%201080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv:Westworld  S01E Dissonance Theory 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#DESCRIPTION Westworld  S01E Dissonance Theory 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2001/Westworld%20-%20S01E05%20-%20Contrapasso%201080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv:Westworld  S01E Contrapasso 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#DESCRIPTION Westworld  S01E Contrapasso 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2001/Westworld%20-%20S01E06%20-%20The%20Adversary%201080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv:Westworld  S01E The Adversary 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#DESCRIPTION Westworld  S01E The Adversary 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2001/Westworld%20-%20S01E07%20-%20Trompe%20L%27Oeil%201080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv:Westworld  S01E Trompe L'Oeil 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#DESCRIPTION Westworld  S01E Trompe L'Oeil 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2001/Westworld%20-%20S01E08%20-%20Trace%20Decay%201080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv:Westworld  S01E Trace Decay 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#DESCRIPTION Westworld  S01E Trace Decay 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2001/Westworld%20-%20S01E09%20-%20The%20Well-Tempered%20Clavier%201080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv:Westworld  S01E The WellTempered Clavier 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#DESCRIPTION Westworld  S01E The WellTempered Clavier 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2001/Westworld%20-%20S01E10%20-%20The%20Bicameral%20Mind%201080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv:Westworld  S01E The Bicameral Mind 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#DESCRIPTION Westworld  S01E The Bicameral Mind 1080p.BluRay.REMUX.AVC.DTSHD.MA.5.1EPSiLON.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2002/Westworld%20-%20S02E01%20-%20Journey%20Into%20Night.mkv:Westworld  S02E Journey Into Night.mkv
+#DESCRIPTION Westworld  S02E Journey Into Night.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2002/Westworld%20-%20S02E02%20-%20Reunion.mkv:Westworld  S02E Reunion.mkv
+#DESCRIPTION Westworld  S02E Reunion.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2002/Westworld%20-%20S02E03%20-%20Virt%C3%B9%20e%20Fortuna.mkv:Westworld  S02E Virtù e Fortuna.mkv
+#DESCRIPTION Westworld  S02E Virtù e Fortuna.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2002/Westworld%20-%20S02E04%20-%20The%20Riddle%20of%20the%20Sphinx.mkv:Westworld  S02E The Riddle of the Sphinx.mkv
+#DESCRIPTION Westworld  S02E The Riddle of the Sphinx.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2002/Westworld%20-%20S02E05%20-%20Akane%20No%20Mai.mkv:Westworld  S02E Akane No Mai.mkv
+#DESCRIPTION Westworld  S02E Akane No Mai.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2002/Westworld%20-%20S02E06%20-%20Phase%20Space.mkv:Westworld  S02E Phase Space.mkv
+#DESCRIPTION Westworld  S02E Phase Space.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2002/Westworld%20-%20S02E07%20-%20Les%20%C3%89corch%C3%A9s.mkv:Westworld  S02E Les Écorchés.mkv
+#DESCRIPTION Westworld  S02E Les Écorchés.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2002/Westworld%20-%20S02E08%20-%20Kiksuya.mkv:Westworld  S02E Kiksuya.mkv
+#DESCRIPTION Westworld  S02E Kiksuya.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2002/Westworld%20-%20S02E09%20-%20Vanishing%20Point.mkv:Westworld  S02E Vanishing Point.mkv
+#DESCRIPTION Westworld  S02E Vanishing Point.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2002/Westworld%20-%20S02E10%20-%20The%20Passenger.mkv:Westworld  S02E The Passenger.mkv
+#DESCRIPTION Westworld  S02E The Passenger.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2003/Westworld%20-%20S03E01%20-%20Parce%20Domine.mkv:Westworld  S03E Parce Domine.mkv
+#DESCRIPTION Westworld  S03E Parce Domine.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2003/Westworld%20-%20S03E02%20-%20The%20Winter%20Line.mkv:Westworld  S03E The Winter Line.mkv
+#DESCRIPTION Westworld  S03E The Winter Line.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2003/Westworld%20-%20S03E03%20-%20The%20Absence%20of%20Field.mkv:Westworld  S03E The Absence of Field.mkv
+#DESCRIPTION Westworld  S03E The Absence of Field.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2003/Westworld%20-%20S03E04%20-%20The%20Mother%20of%20Exiles.mkv:Westworld  S03E The Mother of Exiles.mkv
+#DESCRIPTION Westworld  S03E The Mother of Exiles.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2003/Westworld%20-%20S03E05%20-%20Genre.mkv:Westworld  S03E Genre.mkv
+#DESCRIPTION Westworld  S03E Genre.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2003/Westworld%20-%20S03E06%20-%20Decoherence.mkv:Westworld  S03E Decoherence.mkv
+#DESCRIPTION Westworld  S03E Decoherence.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2003/Westworld%20-%20S03E07%20-%20Passed%20Pawn.mkv:Westworld  S03E Passed Pawn.mkv
+#DESCRIPTION Westworld  S03E Passed Pawn.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2003/Westworld%20-%20S03E08%20-%20Crisis%20Theory.mkv:Westworld  S03E Crisis Theory.mkv
+#DESCRIPTION Westworld  S03E Crisis Theory.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2004/Westworld%20-%20S04E01%20-%20The%20Auguries.mkv:Westworld  S04E The Auguries.mkv
+#DESCRIPTION Westworld  S04E The Auguries.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2004/Westworld%20-%20S04E02%20-%20Well%20Enough%20Alone.mkv:Westworld  S04E Well Enough Alone.mkv
+#DESCRIPTION Westworld  S04E Well Enough Alone.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2004/Westworld%20-%20S04E03%20-%20Ann%E9es%20Folles.mkv:Westworld  S04E Annes Folles.mkv
+#DESCRIPTION Westworld  S04E Annes Folles.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2004/Westworld%20-%20S04E04%20-%20Generation%20Loss.mkv:Westworld  S04E Generation Loss.mkv
+#DESCRIPTION Westworld  S04E Generation Loss.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2004/Westworld%20-%20S04E05%20-%20Zhuangzi.mkv:Westworld  S04E Zhuangzi.mkv
+#DESCRIPTION Westworld  S04E Zhuangzi.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2004/Westworld%20-%20S04E06%20-%20Fidelity.mkv:Westworld  S04E Fidelity.mkv
+#DESCRIPTION Westworld  S04E Fidelity.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2004/Westworld%20-%20S04E07%20-%20Metanoia.mkv:Westworld  S04E Metanoia.mkv
+#DESCRIPTION Westworld  S04E Metanoia.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Westworld/Season%2004/Westworld%20-%20S04E08%20-%20Que%20Ser%E1%2C%20Ser%E1.mkv:Westworld  S04E Que Ser Ser.mkv
+#DESCRIPTION Westworld  S04E Que Ser Ser.mkv

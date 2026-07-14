@@ -1,0 +1,21 @@
+#NAME CiefpSettings IPTV - Band of Brothers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Band%20of%20Brothers/Season%2001/Band%20of%20Brothers%20-%20S01E01%20-%20Currahee.mkv:Band of Brothers  S01E Currahee.mkv
+#DESCRIPTION Band of Brothers  S01E Currahee.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Band%20of%20Brothers/Season%2001/Band%20of%20Brothers%20-%20S01E02%20-%20Day%20of%20Days.mkv:Band of Brothers  S01E Day of Days.mkv
+#DESCRIPTION Band of Brothers  S01E Day of Days.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Band%20of%20Brothers/Season%2001/Band%20of%20Brothers%20-%20S01E03%20-%20Carentan.mkv:Band of Brothers  S01E Carentan.mkv
+#DESCRIPTION Band of Brothers  S01E Carentan.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Band%20of%20Brothers/Season%2001/Band%20of%20Brothers%20-%20S01E04%20-%20Replacements.mkv:Band of Brothers  S01E Replacements.mkv
+#DESCRIPTION Band of Brothers  S01E Replacements.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Band%20of%20Brothers/Season%2001/Band%20of%20Brothers%20-%20S01E05%20-%20Crossroads.mkv:Band of Brothers  S01E Crossroads.mkv
+#DESCRIPTION Band of Brothers  S01E Crossroads.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Band%20of%20Brothers/Season%2001/Band%20of%20Brothers%20-%20S01E06%20-%20Bastogne.mkv:Band of Brothers  S01E Bastogne.mkv
+#DESCRIPTION Band of Brothers  S01E Bastogne.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Band%20of%20Brothers/Season%2001/Band%20of%20Brothers%20-%20S01E07%20-%20The%20Breaking%20Point.mkv:Band of Brothers  S01E The Breaking Point.mkv
+#DESCRIPTION Band of Brothers  S01E The Breaking Point.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Band%20of%20Brothers/Season%2001/Band%20of%20Brothers%20-%20S01E08%20-%20The%20Last%20Patrol.mkv:Band of Brothers  S01E The Last Patrol.mkv
+#DESCRIPTION Band of Brothers  S01E The Last Patrol.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Band%20of%20Brothers/Season%2001/Band%20of%20Brothers%20-%20S01E09%20-%20Why%20We%20Fight.mkv:Band of Brothers  S01E Why We Fight.mkv
+#DESCRIPTION Band of Brothers  S01E Why We Fight.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Band%20of%20Brothers/Season%2001/Band%20of%20Brothers%20-%20S01E10%20-%20Points.mkv:Band of Brothers  S01E Points.mkv
+#DESCRIPTION Band of Brothers  S01E Points.mkv
