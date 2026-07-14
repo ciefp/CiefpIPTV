@@ -1,169 +1,169 @@
 #NAME CiefpSettings IPTV - Arrested Development
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E01%20-%20Pilot.mkv:Arrested Development  S01E Pilot.mkv
-#DESCRIPTION Arrested Development  S01E Pilot.mkv
+#DESCRIPTION Arrested Development  S01E01 Pilot.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E02%20-%20Top%20Banana.mkv:Arrested Development  S01E Top Banana.mkv
-#DESCRIPTION Arrested Development  S01E Top Banana.mkv
+#DESCRIPTION Arrested Development  S01E02 Top Banana.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E03%20-%20Bringing%20Up%20Buster.mkv:Arrested Development  S01E Bringing Up Buster.mkv
-#DESCRIPTION Arrested Development  S01E Bringing Up Buster.mkv
+#DESCRIPTION Arrested Development  S01E03 Bringing Up Buster.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E04%20-%20Key%20Decisions.mkv:Arrested Development  S01E Key Decisions.mkv
-#DESCRIPTION Arrested Development  S01E Key Decisions.mkv
+#DESCRIPTION Arrested Development  S01E04 Key Decisions.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E05%20-%20Visiting%20Ours.mkv:Arrested Development  S01E Visiting Ours.mkv
-#DESCRIPTION Arrested Development  S01E Visiting Ours.mkv
+#DESCRIPTION Arrested Development  S01E05 Visiting Ours.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E06%20-%20Charity%20Drive.mkv:Arrested Development  S01E Charity Drive.mkv
-#DESCRIPTION Arrested Development  S01E Charity Drive.mkv
+#DESCRIPTION Arrested Development  S01E06 Charity Drive.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E07%20-%20My%20Mother%2C%20The%20Car.mkv:Arrested Development  S01E My Mother The Car.mkv
-#DESCRIPTION Arrested Development  S01E My Mother The Car.mkv
+#DESCRIPTION Arrested Development  S01E07 My Mother The Car.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E08%20-%20In%20God%20We%20Trust.mkv:Arrested Development  S01E In God We Trust.mkv
-#DESCRIPTION Arrested Development  S01E In God We Trust.mkv
+#DESCRIPTION Arrested Development  S01E08 In God We Trust.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E09%20-%20Storming%20the%20Castle.mkv:Arrested Development  S01E Storming the Castle.mkv
-#DESCRIPTION Arrested Development  S01E Storming the Castle.mkv
+#DESCRIPTION Arrested Development  S01E09 Storming the Castle.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E10%20-%20Pier%20Pressure.mkv:Arrested Development  S01E Pier Pressure.mkv
-#DESCRIPTION Arrested Development  S01E Pier Pressure.mkv
+#DESCRIPTION Arrested Development  S01E10 Pier Pressure.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E11%20-%20Public%20Relations.mkv:Arrested Development  S01E Public Relations.mkv
-#DESCRIPTION Arrested Development  S01E Public Relations.mkv
+#DESCRIPTION Arrested Development  S01E11 Public Relations.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E12%20-%20Marta%20Complex.mkv:Arrested Development  S01E Marta Complex.mkv
-#DESCRIPTION Arrested Development  S01E Marta Complex.mkv
+#DESCRIPTION Arrested Development  S01E12 Marta Complex.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E13%20-%20Beef%20Consomme.mkv:Arrested Development  S01E Beef Consomme.mkv
-#DESCRIPTION Arrested Development  S01E Beef Consomme.mkv
+#DESCRIPTION Arrested Development  S01E13 Beef Consomme.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E14%20-%20Shock%20and%20Aww.mkv:Arrested Development  S01E Shock and Aww.mkv
-#DESCRIPTION Arrested Development  S01E Shock and Aww.mkv
+#DESCRIPTION Arrested Development  S01E14 Shock and Aww.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E15%20-%20Staff%20Infection.mkv:Arrested Development  S01E Staff Infection.mkv
-#DESCRIPTION Arrested Development  S01E Staff Infection.mkv
+#DESCRIPTION Arrested Development  S01E15 Staff Infection.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E16%20-%20Missing%20Kitty.mkv:Arrested Development  S01E Missing Kitty.mkv
-#DESCRIPTION Arrested Development  S01E Missing Kitty.mkv
+#DESCRIPTION Arrested Development  S01E16 Missing Kitty.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E17%20-%20Altar%20Egos.mkv:Arrested Development  S01E Altar Egos.mkv
-#DESCRIPTION Arrested Development  S01E Altar Egos.mkv
+#DESCRIPTION Arrested Development  S01E17 Altar Egos.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E18%20-%20Justice%20Is%20Blind.mkv:Arrested Development  S01E Justice Is Blind.mkv
-#DESCRIPTION Arrested Development  S01E Justice Is Blind.mkv
+#DESCRIPTION Arrested Development  S01E18 Justice Is Blind.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E19%20-%20Best%20Man%20for%20the%20Gob.mkv:Arrested Development  S01E Best Man for the Gob.mkv
-#DESCRIPTION Arrested Development  S01E Best Man for the Gob.mkv
+#DESCRIPTION Arrested Development  S01E19 Best Man for the Gob.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E20%20-%20Whistler%27s%20Mother.mkv:Arrested Development  S01E Whistler's Mother.mkv
-#DESCRIPTION Arrested Development  S01E Whistler's Mother.mkv
+#DESCRIPTION Arrested Development  S01E20 Whistler's Mother.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E21%20-%20Not%20Without%20My%20Daughter.mkv:Arrested Development  S01E Not Without My Daughter.mkv
-#DESCRIPTION Arrested Development  S01E Not Without My Daughter.mkv
+#DESCRIPTION Arrested Development  S01E21 Not Without My Daughter.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2001/Arrested%20Development%20-%20S01E22%20-%20Let%20%27Em%20Eat%20Cake.mkv:Arrested Development  S01E Let 'Em Eat Cake.mkv
-#DESCRIPTION Arrested Development  S01E Let 'Em Eat Cake.mkv
+#DESCRIPTION Arrested Development  S01E22 Let 'Em Eat Cake.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E01%20-%20The%20One%20Where%20Michael%20Leaves.mkv:Arrested Development  S02E The One Where Michael Leaves.mkv
-#DESCRIPTION Arrested Development  S02E The One Where Michael Leaves.mkv
+#DESCRIPTION Arrested Development  S02E01 The One Where Michael Leaves.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E02%20-%20The%20One%20Where%20They%20Build%20a%20House.mkv:Arrested Development  S02E The One Where They Build a House.mkv
-#DESCRIPTION Arrested Development  S02E The One Where They Build a House.mkv
+#DESCRIPTION Arrested Development  S02E02 The One Where They Build a House.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E03%20-%20%C2%A1Amigos%21.mkv:Arrested Development  S02E ¡Amigos!.mkv
-#DESCRIPTION Arrested Development  S02E ¡Amigos!.mkv
+#DESCRIPTION Arrested Development  S02E03 ¡Amigos!.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E04%20-%20Good%20Grief.mkv:Arrested Development  S02E Good Grief.mkv
-#DESCRIPTION Arrested Development  S02E Good Grief.mkv
+#DESCRIPTION Arrested Development  S02E04 Good Grief.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E05%20-%20Sad%20Sack.mkv:Arrested Development  S02E Sad Sack.mkv
-#DESCRIPTION Arrested Development  S02E Sad Sack.mkv
+#DESCRIPTION Arrested Development  S02E05 Sad Sack.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E06%20-%20Afternoon%20Delight.mkv:Arrested Development  S02E Afternoon Delight.mkv
-#DESCRIPTION Arrested Development  S02E Afternoon Delight.mkv
+#DESCRIPTION Arrested Development  S02E06 Afternoon Delight.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E07%20-%20Switch%20Hitter.mkv:Arrested Development  S02E Switch Hitter.mkv
-#DESCRIPTION Arrested Development  S02E Switch Hitter.mkv
+#DESCRIPTION Arrested Development  S02E07 Switch Hitter.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E08%20-%20Queen%20for%20a%20Day.mkv:Arrested Development  S02E Queen for a Day.mkv
-#DESCRIPTION Arrested Development  S02E Queen for a Day.mkv
+#DESCRIPTION Arrested Development  S02E08 Queen for a Day.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E09%20-%20Burning%20Love.mkv:Arrested Development  S02E Burning Love.mkv
-#DESCRIPTION Arrested Development  S02E Burning Love.mkv
+#DESCRIPTION Arrested Development  S02E09 Burning Love.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E10%20-%20Ready%2C%20Aim%2C%20Marry%20Me%21.mkv:Arrested Development  S02E Ready Aim Marry Me!.mkv
-#DESCRIPTION Arrested Development  S02E Ready Aim Marry Me!.mkv
+#DESCRIPTION Arrested Development  S02E10 Ready Aim Marry Me!.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E11%20-%20Out%20on%20a%20Limb.mkv:Arrested Development  S02E Out on a Limb.mkv
-#DESCRIPTION Arrested Development  S02E Out on a Limb.mkv
+#DESCRIPTION Arrested Development  S02E11 Out on a Limb.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E12%20-%20Hand%20to%20God.mkv:Arrested Development  S02E Hand to God.mkv
-#DESCRIPTION Arrested Development  S02E Hand to God.mkv
+#DESCRIPTION Arrested Development  S02E12 Hand to God.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E13%20-%20Motherboy%20XXX.mkv:Arrested Development  S02E Motherboy XXX.mkv
-#DESCRIPTION Arrested Development  S02E Motherboy XXX.mkv
+#DESCRIPTION Arrested Development  S02E13 Motherboy XXX.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E14%20-%20The%20Immaculate%20Election.mkv:Arrested Development  S02E The Immaculate Election.mkv
-#DESCRIPTION Arrested Development  S02E The Immaculate Election.mkv
+#DESCRIPTION Arrested Development  S02E14 The Immaculate Election.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E15%20-%20Sword%20of%20Destiny.mkv:Arrested Development  S02E Sword of Destiny.mkv
-#DESCRIPTION Arrested Development  S02E Sword of Destiny.mkv
+#DESCRIPTION Arrested Development  S02E15 Sword of Destiny.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E16%20-%20Meat%20the%20Veals.mkv:Arrested Development  S02E Meat the Veals.mkv
-#DESCRIPTION Arrested Development  S02E Meat the Veals.mkv
+#DESCRIPTION Arrested Development  S02E16 Meat the Veals.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E17%20-%20Spring%20Breakout.mkv:Arrested Development  S02E Spring Breakout.mkv
-#DESCRIPTION Arrested Development  S02E Spring Breakout.mkv
+#DESCRIPTION Arrested Development  S02E17 Spring Breakout.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2002/Arrested%20Development%20-%20S02E18%20-%20Righteous%20Brothers.mkv:Arrested Development  S02E Righteous Brothers.mkv
-#DESCRIPTION Arrested Development  S02E Righteous Brothers.mkv
+#DESCRIPTION Arrested Development  S02E18 Righteous Brothers.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E01%20-%20The%20Cabin%20Show.mkv:Arrested Development  S03E The Cabin Show.mkv
-#DESCRIPTION Arrested Development  S03E The Cabin Show.mkv
+#DESCRIPTION Arrested Development  S03E01 The Cabin Show.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E02%20-%20For%20British%20Eyes%20Only.mkv:Arrested Development  S03E For British Eyes Only.mkv
-#DESCRIPTION Arrested Development  S03E For British Eyes Only.mkv
+#DESCRIPTION Arrested Development  S03E02 For British Eyes Only.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E03%20-%20Forget%20Me%20Now.mkv:Arrested Development  S03E Forget Me Now.mkv
-#DESCRIPTION Arrested Development  S03E Forget Me Now.mkv
+#DESCRIPTION Arrested Development  S03E03 Forget Me Now.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E04%20-%20Notapusy.mkv:Arrested Development  S03E Notapusy.mkv
-#DESCRIPTION Arrested Development  S03E Notapusy.mkv
+#DESCRIPTION Arrested Development  S03E04 Notapusy.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E05%20-%20Mr.%20F.mkv:Arrested Development  S03E Mr. F.mkv
-#DESCRIPTION Arrested Development  S03E Mr. F.mkv
+#DESCRIPTION Arrested Development  S03E05 Mr. F.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E06%20-%20The%20Ocean%20Walker.mkv:Arrested Development  S03E The Ocean Walker.mkv
-#DESCRIPTION Arrested Development  S03E The Ocean Walker.mkv
+#DESCRIPTION Arrested Development  S03E06 The Ocean Walker.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E07%20-%20Prison%20Break-In.mkv:Arrested Development  S03E Prison BreakIn.mkv
-#DESCRIPTION Arrested Development  S03E Prison BreakIn.mkv
+#DESCRIPTION Arrested Development  S03E07 Prison BreakIn.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E08%20-%20Making%20a%20Stand.mkv:Arrested Development  S03E Making a Stand.mkv
-#DESCRIPTION Arrested Development  S03E Making a Stand.mkv
+#DESCRIPTION Arrested Development  S03E08 Making a Stand.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E09%20-%20S.O.B.s.mkv:Arrested Development  S03E S.O.B.s.mkv
-#DESCRIPTION Arrested Development  S03E S.O.B.s.mkv
+#DESCRIPTION Arrested Development  S03E09 S.O.B.s.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E10%20-%20Fakin%27%20It.mkv:Arrested Development  S03E Fakin' It.mkv
-#DESCRIPTION Arrested Development  S03E Fakin' It.mkv
+#DESCRIPTION Arrested Development  S03E10 Fakin' It.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E11%20-%20Family%20Ties.mkv:Arrested Development  S03E Family Ties.mkv
-#DESCRIPTION Arrested Development  S03E Family Ties.mkv
+#DESCRIPTION Arrested Development  S03E11 Family Ties.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E12%20-%20Exit%20Strategy.mkv:Arrested Development  S03E Exit Strategy.mkv
-#DESCRIPTION Arrested Development  S03E Exit Strategy.mkv
+#DESCRIPTION Arrested Development  S03E12 Exit Strategy.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2003/Arrested%20Development%20-%20S03E13%20-%20Development%20Arrested.mkv:Arrested Development  S03E Development Arrested.mkv
-#DESCRIPTION Arrested Development  S03E Development Arrested.mkv
+#DESCRIPTION Arrested Development  S03E13 Development Arrested.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E01%20-%20Flight%20of%20the%20Phoenix.mkv:Arrested Development  S04E Flight of the Phoenix.mkv
-#DESCRIPTION Arrested Development  S04E Flight of the Phoenix.mkv
+#DESCRIPTION Arrested Development  S04E01 Flight of the Phoenix.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E02%20-%20Borderline%20Personalities.mkv:Arrested Development  S04E Borderline Personalities.mkv
-#DESCRIPTION Arrested Development  S04E Borderline Personalities.mkv
+#DESCRIPTION Arrested Development  S04E02 Borderline Personalities.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E03%20-%20Indian%20Takers.mkv:Arrested Development  S04E Indian Takers.mkv
-#DESCRIPTION Arrested Development  S04E Indian Takers.mkv
+#DESCRIPTION Arrested Development  S04E05 Indian Takers.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E04%20-%20The%20B.%20Team.mkv:Arrested Development  S04E The B. Team.mkv
-#DESCRIPTION Arrested Development  S04E The B. Team.mkv
+#DESCRIPTION Arrested Development  S04E06 The B. Team.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E05%20-%20A%20New%20Start.mkv:Arrested Development  S04E A New Start.mkv
-#DESCRIPTION Arrested Development  S04E A New Start.mkv
+#DESCRIPTION Arrested Development  S04E07 A New Start.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E06%20-%20Double%20Crossers.mkv:Arrested Development  S04E Double Crossers.mkv
-#DESCRIPTION Arrested Development  S04E Double Crossers.mkv
+#DESCRIPTION Arrested Development  S04E08 Double Crossers.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E07%20-%20Colony%20Collapse.mkv:Arrested Development  S04E Colony Collapse.mkv
-#DESCRIPTION Arrested Development  S04E Colony Collapse.mkv
+#DESCRIPTION Arrested Development  S04E09 Colony Collapse.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E08%20-%20Red%20Hairing.mkv:Arrested Development  S04E Red Hairing.mkv
-#DESCRIPTION Arrested Development  S04E Red Hairing.mkv
+#DESCRIPTION Arrested Development  S04E10 Red Hairing.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E09%20-%20Smashed.mkv:Arrested Development  S04E Smashed.mkv
-#DESCRIPTION Arrested Development  S04E Smashed.mkv
+#DESCRIPTION Arrested Development  S04E11 Smashed.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E10%20-%20Queen%20B..mkv:Arrested Development  S04E Queen B..mkv
-#DESCRIPTION Arrested Development  S04E Queen B..mkv
+#DESCRIPTION Arrested Development  S04E12 Queen B..mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E11%20-%20A%20New%20Attitude.mkv:Arrested Development  S04E A New Attitude.mkv
-#DESCRIPTION Arrested Development  S04E A New Attitude.mkv
+#DESCRIPTION Arrested Development  S04E13 A New Attitude.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E12%20-%20Se%C3%B1oritis.mkv:Arrested Development  S04E Señoritis.mkv
-#DESCRIPTION Arrested Development  S04E Señoritis.mkv
+#DESCRIPTION Arrested Development  S04E14 Señoritis.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E13%20-%20It%20Gets%20Better.mkv:Arrested Development  S04E It Gets Better.mkv
-#DESCRIPTION Arrested Development  S04E It Gets Better.mkv
+#DESCRIPTION Arrested Development  S04E15 It Gets Better.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E14%20-%20Off%20the%20Hook.mkv:Arrested Development  S04E Off the Hook.mkv
-#DESCRIPTION Arrested Development  S04E Off the Hook.mkv
+#DESCRIPTION Arrested Development  S04E16 Off the Hook.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2004/Arrested%20Development%20-%20S04E15%20-%20Blockheads.mkv:Arrested Development  S04E Blockheads.mkv
-#DESCRIPTION Arrested Development  S04E Blockheads.mkv
+#DESCRIPTION Arrested Development  S04E17 Blockheads.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E01%20-%20Family%20Leave.mkv:Arrested Development  S05E Family Leave.mkv
-#DESCRIPTION Arrested Development  S05E Family Leave.mkv
+#DESCRIPTION Arrested Development  S05E01 Family Leave.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E02%20-%20Self-Deportation.mkv:Arrested Development  S05E SelfDeportation.mkv
-#DESCRIPTION Arrested Development  S05E SelfDeportation.mkv
+#DESCRIPTION Arrested Development  S05E02 SelfDeportation.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E03%20-%20Everyone%20Gets%20Atrophy.mkv:Arrested Development  S05E Everyone Gets Atrophy.mkv
-#DESCRIPTION Arrested Development  S05E Everyone Gets Atrophy.mkv
+#DESCRIPTION Arrested Development  S05E03 Everyone Gets Atrophy.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E04%20-%20Old%20Start%2C%20An.mkv:Arrested Development  S05E Old Start An.mkv
-#DESCRIPTION Arrested Development  S05E Old Start An.mkv
+#DESCRIPTION Arrested Development  S05E04 Old Start An.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E05%20-%20Sinking%20Feelings.mkv:Arrested Development  S05E Sinking Feelings.mkv
-#DESCRIPTION Arrested Development  S05E Sinking Feelings.mkv
+#DESCRIPTION Arrested Development  S05E05 Sinking Feelings.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E06%20-%20Emotional%20Baggage.mkv:Arrested Development  S05E Emotional Baggage.mkv
-#DESCRIPTION Arrested Development  S05E Emotional Baggage.mkv
+#DESCRIPTION Arrested Development  S05E06 Emotional Baggage.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E07%20-%20Rom-Traum.mkv:Arrested Development  S05E RomTraum.mkv
-#DESCRIPTION Arrested Development  S05E RomTraum.mkv
+#DESCRIPTION Arrested Development  S05E07 RomTraum.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E08%20-%20Premature%20Independence.mkv:Arrested Development  S05E Premature Independence.mkv
-#DESCRIPTION Arrested Development  S05E Premature Independence.mkv
+#DESCRIPTION Arrested Development  S05E08 Premature Independence.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E09%20-%20Unexpected%20Company.mkv:Arrested Development  S05E Unexpected Company.mkv
-#DESCRIPTION Arrested Development  S05E Unexpected Company.mkv
+#DESCRIPTION Arrested Development  S05E09 Unexpected Company.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E10%20-%20Taste%20Makers.mkv:Arrested Development  S05E Taste Makers.mkv
-#DESCRIPTION Arrested Development  S05E Taste Makers.mkv
+#DESCRIPTION Arrested Development  S05E10 Taste Makers.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E11%20-%20Chain%20Migration.mkv:Arrested Development  S05E Chain Migration.mkv
-#DESCRIPTION Arrested Development  S05E Chain Migration.mkv
+#DESCRIPTION Arrested Development  S05E11 Chain Migration.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E12%20-%20Check%20Mates.mkv:Arrested Development  S05E Check Mates.mkv
-#DESCRIPTION Arrested Development  S05E Check Mates.mkv
+#DESCRIPTION Arrested Development  S05E12 Check Mates.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E13%20-%20The%20Untethered%20Sole.mkv:Arrested Development  S05E The Untethered Sole.mkv
-#DESCRIPTION Arrested Development  S05E The Untethered Sole.mkv
+#DESCRIPTION Arrested Development  S05E13 The Untethered Sole.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E14%20-%20Saving%20for%20Arraignment%20Day.mkv:Arrested Development  S05E Saving for Arraignment Day.mkv
-#DESCRIPTION Arrested Development  S05E Saving for Arraignment Day.mkv
+#DESCRIPTION Arrested Development  S05E14 Saving for Arraignment Day.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E15%20-%20Courting%20Disasters.mkv:Arrested Development  S05E Courting Disasters.mkv
-#DESCRIPTION Arrested Development  S05E Courting Disasters.mkv
+#DESCRIPTION Arrested Development  S05E15 Courting Disasters.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Arrested%20Development/Season%2005/Arrested%20Development%20-%20S05E16%20-%20The%20Fallout.mkv:Arrested Development  S05E The Fallout.mkv
-#DESCRIPTION Arrested Development  S05E The Fallout.mkv
+#DESCRIPTION Arrested Development  S05E16 The Fallout.mkv

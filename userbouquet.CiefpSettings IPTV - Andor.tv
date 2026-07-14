@@ -1,49 +1,49 @@
 #NAME CiefpSettings IPTV - Andor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2001/Andor%20-%20S01E01%20-%20Kassa.mkv:Andor  S01E Kassa.mkv
-#DESCRIPTION Andor  S01E Kassa.mkv
+#DESCRIPTION Andor  S01E01 Kassa.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2001/Andor%20-%20S01E02%20-%20That%20Would%20Be%20Me.mkv:Andor  S01E That Would Be Me.mkv
-#DESCRIPTION Andor  S01E That Would Be Me.mkv
+#DESCRIPTION Andor  S01E02 That Would Be Me.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2001/Andor%20-%20S01E03%20-%20Reckoning.mkv:Andor  S01E Reckoning.mkv
-#DESCRIPTION Andor  S01E Reckoning.mkv
+#DESCRIPTION Andor  S01E03 Reckoning.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2001/Andor%20-%20S01E04%20-%20Aldhani.mkv:Andor  S01E Aldhani.mkv
-#DESCRIPTION Andor  S01E Aldhani.mkv
+#DESCRIPTION Andor  S01E04 Aldhani.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2001/Andor%20-%20S01E05%20-%20The%20Axe%20Forgets.mkv:Andor  S01E The Axe Forgets.mkv
-#DESCRIPTION Andor  S01E The Axe Forgets.mkv
+#DESCRIPTION Andor  S01E05 The Axe Forgets.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2001/Andor%20-%20S01E06%20-%20The%20Eye.mkv:Andor  S01E The Eye.mkv
-#DESCRIPTION Andor  S01E The Eye.mkv
+#DESCRIPTION Andor  S01E06 The Eye.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2001/Andor%20-%20S01E07%20-%20Announcement.mkv:Andor  S01E Announcement.mkv
-#DESCRIPTION Andor  S01E Announcement.mkv
+#DESCRIPTION Andor  S01E07 Announcement.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2001/Andor%20-%20S01E08%20-%20Narkina%205.mkv:Andor  S01E Narkina 5.mkv
-#DESCRIPTION Andor  S01E Narkina 5.mkv
+#DESCRIPTION Andor  S01E08 Narkina 5.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2001/Andor%20-%20S01E09%20-%20Nobody%27s%20Listening.mkv:Andor  S01E Nobody's Listening.mkv
-#DESCRIPTION Andor  S01E Nobody's Listening.mkv
+#DESCRIPTION Andor  S01E09 Nobody's Listening.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2001/Andor%20-%20S01E10%20-%20One%20Way%20Out.mkv:Andor  S01E One Way Out.mkv
-#DESCRIPTION Andor  S01E One Way Out.mkv
+#DESCRIPTION Andor  S01E10 One Way Out.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2001/Andor%20-%20S01E11%20-%20Daughter%20of%20Ferrix.mkv:Andor  S01E Daughter of Ferrix.mkv
-#DESCRIPTION Andor  S01E Daughter of Ferrix.mkv
+#DESCRIPTION Andor  S01E11 Daughter of Ferrix.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2001/Andor%20-%20S01E12%20-%20Rix%20Road.mkv:Andor  S01E Rix Road.mkv
-#DESCRIPTION Andor  S01E Rix Road.mkv
+#DESCRIPTION Andor  S01E12 Rix Road.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2002/Andor%20-%20S02E01%20-%20One%20Year%20Later%201080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Andor  S02E One Year Later 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
-#DESCRIPTION Andor  S02E One Year Later 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Andor  S02E01 One Year Later 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2002/Andor%20-%20S02E02%20-%20Sagrona%20Teema%201080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Andor  S02E Sagrona Teema 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
-#DESCRIPTION Andor  S02E Sagrona Teema 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Andor  S02E02 Sagrona Teema 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2002/Andor%20-%20S02E03%20-%20Harvest%201080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Andor  S02E Harvest 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
-#DESCRIPTION Andor  S02E Harvest 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Andor  S02E03 Harvest 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2002/Andor%20-%20S02E04%20-%20Ever%20Been%20to%20Ghorman%3F%201080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Andor  S02E Ever Been to Ghorman? 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
-#DESCRIPTION Andor  S02E Ever Been to Ghorman? 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Andor  S02E04 Ever Been to Ghorman? 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2002/Andor%20-%20S02E05%20-%20I%20Have%20Friends%20Everywhere%201080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Andor  S02E I Have Friends Everywhere 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
-#DESCRIPTION Andor  S02E I Have Friends Everywhere 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Andor  S02E05 I Have Friends Everywhere 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2002/Andor%20-%20S02E06%20-%20What%20a%20Festive%20Evening%201080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Andor  S02E What a Festive Evening 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
-#DESCRIPTION Andor  S02E What a Festive Evening 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Andor  S02E06 What a Festive Evening 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2002/Andor%20-%20S02E07%20-%20Messenger%201080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Andor  S02E Messenger 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
-#DESCRIPTION Andor  S02E Messenger 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Andor  S02E07 Messenger 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2002/Andor%20-%20S02E08%20-%20Who%20Are%20You%3F%201080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Andor  S02E Who Are You? 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
-#DESCRIPTION Andor  S02E Who Are You? 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Andor  S02E08 Who Are You? 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2002/Andor%20-%20S02E09%20-%20Welcome%20to%20the%20Rebellion%201080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Andor  S02E Welcome to the Rebellion 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
-#DESCRIPTION Andor  S02E Welcome to the Rebellion 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Andor  S02E09 Welcome to the Rebellion 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2002/Andor%20-%20S02E10%20-%20Make%20It%20Stop%201080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Andor  S02E Make It Stop 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
-#DESCRIPTION Andor  S02E Make It Stop 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Andor  S02E10 Make It Stop 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2002/Andor%20-%20S02E11%20-%20Who%20Else%20Knows%3F%201080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Andor  S02E Who Else Knows? 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
-#DESCRIPTION Andor  S02E Who Else Knows? 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Andor  S02E11 Who Else Knows? 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113/tv/Other/Andor/Season%2002/Andor%20-%20S02E12%20-%20Jedha%2C%20Kyber%2C%20Erso%201080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv:Andor  S02E Jedha Kyber Erso 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
-#DESCRIPTION Andor  S02E Jedha Kyber Erso 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
+#DESCRIPTION Andor  S02E12 Jedha Kyber Erso 1080p.DSNP.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv
