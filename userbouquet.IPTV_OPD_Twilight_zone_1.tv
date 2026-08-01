@@ -1,0 +1,313 @@
+#NAME IPTV OPD Twilight zone 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E01%20-%20Where%20Is%20Everybody.mkv:The Twilight Zone - S01E01 - Where Is Everybody.mkv
+#DESCRIPTION The Twilight Zone - S01E01 - Where Is Everybody.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E02%20-%20One%20for%20the%20Angels.mkv:The Twilight Zone - S01E02 - One for the Angels.mkv
+#DESCRIPTION The Twilight Zone - S01E02 - One for the Angels.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E03%20-%20Mr.%20Denton%20on%20Doomsday.mkv:The Twilight Zone - S01E03 - Mr. Denton on Doomsday.mkv
+#DESCRIPTION The Twilight Zone - S01E03 - Mr. Denton on Doomsday.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E04%20-%20The%20Sixteen-Millimeter%20Shrine.mkv:The Twilight Zone - S01E04 - The Sixteen-Millimeter Shrine.mkv
+#DESCRIPTION The Twilight Zone - S01E04 - The Sixteen-Millimeter Shrine.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E05%20-%20Walking%20Distance.mkv:The Twilight Zone - S01E05 - Walking Distance.mkv
+#DESCRIPTION The Twilight Zone - S01E05 - Walking Distance.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E06%20-%20Escape%20Clause.mkv:The Twilight Zone - S01E06 - Escape Clause.mkv
+#DESCRIPTION The Twilight Zone - S01E06 - Escape Clause.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E07%20-%20The%20Lonely.mkv:The Twilight Zone - S01E07 - The Lonely.mkv
+#DESCRIPTION The Twilight Zone - S01E07 - The Lonely.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E08%20-%20Time%20Enough%20at%20Last.mkv:The Twilight Zone - S01E08 - Time Enough at Last.mkv
+#DESCRIPTION The Twilight Zone - S01E08 - Time Enough at Last.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E09%20-%20Perchance%20to%20Dream.mkv:The Twilight Zone - S01E09 - Perchance to Dream.mkv
+#DESCRIPTION The Twilight Zone - S01E09 - Perchance to Dream.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E10%20-%20Judgment%20Night.mkv:The Twilight Zone - S01E10 - Judgment Night.mkv
+#DESCRIPTION The Twilight Zone - S01E10 - Judgment Night.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E11%20-%20And%20When%20the%20Sky%20Was%20Opened.mkv:The Twilight Zone - S01E11 - And When the Sky Was Opened.mkv
+#DESCRIPTION The Twilight Zone - S01E11 - And When the Sky Was Opened.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E12%20-%20What%20You%20Need.mkv:The Twilight Zone - S01E12 - What You Need.mkv
+#DESCRIPTION The Twilight Zone - S01E12 - What You Need.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E13%20-%20The%20Four%20of%20Us%20Are%20Dying.mkv:The Twilight Zone - S01E13 - The Four of Us Are Dying.mkv
+#DESCRIPTION The Twilight Zone - S01E13 - The Four of Us Are Dying.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E14%20-%20Third%20from%20the%20Sun.mkv:The Twilight Zone - S01E14 - Third from the Sun.mkv
+#DESCRIPTION The Twilight Zone - S01E14 - Third from the Sun.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E15%20-%20I%20Shot%20an%20Arrow%20into%20the%20Air.mkv:The Twilight Zone - S01E15 - I Shot an Arrow into the Air.mkv
+#DESCRIPTION The Twilight Zone - S01E15 - I Shot an Arrow into the Air.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E16%20-%20The%20Hitch-Hiker.mkv:The Twilight Zone - S01E16 - The Hitch-Hiker.mkv
+#DESCRIPTION The Twilight Zone - S01E16 - The Hitch-Hiker.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E17%20-%20The%20Fever.mkv:The Twilight Zone - S01E17 - The Fever.mkv
+#DESCRIPTION The Twilight Zone - S01E17 - The Fever.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E18%20-%20The%20Last%20Flight.mkv:The Twilight Zone - S01E18 - The Last Flight.mkv
+#DESCRIPTION The Twilight Zone - S01E18 - The Last Flight.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E19%20-%20The%20Purple%20Testament.mkv:The Twilight Zone - S01E19 - The Purple Testament.mkv
+#DESCRIPTION The Twilight Zone - S01E19 - The Purple Testament.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E20%20-%20Elegy.mkv:The Twilight Zone - S01E20 - Elegy.mkv
+#DESCRIPTION The Twilight Zone - S01E20 - Elegy.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E21%20-%20Mirror%20Image.mkv:The Twilight Zone - S01E21 - Mirror Image.mkv
+#DESCRIPTION The Twilight Zone - S01E21 - Mirror Image.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E22%20-%20The%20Monsters%20Are%20Due%20on%20Maple%20Street.mkv:The Twilight Zone - S01E22 - The Monsters Are Due on Maple Street.mkv
+#DESCRIPTION The Twilight Zone - S01E22 - The Monsters Are Due on Maple Street.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E23%20-%20A%20World%20of%20Difference.mkv:The Twilight Zone - S01E23 - A World of Difference.mkv
+#DESCRIPTION The Twilight Zone - S01E23 - A World of Difference.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E24%20-%20Long%20Live%20Walter%20Jameson.mkv:The Twilight Zone - S01E24 - Long Live Walter Jameson.mkv
+#DESCRIPTION The Twilight Zone - S01E24 - Long Live Walter Jameson.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E25%20-%20People%20Are%20Alike%20All%20Over.mkv:The Twilight Zone - S01E25 - People Are Alike All Over.mkv
+#DESCRIPTION The Twilight Zone - S01E25 - People Are Alike All Over.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E26%20-%20Execution.mkv:The Twilight Zone - S01E26 - Execution.mkv
+#DESCRIPTION The Twilight Zone - S01E26 - Execution.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E27%20-%20The%20Big%20Tall%20Wish.mkv:The Twilight Zone - S01E27 - The Big Tall Wish.mkv
+#DESCRIPTION The Twilight Zone - S01E27 - The Big Tall Wish.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E28%20-%20A%20Nice%20Place%20to%20Visit.mkv:The Twilight Zone - S01E28 - A Nice Place to Visit.mkv
+#DESCRIPTION The Twilight Zone - S01E28 - A Nice Place to Visit.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E29%20-%20Nightmare%20as%20a%20Child.mkv:The Twilight Zone - S01E29 - Nightmare as a Child.mkv
+#DESCRIPTION The Twilight Zone - S01E29 - Nightmare as a Child.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E30%20-%20A%20Stop%20at%20Willoughby.mkv:The Twilight Zone - S01E30 - A Stop at Willoughby.mkv
+#DESCRIPTION The Twilight Zone - S01E30 - A Stop at Willoughby.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E31%20-%20The%20Chaser.mkv:The Twilight Zone - S01E31 - The Chaser.mkv
+#DESCRIPTION The Twilight Zone - S01E31 - The Chaser.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E32%20-%20A%20Passage%20for%20Trumpet.mkv:The Twilight Zone - S01E32 - A Passage for Trumpet.mkv
+#DESCRIPTION The Twilight Zone - S01E32 - A Passage for Trumpet.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E33%20-%20Mr.%20Bevis.mkv:The Twilight Zone - S01E33 - Mr. Bevis.mkv
+#DESCRIPTION The Twilight Zone - S01E33 - Mr. Bevis.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E34%20-%20The%20After%20Hours.mkv:The Twilight Zone - S01E34 - The After Hours.mkv
+#DESCRIPTION The Twilight Zone - S01E34 - The After Hours.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E35%20-%20The%20Mighty%20Casey.mkv:The Twilight Zone - S01E35 - The Mighty Casey.mkv
+#DESCRIPTION The Twilight Zone - S01E35 - The Mighty Casey.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2001%2fThe%20Twilight%20Zone%20-%20S01E36%20-%20A%20World%20of%20His%20Own.mkv:The Twilight Zone - S01E36 - A World of His Own.mkv
+#DESCRIPTION The Twilight Zone - S01E36 - A World of His Own.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E01%20-%20King%20Nine%20Will%20Not%20Return.mkv:The Twilight Zone - S02E01 - King Nine Will Not Return.mkv
+#DESCRIPTION The Twilight Zone - S02E01 - King Nine Will Not Return.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E02%20-%20The%20Man%20in%20the%20Bottle.mkv:The Twilight Zone - S02E02 - The Man in the Bottle.mkv
+#DESCRIPTION The Twilight Zone - S02E02 - The Man in the Bottle.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E03%20-%20Nervous%20Man%20in%20a%20Four%20Dollar%20Room.mkv:The Twilight Zone - S02E03 - Nervous Man in a Four Dollar Room.mkv
+#DESCRIPTION The Twilight Zone - S02E03 - Nervous Man in a Four Dollar Room.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E04%20-%20A%20Thing%20About%20Machines.mkv:The Twilight Zone - S02E04 - A Thing About Machines.mkv
+#DESCRIPTION The Twilight Zone - S02E04 - A Thing About Machines.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E05%20-%20The%20Howling%20Man.mkv:The Twilight Zone - S02E05 - The Howling Man.mkv
+#DESCRIPTION The Twilight Zone - S02E05 - The Howling Man.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E06%20-%20The%20Eye%20of%20the%20Beholder.mkv:The Twilight Zone - S02E06 - The Eye of the Beholder.mkv
+#DESCRIPTION The Twilight Zone - S02E06 - The Eye of the Beholder.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E07%20-%20Nick%20of%20Time.mkv:The Twilight Zone - S02E07 - Nick of Time.mkv
+#DESCRIPTION The Twilight Zone - S02E07 - Nick of Time.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E08%20-%20The%20Lateness%20of%20the%20Hour.mkv:The Twilight Zone - S02E08 - The Lateness of the Hour.mkv
+#DESCRIPTION The Twilight Zone - S02E08 - The Lateness of the Hour.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E09%20-%20The%20Trouble%20with%20Templeton.mkv:The Twilight Zone - S02E09 - The Trouble with Templeton.mkv
+#DESCRIPTION The Twilight Zone - S02E09 - The Trouble with Templeton.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E10%20-%20A%20Most%20Unusual%20Camera.mkv:The Twilight Zone - S02E10 - A Most Unusual Camera.mkv
+#DESCRIPTION The Twilight Zone - S02E10 - A Most Unusual Camera.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E11%20-%20The%20Night%20of%20the%20Meek.mkv:The Twilight Zone - S02E11 - The Night of the Meek.mkv
+#DESCRIPTION The Twilight Zone - S02E11 - The Night of the Meek.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E12%20-%20Dust.mkv:The Twilight Zone - S02E12 - Dust.mkv
+#DESCRIPTION The Twilight Zone - S02E12 - Dust.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E13%20-%20Back%20There.mkv:The Twilight Zone - S02E13 - Back There.mkv
+#DESCRIPTION The Twilight Zone - S02E13 - Back There.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E14%20-%20The%20Whole%20Truth.mkv:The Twilight Zone - S02E14 - The Whole Truth.mkv
+#DESCRIPTION The Twilight Zone - S02E14 - The Whole Truth.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E15%20-%20The%20Invaders.mkv:The Twilight Zone - S02E15 - The Invaders.mkv
+#DESCRIPTION The Twilight Zone - S02E15 - The Invaders.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E16%20-%20A%20Penny%20For%20Your%20Thoughts.mkv:The Twilight Zone - S02E16 - A Penny For Your Thoughts.mkv
+#DESCRIPTION The Twilight Zone - S02E16 - A Penny For Your Thoughts.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E17%20-%20Twenty%20Two.mkv:The Twilight Zone - S02E17 - Twenty Two.mkv
+#DESCRIPTION The Twilight Zone - S02E17 - Twenty Two.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E18%20-%20The%20Odyssey%20of%20Flight%2033.mkv:The Twilight Zone - S02E18 - The Odyssey of Flight 33.mkv
+#DESCRIPTION The Twilight Zone - S02E18 - The Odyssey of Flight 33.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E19%20-%20Mr.%20Dingle%2C%20the%20Strong.mkv:The Twilight Zone - S02E19 - Mr. Dingle, the Strong.mkv
+#DESCRIPTION The Twilight Zone - S02E19 - Mr. Dingle, the Strong.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E20%20-%20Static.mkv:The Twilight Zone - S02E20 - Static.mkv
+#DESCRIPTION The Twilight Zone - S02E20 - Static.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E21%20-%20The%20Prime%20Mover.mkv:The Twilight Zone - S02E21 - The Prime Mover.mkv
+#DESCRIPTION The Twilight Zone - S02E21 - The Prime Mover.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E22%20-%20Long%20Distance%20Call.mkv:The Twilight Zone - S02E22 - Long Distance Call.mkv
+#DESCRIPTION The Twilight Zone - S02E22 - Long Distance Call.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E23%20-%20A%20Hundred%20Yards%20over%20the%20Rim.mkv:The Twilight Zone - S02E23 - A Hundred Yards over the Rim.mkv
+#DESCRIPTION The Twilight Zone - S02E23 - A Hundred Yards over the Rim.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E24%20-%20The%20Rip%20Van%20Winkle%20Caper.mkv:The Twilight Zone - S02E24 - The Rip Van Winkle Caper.mkv
+#DESCRIPTION The Twilight Zone - S02E24 - The Rip Van Winkle Caper.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E25%20-%20The%20Silence.mkv:The Twilight Zone - S02E25 - The Silence.mkv
+#DESCRIPTION The Twilight Zone - S02E25 - The Silence.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E26%20-%20Shadow%20Play.mkv:The Twilight Zone - S02E26 - Shadow Play.mkv
+#DESCRIPTION The Twilight Zone - S02E26 - Shadow Play.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E27%20-%20The%20Mind%20and%20the%20Matter.mkv:The Twilight Zone - S02E27 - The Mind and the Matter.mkv
+#DESCRIPTION The Twilight Zone - S02E27 - The Mind and the Matter.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E28%20-%20Will%20the%20Real%20Martian%20Please%20Stand%20Up.mkv:The Twilight Zone - S02E28 - Will the Real Martian Please Stand Up.mkv
+#DESCRIPTION The Twilight Zone - S02E28 - Will the Real Martian Please Stand Up.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2002%2fThe%20Twilight%20Zone%20-%20S02E29%20-%20The%20Obsolete%20Man.mkv:The Twilight Zone - S02E29 - The Obsolete Man.mkv
+#DESCRIPTION The Twilight Zone - S02E29 - The Obsolete Man.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E01%20-%20Two.mkv:The Twilight Zone - S03E01 - Two.mkv
+#DESCRIPTION The Twilight Zone - S03E01 - Two.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E02%20-%20The%20Arrival.mkv:The Twilight Zone - S03E02 - The Arrival.mkv
+#DESCRIPTION The Twilight Zone - S03E02 - The Arrival.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E03%20-%20The%20Shelter.mkv:The Twilight Zone - S03E03 - The Shelter.mkv
+#DESCRIPTION The Twilight Zone - S03E03 - The Shelter.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E04%20-%20The%20Passersby.mkv:The Twilight Zone - S03E04 - The Passersby.mkv
+#DESCRIPTION The Twilight Zone - S03E04 - The Passersby.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E05%20-%20A%20Game%20of%20Pool.mkv:The Twilight Zone - S03E05 - A Game of Pool.mkv
+#DESCRIPTION The Twilight Zone - S03E05 - A Game of Pool.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E06%20-%20The%20Mirror.mkv:The Twilight Zone - S03E06 - The Mirror.mkv
+#DESCRIPTION The Twilight Zone - S03E06 - The Mirror.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E07%20-%20The%20Grave.mkv:The Twilight Zone - S03E07 - The Grave.mkv
+#DESCRIPTION The Twilight Zone - S03E07 - The Grave.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E08%20-%20It%27s%20a%20Good%20Life.mkv:The Twilight Zone - S03E08 - It's a Good Life.mkv
+#DESCRIPTION The Twilight Zone - S03E08 - It's a Good Life.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E09%20-%20Deaths-Head%20Revisited.mkv:The Twilight Zone - S03E09 - Deaths-Head Revisited.mkv
+#DESCRIPTION The Twilight Zone - S03E09 - Deaths-Head Revisited.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E10%20-%20The%20Midnight%20Sun.mkv:The Twilight Zone - S03E10 - The Midnight Sun.mkv
+#DESCRIPTION The Twilight Zone - S03E10 - The Midnight Sun.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E11%20-%20Still%20Valley.mkv:The Twilight Zone - S03E11 - Still Valley.mkv
+#DESCRIPTION The Twilight Zone - S03E11 - Still Valley.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E12%20-%20The%20Jungle.mkv:The Twilight Zone - S03E12 - The Jungle.mkv
+#DESCRIPTION The Twilight Zone - S03E12 - The Jungle.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E13%20-%20Once%20Upon%20a%20Time.mkv:The Twilight Zone - S03E13 - Once Upon a Time.mkv
+#DESCRIPTION The Twilight Zone - S03E13 - Once Upon a Time.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E14%20-%20Five%20Characters%20in%20Search%20of%20an%20Exit.mkv:The Twilight Zone - S03E14 - Five Characters in Search of an Exit.mkv
+#DESCRIPTION The Twilight Zone - S03E14 - Five Characters in Search of an Exit.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E15%20-%20A%20Quality%20of%20Mercy.mkv:The Twilight Zone - S03E15 - A Quality of Mercy.mkv
+#DESCRIPTION The Twilight Zone - S03E15 - A Quality of Mercy.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E16%20-%20Nothing%20in%20the%20Dark.mkv:The Twilight Zone - S03E16 - Nothing in the Dark.mkv
+#DESCRIPTION The Twilight Zone - S03E16 - Nothing in the Dark.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E17%20-%20One%20More%20Pallbearer.mkv:The Twilight Zone - S03E17 - One More Pallbearer.mkv
+#DESCRIPTION The Twilight Zone - S03E17 - One More Pallbearer.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E18%20-%20Dead%20Man%27s%20Shoes.mkv:The Twilight Zone - S03E18 - Dead Man's Shoes.mkv
+#DESCRIPTION The Twilight Zone - S03E18 - Dead Man's Shoes.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E19%20-%20The%20Hunt.mkv:The Twilight Zone - S03E19 - The Hunt.mkv
+#DESCRIPTION The Twilight Zone - S03E19 - The Hunt.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E20%20-%20Showdown%20with%20Rance%20McGrew.mkv:The Twilight Zone - S03E20 - Showdown with Rance McGrew.mkv
+#DESCRIPTION The Twilight Zone - S03E20 - Showdown with Rance McGrew.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E21%20-%20Kick%20the%20Can.mkv:The Twilight Zone - S03E21 - Kick the Can.mkv
+#DESCRIPTION The Twilight Zone - S03E21 - Kick the Can.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E22%20-%20A%20Piano%20in%20the%20House.mkv:The Twilight Zone - S03E22 - A Piano in the House.mkv
+#DESCRIPTION The Twilight Zone - S03E22 - A Piano in the House.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E23%20-%20The%20Last%20Rites%20of%20Jeff%20Myrtlebank.mkv:The Twilight Zone - S03E23 - The Last Rites of Jeff Myrtlebank.mkv
+#DESCRIPTION The Twilight Zone - S03E23 - The Last Rites of Jeff Myrtlebank.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E24%20-%20To%20Serve%20Man.mkv:The Twilight Zone - S03E24 - To Serve Man.mkv
+#DESCRIPTION The Twilight Zone - S03E24 - To Serve Man.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E25%20-%20The%20Fugitive.mkv:The Twilight Zone - S03E25 - The Fugitive.mkv
+#DESCRIPTION The Twilight Zone - S03E25 - The Fugitive.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E26%20-%20Little%20Girl%20Lost.mkv:The Twilight Zone - S03E26 - Little Girl Lost.mkv
+#DESCRIPTION The Twilight Zone - S03E26 - Little Girl Lost.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E27%20-%20Person%20or%20Persons%20Unknown.mkv:The Twilight Zone - S03E27 - Person or Persons Unknown.mkv
+#DESCRIPTION The Twilight Zone - S03E27 - Person or Persons Unknown.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E28%20-%20The%20Little%20People.mkv:The Twilight Zone - S03E28 - The Little People.mkv
+#DESCRIPTION The Twilight Zone - S03E28 - The Little People.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E29%20-%20Four%20O%27Clock.mkv:The Twilight Zone - S03E29 - Four O'Clock.mkv
+#DESCRIPTION The Twilight Zone - S03E29 - Four O'Clock.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E30%20-%20Hocus%20Pocus%20%26%20Frisby.mkv:The Twilight Zone - S03E30 - Hocus Pocus & Frisby.mkv
+#DESCRIPTION The Twilight Zone - S03E30 - Hocus Pocus & Frisby.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E31%20-%20The%20Trade-Ins.mkv:The Twilight Zone - S03E31 - The Trade-Ins.mkv
+#DESCRIPTION The Twilight Zone - S03E31 - The Trade-Ins.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E32%20-%20The%20Gift.mkv:The Twilight Zone - S03E32 - The Gift.mkv
+#DESCRIPTION The Twilight Zone - S03E32 - The Gift.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E33%20-%20The%20Dummy.mkv:The Twilight Zone - S03E33 - The Dummy.mkv
+#DESCRIPTION The Twilight Zone - S03E33 - The Dummy.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E34%20-%20Young%20Man%27s%20Fancy.mkv:The Twilight Zone - S03E34 - Young Man's Fancy.mkv
+#DESCRIPTION The Twilight Zone - S03E34 - Young Man's Fancy.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E35%20-%20I%20Sing%20the%20Body%20Electric.mkv:The Twilight Zone - S03E35 - I Sing the Body Electric.mkv
+#DESCRIPTION The Twilight Zone - S03E35 - I Sing the Body Electric.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E36%20-%20Cavender%20is%20Coming.mkv:The Twilight Zone - S03E36 - Cavender is Coming.mkv
+#DESCRIPTION The Twilight Zone - S03E36 - Cavender is Coming.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2003%2fThe%20Twilight%20Zone%20-%20S03E37%20-%20The%20Changing%20of%20the%20Guard.mkv:The Twilight Zone - S03E37 - The Changing of the Guard.mkv
+#DESCRIPTION The Twilight Zone - S03E37 - The Changing of the Guard.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E01%20-%20In%20His%20Image.mkv:The Twilight Zone - S04E01 - In His Image.mkv
+#DESCRIPTION The Twilight Zone - S04E01 - In His Image.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E02%20-%20The%20Thirty-Fathom%20Grave.mkv:The Twilight Zone - S04E02 - The Thirty-Fathom Grave.mkv
+#DESCRIPTION The Twilight Zone - S04E02 - The Thirty-Fathom Grave.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E03%20-%20Valley%20of%20the%20Shadow.mkv:The Twilight Zone - S04E03 - Valley of the Shadow.mkv
+#DESCRIPTION The Twilight Zone - S04E03 - Valley of the Shadow.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E04%20-%20He%27s%20Alive.mkv:The Twilight Zone - S04E04 - He's Alive.mkv
+#DESCRIPTION The Twilight Zone - S04E04 - He's Alive.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E05%20-%20Mute.mkv:The Twilight Zone - S04E05 - Mute.mkv
+#DESCRIPTION The Twilight Zone - S04E05 - Mute.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E06%20-%20Death%20Ship.mkv:The Twilight Zone - S04E06 - Death Ship.mkv
+#DESCRIPTION The Twilight Zone - S04E06 - Death Ship.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E07%20-%20Jess-Belle.mkv:The Twilight Zone - S04E07 - Jess-Belle.mkv
+#DESCRIPTION The Twilight Zone - S04E07 - Jess-Belle.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E08%20-%20Miniature.mkv:The Twilight Zone - S04E08 - Miniature.mkv
+#DESCRIPTION The Twilight Zone - S04E08 - Miniature.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E09%20-%20Printer%27s%20Devil.mkv:The Twilight Zone - S04E09 - Printer's Devil.mkv
+#DESCRIPTION The Twilight Zone - S04E09 - Printer's Devil.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E10%20-%20No%20Time%20Like%20the%20Past.mkv:The Twilight Zone - S04E10 - No Time Like the Past.mkv
+#DESCRIPTION The Twilight Zone - S04E10 - No Time Like the Past.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E11%20-%20The%20Parallel.mkv:The Twilight Zone - S04E11 - The Parallel.mkv
+#DESCRIPTION The Twilight Zone - S04E11 - The Parallel.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E12%20-%20I%20Dream%20of%20Genie.mkv:The Twilight Zone - S04E12 - I Dream of Genie.mkv
+#DESCRIPTION The Twilight Zone - S04E12 - I Dream of Genie.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E13%20-%20The%20New%20Exhibit.mkv:The Twilight Zone - S04E13 - The New Exhibit.mkv
+#DESCRIPTION The Twilight Zone - S04E13 - The New Exhibit.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E14%20-%20Of%20Late%20I%20Think%20of%20Cliffordville.mkv:The Twilight Zone - S04E14 - Of Late I Think of Cliffordville.mkv
+#DESCRIPTION The Twilight Zone - S04E14 - Of Late I Think of Cliffordville.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E15%20-%20The%20Incredible%20World%20of%20Horace%20Ford.mkv:The Twilight Zone - S04E15 - The Incredible World of Horace Ford.mkv
+#DESCRIPTION The Twilight Zone - S04E15 - The Incredible World of Horace Ford.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E16%20-%20On%20Thursday%20We%20Leave%20For%20Home.mkv:The Twilight Zone - S04E16 - On Thursday We Leave For Home.mkv
+#DESCRIPTION The Twilight Zone - S04E16 - On Thursday We Leave For Home.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E17%20-%20Passage%20on%20the%20Lady%20Anne.mkv:The Twilight Zone - S04E17 - Passage on the Lady Anne.mkv
+#DESCRIPTION The Twilight Zone - S04E17 - Passage on the Lady Anne.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2004%2fThe%20Twilight%20Zone%20-%20S04E18%20-%20The%20Bard.mkv:The Twilight Zone - S04E18 - The Bard.mkv
+#DESCRIPTION The Twilight Zone - S04E18 - The Bard.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E01%20-%20In%20Praise%20of%20Pip.mkv:The Twilight Zone - S05E01 - In Praise of Pip.mkv
+#DESCRIPTION The Twilight Zone - S05E01 - In Praise of Pip.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E02%20-%20Steel.mkv:The Twilight Zone - S05E02 - Steel.mkv
+#DESCRIPTION The Twilight Zone - S05E02 - Steel.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E03%20-%20Nightmare%20at%2020%2C000%20Feet.mkv:The Twilight Zone - S05E03 - Nightmare at 20,000 Feet.mkv
+#DESCRIPTION The Twilight Zone - S05E03 - Nightmare at 20,000 Feet.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E04%20-%20A%20Kind%20of%20Stopwatch.mkv:The Twilight Zone - S05E04 - A Kind of Stopwatch.mkv
+#DESCRIPTION The Twilight Zone - S05E04 - A Kind of Stopwatch.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E05%20-%20The%20Last%20Night%20of%20a%20Jockey.mkv:The Twilight Zone - S05E05 - The Last Night of a Jockey.mkv
+#DESCRIPTION The Twilight Zone - S05E05 - The Last Night of a Jockey.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E06%20-%20Living%20Doll.mkv:The Twilight Zone - S05E06 - Living Doll.mkv
+#DESCRIPTION The Twilight Zone - S05E06 - Living Doll.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E07%20-%20The%20Old%20Man%20in%20the%20Cave.mkv:The Twilight Zone - S05E07 - The Old Man in the Cave.mkv
+#DESCRIPTION The Twilight Zone - S05E07 - The Old Man in the Cave.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E08%20-%20Uncle%20Simon.mkv:The Twilight Zone - S05E08 - Uncle Simon.mkv
+#DESCRIPTION The Twilight Zone - S05E08 - Uncle Simon.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E09%20-%20Probe%207%20Over%20%26%20Out.mkv:The Twilight Zone - S05E09 - Probe 7 Over & Out.mkv
+#DESCRIPTION The Twilight Zone - S05E09 - Probe 7 Over & Out.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E10%20-%20The%207th%20is%20Made%20Up%20of%20Phantoms.mkv:The Twilight Zone - S05E10 - The 7th is Made Up of Phantoms.mkv
+#DESCRIPTION The Twilight Zone - S05E10 - The 7th is Made Up of Phantoms.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E11%20-%20A%20Short%20Drink%20from%20a%20Certain%20Fountain.mkv:The Twilight Zone - S05E11 - A Short Drink from a Certain Fountain.mkv
+#DESCRIPTION The Twilight Zone - S05E11 - A Short Drink from a Certain Fountain.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E12%20-%20Ninety%20Years%20Without%20Slumbering.mkv:The Twilight Zone - S05E12 - Ninety Years Without Slumbering.mkv
+#DESCRIPTION The Twilight Zone - S05E12 - Ninety Years Without Slumbering.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E13%20-%20Ring-A-Ding%20Girl.mkv:The Twilight Zone - S05E13 - Ring-A-Ding Girl.mkv
+#DESCRIPTION The Twilight Zone - S05E13 - Ring-A-Ding Girl.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E14%20-%20You%20Drive.mkv:The Twilight Zone - S05E14 - You Drive.mkv
+#DESCRIPTION The Twilight Zone - S05E14 - You Drive.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E15%20-%20The%20Long%20Morrow.mkv:The Twilight Zone - S05E15 - The Long Morrow.mkv
+#DESCRIPTION The Twilight Zone - S05E15 - The Long Morrow.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E16%20-%20The%20Self-Improvement%20of%20Salvadore%20Ross.mkv:The Twilight Zone - S05E16 - The Self-Improvement of Salvadore Ross.mkv
+#DESCRIPTION The Twilight Zone - S05E16 - The Self-Improvement of Salvadore Ross.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E17%20-%20Number%2012%20Looks%20Just%20Like%20You.mkv:The Twilight Zone - S05E17 - Number 12 Looks Just Like You.mkv
+#DESCRIPTION The Twilight Zone - S05E17 - Number 12 Looks Just Like You.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E18%20-%20Black%20Leather%20Jackets.mkv:The Twilight Zone - S05E18 - Black Leather Jackets.mkv
+#DESCRIPTION The Twilight Zone - S05E18 - Black Leather Jackets.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E19%20-%20Night%20Call.mkv:The Twilight Zone - S05E19 - Night Call.mkv
+#DESCRIPTION The Twilight Zone - S05E19 - Night Call.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E20%20-%20From%20Agnes%20-%20With%20Love.mkv:The Twilight Zone - S05E20 - From Agnes - With Love.mkv
+#DESCRIPTION The Twilight Zone - S05E20 - From Agnes - With Love.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E21%20-%20Spur%20of%20the%20Moment.mkv:The Twilight Zone - S05E21 - Spur of the Moment.mkv
+#DESCRIPTION The Twilight Zone - S05E21 - Spur of the Moment.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E22%20-%20An%20Occurrence%20at%20Owl%20Creek%20Bridge.mkv:The Twilight Zone - S05E22 - An Occurrence at Owl Creek Bridge.mkv
+#DESCRIPTION The Twilight Zone - S05E22 - An Occurrence at Owl Creek Bridge.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E23%20-%20Queen%20of%20the%20Nile.mkv:The Twilight Zone - S05E23 - Queen of the Nile.mkv
+#DESCRIPTION The Twilight Zone - S05E23 - Queen of the Nile.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E24%20-%20What%27s%20in%20the%20Box.mkv:The Twilight Zone - S05E24 - What's in the Box.mkv
+#DESCRIPTION The Twilight Zone - S05E24 - What's in the Box.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E25%20-%20The%20Masks.mkv:The Twilight Zone - S05E25 - The Masks.mkv
+#DESCRIPTION The Twilight Zone - S05E25 - The Masks.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E26%20-%20I%20Am%20the%20Night%20-%20Color%20Me%20Black.mkv:The Twilight Zone - S05E26 - I Am the Night - Color Me Black.mkv
+#DESCRIPTION The Twilight Zone - S05E26 - I Am the Night - Color Me Black.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E27%20-%20Sounds%20and%20Silences.mkv:The Twilight Zone - S05E27 - Sounds and Silences.mkv
+#DESCRIPTION The Twilight Zone - S05E27 - Sounds and Silences.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E28%20-%20Caesar%20and%20Me.mkv:The Twilight Zone - S05E28 - Caesar and Me.mkv
+#DESCRIPTION The Twilight Zone - S05E28 - Caesar and Me.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E29%20-%20The%20Jeopardy%20Room.mkv:The Twilight Zone - S05E29 - The Jeopardy Room.mkv
+#DESCRIPTION The Twilight Zone - S05E29 - The Jeopardy Room.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E30%20-%20Stopover%20in%20a%20Quiet%20Town.mkv:The Twilight Zone - S05E30 - Stopover in a Quiet Town.mkv
+#DESCRIPTION The Twilight Zone - S05E30 - Stopover in a Quiet Town.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E31%20-%20The%20Encounter.mkv:The Twilight Zone - S05E31 - The Encounter.mkv
+#DESCRIPTION The Twilight Zone - S05E31 - The Encounter.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E32%20-%20Mr.%20Garrity%20and%20the%20Graves.mkv:The Twilight Zone - S05E32 - Mr. Garrity and the Graves.mkv
+#DESCRIPTION The Twilight Zone - S05E32 - Mr. Garrity and the Graves.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E33%20-%20The%20Brain%20Center%20at%20Whipple%27s.mkv:The Twilight Zone - S05E33 - The Brain Center at Whipple's.mkv
+#DESCRIPTION The Twilight Zone - S05E33 - The Brain Center at Whipple's.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E34%20-%20Come%20Wander%20with%20Me.mkv:The Twilight Zone - S05E34 - Come Wander with Me.mkv
+#DESCRIPTION The Twilight Zone - S05E34 - Come Wander with Me.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E35%20-%20The%20Fear.mkv:The Twilight Zone - S05E35 - The Fear.mkv
+#DESCRIPTION The Twilight Zone - S05E35 - The Fear.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%2fSeason%2005%2fThe%20Twilight%20Zone%20-%20S05E36%20-%20The%20Bewitchin%27%20Pool.mkv:The Twilight Zone - S05E36 - The Bewitchin' Pool.mkv
+#DESCRIPTION The Twilight Zone - S05E36 - The Bewitchin' Pool.mkv

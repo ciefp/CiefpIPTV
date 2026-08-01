@@ -1,0 +1,41 @@
+#NAME IPTV OPD Twilight zone 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2001%2fThe%20Twilight%20Zone%20%282019%29%20-%20S01E01%20-%20The%20Comedian.mkv:The Twilight Zone (2019) - S01E01 - The Comedian.mkv
+#DESCRIPTION The Twilight Zone (2019) - S01E01 - The Comedian.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2001%2fThe%20Twilight%20Zone%20%282019%29%20-%20S01E02%20-%20Nightmare%20at%2030%2C000%20Feet.mkv:The Twilight Zone (2019) - S01E02 - Nightmare at 30,000 Feet.mkv
+#DESCRIPTION The Twilight Zone (2019) - S01E02 - Nightmare at 30,000 Feet.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2001%2fThe%20Twilight%20Zone%20%282019%29%20-%20S01E03%20-%20Replay.mkv:The Twilight Zone (2019) - S01E03 - Replay.mkv
+#DESCRIPTION The Twilight Zone (2019) - S01E03 - Replay.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2001%2fThe%20Twilight%20Zone%20%282019%29%20-%20S01E04%20-%20A%20Traveler.mkv:The Twilight Zone (2019) - S01E04 - A Traveler.mkv
+#DESCRIPTION The Twilight Zone (2019) - S01E04 - A Traveler.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2001%2fThe%20Twilight%20Zone%20%282019%29%20-%20S01E05%20-%20The%20Wunderkind.mkv:The Twilight Zone (2019) - S01E05 - The Wunderkind.mkv
+#DESCRIPTION The Twilight Zone (2019) - S01E05 - The Wunderkind.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2001%2fThe%20Twilight%20Zone%20%282019%29%20-%20S01E06%20-%20Six%20Degrees%20of%20Freedom.mkv:The Twilight Zone (2019) - S01E06 - Six Degrees of Freedom.mkv
+#DESCRIPTION The Twilight Zone (2019) - S01E06 - Six Degrees of Freedom.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2001%2fThe%20Twilight%20Zone%20%282019%29%20-%20S01E07%20-%20Not%20All%20Men.mkv:The Twilight Zone (2019) - S01E07 - Not All Men.mkv
+#DESCRIPTION The Twilight Zone (2019) - S01E07 - Not All Men.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2001%2fThe%20Twilight%20Zone%20%282019%29%20-%20S01E08%20-%20Point%20of%20Origin.mkv:The Twilight Zone (2019) - S01E08 - Point of Origin.mkv
+#DESCRIPTION The Twilight Zone (2019) - S01E08 - Point of Origin.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2001%2fThe%20Twilight%20Zone%20%282019%29%20-%20S01E09%20-%20The%20Blue%20Scorpion.mkv:The Twilight Zone (2019) - S01E09 - The Blue Scorpion.mkv
+#DESCRIPTION The Twilight Zone (2019) - S01E09 - The Blue Scorpion.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2001%2fThe%20Twilight%20Zone%20%282019%29%20-%20S01E10%20-%20Blurryman.mkv:The Twilight Zone (2019) - S01E10 - Blurryman.mkv
+#DESCRIPTION The Twilight Zone (2019) - S01E10 - Blurryman.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2002%2fThe%20Twilight%20Zone%20%282019%29%20-%20S02E01%20-%20Meet%20in%20the%20Middle.mkv:The Twilight Zone (2019) - S02E01 - Meet in the Middle.mkv
+#DESCRIPTION The Twilight Zone (2019) - S02E01 - Meet in the Middle.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2002%2fThe%20Twilight%20Zone%20%282019%29%20-%20S02E02%20-%20Downtime.mkv:The Twilight Zone (2019) - S02E02 - Downtime.mkv
+#DESCRIPTION The Twilight Zone (2019) - S02E02 - Downtime.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2002%2fThe%20Twilight%20Zone%20%282019%29%20-%20S02E03%20-%20The%20Who%20of%20You.mkv:The Twilight Zone (2019) - S02E03 - The Who of You.mkv
+#DESCRIPTION The Twilight Zone (2019) - S02E03 - The Who of You.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2002%2fThe%20Twilight%20Zone%20%282019%29%20-%20S02E04%20-%20Ovation.mkv:The Twilight Zone (2019) - S02E04 - Ovation.mkv
+#DESCRIPTION The Twilight Zone (2019) - S02E04 - Ovation.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2002%2fThe%20Twilight%20Zone%20%282019%29%20-%20S02E05%20-%20Among%20the%20Untrodden.mkv:The Twilight Zone (2019) - S02E05 - Among the Untrodden.mkv
+#DESCRIPTION The Twilight Zone (2019) - S02E05 - Among the Untrodden.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2002%2fThe%20Twilight%20Zone%20%282019%29%20-%20S02E06%20-%208.mkv:The Twilight Zone (2019) - S02E06 - 8.mkv
+#DESCRIPTION The Twilight Zone (2019) - S02E06 - 8.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2002%2fThe%20Twilight%20Zone%20%282019%29%20-%20S02E07%20-%20A%20Human%20Face.mkv:The Twilight Zone (2019) - S02E07 - A Human Face.mkv
+#DESCRIPTION The Twilight Zone (2019) - S02E07 - A Human Face.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2002%2fThe%20Twilight%20Zone%20%282019%29%20-%20S02E08%20-%20A%20Small%20Town.mkv:The Twilight Zone (2019) - S02E08 - A Small Town.mkv
+#DESCRIPTION The Twilight Zone (2019) - S02E08 - A Small Town.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2002%2fThe%20Twilight%20Zone%20%282019%29%20-%20S02E09%20-%20Try%2C%20Try.mkv:The Twilight Zone (2019) - S02E09 - Try, Try.mkv
+#DESCRIPTION The Twilight Zone (2019) - S02E09 - Try, Try.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fThe%20Twilight%20Zone%20%282019%29%2fSeason%2002%2fThe%20Twilight%20Zone%20%282019%29%20-%20S02E10%20-%20You%20Might%20Also%20Like.mkv:The Twilight Zone (2019) - S02E10 - You Might Also Like.mkv
+#DESCRIPTION The Twilight Zone (2019) - S02E10 - You Might Also Like.mkv

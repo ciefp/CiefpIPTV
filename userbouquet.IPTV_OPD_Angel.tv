@@ -1,0 +1,221 @@
+#NAME IPTV OPD Angel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E01%20-%20City%20Of.mkv:Angel - S01E01 - City Of.mkv
+#DESCRIPTION Angel - S01E01 - City Of.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E02%20-%20Lonely%20Hearts.mkv:Angel - S01E02 - Lonely Hearts.mkv
+#DESCRIPTION Angel - S01E02 - Lonely Hearts.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E03%20-%20In%20The%20Dark.mkv:Angel - S01E03 - In The Dark.mkv
+#DESCRIPTION Angel - S01E03 - In The Dark.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E04%20-%20I%20Fall%20To%20Pieces.mkv:Angel - S01E04 - I Fall To Pieces.mkv
+#DESCRIPTION Angel - S01E04 - I Fall To Pieces.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E05%20-%20Rm%20With%20A%20Vu.mkv:Angel - S01E05 - Rm With A Vu.mkv
+#DESCRIPTION Angel - S01E05 - Rm With A Vu.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E06%20-%20Sense%20and%20Sensitivity.mkv:Angel - S01E06 - Sense and Sensitivity.mkv
+#DESCRIPTION Angel - S01E06 - Sense and Sensitivity.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E07%20-%20Bachelor%20Party.mkv:Angel - S01E07 - Bachelor Party.mkv
+#DESCRIPTION Angel - S01E07 - Bachelor Party.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E08%20-%20I%20Will%20Remember%20You.mkv:Angel - S01E08 - I Will Remember You.mkv
+#DESCRIPTION Angel - S01E08 - I Will Remember You.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E09%20-%20Hero.mkv:Angel - S01E09 - Hero.mkv
+#DESCRIPTION Angel - S01E09 - Hero.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E10%20-%20Parting%20Gifts.mkv:Angel - S01E10 - Parting Gifts.mkv
+#DESCRIPTION Angel - S01E10 - Parting Gifts.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E11%20-%20Somnambulist.mkv:Angel - S01E11 - Somnambulist.mkv
+#DESCRIPTION Angel - S01E11 - Somnambulist.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E12%20-%20Expecting.mkv:Angel - S01E12 - Expecting.mkv
+#DESCRIPTION Angel - S01E12 - Expecting.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E13%20-%20She.mkv:Angel - S01E13 - She.mkv
+#DESCRIPTION Angel - S01E13 - She.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E14%20-%20I%27ve%20Got%20You%20Under%20My%20Skin.mkv:Angel - S01E14 - I've Got You Under My Skin.mkv
+#DESCRIPTION Angel - S01E14 - I've Got You Under My Skin.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E15%20-%20The%20Prodigal.mkv:Angel - S01E15 - The Prodigal.mkv
+#DESCRIPTION Angel - S01E15 - The Prodigal.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E16%20-%20The%20Ring.mkv:Angel - S01E16 - The Ring.mkv
+#DESCRIPTION Angel - S01E16 - The Ring.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E17%20-%20Eternity.mkv:Angel - S01E17 - Eternity.mkv
+#DESCRIPTION Angel - S01E17 - Eternity.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E18%20-%20Five%20by%20Five.mkv:Angel - S01E18 - Five by Five.mkv
+#DESCRIPTION Angel - S01E18 - Five by Five.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E19%20-%20Sanctuary.mkv:Angel - S01E19 - Sanctuary.mkv
+#DESCRIPTION Angel - S01E19 - Sanctuary.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E20%20-%20War%20Zone.mkv:Angel - S01E20 - War Zone.mkv
+#DESCRIPTION Angel - S01E20 - War Zone.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E21%20-%20Blind%20Date.mkv:Angel - S01E21 - Blind Date.mkv
+#DESCRIPTION Angel - S01E21 - Blind Date.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2001%2fAngel%20-%20S01E22%20-%20To%20Shanshu%20in%20LA.mkv:Angel - S01E22 - To Shanshu in LA.mkv
+#DESCRIPTION Angel - S01E22 - To Shanshu in LA.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E01%20-%20Judgement.mkv:Angel - S02E01 - Judgement.mkv
+#DESCRIPTION Angel - S02E01 - Judgement.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E02%20-%20Are%20You%20Now%20or%20Have%20You%20Ever%20Been.mkv:Angel - S02E02 - Are You Now or Have You Ever Been.mkv
+#DESCRIPTION Angel - S02E02 - Are You Now or Have You Ever Been.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E03%20-%20First%20Impressions.mkv:Angel - S02E03 - First Impressions.mkv
+#DESCRIPTION Angel - S02E03 - First Impressions.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E04%20-%20Untouched.mkv:Angel - S02E04 - Untouched.mkv
+#DESCRIPTION Angel - S02E04 - Untouched.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E05%20-%20Dear%20Boy.mkv:Angel - S02E05 - Dear Boy.mkv
+#DESCRIPTION Angel - S02E05 - Dear Boy.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E06%20-%20Guise%20Will%20Be%20Guise.mkv:Angel - S02E06 - Guise Will Be Guise.mkv
+#DESCRIPTION Angel - S02E06 - Guise Will Be Guise.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E07%20-%20Darla.mkv:Angel - S02E07 - Darla.mkv
+#DESCRIPTION Angel - S02E07 - Darla.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E08%20-%20The%20Shroud%20of%20Rahmon.mkv:Angel - S02E08 - The Shroud of Rahmon.mkv
+#DESCRIPTION Angel - S02E08 - The Shroud of Rahmon.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E09%20-%20The%20Trial.mkv:Angel - S02E09 - The Trial.mkv
+#DESCRIPTION Angel - S02E09 - The Trial.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E10%20-%20Reunion.mkv:Angel - S02E10 - Reunion.mkv
+#DESCRIPTION Angel - S02E10 - Reunion.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E11%20-%20Redefinition.mkv:Angel - S02E11 - Redefinition.mkv
+#DESCRIPTION Angel - S02E11 - Redefinition.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E12%20-%20Blood%20Money.mkv:Angel - S02E12 - Blood Money.mkv
+#DESCRIPTION Angel - S02E12 - Blood Money.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E13%20-%20Happy%20Anniversary.mkv:Angel - S02E13 - Happy Anniversary.mkv
+#DESCRIPTION Angel - S02E13 - Happy Anniversary.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E14%20-%20The%20Thin%20Dead%20Line.mkv:Angel - S02E14 - The Thin Dead Line.mkv
+#DESCRIPTION Angel - S02E14 - The Thin Dead Line.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E15%20-%20Reprise.mkv:Angel - S02E15 - Reprise.mkv
+#DESCRIPTION Angel - S02E15 - Reprise.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E16%20-%20Epiphany.mkv:Angel - S02E16 - Epiphany.mkv
+#DESCRIPTION Angel - S02E16 - Epiphany.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E17%20-%20Disharmony.mkv:Angel - S02E17 - Disharmony.mkv
+#DESCRIPTION Angel - S02E17 - Disharmony.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E18%20-%20Dead%20End.mkv:Angel - S02E18 - Dead End.mkv
+#DESCRIPTION Angel - S02E18 - Dead End.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E19%20-%20Belonging.mkv:Angel - S02E19 - Belonging.mkv
+#DESCRIPTION Angel - S02E19 - Belonging.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E20%20-%20Over%20the%20Rainbow.mkv:Angel - S02E20 - Over the Rainbow.mkv
+#DESCRIPTION Angel - S02E20 - Over the Rainbow.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E21%20-%20Through%20the%20Looking%20Glass.mkv:Angel - S02E21 - Through the Looking Glass.mkv
+#DESCRIPTION Angel - S02E21 - Through the Looking Glass.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2002%2fAngel%20-%20S02E22%20-%20There%27s%20No%20Place%20Like%20Plrtz%20Glrb.mkv:Angel - S02E22 - There's No Place Like Plrtz Glrb.mkv
+#DESCRIPTION Angel - S02E22 - There's No Place Like Plrtz Glrb.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E01%20-%20Heartthrob.mkv:Angel - S03E01 - Heartthrob.mkv
+#DESCRIPTION Angel - S03E01 - Heartthrob.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E02%20-%20The%20Vision-Thing.mkv:Angel - S03E02 - The Vision-Thing.mkv
+#DESCRIPTION Angel - S03E02 - The Vision-Thing.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E03%20-%20That%20Old%20Gang%20of%20Mine.mkv:Angel - S03E03 - That Old Gang of Mine.mkv
+#DESCRIPTION Angel - S03E03 - That Old Gang of Mine.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E04%20-%20Carpe%20Noctem.mkv:Angel - S03E04 - Carpe Noctem.mkv
+#DESCRIPTION Angel - S03E04 - Carpe Noctem.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E05%20-%20Fredless.mkv:Angel - S03E05 - Fredless.mkv
+#DESCRIPTION Angel - S03E05 - Fredless.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E06%20-%20Billy.mkv:Angel - S03E06 - Billy.mkv
+#DESCRIPTION Angel - S03E06 - Billy.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E07%20-%20Offspring.mkv:Angel - S03E07 - Offspring.mkv
+#DESCRIPTION Angel - S03E07 - Offspring.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E08%20-%20Quickening.mkv:Angel - S03E08 - Quickening.mkv
+#DESCRIPTION Angel - S03E08 - Quickening.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E09%20-%20Lullaby.mkv:Angel - S03E09 - Lullaby.mkv
+#DESCRIPTION Angel - S03E09 - Lullaby.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E10%20-%20Dad.mkv:Angel - S03E10 - Dad.mkv
+#DESCRIPTION Angel - S03E10 - Dad.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E11%20-%20Birthday.mkv:Angel - S03E11 - Birthday.mkv
+#DESCRIPTION Angel - S03E11 - Birthday.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E12%20-%20Provider.mkv:Angel - S03E12 - Provider.mkv
+#DESCRIPTION Angel - S03E12 - Provider.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E13%20-%20Waiting%20in%20the%20Wings.mkv:Angel - S03E13 - Waiting in the Wings.mkv
+#DESCRIPTION Angel - S03E13 - Waiting in the Wings.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E14%20-%20Couplet.mkv:Angel - S03E14 - Couplet.mkv
+#DESCRIPTION Angel - S03E14 - Couplet.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E15%20-%20Loyalty.mkv:Angel - S03E15 - Loyalty.mkv
+#DESCRIPTION Angel - S03E15 - Loyalty.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E16%20-%20Sleep%20Tight.mkv:Angel - S03E16 - Sleep Tight.mkv
+#DESCRIPTION Angel - S03E16 - Sleep Tight.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E17%20-%20Forgiving.mkv:Angel - S03E17 - Forgiving.mkv
+#DESCRIPTION Angel - S03E17 - Forgiving.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E18%20-%20Double%20or%20Nothing.mkv:Angel - S03E18 - Double or Nothing.mkv
+#DESCRIPTION Angel - S03E18 - Double or Nothing.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E19%20-%20The%20Price.mkv:Angel - S03E19 - The Price.mkv
+#DESCRIPTION Angel - S03E19 - The Price.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E20%20-%20A%20New%20World.mkv:Angel - S03E20 - A New World.mkv
+#DESCRIPTION Angel - S03E20 - A New World.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E21%20-%20Benediction.mkv:Angel - S03E21 - Benediction.mkv
+#DESCRIPTION Angel - S03E21 - Benediction.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2003%2fAngel%20-%20S03E22%20-%20Tomorrow.mkv:Angel - S03E22 - Tomorrow.mkv
+#DESCRIPTION Angel - S03E22 - Tomorrow.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E01%20-%20Deep%20Down.mkv:Angel - S04E01 - Deep Down.mkv
+#DESCRIPTION Angel - S04E01 - Deep Down.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E02%20-%20Ground%20State.mkv:Angel - S04E02 - Ground State.mkv
+#DESCRIPTION Angel - S04E02 - Ground State.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E03%20-%20The%20House%20Always%20Wins.mkv:Angel - S04E03 - The House Always Wins.mkv
+#DESCRIPTION Angel - S04E03 - The House Always Wins.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E04%20-%20Slouching%20Toward%20Bethlehem.mkv:Angel - S04E04 - Slouching Toward Bethlehem.mkv
+#DESCRIPTION Angel - S04E04 - Slouching Toward Bethlehem.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E05%20-%20Supersymmetry.mkv:Angel - S04E05 - Supersymmetry.mkv
+#DESCRIPTION Angel - S04E05 - Supersymmetry.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E06%20-%20Spin%20the%20Bottle.mkv:Angel - S04E06 - Spin the Bottle.mkv
+#DESCRIPTION Angel - S04E06 - Spin the Bottle.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E07%20-%20Apocalypse%2C%20Nowish.mkv:Angel - S04E07 - Apocalypse, Nowish.mkv
+#DESCRIPTION Angel - S04E07 - Apocalypse, Nowish.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E08%20-%20Habeas%20Corpses.mkv:Angel - S04E08 - Habeas Corpses.mkv
+#DESCRIPTION Angel - S04E08 - Habeas Corpses.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E09%20-%20Long%20Day%27s%20Journey.mkv:Angel - S04E09 - Long Day's Journey.mkv
+#DESCRIPTION Angel - S04E09 - Long Day's Journey.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E10%20-%20Awakening.mkv:Angel - S04E10 - Awakening.mkv
+#DESCRIPTION Angel - S04E10 - Awakening.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E11%20-%20Soulless.mkv:Angel - S04E11 - Soulless.mkv
+#DESCRIPTION Angel - S04E11 - Soulless.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E12%20-%20Calvary.mkv:Angel - S04E12 - Calvary.mkv
+#DESCRIPTION Angel - S04E12 - Calvary.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E13%20-%20Salvage.mkv:Angel - S04E13 - Salvage.mkv
+#DESCRIPTION Angel - S04E13 - Salvage.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E14%20-%20Release.mkv:Angel - S04E14 - Release.mkv
+#DESCRIPTION Angel - S04E14 - Release.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E15%20-%20Orpheus.mkv:Angel - S04E15 - Orpheus.mkv
+#DESCRIPTION Angel - S04E15 - Orpheus.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E16%20-%20Players.mkv:Angel - S04E16 - Players.mkv
+#DESCRIPTION Angel - S04E16 - Players.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E17%20-%20Inside%20Out.mkv:Angel - S04E17 - Inside Out.mkv
+#DESCRIPTION Angel - S04E17 - Inside Out.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E18%20-%20Shiny%20Happy%20People.mkv:Angel - S04E18 - Shiny Happy People.mkv
+#DESCRIPTION Angel - S04E18 - Shiny Happy People.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E19%20-%20The%20Magic%20Bullet.mkv:Angel - S04E19 - The Magic Bullet.mkv
+#DESCRIPTION Angel - S04E19 - The Magic Bullet.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E20%20-%20Sacrifice.mkv:Angel - S04E20 - Sacrifice.mkv
+#DESCRIPTION Angel - S04E20 - Sacrifice.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E21%20-%20Peace%20Out.mkv:Angel - S04E21 - Peace Out.mkv
+#DESCRIPTION Angel - S04E21 - Peace Out.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2004%2fAngel%20-%20S04E22%20-%20Home.mkv:Angel - S04E22 - Home.mkv
+#DESCRIPTION Angel - S04E22 - Home.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E01%20-%20Conviction.mkv:Angel - S05E01 - Conviction.mkv
+#DESCRIPTION Angel - S05E01 - Conviction.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E02%20-%20Just%20Rewards.mkv:Angel - S05E02 - Just Rewards.mkv
+#DESCRIPTION Angel - S05E02 - Just Rewards.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E03%20-%20Unleashed.mkv:Angel - S05E03 - Unleashed.mkv
+#DESCRIPTION Angel - S05E03 - Unleashed.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E04%20-%20Hell%20Bound.mkv:Angel - S05E04 - Hell Bound.mkv
+#DESCRIPTION Angel - S05E04 - Hell Bound.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E05%20-%20Life%20of%20the%20Party.mkv:Angel - S05E05 - Life of the Party.mkv
+#DESCRIPTION Angel - S05E05 - Life of the Party.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E06%20-%20The%20Cautionary%20Tale%20of%20Numero%20Cinco.mkv:Angel - S05E06 - The Cautionary Tale of Numero Cinco.mkv
+#DESCRIPTION Angel - S05E06 - The Cautionary Tale of Numero Cinco.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E07%20-%20Lineage.mkv:Angel - S05E07 - Lineage.mkv
+#DESCRIPTION Angel - S05E07 - Lineage.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E08%20-%20Destiny.mkv:Angel - S05E08 - Destiny.mkv
+#DESCRIPTION Angel - S05E08 - Destiny.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E09%20-%20Harm%27s%20Way.mkv:Angel - S05E09 - Harm's Way.mkv
+#DESCRIPTION Angel - S05E09 - Harm's Way.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E10%20-%20Soul%20Purpose.mkv:Angel - S05E10 - Soul Purpose.mkv
+#DESCRIPTION Angel - S05E10 - Soul Purpose.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E11%20-%20Damage.mkv:Angel - S05E11 - Damage.mkv
+#DESCRIPTION Angel - S05E11 - Damage.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E12%20-%20You%27re%20Welcome.mkv:Angel - S05E12 - You're Welcome.mkv
+#DESCRIPTION Angel - S05E12 - You're Welcome.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E13%20-%20Why%20We%20Fight.mkv:Angel - S05E13 - Why We Fight.mkv
+#DESCRIPTION Angel - S05E13 - Why We Fight.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E14%20-%20Smile%20Time.mkv:Angel - S05E14 - Smile Time.mkv
+#DESCRIPTION Angel - S05E14 - Smile Time.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E15%20-%20A%20Hole%20in%20the%20World.mkv:Angel - S05E15 - A Hole in the World.mkv
+#DESCRIPTION Angel - S05E15 - A Hole in the World.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E16%20-%20Shells.mkv:Angel - S05E16 - Shells.mkv
+#DESCRIPTION Angel - S05E16 - Shells.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E17%20-%20Underneath.mkv:Angel - S05E17 - Underneath.mkv
+#DESCRIPTION Angel - S05E17 - Underneath.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E18%20-%20Origin.mkv:Angel - S05E18 - Origin.mkv
+#DESCRIPTION Angel - S05E18 - Origin.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E19%20-%20Time%20Bomb.mkv:Angel - S05E19 - Time Bomb.mkv
+#DESCRIPTION Angel - S05E19 - Time Bomb.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E20%20-%20The%20Girl%20In%20Question.mkv:Angel - S05E20 - The Girl In Question.mkv
+#DESCRIPTION Angel - S05E20 - The Girl In Question.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E21%20-%20Power%20Play.mkv:Angel - S05E21 - Power Play.mkv
+#DESCRIPTION Angel - S05E21 - Power Play.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fAngel%2fSeason%2005%2fAngel%20-%20S05E22%20-%20Not%20Fade%20Away.mkv:Angel - S05E22 - Not Fade Away.mkv
+#DESCRIPTION Angel - S05E22 - Not Fade Away.mkv

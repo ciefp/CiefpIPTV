@@ -1,0 +1,77 @@
+#NAME IPTV OPD under the dome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E01%20-%20Pilot.mkv:Under the Dome - S01E01 - Pilot.mkv
+#DESCRIPTION Under the Dome - S01E01 - Pilot.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E02%20-%20The%20Fire.mkv:Under the Dome - S01E02 - The Fire.mkv
+#DESCRIPTION Under the Dome - S01E02 - The Fire.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E03%20-%20Manhunt.mkv:Under the Dome - S01E03 - Manhunt.mkv
+#DESCRIPTION Under the Dome - S01E03 - Manhunt.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E04%20-%20Outbreak.mkv:Under the Dome - S01E04 - Outbreak.mkv
+#DESCRIPTION Under the Dome - S01E04 - Outbreak.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E05%20-%20Blue%20on%20Blue.mkv:Under the Dome - S01E05 - Blue on Blue.mkv
+#DESCRIPTION Under the Dome - S01E05 - Blue on Blue.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E06%20-%20The%20Endless%20Thirst.mkv:Under the Dome - S01E06 - The Endless Thirst.mkv
+#DESCRIPTION Under the Dome - S01E06 - The Endless Thirst.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E07%20-%20Imperfect%20Circles.mkv:Under the Dome - S01E07 - Imperfect Circles.mkv
+#DESCRIPTION Under the Dome - S01E07 - Imperfect Circles.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E08%20-%20Thicker%20Than%20Water.mkv:Under the Dome - S01E08 - Thicker Than Water.mkv
+#DESCRIPTION Under the Dome - S01E08 - Thicker Than Water.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E09%20-%20The%20Fourth%20Hand.mkv:Under the Dome - S01E09 - The Fourth Hand.mkv
+#DESCRIPTION Under the Dome - S01E09 - The Fourth Hand.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E10%20-%20Let%20the%20Games%20Begin.mkv:Under the Dome - S01E10 - Let the Games Begin.mkv
+#DESCRIPTION Under the Dome - S01E10 - Let the Games Begin.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E11%20-%20Speak%20of%20the%20Devil.mkv:Under the Dome - S01E11 - Speak of the Devil.mkv
+#DESCRIPTION Under the Dome - S01E11 - Speak of the Devil.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E12%20-%20Exigent%20Circumstances.mkv:Under the Dome - S01E12 - Exigent Circumstances.mkv
+#DESCRIPTION Under the Dome - S01E12 - Exigent Circumstances.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2001%2fUnder%20the%20Dome%20-%20S01E13%20-%20Curtains.mkv:Under the Dome - S01E13 - Curtains.mkv
+#DESCRIPTION Under the Dome - S01E13 - Curtains.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E01%20-%20Heads%20Will%20Roll.mkv:Under the Dome - S02E01 - Heads Will Roll.mkv
+#DESCRIPTION Under the Dome - S02E01 - Heads Will Roll.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E02%20-%20Infestation.mkv:Under the Dome - S02E02 - Infestation.mkv
+#DESCRIPTION Under the Dome - S02E02 - Infestation.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E03%20-%20Force%20Majeure.mkv:Under the Dome - S02E03 - Force Majeure.mkv
+#DESCRIPTION Under the Dome - S02E03 - Force Majeure.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E04%20-%20Revelation.mkv:Under the Dome - S02E04 - Revelation.mkv
+#DESCRIPTION Under the Dome - S02E04 - Revelation.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E05%20-%20Reconciliation.mkv:Under the Dome - S02E05 - Reconciliation.mkv
+#DESCRIPTION Under the Dome - S02E05 - Reconciliation.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E06%20-%20In%20the%20Dark.mkv:Under the Dome - S02E06 - In the Dark.mkv
+#DESCRIPTION Under the Dome - S02E06 - In the Dark.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E07%20-%20Going%20Home.mkv:Under the Dome - S02E07 - Going Home.mkv
+#DESCRIPTION Under the Dome - S02E07 - Going Home.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E08%20-%20Awakening.mkv:Under the Dome - S02E08 - Awakening.mkv
+#DESCRIPTION Under the Dome - S02E08 - Awakening.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E09%20-%20The%20Red%20Door.mkv:Under the Dome - S02E09 - The Red Door.mkv
+#DESCRIPTION Under the Dome - S02E09 - The Red Door.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E10%20-%20The%20Fall.mkv:Under the Dome - S02E10 - The Fall.mkv
+#DESCRIPTION Under the Dome - S02E10 - The Fall.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E11%20-%20Black%20Ice.mkv:Under the Dome - S02E11 - Black Ice.mkv
+#DESCRIPTION Under the Dome - S02E11 - Black Ice.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E12%20-%20Turn.mkv:Under the Dome - S02E12 - Turn.mkv
+#DESCRIPTION Under the Dome - S02E12 - Turn.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2002%2fUnder%20the%20Dome%20-%20S02E13%20-%20Go%20Now.mkv:Under the Dome - S02E13 - Go Now.mkv
+#DESCRIPTION Under the Dome - S02E13 - Go Now.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2003%2fUnder%20the%20Dome%20-%20S03E01-E02%20-%20Move%20On%20%26%20But%20I%27m%20Not.mkv:Under the Dome - S03E01-E02 - Move On & But I'm Not.mkv
+#DESCRIPTION Under the Dome - S03E01-E02 - Move On & But I'm Not.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2003%2fUnder%20the%20Dome%20-%20S03E03%20-%20Redux.mkv:Under the Dome - S03E03 - Redux.mkv
+#DESCRIPTION Under the Dome - S03E03 - Redux.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2003%2fUnder%20the%20Dome%20-%20S03E04%20-%20The%20Kinship.mkv:Under the Dome - S03E04 - The Kinship.mkv
+#DESCRIPTION Under the Dome - S03E04 - The Kinship.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2003%2fUnder%20the%20Dome%20-%20S03E05%20-%20Alaska.mkv:Under the Dome - S03E05 - Alaska.mkv
+#DESCRIPTION Under the Dome - S03E05 - Alaska.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2003%2fUnder%20the%20Dome%20-%20S03E06%20-%20Caged.mkv:Under the Dome - S03E06 - Caged.mkv
+#DESCRIPTION Under the Dome - S03E06 - Caged.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2003%2fUnder%20the%20Dome%20-%20S03E07%20-%20Ejecta.mkv:Under the Dome - S03E07 - Ejecta.mkv
+#DESCRIPTION Under the Dome - S03E07 - Ejecta.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2003%2fUnder%20the%20Dome%20-%20S03E08%20-%20Breaking%20Point.mkv:Under the Dome - S03E08 - Breaking Point.mkv
+#DESCRIPTION Under the Dome - S03E08 - Breaking Point.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2003%2fUnder%20the%20Dome%20-%20S03E09%20-%20Plan%20B.mkv:Under the Dome - S03E09 - Plan B.mkv
+#DESCRIPTION Under the Dome - S03E09 - Plan B.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2003%2fUnder%20the%20Dome%20-%20S03E10%20-%20Legacy.mkv:Under the Dome - S03E10 - Legacy.mkv
+#DESCRIPTION Under the Dome - S03E10 - Legacy.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2003%2fUnder%20the%20Dome%20-%20S03E11%20-%20Love%20is%20a%20Battlefield.mkv:Under the Dome - S03E11 - Love is a Battlefield.mkv
+#DESCRIPTION Under the Dome - S03E11 - Love is a Battlefield.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2003%2fUnder%20the%20Dome%20-%20S03E12%20-%20Incandescence.mkv:Under the Dome - S03E12 - Incandescence.mkv
+#DESCRIPTION Under the Dome - S03E12 - Incandescence.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.147.64.113%2ftv%2fOther%2fUnder%20the%20Dome%2fSeason%2003%2fUnder%20the%20Dome%20-%20S03E13%20-%20The%20Enemy%20Within.mkv:Under the Dome - S03E13 - The Enemy Within.mkv
+#DESCRIPTION Under the Dome - S03E13 - The Enemy Within.mkv
