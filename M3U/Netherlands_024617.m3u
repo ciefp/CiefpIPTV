@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npo1.png",NPO 1 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/75413
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npo1hdnl.png",NPO 1 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/305
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npo1hdnl.png",NPO 1 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/364
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npo1extra.png",NPO 1 Extra NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4516
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npo2.png",NPO 2 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/75414
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npo2hdnl.png",NPO 2 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/304
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npo2hdnl.png",NPO 2 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/363
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npo2extra.png",NPO 2 Extra NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/41542
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npo3.png",NPO 3 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/75415
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npo3hdnl.png",NPO 3 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/303
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npo3hdnl.png",NPO 3 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/362
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtl4hdnl.png",RTL 4 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/295
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtl4hdnl.png",RTL 4 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/361
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtl5hdnl.png",RTL 5 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/294
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtl5hdnl.png",RTL 5 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/360
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/sbs6hdnl.png",SBS6 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/288
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/sbs6hdnl.png",SBS6 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/357
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtl7hdnl.png",RTL 7 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/293
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtl7hdnl.png",RTL 7 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/359
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtl8hdnl.png",RTL 8 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/292
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtl8hdnl.png",RTL 8 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/358
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/sbs9nl.png",SBS 9 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/289
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtlznl.png",RTL Z NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/290
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/veronicadisneyxdhdnl.png",Veronica / DisneyXD HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/249
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/veronicadisneyxdhdnl.png",Veronica / Disney XD FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/6513
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/net5hdnl.png",Net5 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/355
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/net5hdnl.png",NET5 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/260
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtlcrimenl.png",RTL Crime NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/297
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtlloungenl.png",RTL Lounge NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/291
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/tlcnl.png",TLC NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/286
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/tlchd.png",TLC HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/11090
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/tlchdnl.png",TLC FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/6811
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/tvoranjenl.png",TV Oranje NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/285
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/stingrayiconcertsnl.png",Stingray LiteTV NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/229
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npopolitieknl.png",NPO Politiek NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/302
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/npozappxtranl.png",NPO Best/Zapp Xtra NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/301
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/nationalgeographichdnl.png",National Geographic HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/258
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/nationalgeographichdnl.png",National Geographic FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/6849
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/natgeowildhdnl.png",Nat Geo Wild HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/257
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/natgeowildhdnl.png",Nat Geo Wild FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4393
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/babytvnl.png",Baby TV NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/247
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/babytv.png",Baby TV [Multi-Audio] NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/22363
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/nickjrnl.png",Nick Jr. NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/256
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/nicktoonsnl.png",Nick Toons NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/255
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/nickelodeonspikechannelnl.png",Nickelodeon / Spike Channel HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/251
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/cartoonnetworknl.png",Cartoon Network NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/253
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/boomerangnl.png",Boomerang NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/252
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/disneychannelnl.png",Disney Channel NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/254
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/disneyjuniornl.png",Disney Junior NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4521
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtvslingelandnl.png",Pebble HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4501
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtltelekidsnl.png",RTL Telekids NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4522
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/comedycentralnl.png",Comedy Central NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/270
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/comedycentralextranl.png",Comedy Central Extra NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/271
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/pebbletv.png",Pebble TV NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/8577
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/onsnl.png",ONS NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/296
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/foxnl.png",FOX NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/275
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/historyhd.png",History HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/265
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/historyhd.png",History FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4519
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/investigationdiscoverynl.png",Investigation Discovery NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/263
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/l1tvnl.png",L1 TV NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/268
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/vicelandhdnl.png",Viceland HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/287
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/192tvnl.png",192TV NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/230
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/24kitchennl.png",24 Kitchen NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/267
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/at5nl.png",AT5 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/283
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/animalplanetnl.png",Animal Planet NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/266
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/crimeplusinvestigationnl.png",Crime+Investigation NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/262
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/discoverychannelnl.png",Discovery Channel NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/264
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/discoverychannelhdnl.png",Discovery Channel HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/6812
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/investigationdiscoveryhdnl.png",Investigation Discovery FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/6512
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/stingraydjazzhdnl.png",Stingray Djazz FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/228
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/ducktvnl.png",Duck TV NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/248
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/enl.png",E! NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/282
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/film1actionnl.png",Film1 Action NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/280
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/film1familynl.png",Film1 Family NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/279
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/film1premierehdnl.png",Film1 Premiere HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/278
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/film1premierehdnl.png",Film1 Premiere FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/356
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/film1dramahdnl.png",Film1 Drama HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/277
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/film1familyhdnl.png",Film1 Family HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4529
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/animalplanethdnl.png",Animal Planet HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4518
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/animalplanethdnl.png",Animal Planet FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/6813
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/bbcentertainmentnl.png",BBC Entertainment NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4517
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/nickmusic.png",Nick Music NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4510
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/omroepflevolandnl.png",Omroep Flevoland NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4488
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/omropfryslannl.png",Omrop Fryslân NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4489
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtvrijnmond.png",RTV Rijnmond NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4490
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/mtvnl.png",MTV NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4527
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/mtvhdnl.png",MTV HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4526
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtvdordrechtnl.png",Out TV HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4496
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtvutrecht.png",RTV Utrecht NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4494
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/omroepbrabantnl.png",Omroep Brabant NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4507
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/omroepgelderlandnl.png",Omroep Gelderland NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4508
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/omroepzeelandnl.png",Omroep Zeeland NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4509
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/omroepzeelandhdnl.png",Omroep Zeeland HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4506
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtvdrenthenl.png",RTV Drenthe NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4511
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/rtvoostnl.png",RTV Ooost NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4512
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/salto1nl.png",Salto 1 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4514
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/klipkartvnl.png",Klipkar TV NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4515
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/slamnl.png",Slam! NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4523
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/spikenl.png",Spike NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4528
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/tv538nl.png",TV538 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4524
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-nl.png",ESPN 1 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/244
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-nl.png",ESPN 1 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/354
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-2-nl.png",ESPN 2 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/12632
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-2-nl.png",ESPN 2 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/12633
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-3-nl.png",ESPN 3 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/242
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-3-nl.png",ESPN 3 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/6510
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-4-nl.png",ESPN 4 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/241
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-nl.png?raw=true",Ziggo Sport 1 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130190
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-2-nl.png?raw=true",Ziggo Sport 2 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130191
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-3-nl.png?raw=true",Ziggo Sport 3 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130192
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-4-nl.png?raw=true",Ziggo Sport 4 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130193
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-5-nl.png?raw=true",Ziggo Sport 5 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130194
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-6-nl.png?raw=true",Ziggo Sport 6 HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130195
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/ziggosportextra1nl.png",Ziggo Sport Extra 1 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/238
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/ziggosportextra2nl.png",Ziggo Sport Extra 2 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/237
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/ziggosportgolfnl.png",Ziggo Sport Golf NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/236
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/ziggosportracingnl.png",Ziggo Sport Racing NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/235
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/ziggosportselectnl.png",Ziggo Sport Select NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/6112
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/ziggosportselecthdnl.png",Ziggo Sport Select HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/234
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/ziggosportselecthdnl.png",Ziggo Sport Select FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/6514
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/ziggosportvoetbalnl.png",Ziggo Sport Voetbal NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/233
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/eurosport1hdnl.png",Eurosport 1 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/246
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/eurosport2nl.png",Eurosport 2 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/245
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/extremesportsnl.png",Extreme Sports NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/232
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/edgesporthdnl.png",EDGE Sport HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/4531
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/family7.png",Family7 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/40216
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/denhaagfmtv.png",Den Haag FM TV HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/41480
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/npo-nieuws-nl.png",NPO Nieuws NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/78591
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/dance-television-nl.png",DANCE TRIPPIN FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/80956
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/bbc-first-nl.png",BBC First HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/82811
+#EXTINF:-1 group-title="Netherlands",RTV Noord FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/104709
+#EXTINF:-1 group-title="Netherlands" tvg-logo="http://tugapt.com/picons/filmeuropehd.png",Film Europe HD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/83205
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true",Max Events 1 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130196
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true",Max Events 2 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130197
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true",Max Events 3 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130198
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true",Max Events 4 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130199
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true",Max Events 5 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130200
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true",Max Events 6 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130201
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true",Max Events 7 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130202
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true",Max Events 8 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130203
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true",Max Events 9 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130204
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true",Max Events 10 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/130205
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 1 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105377
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 2 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105376
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 3 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105375
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 4 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105374
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 5 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105373
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 6 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105372
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 7 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105371
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 8 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105370
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 9 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105369
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 10 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105368
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 11 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105367
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 12 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105366
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 13 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105365
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 14 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105364
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 15 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105363
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 16 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105362
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 17 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105361
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 18 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105360
+#EXTINF:-1 group-title="Netherlands",ViaPlay Xtra 19 NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105359
+#EXTINF:-1 group-title="Netherlands",DAZN 1 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105358
+#EXTINF:-1 group-title="Netherlands",DAZN 2 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105357
+#EXTINF:-1 group-title="Netherlands",DAZN 3 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105356
+#EXTINF:-1 group-title="Netherlands",DAZN 4 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105355
+#EXTINF:-1 group-title="Netherlands",DAZN 5 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105354
+#EXTINF:-1 group-title="Netherlands",ESPN Play 1 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105353
+#EXTINF:-1 group-title="Netherlands",ESPN Play 2 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105352
+#EXTINF:-1 group-title="Netherlands",ESPN Play 3 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105351
+#EXTINF:-1 group-title="Netherlands",ESPN Play 4 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105350
+#EXTINF:-1 group-title="Netherlands",ESPN Play 5 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105349
+#EXTINF:-1 group-title="Netherlands",ESPN Play 6 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105348
+#EXTINF:-1 group-title="Netherlands",ESPN Play 7 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105347
+#EXTINF:-1 group-title="Netherlands",ESPN Play 8 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105346
+#EXTINF:-1 group-title="Netherlands",ESPN Play 9 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105345
+#EXTINF:-1 group-title="Netherlands",ESPN Play 10 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105344
+#EXTINF:-1 group-title="Netherlands",ESPN Play 11 FHD NL
+http://skytv4k.org:8080/MartaZbicinskaMAMA/QqEUyJx1pn/105343
